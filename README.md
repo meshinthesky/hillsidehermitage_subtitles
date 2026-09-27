@@ -19,14 +19,14 @@ It'd be good if you could fix some dhamma talk:
 
 ### fix a subtitle
 
-1. check that such dhamma talk is not being fixed by someone else, i.e.: there's not an open issue with `dhamma_talk_id.srt` (i.e.: `ah01.srt` or `3KoITf0utnI.srt`
+1. check that such dhamma talk is not being fixed by someone else, i.e.: there's not an open issue with `dhamma_talk_id.srt` (i.e.: `a01hh.srt` or `3KoITf0utnI.srt`
 2. open an issue `dhamma_talk_id.srt` 
 3. I'd recommend to use `whisperx` subtitles as base to work with, as usually are pretty accurate, and fix them.
   For a few Samaṇadīpa dhamma talks there are subtitles uploaded by the user, which it seems they are already good, check then `youtube_subs_manual/sd`. In such case, it would be good if you could add the speaker tags.
   One can use `aegisubs`, `Subtitle Edit`, or similar tools. It seems there's also some online sites that let you do this, such as `amara.org`, `www.captionfy.com`, or similar.
   If there are some words that you are not sure, wrote them like this: `[?some guessed words]` to indicate that such is a guess. If there are some words that are not intelligible at all wrote them like this: `[??]`.
   If there are some interventions where you cannot identify the speaker, wrote them like this `[??]: `
-4. Once you have fixed it, add a new message in the issue, uploading the srt file.
+4. Once you have fixed it, add a new message in the issue, uploading the srt file by attaching with a `.txt` extension (i.e.: `a01hh.srt.txt`).
   If possible in such message add a list of tags for such video
 
 ### verify a subtitle
