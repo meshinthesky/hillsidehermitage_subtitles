@@ -1,0 +1,2828 @@
+1
+00:00:06,473 --> 00:00:15,319
+[SPEAKER_00]: So, the Buddha mentions the word samādhi, which is generally translated as concentration, or something like that.
+
+2
+00:00:15,940 --> 00:00:26,527
+[SPEAKER_00]: Do you think that's a mostly adequate word to translate it, or do you think there's something more appropriate that kind of describes the Pali word samādhi?
+
+3
+00:00:28,368 --> 00:00:34,793
+[SPEAKER_01]: The... well, there's nothing wrong with a term concentration.
+
+4
+00:00:35,872 --> 00:00:36,452
+[SPEAKER_01]: In itself.
+
+5
+00:00:36,833 --> 00:01:01,306
+[SPEAKER_01]: But the problem today is, due to many popularized meditation techniques and the contemporary take on the whole meditation practice, usually concentration ends up misrepresenting what was meant by samādhi and certainly prevents people from correctly doing it very often.
+
+6
+00:01:02,346 --> 00:01:03,527
+[SPEAKER_01]: So, the better word
+
+7
+00:01:05,918 --> 00:01:08,039
+[SPEAKER_01]: For samādhi would be a composure.
+
+8
+00:01:09,679 --> 00:01:18,682
+[SPEAKER_01]: Because the whole notion of samādhi, samādhi in itself means keeping things together, binding together.
+
+9
+00:01:18,762 --> 00:01:29,166
+[SPEAKER_01]: And, yeah, you can say concentration means you bring something together, but it has much more narrower connotations than if you would say composure.
+
+10
+00:01:29,966 --> 00:01:33,847
+[SPEAKER_01]: Something that you have to compose and then maintain.
+
+11
+00:01:34,257 --> 00:01:43,219
+[SPEAKER_01]: Maintain that composition that that takes takes different type of effort than the effort of focusing and effort of concentration.
+
+12
+00:01:44,780 --> 00:01:50,201
+[SPEAKER_01]: So, and also, concentration can can kind of indicate for people you concentrate on something, so you switch everything else out.
+
+13
+00:01:50,861 --> 00:01:56,202
+[SPEAKER_01]: But it's more like you compose yourself above everything else altogether.
+
+14
+00:01:56,282 --> 00:01:58,023
+[SPEAKER_01]: So that nothing can bother you in that sense.
+
+15
+00:01:58,163 --> 00:02:02,124
+[SPEAKER_01]: Not because you shut it all out, but because you you have gone beyond it.
+
+16
+00:02:04,257 --> 00:02:13,807
+[SPEAKER_00]: So, when people usually, from a commentarial point of view, talk about samādhi, it generally brings up this idea of a meditation object.
+
+17
+00:02:14,664 --> 00:02:32,173
+[SPEAKER_00]: The Visuddhimagga, for example, lists 40 so-called objects ranging from casinos to various recollections of the triple gem and so on and so forth, that one becomes absorbed in and focuses on as much as possible.
+
+18
+00:02:32,873 --> 00:02:40,577
+[SPEAKER_00]: And, you know, the common technique is that you lose your focus and then you bring yourself back to the meditation object.
+
+19
+00:02:41,192 --> 00:02:47,616
+[SPEAKER_00]: Is there any validity in that practice, or are you saying that it's kind of fundamentally misguided?
+
+20
+00:02:47,996 --> 00:02:52,839
+[SPEAKER_01]: It's a completely wrong direction to go by, if you want to develop your mind.
+
+21
+00:02:53,579 --> 00:03:06,287
+[SPEAKER_01]: If you want to practice concentration, in a sense of concentration, that's fine, but the type of composure that the Buddha was encouraging and talking about is the one that's founded upon mindfulness.
+
+22
+00:03:07,358 --> 00:03:23,550
+[SPEAKER_01]: And usually, if people do concentration practice, samādhi practice, in terms of focusing, it requires you to focus on the particular, as in the object of your meditation, and you keep trying to observe it as closely as possible.
+
+23
+00:03:23,610 --> 00:03:34,057
+[SPEAKER_01]: And that will inevitably, has to, that inevitably has to result in in losing the sight of the general awareness in regard to what you were doing, which is focusing on a particular object.
+
+24
+00:03:34,673 --> 00:03:38,876
+[SPEAKER_01]: So, what I'm saying is that if you are chasing the object, you cannot be mindful of doing that.
+
+25
+00:03:39,897 --> 00:03:55,008
+[SPEAKER_01]: While if you start looking at the nature of object, the background of the arisen particular experience, you are actually playing along the basis of mindfulness that the Buddha did say you can't have too much of, and it's a good thing to develop.
+
+26
+00:03:58,010 --> 00:04:01,553
+[SPEAKER_00]: So, it seems almost like the... almost an opposite of absorption.
+
+27
+00:04:03,581 --> 00:04:08,905
+[SPEAKER_01]: Yeah, I mean, again, you can say absorption, but it's not absorption in one point that shuts everything else out.
+
+28
+00:04:09,325 --> 00:04:12,828
+[SPEAKER_01]: It's absorption in the more general point that includes everything else in.
+
+29
+00:04:13,689 --> 00:04:25,118
+[SPEAKER_01]: That's why the Buddha gave such similes like a gatekeeper or a man who is too old to... who needs to look after the children, but he's too old to chase them individually.
+
+30
+00:04:25,198 --> 00:04:28,501
+[SPEAKER_01]: If he chases one child, he loses sight of all the other children in the yard.
+
+31
+00:04:29,436 --> 00:04:35,358
+[SPEAKER_01]: So, what you do, you find a place from which you can see them all at the same time.
+
+32
+00:04:35,418 --> 00:04:39,260
+[SPEAKER_01]: Not to the same extent, but at the same time.
+
+33
+00:04:41,561 --> 00:04:43,542
+[SPEAKER_01]: In the same sense that a gatekeeper would know.
+
+34
+00:04:43,642 --> 00:04:48,904
+[SPEAKER_01]: He wouldn't chase people who come through the gate into the fenced-off area.
+
+35
+00:04:49,884 --> 00:04:50,545
+[SPEAKER_01]: Because he knows.
+
+36
+00:04:50,585 --> 00:04:51,405
+[SPEAKER_01]: I don't need to chase them.
+
+37
+00:04:51,545 --> 00:04:53,746
+[SPEAKER_01]: I know that they're inside and that's all I need to know.
+
+38
+00:04:55,244 --> 00:05:06,189
+[SPEAKER_01]: That's why any practice of mindfulness that results in the correct practice of composure, the Buddha would say, he knows there is a pleasant feeling present... pleasant feeling... pleasant feeling present as pleasant.
+
+39
+00:05:06,449 --> 00:05:08,410
+[SPEAKER_01]: So, you know, oh, there's a pleasant feeling.
+
+40
+00:05:08,470 --> 00:05:10,911
+[SPEAKER_01]: Or, oh, there is an unpleasant feeling.
+
+41
+00:05:10,931 --> 00:05:11,832
+[SPEAKER_01]: There's a neutral feeling.
+
+42
+00:05:12,392 --> 00:05:13,953
+[SPEAKER_01]: Or, there is a depressed mind present.
+
+43
+00:05:14,233 --> 00:05:15,634
+[SPEAKER_01]: Or, there is a latent mind present.
+
+44
+00:05:16,534 --> 00:05:23,137
+[SPEAKER_01]: All of that results in complete fulfillment of the satipaṭṭhāna, which results in fulfillment of samādhi as well.
+
+45
+00:05:23,898 --> 00:05:24,698
+[SPEAKER_01]: So, eh...
+
+46
+00:05:27,533 --> 00:05:40,740
+[SPEAKER_01]: It's quite the opposite, then, if you were to say, oh, there is an elated mind present in regard to this experience, or that experience, or why is it elated, because of this is elated, and what did that result in, and what did it bring to be, and so on.
+
+47
+00:05:41,340 --> 00:05:46,422
+[SPEAKER_01]: It's actually, you stop being concerned with a particular content, and you just look at the general nature of it.
+
+48
+00:05:47,263 --> 00:05:48,744
+[SPEAKER_01]: And that's the beginning of samādhi.
+
+49
+00:05:49,484 --> 00:05:55,507
+[SPEAKER_01]: So, whether you're sitting cross-legged, whether you're doing walking meditation, whether you're standing or laying down,
+
+50
+00:05:56,762 --> 00:06:02,325
+[SPEAKER_01]: Mindfulness and samādhi, basically, are inseparable, if done rightly.
+
+51
+00:06:02,485 --> 00:06:07,687
+[SPEAKER_01]: And there's certainly mindfulness... Unwavering mindfulness is what your samādhi becomes.
+
+52
+00:06:09,167 --> 00:06:15,250
+[SPEAKER_01]: So, it's not that you must focus on something else, that will then result in your samādhi, and then you go back to practice your mindfulness.
+
+53
+00:06:15,950 --> 00:06:18,171
+[SPEAKER_01]: Mindfulness, when developed, that's what samādhi is.
+
+54
+00:06:18,892 --> 00:06:24,454
+[SPEAKER_01]: And that's why, with that kind of general knowledge of the nature thing, of the nature that is present, in regard to any particular thing,
+
+55
+00:06:24,922 --> 00:06:26,543
+[SPEAKER_01]: That's exactly how you develop vipassana.
+
+56
+00:06:27,123 --> 00:06:29,965
+[SPEAKER_01]: That's why samatha and vipassana go hand in hand.
+
+57
+00:06:30,005 --> 00:06:32,587
+[SPEAKER_01]: You cannot possibly separate them.
+
+58
+00:06:32,627 --> 00:06:43,794
+[SPEAKER_01]: By having the correct samatha, correct ins... correct calmness in regard to that composure, means the clarity of the nature of things is present, because you're not absorbed, you're not pulled by the content.
+
+59
+00:06:45,635 --> 00:06:48,978
+[SPEAKER_01]: So you... so your insight in regard to that nature is being developed.
+
+60
+00:06:49,863 --> 00:06:50,663
+[SPEAKER_01]: Through that samatha.
+
+61
+00:06:51,223 --> 00:07:01,705
+[SPEAKER_01]: And, and equally, if you, if you focus on the insight of the nature of the things, well, in order, well, knowing and discerning that nature means you're composing the right mindfulness right there and then.
+
+62
+00:07:02,825 --> 00:07:08,627
+[SPEAKER_01]: So, again, then samādhi and your samatha gets developed through your vipassana, in the correct sense of that word.
+
+63
+00:07:10,647 --> 00:07:15,768
+[SPEAKER_00]: Typically, there's also this idea given of, like,
+
+64
+00:07:16,492 --> 00:07:20,915
+[SPEAKER_00]: So-called stages or steps of samādhi.
+
+65
+00:07:20,935 --> 00:07:30,181
+[SPEAKER_00]: The commentaries mention things like access concentration preceding jhāna, momentary concentration, things like that.
+
+66
+00:07:30,201 --> 00:07:44,371
+[SPEAKER_00]: So, I mean, we don't have to go into those specifically unless you want to, but in terms of, I guess, is there a way to kind of quantify, like, more or less samādhi, or is that kind of misguided to start measuring to begin with?
+
+67
+00:07:45,723 --> 00:07:55,187
+[SPEAKER_01]: Yeah, you can't measure it, because it would require you to step outside of yourself and somehow magically measure the extent of your concentration, which is, well, inconceivable.
+
+68
+00:07:56,068 --> 00:07:58,729
+[SPEAKER_01]: And then, secondly, you never find any of that stuff in the suttas.
+
+69
+00:08:00,710 --> 00:08:14,856
+[SPEAKER_01]: When the Buddha did talk about meditation, he was always in... well, he was in very different terms than the terms that came later with the commentarial in a kind of contemporary Buddhist technique meditation, where you're catching the moments, observing them.
+
+70
+00:08:15,676 --> 00:08:23,281
+[SPEAKER_01]: Trying to... trying to, sort of, eh... get the right pure perception that will, sort of, tell you the truth behind the appearances and so on.
+
+71
+00:08:24,242 --> 00:08:34,069
+[SPEAKER_01]: All of that, I think, we covered that in other talks, but all of that, kind of, assumes you, eh... well, not being aware of yourself to begin with, which means you're not mindful of the general background.
+
+72
+00:08:34,589 --> 00:08:41,414
+[SPEAKER_01]: And then, secondary, also, eh... it is all very often founded upon the external view of yourself.
+
+73
+00:08:42,767 --> 00:08:51,870
+[SPEAKER_01]: As if you can observe the pure moment, for example, that's independent of your experience as a whole, that would require you to somehow step outside of it, and that's just inconceivable.
+
+74
+00:08:52,210 --> 00:09:00,213
+[SPEAKER_01]: It's conceivable only in the in the in the form of wrong conception, which is why it's a wrong view.
+
+75
+00:09:00,233 --> 00:09:12,177
+[SPEAKER_00]: Now, that leads to also, obviously, the Buddha distinguishes, we could say, between a wrong samādhi and a right samādhi, so far as there is a wrong eightfold path and a right eightfold path.
+
+76
+00:09:13,115 --> 00:09:18,519
+[SPEAKER_00]: So, what is it specifically that makes one's samādhi right, as opposed to not?
+
+77
+00:09:18,639 --> 00:09:20,421
+[SPEAKER_00]: It's that direction that I'm talking about.
+
+78
+00:09:21,001 --> 00:09:28,647
+[SPEAKER_01]: If your samādhi is concerned with composing the nature of things to be present and endured in your experience, that's the right samādhi, or samādhi along the right lines.
+
+79
+00:09:29,347 --> 00:09:35,152
+[SPEAKER_01]: If your composure, concentration, is concerned around focusing on the particular, or whatever it's in front of you, and then within
+
+80
+00:09:35,852 --> 00:09:46,977
+[SPEAKER_01]: Further particular, within that particular, within that particular, you're basically like preying upon something, you're hunting down the moment, chasing it, catching it, trying to see it in its arising, and that's a completely wrong direction.
+
+81
+00:09:47,577 --> 00:10:00,403
+[SPEAKER_01]: That's why the Buddha did say, gave that comparison, like, when a person doesn't know how to meditate rightly, he mis-meditates, pre-meditates, under-meditates, over-meditates, so to speak.
+
+82
+00:10:00,423 --> 00:10:01,344
+[SPEAKER_01]: He cannot meditate.
+
+83
+00:10:01,904 --> 00:10:03,084
+[SPEAKER_01]: And then he says it's like an owl
+
+84
+00:10:05,047 --> 00:10:12,130
+[SPEAKER_01]: Praying upon, waiting for a mouse to show its head, so it can grab it, so it can catch it, so it can witness it, whatever you want to call it.
+
+85
+00:10:12,471 --> 00:10:13,771
+[SPEAKER_01]: But the attitude is the same.
+
+86
+00:10:13,931 --> 00:10:16,573
+[SPEAKER_01]: Or like a cat catching a fish or something like that.
+
+87
+00:10:16,593 --> 00:10:18,333
+[SPEAKER_01]: So, ends up...
+
+88
+00:10:18,373 --> 00:10:28,058
+[SPEAKER_01]: If your meditation ends up being about trying to perceive things in that sort of hunting manner,
+
+89
+00:10:28,577 --> 00:10:30,178
+[SPEAKER_01]: Like you're trying to catch it, you're trying...
+
+90
+00:10:30,218 --> 00:10:33,559
+[SPEAKER_01]: I must not miss, I must not blink, because the moment will slip me.
+
+91
+00:10:34,099 --> 00:10:37,240
+[SPEAKER_01]: I must catch every moment as it arises.
+
+92
+00:10:37,260 --> 00:10:42,322
+[SPEAKER_01]: That's why the Buddha did compare that, same thing, to actually an animal hunting its prey.
+
+93
+00:10:43,503 --> 00:10:48,665
+[SPEAKER_01]: And because of that, he said, that person who meditates like that, he meditates with centrality.
+
+94
+00:10:49,185 --> 00:10:49,345
+[SPEAKER_01]: Why?
+
+95
+00:10:49,385 --> 00:10:51,746
+[SPEAKER_01]: Because it's fully based upon the domain of the senses.
+
+96
+00:10:52,546 --> 00:10:54,167
+[SPEAKER_01]: So that's why that samādhi is wrong.
+
+97
+00:10:55,507 --> 00:10:56,868
+[SPEAKER_01]: As I was explaining in another talk,
+
+98
+00:10:58,297 --> 00:11:02,440
+[SPEAKER_01]: People often, sort of, will disagree with it, because, well, I find it helpful.
+
+99
+00:11:03,181 --> 00:11:10,546
+[SPEAKER_01]: But, first of all, unless a person is already Sotāpanna, you don't know what true helpfulness is.
+
+100
+00:11:12,308 --> 00:11:21,194
+[SPEAKER_01]: So, nobody's denying the relative benefit, but I'm highlighting the fact that it can only be a relative benefit, in a sense of it's a circumstantial benefit.
+
+101
+00:11:22,135 --> 00:11:27,199
+[SPEAKER_01]: The focusing practice can only have a circumstantial benefit to one's peace of mind.
+
+102
+00:11:28,352 --> 00:11:39,179
+[SPEAKER_01]: If one is looking for a long-term solution, needs to go the other direction, direction that includes the nature of the arisen phenomena, the nature of the arisen experience, which is where the nature of unwholesome is.
+
+103
+00:11:40,140 --> 00:11:52,148
+[SPEAKER_01]: So, becoming skilled in seeing things in that general manner, seeing the background behind the particular appearance, that is simultaneously present with it, that's how you develop the understanding of the nature of whatever's present in front of you.
+
+104
+00:11:53,649 --> 00:11:56,051
+[SPEAKER_00]: So, related to that, here is a...
+
+105
+00:11:57,156 --> 00:11:59,617
+[SPEAKER_00]: A sutta from the Anguttara Nikaya.
+
+106
+00:12:00,537 --> 00:12:03,058
+[SPEAKER_00]: It's called the Saddha Sutta.
+
+107
+00:12:05,079 --> 00:12:09,560
+[SPEAKER_00]: And the Buddha is giving these instructions to a venerable Saddha.
+
+108
+00:12:10,200 --> 00:12:15,242
+[SPEAKER_00]: He says, meditate like a thoroughbred horse, not like an inferior horse.
+
+109
+00:12:16,142 --> 00:12:18,503
+[SPEAKER_00]: How does one meditate like an inferior horse?
+
+110
+00:12:19,443 --> 00:12:24,925
+[SPEAKER_00]: When an inferior horse is tied up to the feeding trowel, he meditates, hey, hey.
+
+111
+00:12:25,561 --> 00:12:27,363
+[SPEAKER_00]: Like h-a-y-a.
+
+112
+00:12:28,203 --> 00:12:28,924
+[SPEAKER_00]: For what reason?
+
+113
+00:12:29,304 --> 00:12:37,191
+[SPEAKER_00]: Because when an inferior horse is tied up to the feeding trowel, he does not ask himself, what will the horse trainer make me do today?
+
+114
+00:12:37,591 --> 00:12:39,392
+[SPEAKER_00]: How will I respond?
+
+115
+00:12:39,452 --> 00:12:42,255
+[SPEAKER_00]: Tied up to the feeding trowel, he meditates, hey, hey.
+
+116
+00:12:43,075 --> 00:12:49,681
+[SPEAKER_00]: In the same way, sadhā, a certain inferior man, having gone to the forest, the root of a tree, an empty dwelling,
+
+117
+00:12:50,317 --> 00:12:53,539
+[SPEAKER_00]: In this way, sadhā, one is a man who meditates like an inferior horse.
+
+118
+00:13:18,539 --> 00:13:20,661
+[SPEAKER_01]: Yeah, that's exactly, exactly what I've been saying now.
+
+119
+00:13:21,041 --> 00:13:21,802
+[SPEAKER_01]: That's like...
+
+120
+00:13:22,482 --> 00:13:28,387
+[SPEAKER_01]: In the case of a horse who is not an inferior horse, he wouldn't just look at what's right in front of him, which is hay, hay.
+
+121
+00:13:29,027 --> 00:13:31,149
+[SPEAKER_01]: He would think, what's implied in this?
+
+122
+00:13:32,149 --> 00:13:35,612
+[SPEAKER_01]: What will the horse trainer make me do today?
+
+123
+00:13:35,732 --> 00:13:39,215
+[SPEAKER_01]: Yeah, he brought this hay for me, but that means something.
+
+124
+00:13:40,280 --> 00:13:43,501
+[SPEAKER_01]: What is the background of this presently arisen experience for me?
+
+125
+00:13:43,941 --> 00:13:45,982
+[SPEAKER_01]: He's not just concentrating on what he wants.
+
+126
+00:13:46,422 --> 00:14:00,668
+[SPEAKER_01]: And often, that's why often people approach, they have like a, they have a wholesome motivation, they have a right motivation, but they end up approaching meditation just to pure sensuality, just to trying, trying to get rid of the unpleasant
+
+127
+00:14:01,259 --> 00:14:14,686
+[SPEAKER_01]: Feeling or the or the possibility of unpleasant feeling arising, just through sheer sort of replacement with a good feeling, that I can keep on, I can actually just maintain it forever, and I'll never experience any lack of peace or discomfort.
+
+128
+00:14:15,627 --> 00:14:26,573
+[SPEAKER_01]: But the true peace and freedom from discomfort comes from understanding the nature of the nature of feelings, all the feelings, not just replacing one with the other.
+
+129
+00:14:27,041 --> 00:14:36,605
+[SPEAKER_01]: That's what people would go through, like often, through different ājāns and different techniques and different retreats, just trying to rekindle different novelty, different sort of scenarios.
+
+130
+00:14:37,245 --> 00:14:42,707
+[SPEAKER_01]: They will, they will be able to replace their unpleasant existential feelings.
+
+131
+00:14:43,427 --> 00:14:50,610
+[SPEAKER_01]: Or they have to keep reintensifying their, their, their focusing practices and so on, which then obviously results in some other drawbacks.
+
+132
+00:14:52,233 --> 00:14:55,436
+[SPEAKER_01]: So, so, as that sutta says, you actually reflect.
+
+133
+00:14:55,976 --> 00:15:05,763
+[SPEAKER_01]: Even in samādhi, the whole point of it is to see a bigger picture, not to be absorbed and concentrated upon right, like, right what's in front of your nose.
+
+134
+00:15:07,224 --> 00:15:11,908
+[SPEAKER_00]: So, generally, when the Buddha talks about samādhi, it always seems to be in the context of a
+
+135
+00:15:12,488 --> 00:15:14,269
+[SPEAKER_00]: A path, like a gradual path.
+
+136
+00:15:14,329 --> 00:15:38,963
+[SPEAKER_00]: Like, obviously, there's a Noble Eightfold Path, and there's a number of suttas, such as Majjhima Nikāya 39, the Greater Discourse at Asapura, that gives, like, a gradual training that starts with things like purifying one's conduct and leads one all the way to, you know, final nibbāna, leading through the hindrances and jhānas.
+
+137
+00:15:38,983 --> 00:15:41,485
+[SPEAKER_00]: So, I won't read the whole sutta,
+
+138
+00:15:41,905 --> 00:15:44,087
+[SPEAKER_00]: But just generally give the outline.
+
+139
+00:15:44,547 --> 00:16:05,163
+[SPEAKER_00]: It starts with telling one to develop shame and fear of wrongdoing, to restrain one's bodily conduct, restrain one's verbal conduct, restrain one's mental conduct, practice restraint of the senses, moderation of eating, wakefulness, mindfulness and full awareness.
+
+140
+00:16:05,703 --> 00:16:10,507
+[SPEAKER_01]: So, see, all of those things, so I can just interject, is what's prepping you
+
+141
+00:16:11,895 --> 00:16:16,196
+[SPEAKER_01]: for becoming more accustomed to dealing and seeing the background.
+
+142
+00:16:17,477 --> 00:16:25,439
+[SPEAKER_01]: Because a non-restrained person is the person who goes with a with a particular content of their experience, which is a definition of sensuality.
+
+143
+00:16:26,279 --> 00:16:36,082
+[SPEAKER_01]: And so, even if you become restrained beforehand, your views are still pertaining to the sensual domain, which is how people often end up expecting to perceive
+
+144
+00:16:36,827 --> 00:16:39,367
+[SPEAKER_01]: The right moment and the moment of meditation and so on.
+
+145
+00:16:40,148 --> 00:16:59,171
+[SPEAKER_01]: So, that's why all of this is a necessary prerequisite, because just by engaging in restraint, mindfulness, wakefulness, verbal restraint, mental restraint as well, you are actually stepping back into that more general picture and refusing to be pulled and fully absorbed by the content.
+
+146
+00:17:00,451 --> 00:17:02,992
+[SPEAKER_01]: And then, samādhi should just be the extension of that.
+
+147
+00:17:04,100 --> 00:17:08,622
+[SPEAKER_01]: Which is why it's a prerequisite for samādhi, not for something else.
+
+148
+00:17:08,642 --> 00:17:18,327
+[SPEAKER_01]: But what most people end up doing is being very virtuous, very restrained, but when it comes to samādhi, they go back into same type of focusing, just a different object.
+
+149
+00:17:20,748 --> 00:17:24,010
+[SPEAKER_01]: But the attitude of you staring at the object stays the same.
+
+150
+00:17:24,646 --> 00:17:35,935
+[SPEAKER_01]: Even if that object tries to be a lofty general background or some some some generic idea or like a earth element or casino, you're doing it in a central manner through trying to perceive it and focus on it.
+
+151
+00:17:36,075 --> 00:17:37,196
+[SPEAKER_01]: You're not stepping into it.
+
+152
+00:17:37,596 --> 00:17:41,079
+[SPEAKER_01]: You're actually trying to absorb yourself into what you think it is.
+
+153
+00:17:43,260 --> 00:17:45,242
+[SPEAKER_01]: Which is why it's also inseparable from the view.
+
+154
+00:17:46,095 --> 00:17:49,217
+[SPEAKER_01]: So, if you think it's a wrong thing, means your meditation will be wrong.
+
+155
+00:17:49,237 --> 00:17:55,680
+[SPEAKER_01]: Sorry, if you think it's a thing that actually it isn't, your meditation will be wrong, because you think it wrongly.
+
+156
+00:17:55,800 --> 00:18:00,243
+[SPEAKER_01]: You think this is what samādhi is, this is what composure is, but it isn't.
+
+157
+00:18:01,103 --> 00:18:04,005
+[SPEAKER_01]: And because of that, all of your efforts will be equally wrong.
+
+158
+00:18:06,366 --> 00:18:10,709
+[SPEAKER_00]: So, it sounds like if you understand what it means to be
+
+159
+00:18:15,811 --> 00:18:22,615
+[SPEAKER_01]: Well, understanding what it means to be restrained, understanding the place of restraint, it's already the beginning of samādhi, the beginning of composure.
+
+160
+00:18:23,115 --> 00:18:23,896
+[SPEAKER_01]: That's what Buddha was saying.
+
+161
+00:18:23,976 --> 00:18:30,180
+[SPEAKER_01]: Once the skilled monk would establish his mind, and then he said, like even in the first jhāna,
+
+162
+00:18:31,155 --> 00:18:42,439
+[SPEAKER_01]: He said, whether he walks, sits down, eats, urinates or defecates, whatever he does, it's divine, because his mind is in such a lofty established state.
+
+163
+00:18:43,319 --> 00:18:47,260
+[SPEAKER_01]: But you can't do that if you're just focused on one thing and you forget about yourself entirely.
+
+164
+00:18:48,381 --> 00:18:52,542
+[SPEAKER_01]: Now, of course, you can get so established to the point of cessation of perception and feeling.
+
+165
+00:18:53,082 --> 00:19:00,165
+[SPEAKER_01]: But again, that's the ultimate point that includes everything else that can ever arise, ever has arisen, ever will arise.
+
+166
+00:19:01,050 --> 00:19:13,139
+[SPEAKER_01]: In this world, the ultimate nature of everything is perception and feeling, which is what determines your experience in the most general manner of your mind.
+
+167
+00:19:14,300 --> 00:19:27,890
+[SPEAKER_01]: So, that's why whenever they would progress through these different establishments, higher establishments of the mind, in terms of the jhānas and so on, then the infinite space, they would come down to perception and feeling, and then, oh, there is no higher than this.
+
+168
+00:19:27,910 --> 00:19:30,412
+[SPEAKER_01]: Literally, that is surmounting the phenomenological
+
+169
+00:19:32,479 --> 00:19:35,560
+[SPEAKER_01]: World, basically, in every shape or form, it doesn't matter.
+
+170
+00:19:37,401 --> 00:19:40,123
+[SPEAKER_01]: So, it's in a sense of the utmost general thing.
+
+171
+00:19:40,523 --> 00:19:42,024
+[SPEAKER_01]: It's to be felt and to be perceived.
+
+172
+00:19:42,664 --> 00:19:43,705
+[SPEAKER_01]: Otherwise, it doesn't exist.
+
+173
+00:19:44,645 --> 00:19:50,208
+[SPEAKER_01]: See, when people think about things that they haven't perceived or felt, well, their thoughts are being felt and perceived.
+
+174
+00:19:50,228 --> 00:19:53,950
+[SPEAKER_01]: Which means, ultimately, if you come to the root of the experience, is the perception and the feeling.
+
+175
+00:19:54,390 --> 00:19:57,692
+[SPEAKER_01]: Which is why the Buddha said, the mind is the forerunner of all things.
+
+176
+00:19:59,566 --> 00:20:06,989
+[SPEAKER_01]: It determines, basically, the direction of your thought, and whether you're going to be aware of the nature in regard to it, or just be focused on the particular.
+
+177
+00:20:09,010 --> 00:20:13,411
+[SPEAKER_00]: So, from there, the sutta talks about abandoning the five hindrances.
+
+178
+00:20:14,472 --> 00:20:27,296
+[SPEAKER_00]: Those are covetousness, or sensuality, ill-will, sloth and torpor, restlessness, remorse, and doubt, as they're generally translated.
+
+179
+00:20:28,397 --> 00:20:28,957
+[SPEAKER_00]: And, eh...
+
+180
+00:20:29,909 --> 00:20:32,651
+[SPEAKER_00]: The Buddha gives various similes about that too.
+
+181
+00:20:33,292 --> 00:20:35,013
+[SPEAKER_00]: Like he says, eh...
+
+182
+00:20:36,775 --> 00:20:47,844
+[SPEAKER_00]: Suppose a man were to take a loan and undertake business, and his business were to succeed, so that he could repay all the money of the old loan, and there would remain enough extra to maintain a wife.
+
+183
+00:20:48,524 --> 00:20:52,027
+[SPEAKER_00]: Then, on considering this, he would be glad and full of joy.
+
+184
+00:20:53,088 --> 00:20:53,268
+[SPEAKER_00]: Eh...
+
+185
+00:20:54,065 --> 00:21:04,774
+[SPEAKER_00]: So, too, when these five hindrances are unabandoned in himself, the bhikkhu sees them respectively as a debt and so on with the other similes.
+
+186
+00:21:05,815 --> 00:21:19,266
+[SPEAKER_00]: So, these hindrances... Can you just kind of start by saying, just to like... What are they hindering exactly?
+
+187
+00:21:19,286 --> 00:21:20,227
+[SPEAKER_00]: What makes them hindering?
+
+188
+00:21:20,247 --> 00:21:23,089
+[SPEAKER_01]: Well, they hinder the establishment of the mind.
+
+189
+00:21:24,335 --> 00:21:34,019
+[SPEAKER_01]: On that general nature of things, they sort of narrow you down, they hinder you, they sort of bring you down into that more particular direction.
+
+190
+00:21:34,659 --> 00:21:40,002
+[SPEAKER_01]: Obviously, more of a hindrance means more of a binding for your mind.
+
+191
+00:21:40,062 --> 00:21:43,463
+[SPEAKER_01]: It is more of that kind of tunnel vision towards one particular content.
+
+192
+00:21:45,544 --> 00:21:49,886
+[SPEAKER_01]: You can have weakened hindrances, in which case the mind would still be able to
+
+193
+00:21:55,697 --> 00:22:08,650
+[SPEAKER_01]: The hindrances can be weakened as well, in which case the mind can still be aware of the general background and have like a degree of the pull of those hindrances in terms of degree of the clouding, so to speak.
+
+194
+00:22:09,451 --> 00:22:11,533
+[SPEAKER_01]: Once the mind is free from hindrances...
+
+195
+00:22:13,795 --> 00:22:21,017
+[SPEAKER_01]: Once the mind is completely free from hindrances, the mind can be established upon the general nature of things, without being absorbed and pulled by the content.
+
+196
+00:22:21,457 --> 00:22:24,078
+[SPEAKER_01]: Because that's the thing, that's what's in common to every hindrance.
+
+197
+00:22:24,698 --> 00:22:28,239
+[SPEAKER_01]: It's a certain contextual pull, so to speak.
+
+198
+00:22:28,840 --> 00:22:34,101
+[SPEAKER_01]: You're pulled by a content, as in content of your doubt, sensuality, ill-will.
+
+199
+00:22:34,361 --> 00:22:37,542
+[SPEAKER_01]: You can't just have ill-will without any particular object of your ill-will.
+
+200
+00:22:38,602 --> 00:22:41,283
+[SPEAKER_01]: It's going to end up being pinned down onto something.
+
+201
+00:22:42,103 --> 00:22:47,324
+[SPEAKER_01]: So, that's what all the hindrances have in common.
+
+202
+00:22:47,544 --> 00:22:49,885
+[SPEAKER_01]: They're taking you in the direction of the content.
+
+203
+00:22:49,905 --> 00:22:51,545
+[SPEAKER_01]: They're taking you in the direction of sensuality.
+
+204
+00:22:52,825 --> 00:22:58,486
+[SPEAKER_01]: Which is why they're directly against the proper samādhi, proper establishment of the mind.
+
+205
+00:23:01,667 --> 00:23:07,228
+[SPEAKER_00]: So, by doing all the things previously, like the restraint and the moderation and eating and whatnot,
+
+206
+00:23:08,568 --> 00:23:11,669
+[SPEAKER_00]: Is it almost like strengthening your mind against hindrances?
+
+207
+00:23:12,730 --> 00:23:14,310
+[SPEAKER_01]: It's... yeah, it's a preparation.
+
+208
+00:23:14,470 --> 00:23:22,594
+[SPEAKER_01]: It's like people... you won't see a hindrance if you, by... habitually, you're already well within... acting within the contextual book.
+
+209
+00:23:23,034 --> 00:23:26,355
+[SPEAKER_01]: If you're pulled by the content, and you had no restraint,
+
+210
+00:23:27,092 --> 00:23:30,175
+[SPEAKER_01]: You had no self-reflection, means you're not aware of the hindrance.
+
+211
+00:23:30,275 --> 00:23:32,337
+[SPEAKER_01]: For you, it's just you and the content.
+
+212
+00:23:32,357 --> 00:23:40,626
+[SPEAKER_01]: So, you have to stop exercising behavior that's already bound with the content of your senses, which is the sense restraint.
+
+213
+00:23:40,706 --> 00:23:46,592
+[SPEAKER_01]: Once you do that, then, the general nature of that pull of a hindrance, that's when it becomes revealed.
+
+214
+00:23:48,779 --> 00:23:51,261
+[SPEAKER_01]: And that's why usually people would give in to the content.
+
+215
+00:23:51,381 --> 00:23:59,507
+[SPEAKER_01]: It's because bearing that pull of that hindrance is unpleasant and they don't know any other way of overcoming it.
+
+216
+00:23:59,547 --> 00:24:03,129
+[SPEAKER_01]: So, the only other way is to forget about it through giving in to the content.
+
+217
+00:24:09,134 --> 00:24:16,119
+[SPEAKER_00]: Then, having abandoned the hindrances, the Buddha talks about going into the four jhānas.
+
+218
+00:24:18,755 --> 00:24:32,022
+[SPEAKER_00]: Having the three true knowledges, you know, the knowledge of past lives, the knowledge of beings being born, passing away, and knowledge of portable truths, and one becoming an arhant, the basis of that.
+
+219
+00:24:33,083 --> 00:24:43,188
+[SPEAKER_00]: I was planning to ask more about, like, jhāna in general in a later video, but with regards to this gradual path,
+
+220
+00:24:45,420 --> 00:24:55,473
+[SPEAKER_00]: It doesn't sound like it's like a linear thing, so to speak, in terms of, like, you get sīla to 95% and then you progress to restraint or something.
+
+221
+00:24:55,533 --> 00:24:57,376
+[SPEAKER_01]: It's a perpendicular thing.
+
+222
+00:24:57,416 --> 00:25:01,701
+[SPEAKER_01]: So, in that sense, you can say linear, but not linear in a sense that you can observe the line.
+
+223
+00:25:02,570 --> 00:25:07,456
+[SPEAKER_01]: So, it's perpendicular because... well, it goes right through your being, right through your point of view.
+
+224
+00:25:07,896 --> 00:25:09,258
+[SPEAKER_01]: That's what establishment of mind is.
+
+225
+00:25:09,338 --> 00:25:16,346
+[SPEAKER_01]: That's why developing the general background that sort of transcends your limited point of view that you have cultivated through engagement with the senses.
+
+226
+00:25:17,538 --> 00:25:26,442
+[SPEAKER_01]: So, in that sense, yeah, there is a certain gradual development, but it's not linear, exactly like, oh, now I do one, then I do two, then I do three, then I do four, five, six, seven.
+
+227
+00:25:26,842 --> 00:25:32,824
+[SPEAKER_01]: That's why I often say it's not a mechanical method, which is usually how many people would like to approach their meditation.
+
+228
+00:25:32,904 --> 00:25:36,366
+[SPEAKER_01]: Just tell me what to do and what to look for, so I don't have to think about anything.
+
+229
+00:25:40,147 --> 00:25:40,888
+[SPEAKER_00]: There's another
+
+230
+00:25:42,092 --> 00:25:48,296
+[SPEAKER_00]: An elicitation of a less broad, but still, I guess, gradual path.
+
+231
+00:25:48,477 --> 00:25:56,002
+[SPEAKER_00]: It comes up in a few different places, but this one in particular is from the Samana-pāla Sutta, from Gīgānikāya, number two.
+
+232
+00:25:57,303 --> 00:26:03,107
+[SPEAKER_00]: It goes much the same as the previous sutta, just more expansive.
+
+233
+00:26:04,188 --> 00:26:10,733
+[SPEAKER_00]: And then, after it talks about the hindrances being abandoned, it says,
+
+234
+00:26:12,982 --> 00:26:20,246
+[SPEAKER_00]: Seeing that these five hindrances have been abandoned in himself, delight arises.
+
+235
+00:26:20,446 --> 00:26:23,007
+[SPEAKER_00]: When he is delighted, bliss arises.
+
+236
+00:26:23,368 --> 00:26:24,468
+[SPEAKER_00]: That's Pīti.
+
+237
+00:26:25,309 --> 00:26:28,971
+[SPEAKER_00]: When his mind is blissful, his body becomes tranquil.
+
+238
+00:26:29,831 --> 00:26:32,372
+[SPEAKER_00]: Tranquil in body, he feels happiness.
+
+239
+00:26:33,213 --> 00:26:36,375
+[SPEAKER_00]: Being happy, his mind becomes composed.
+
+240
+00:26:37,135 --> 00:26:39,816
+[SPEAKER_00]: And then, from there, it starts talking about jhānas.
+
+241
+00:26:39,836 --> 00:26:40,177
+[SPEAKER_01]: So,
+
+242
+00:26:43,528 --> 00:26:48,571
+[SPEAKER_00]: What kind of delight and bliss and happiness are we referring to here?
+
+243
+00:26:48,651 --> 00:26:55,475
+[SPEAKER_00]: Because it seems to me that perhaps it's not what we necessarily think of when we initially think of those terms.
+
+244
+00:26:56,175 --> 00:27:00,878
+[SPEAKER_01]: Yeah, that's because most often those terms are inseparable from sensuality.
+
+245
+00:27:01,719 --> 00:27:02,619
+[SPEAKER_01]: The sensual joy.
+
+246
+00:27:03,039 --> 00:27:08,482
+[SPEAKER_01]: Joy on account of gaining, having things, seeing things, hearing things, tasting things, touching things, smelling things.
+
+247
+00:27:11,084 --> 00:27:12,825
+[SPEAKER_01]: And this is completely the opposite direction of that.
+
+248
+00:27:13,622 --> 00:27:25,233
+[SPEAKER_01]: So, that's why by recognizing the extent of sensuality, the extent of that contextual perceptual pull, and because it's a pull, means you're kind of enslaved to it.
+
+249
+00:27:26,374 --> 00:27:30,838
+[SPEAKER_01]: So, that's why by recognizing it, by fully discerning it, you free yourself from it.
+
+250
+00:27:32,123 --> 00:27:39,328
+[SPEAKER_01]: And that's that's why the Buddha would say that somebody who is free from those hindrances, from that kind of pull, he experienced joy.
+
+251
+00:27:39,348 --> 00:27:41,409
+[SPEAKER_01]: Because you really feel like you're that free now.
+
+252
+00:27:41,950 --> 00:27:47,133
+[SPEAKER_01]: Oh, there is no more burden pressuring you or dragging or pulling you in that sort of threatening manner.
+
+253
+00:27:48,063 --> 00:28:07,049
+[SPEAKER_01]: Which means you're free from it, which then means you're free from the entire sphere, scope of things that you used to have to do on account of sensuality, just because you were a victim, you were a subject to that displeasing amount of pull in the background of your mind.
+
+254
+00:28:07,209 --> 00:28:14,992
+[SPEAKER_01]: So, naturally then, being free from that kind of burden, that kind of pressure, it feels like a relief.
+
+255
+00:28:16,308 --> 00:28:19,130
+[SPEAKER_01]: So, that relief is a... it's a joyous thing.
+
+256
+00:28:19,150 --> 00:28:23,013
+[SPEAKER_01]: And that relief results in calmness, in seeing things clearly, because you're relieved now.
+
+257
+00:28:23,373 --> 00:28:24,894
+[SPEAKER_01]: You don't have anything to worry about.
+
+258
+00:28:28,216 --> 00:28:31,399
+[SPEAKER_00]: How about when it's mentioned, like, the body being tranquil?
+
+259
+00:28:32,059 --> 00:28:36,943
+[SPEAKER_00]: Like, how do we think about that in a non-sensual way, like getting a massage or something?
+
+260
+00:28:38,484 --> 00:28:40,165
+[SPEAKER_01]: Well, no, that's still sensual, isn't it?
+
+261
+00:28:40,562 --> 00:28:40,682
+[SPEAKER_00]: Right.
+
+262
+00:28:40,702 --> 00:28:41,483
+[SPEAKER_00]: That's what I'm saying.
+
+263
+00:28:41,523 --> 00:28:43,365
+[SPEAKER_00]: How do we think about it in a non-sensual way?
+
+264
+00:28:43,685 --> 00:28:43,945
+[SPEAKER_01]: Right.
+
+265
+00:28:43,965 --> 00:28:50,271
+[SPEAKER_01]: Well, it means the tranquility that comes out of freedom from hindrances.
+
+266
+00:28:51,171 --> 00:28:53,674
+[SPEAKER_01]: That relief is felt in the body.
+
+267
+00:28:53,694 --> 00:28:55,215
+[SPEAKER_01]: So, in that sense, the body is tranquil.
+
+268
+00:28:56,236 --> 00:28:57,057
+[SPEAKER_01]: The body is calm.
+
+269
+00:28:57,477 --> 00:28:58,458
+[SPEAKER_01]: The body is pleasant.
+
+270
+00:28:59,679 --> 00:29:00,079
+[SPEAKER_01]: And that...
+
+271
+00:29:00,099 --> 00:29:03,082
+[SPEAKER_01]: I'm pretty much describing the pleasure that would describe the first jhāna.
+
+272
+00:29:04,052 --> 00:29:05,413
+[SPEAKER_01]: Like, just to the right amount.
+
+273
+00:29:05,433 --> 00:29:09,656
+[SPEAKER_01]: So, not spilling out of your senses, but not denying the mind.
+
+274
+00:29:09,796 --> 00:29:11,898
+[SPEAKER_01]: So, they're just left alone there.
+
+275
+00:29:11,958 --> 00:29:13,199
+[SPEAKER_01]: And the Buddha gave the simile.
+
+276
+00:29:13,259 --> 00:29:13,959
+[SPEAKER_01]: What was the simile?
+
+277
+00:29:13,979 --> 00:29:18,963
+[SPEAKER_01]: Like a... like a... like a bath powder.
+
+278
+00:29:18,983 --> 00:29:19,564
+[SPEAKER_01]: Yeah, that's it.
+
+279
+00:29:19,604 --> 00:29:20,885
+[SPEAKER_01]: Bath powder, adding water to it.
+
+280
+00:29:21,385 --> 00:29:22,586
+[SPEAKER_01]: And then, you get the right consistency.
+
+281
+00:29:22,606 --> 00:29:24,447
+[SPEAKER_01]: It's not too much water, not too little water.
+
+282
+00:29:25,608 --> 00:29:32,013
+[SPEAKER_01]: And you can get that, not by sort of measuring the powder, but basically, by knowing what too much and too little is.
+
+283
+00:29:32,672 --> 00:29:38,256
+[SPEAKER_01]: So, in the sense for your body, you know the extent of sensual involvement.
+
+284
+00:29:39,497 --> 00:29:41,618
+[SPEAKER_01]: And then, you know the extent of non-involvement.
+
+285
+00:29:42,019 --> 00:29:43,020
+[SPEAKER_01]: And to that extent...
+
+286
+00:29:43,080 --> 00:29:47,062
+[SPEAKER_01]: So, you don't need to then keep denying... you don't need to go further and deny the body more than that.
+
+287
+00:29:48,263 --> 00:29:49,104
+[SPEAKER_01]: You've restrained it.
+
+288
+00:29:49,484 --> 00:29:52,626
+[SPEAKER_01]: The mind has been... the mind has surmounted the hindrances.
+
+289
+00:29:52,787 --> 00:30:01,453
+[SPEAKER_01]: And now, these senses are left... there is no intent, there is no attitude, there is no action that is at the time present.
+
+290
+00:30:02,000 --> 00:30:06,023
+[SPEAKER_01]: But you won't get there if you've been trying to deny them, either.
+
+291
+00:30:06,063 --> 00:30:11,468
+[SPEAKER_01]: Because you can't indulge them, but you can't deny them in the same manner, because
+
+292
+00:30:26,845 --> 00:30:40,413
+[SPEAKER_01]: Either way you choose to do, you're going to end up being involved, overly involved or underly involved with them, which means it's either too much water or too little water, which means there is still pressure, either negative or positive, but the pressure is still there.
+
+293
+00:30:53,543 --> 00:31:03,690
+[SPEAKER_00]: So, we establish that there's a, so to speak, a gradual path, gradual training to establishing the mind and composing the mind.
+
+294
+00:31:06,112 --> 00:31:09,134
+[SPEAKER_00]: It's sometimes said that one enters
+
+295
+00:31:09,872 --> 00:31:24,840
+[SPEAKER_00]: Let's say jhāna, but really any kind of establishment of samādhi, kind of in a natural way, like you just do... keep sīla well restrained and then these things arise naturally, so to speak.
+
+296
+00:31:24,961 --> 00:31:26,001
+[SPEAKER_00]: Is that the case here?
+
+297
+00:31:26,041 --> 00:31:29,943
+[SPEAKER_00]: We just... we wait for things to arise as they do, like establishments?
+
+298
+00:31:29,983 --> 00:31:33,425
+[SPEAKER_01]: Well, if by naturally you mean automatically, no, not necessarily.
+
+299
+00:31:33,585 --> 00:31:37,207
+[SPEAKER_01]: You need to... you need to know... well, you need to understand.
+
+300
+00:31:40,314 --> 00:31:42,034
+[SPEAKER_01]: The nature of establishment of mind.
+
+301
+00:31:42,074 --> 00:31:44,575
+[SPEAKER_01]: You need to understand the nature of right composure.
+
+302
+00:31:46,135 --> 00:31:50,776
+[SPEAKER_01]: It can't just happen to you.
+
+303
+00:31:51,556 --> 00:31:52,656
+[SPEAKER_01]: It can't just happen to you.
+
+304
+00:31:54,496 --> 00:31:59,277
+[SPEAKER_01]: Or, if something happens to you, it's not the composure, because you haven't been composing it.
+
+305
+00:32:00,218 --> 00:32:08,479
+[SPEAKER_01]: So, yes, there is a there is a whole set of prerequisites that you must develop and maintain, but then also knowing that it's about
+
+306
+00:32:09,603 --> 00:32:14,205
+[SPEAKER_01]: That's the background of the particularly arisen experience, the general nature behind it.
+
+307
+00:32:14,305 --> 00:32:21,789
+[SPEAKER_01]: That's what you're supposed to discern it without making it a foreground, without overly attending it, without ignoring it, without under-attending it either.
+
+308
+00:32:22,629 --> 00:32:24,030
+[SPEAKER_01]: And that's something that you need to know.
+
+309
+00:32:24,650 --> 00:32:30,793
+[SPEAKER_01]: And if you know that's how you can compose it, then eventually, through that practice, you will not necessarily
+
+310
+00:32:31,263 --> 00:32:32,524
+[SPEAKER_01]: You automatically result in it.
+
+311
+00:32:33,144 --> 00:32:49,931
+[SPEAKER_01]: Although, having... if you... if you have really perfected the sense restraint and wakefulness and mindfulness, inevitably, you will start looking in that direction, because you're already significantly withdrawn from the particular... from the pool of the particular sense content.
+
+312
+00:32:51,212 --> 00:32:52,873
+[SPEAKER_01]: But, yes, it's not... it's not guaranteed.
+
+313
+00:32:53,293 --> 00:32:54,854
+[SPEAKER_01]: It would be good if there is some instruction.
+
+314
+00:32:56,494 --> 00:32:57,975
+[SPEAKER_01]: You might get a hint of it or something,
+
+315
+00:32:58,665 --> 00:33:02,146
+[SPEAKER_01]: But then, you would actually have to willingly turn there and go that way.
+
+316
+00:33:02,566 --> 00:33:05,647
+[SPEAKER_01]: That's actually... that's even what the Buddha done.
+
+317
+00:33:06,828 --> 00:33:21,073
+[SPEAKER_01]: He would... when he was trying to figure out what could be the way of developing the mind fully, properly, he remembered that kind of pleasant, peaceful, burden-free, pressure-free experience he had under the tree, when he was still young.
+
+318
+00:33:22,313 --> 00:33:23,734
+[SPEAKER_01]: And he thought, well, what if I go that way?
+
+319
+00:33:24,374 --> 00:33:27,415
+[SPEAKER_01]: And then, by going that way, we actually understood it, developed it and so on.
+
+320
+00:33:29,353 --> 00:33:40,739
+[SPEAKER_01]: Another one, one of the similar lines was when the Buddha was encouraging Mahāgama Gālānā to develop jhānas, and then the Buddha left, and Mahāgama Gālānā sat under a tree, and then he said, first jhāna, first jhāna, what is first jhāna?
+
+321
+00:33:41,399 --> 00:33:53,646
+[SPEAKER_01]: And then started contemplating the factors of the first jhāna, started basically reflecting upon the description of the first jhāna that the Buddha gave, and then by understanding what that was, he developed it.
+
+322
+00:33:54,771 --> 00:34:00,776
+[SPEAKER_01]: There is no delay or discrepancy between understanding and establishing your mind.
+
+323
+00:34:00,796 --> 00:34:14,269
+[SPEAKER_01]: That's why the Buddha would praise the jhānas in themselves as well, because even without a right view, you're going to develop a lot of understanding in regard to the nature and the basic characteristics of the universal aspects of your experience.
+
+324
+00:34:15,430 --> 00:34:21,395
+[SPEAKER_01]: So, say, a person without a right view develops the jhānas, they're going to need very little instruction to become an arahant.
+
+325
+00:34:22,055 --> 00:34:25,656
+[SPEAKER_01]: Because they've already done most of the work through that correct establishment of the mind.
+
+326
+00:34:28,698 --> 00:34:44,264
+[SPEAKER_00]: Another concept that comes up quite often in the traditional literature regarding concentration is the nimitta, generally translated as like sign, broadly speaking.
+
+327
+00:34:44,484 --> 00:34:46,945
+[SPEAKER_00]: They discuss that in terms of generally like a
+
+328
+00:34:47,515 --> 00:35:00,350
+[SPEAKER_00]: a light that one has arise when they have a kind of a stage of concentration and then, uh, you know, you manipulate it and focus on it more and things like that, uh, anyway, the
+
+329
+00:35:01,349 --> 00:35:08,634
+[SPEAKER_00]: I think we've spoken about, kind of, why it doesn't really seem to make much sense in the context of composing the mind already.
+
+330
+00:35:08,654 --> 00:35:13,897
+[SPEAKER_01]: Well, even in the suttas in general, nimitta is always... means signs and tokens of the experience.
+
+331
+00:35:13,977 --> 00:35:15,518
+[SPEAKER_01]: Like, oh, what's the significance of this?
+
+332
+00:35:16,219 --> 00:35:16,719
+[SPEAKER_01]: And exactly.
+
+333
+00:35:16,739 --> 00:35:19,481
+[SPEAKER_01]: So, you can say, oh, the significance is this light.
+
+334
+00:35:19,501 --> 00:35:20,041
+[SPEAKER_01]: But that's nothing.
+
+335
+00:35:20,061 --> 00:35:21,262
+[SPEAKER_01]: That's just another perception.
+
+336
+00:35:21,482 --> 00:35:22,783
+[SPEAKER_01]: A more general perception.
+
+337
+00:35:22,843 --> 00:35:24,724
+[SPEAKER_01]: A more ambiguous perception.
+
+338
+00:35:25,404 --> 00:35:29,107
+[SPEAKER_01]: Nimitta is the signs and tokens behind the particular perceptions.
+
+339
+00:35:29,966 --> 00:35:33,109
+[SPEAKER_01]: Yeah, you perceive those signs and tokens, but only in that indirect manner.
+
+340
+00:35:33,329 --> 00:35:38,133
+[SPEAKER_01]: If you directly look at it, it means something else is the significance of your direct look.
+
+341
+00:35:38,987 --> 00:35:49,632
+[SPEAKER_01]: And again, we don't have to go further than that simile, that sutta that you read, where the thoroughbred horse, he doesn't get absorbed with the golden nimitta of the color of the hay.
+
+342
+00:35:50,393 --> 00:35:50,513
+[SPEAKER_01]: No.
+
+343
+00:35:50,593 --> 00:35:53,975
+[SPEAKER_01]: He looks at what's the significance of me being fed this hay?
+
+344
+00:35:54,695 --> 00:35:59,658
+[SPEAKER_01]: As in, what are gonna... what is the horse trainer gonna ask me to do because of this?
+
+345
+00:36:00,078 --> 00:36:00,938
+[SPEAKER_01]: What's the background?
+
+346
+00:36:01,378 --> 00:36:02,059
+[SPEAKER_01]: That's the nimitta.
+
+347
+00:36:02,739 --> 00:36:03,840
+[SPEAKER_01]: So, exactly, developing
+
+348
+00:36:04,672 --> 00:36:14,835
+[SPEAKER_01]: The discernment of the background means already you are not being pulled by the particular things in your foreground, so to speak.
+
+349
+00:36:15,195 --> 00:36:23,438
+[SPEAKER_01]: So, developing that kind of discernment of the background means developing the nimitta in that particular regard to that experience.
+
+350
+00:36:23,578 --> 00:36:30,140
+[SPEAKER_00]: So, as kind of a crude example, just because it's a very kind of vague term, like a sign and token of things,
+
+351
+00:36:31,140 --> 00:36:34,322
+[SPEAKER_00]: Let's say we have like a literal sign, like a stop sign.
+
+352
+00:36:34,762 --> 00:36:34,942
+[SPEAKER_00]: Right.
+
+353
+00:36:34,962 --> 00:36:38,184
+[SPEAKER_00]: The nimitta is not like the actual sign.
+
+354
+00:36:38,764 --> 00:36:40,045
+[SPEAKER_00]: It's the meaning of stop.
+
+355
+00:36:40,445 --> 00:36:41,505
+[SPEAKER_00]: Don't pass this line.
+
+356
+00:36:41,706 --> 00:36:42,046
+[SPEAKER_00]: Exactly.
+
+357
+00:36:42,206 --> 00:36:43,447
+[SPEAKER_00]: That's the nimitta.
+
+358
+00:36:43,787 --> 00:36:45,868
+[SPEAKER_01]: But most people would think nimitta is the sign.
+
+359
+00:36:47,068 --> 00:36:49,890
+[SPEAKER_01]: It's the actual physical board that says stop.
+
+360
+00:36:50,110 --> 00:36:51,551
+[SPEAKER_01]: But it isn't.
+
+361
+00:36:51,611 --> 00:36:57,574
+[SPEAKER_01]: There is an object that you're perceiving that has the nimitta of certain implication of don't go past this point.
+
+362
+00:36:58,630 --> 00:36:59,511
+[SPEAKER_01]: So, that's the nimitta.
+
+363
+00:36:59,791 --> 00:37:01,852
+[SPEAKER_01]: And nimitta is always in that background.
+
+364
+00:37:03,853 --> 00:37:15,821
+[SPEAKER_01]: So, particular things, in your experience, that you through... through your perception, point, obviously, at various backgrounds, and that's why the signs and the tokens of the mind, because the mind is always on that background.
+
+365
+00:37:16,882 --> 00:37:22,526
+[SPEAKER_01]: Even the sign of the mind, cittanimitta, that's... that's like a... almost like a prerequisite for... for the right view, for saṭipatthana.
+
+366
+00:37:23,315 --> 00:37:28,441
+[SPEAKER_01]: Means, basically, you need to know the direction of the development of mind in order to begin to develop your mind.
+
+367
+00:37:28,661 --> 00:37:33,126
+[SPEAKER_01]: That's why cittanimitta is a prerequisite for samādhiti.
+
+368
+00:37:33,927 --> 00:37:37,151
+[SPEAKER_00]: And here's... here's that... the sutra that kind of goes into that.
+
+369
+00:37:37,171 --> 00:37:41,396
+[SPEAKER_00]: That's from the Book of Sixes of the Anguttara Nikaya, Sutta 68.
+
+370
+00:37:41,416 --> 00:37:41,876
+[SPEAKER_00]: It says...
+
+371
+00:37:44,517 --> 00:38:00,800
+[SPEAKER_00]: bhikkhus, for a bhikkhu who delights in company, who takes pleasure in company, who engages in delight in company, who delights in a crowd, so on and so forth, crowd, that he should enjoy being alone and secluded, is not a possibility.
+
+372
+00:38:01,460 --> 00:38:07,141
+[SPEAKER_00]: Not enjoying being alone and secluded, that he should pick up the sign of the mind, is not a possibility.
+
+373
+00:38:07,901 --> 00:38:12,282
+[SPEAKER_00]: Not picking up the sign of the mind, that he should fulfill right view, is not a possibility.
+
+374
+00:38:12,863 --> 00:38:17,766
+[SPEAKER_00]: Not having fulfilled right view, that he should fulfill right composure, is not a possibility.
+
+375
+00:38:18,347 --> 00:38:22,890
+[SPEAKER_00]: Not having fulfilled right composure, that he should abandon the fetters, is not a possibility.
+
+376
+00:38:22,950 --> 00:38:27,553
+[SPEAKER_00]: Not having abandoned the fetters, that he should realize nibbāna, is not a possibility.
+
+377
+00:38:28,073 --> 00:38:35,238
+[SPEAKER_01]: It's kind of self-explanatory, based on... well, based on all the previous things I've said.
+
+378
+00:38:36,893 --> 00:38:37,714
+[SPEAKER_01]: It's just exactly that.
+
+379
+00:38:37,734 --> 00:38:47,461
+[SPEAKER_01]: The perpendicular development, it's not one, two, three, four, five, but by being withdrawn from the people, by being restrained from the senses, you start finding peace and solitude.
+
+380
+00:38:47,481 --> 00:38:54,846
+[SPEAKER_01]: By being in solitude, you start to see the background of your mind clearer, because you're not constantly bombarded by the sense pool, as in by the particular content.
+
+381
+00:38:55,927 --> 00:39:06,074
+[SPEAKER_01]: By not being bombarded by the sense pool, by being properly established in that solitude, you start to discern the significance of that background, the nimitta of that background, the signs and tokens of that background, which is that mind.
+
+382
+00:39:06,931 --> 00:39:08,412
+[SPEAKER_01]: And that's how you develop the understanding.
+
+383
+00:39:09,353 --> 00:39:11,034
+[SPEAKER_01]: And that's how you begin to practice right.
+
+384
+00:39:11,775 --> 00:39:16,618
+[SPEAKER_01]: There is no correct samādhi without the right view, as that sutta and many other suttas would often say.
+
+385
+00:39:17,419 --> 00:39:21,942
+[SPEAKER_01]: And that's another thing that people often choose to ignore, because they find meditation helpful.
+
+386
+00:39:22,483 --> 00:39:29,108
+[SPEAKER_01]: Nobody says you should stop trying to meditate, but don't think you know how to meditate rightly, unless you have the right view.
+
+387
+00:39:33,205 --> 00:39:42,768
+[SPEAKER_00]: Here's another sutta dealing with signs and tokens from the 47th saṃyuta, the satipaṭṭhāna saṃyuta, the 8th sutta.
+
+388
+00:39:42,848 --> 00:39:44,529
+[SPEAKER_00]: It's called The Cook.
+
+389
+00:39:47,049 --> 00:39:57,873
+[SPEAKER_00]: It says, suppose a foolish, inexperienced, unskillful cook were to present the king or royal minister with various portions of curries of various flavors.
+
+390
+00:39:58,754 --> 00:40:04,740
+[SPEAKER_00]: That foolish, inexperienced, unskillful cook does not pick up the sign of his master's preference.
+
+391
+00:40:05,320 --> 00:40:15,170
+[SPEAKER_00]: Today, this curry pleased my master, for he reached for this one, he took a lot of this one, he spoke in praise of this one, or this one, or that one, and so on and so forth.
+
+392
+00:40:16,152 --> 00:40:20,776
+[SPEAKER_00]: That foolish, inexperienced and skillful cook does not gain clothing, wages or gifts.
+
+393
+00:40:21,276 --> 00:40:21,957
+[SPEAKER_00]: For what reason?
+
+394
+00:40:22,397 --> 00:40:27,661
+[SPEAKER_00]: Because in this way, this foolish cook does not pick up the sign of his master's preference.
+
+395
+00:40:28,302 --> 00:40:29,302
+[SPEAKER_00]: So too bhikkhus.
+
+396
+00:40:29,803 --> 00:40:41,392
+[SPEAKER_00]: Some foolish, inexperienced and skillful bhikkhu dwells contemplating the body and the body, ardent, aware, mindful, and removes covetousness and displeasure in regards to the world.
+
+397
+00:40:42,197 --> 00:40:48,799
+[SPEAKER_00]: While he dwells contemplating the body in the body, his mind does not become concentrated, or composed.
+
+398
+00:40:49,299 --> 00:40:50,800
+[SPEAKER_00]: His defilements are not abandoned.
+
+399
+00:40:51,140 --> 00:40:53,160
+[SPEAKER_00]: He does not pick up that sign.
+
+400
+00:40:53,320 --> 00:40:58,602
+[SPEAKER_00]: And so on with the other three satipaṭṭhāna.
+
+401
+00:40:58,642 --> 00:41:07,384
+[SPEAKER_00]: So, it seems here almost like, like, intuition when it's described in this simile.
+
+402
+00:41:08,025 --> 00:41:09,185
+[SPEAKER_01]: Yeah, it means basically...
+
+403
+00:41:10,040 --> 00:41:12,201
+[SPEAKER_01]: Knowing what you do, knowing what you're doing.
+
+404
+00:41:14,202 --> 00:41:23,126
+[SPEAKER_01]: So, you don't know what you're doing in the beginning, but you're learning by seeing the results of it, by seeing the the implications of it, by seeing how it affects things.
+
+405
+00:41:24,186 --> 00:41:29,689
+[SPEAKER_01]: Then, after a while, you become skilled, that cook becomes skilled, he doesn't even have to think, he knows exactly how to please the king.
+
+406
+00:41:30,416 --> 00:41:34,557
+[SPEAKER_01]: It was exactly what he likes to eat on what days and after he's been eating this or that.
+
+407
+00:41:34,657 --> 00:41:34,817
+[SPEAKER_01]: Why?
+
+408
+00:41:34,837 --> 00:41:35,898
+[SPEAKER_01]: Because he's been looking at it.
+
+409
+00:41:35,958 --> 00:41:39,139
+[SPEAKER_01]: He wasn't just looking at, oh, he ate this, he didn't eat this, that's it.
+
+410
+00:41:39,159 --> 00:41:40,679
+[SPEAKER_01]: I'll just make this, I won't make that.
+
+411
+00:41:41,260 --> 00:41:42,900
+[SPEAKER_01]: Sometimes it's this, sometimes it's that.
+
+412
+00:41:43,400 --> 00:41:50,163
+[SPEAKER_01]: But in order to see that, you must stop being concerned and absorbed only with what you see, directly with your perception.
+
+413
+00:41:50,803 --> 00:41:57,445
+[SPEAKER_01]: You need to start seeing things indirectly in that background, that are there, simultaneously present with whatever else you're perceiving.
+
+414
+00:41:58,617 --> 00:42:01,779
+[SPEAKER_01]: And the same goes actually even contemplating body in the body correctly.
+
+415
+00:42:02,280 --> 00:42:03,060
+[SPEAKER_01]: It's already that.
+
+416
+00:42:03,881 --> 00:42:11,166
+[SPEAKER_01]: When you step into the background in regard to your body, that's how the body is twice, eh... doubly present, so to speak.
+
+417
+00:42:11,206 --> 00:42:16,691
+[SPEAKER_01]: Background in regard to a particular experience is the... is the background of that particular experience.
+
+418
+00:42:17,471 --> 00:42:18,892
+[SPEAKER_01]: Which means it's inseparable from.
+
+419
+00:42:19,493 --> 00:42:25,097
+[SPEAKER_01]: Which means you can be absorbed with the body, or if you reflect mindfully upon body, then you see body in that body.
+
+420
+00:42:26,103 --> 00:42:33,628
+[SPEAKER_01]: Because you create a buffer zone by stepping back into the general, without looking at it, in the same direct particular manner.
+
+421
+00:42:33,688 --> 00:42:34,628
+[SPEAKER_01]: So, you leave...
+
+422
+00:42:34,648 --> 00:42:41,553
+[SPEAKER_01]: Okay, there is a body here, and now there's you, mindful, off yourself, seated, paying attention to this particular body.
+
+423
+00:42:41,873 --> 00:42:43,194
+[SPEAKER_01]: So, that's body in the body.
+
+424
+00:42:45,115 --> 00:42:50,318
+[SPEAKER_01]: It's not like, see the body further within the body, further within the body, further within the body.
+
+425
+00:42:50,358 --> 00:42:54,861
+[SPEAKER_01]: Because that's not even... You lost the sight of the initial body, let alone seeing the further bodies.
+
+426
+00:42:58,442 --> 00:43:21,490
+[SPEAKER_00]: So, when it's... when it's saying here that the unskilled bhikkhu, he's trying to contemplate the body and the body or feelings and feelings or whatever, yet he's still at that same time, he's not becoming composed, he doesn't pick up that sign... Well, actually, when... that unskilled bhikkhu, it's actually relatively skilled for the contemporary practices of meditation.
+
+427
+00:43:21,570 --> 00:43:23,671
+[SPEAKER_01]: He's at least doing body and the body correctly.
+
+428
+00:43:23,711 --> 00:43:25,412
+[SPEAKER_01]: The Buddha didn't dispute that.
+
+429
+00:43:26,286 --> 00:43:29,387
+[SPEAKER_01]: But then, he says that on account of that practice, he doesn't look further.
+
+430
+00:43:30,007 --> 00:43:38,251
+[SPEAKER_01]: He doesn't see the signs and the signs and the tokens of that experience of mindful body in the body, because that's how you get to understand it.
+
+431
+00:43:40,972 --> 00:43:42,632
+[SPEAKER_01]: But initially, he's correct.
+
+432
+00:43:42,713 --> 00:43:47,815
+[SPEAKER_01]: His practice of body in the body, ardent, resolute, withdrawn from sensuality, he's doing that very well.
+
+433
+00:43:48,855 --> 00:43:53,997
+[SPEAKER_01]: What I'm saying is that most of the meditation approaches people take today, they don't even do that correctly.
+
+434
+00:43:54,650 --> 00:43:58,012
+[SPEAKER_01]: They focus on like imaginary body within the further imaginary.
+
+435
+00:43:58,092 --> 00:43:59,352
+[SPEAKER_01]: Well, it's not even a body anymore.
+
+436
+00:43:59,372 --> 00:44:06,575
+[SPEAKER_01]: It becomes theories and almost like abstract notions that you perceive, that you think you're perceiving.
+
+437
+00:44:07,336 --> 00:44:13,458
+[SPEAKER_01]: But in order to perceive them in any shape or form that you believe you can, it will require you to step outside of your experience.
+
+438
+00:44:14,179 --> 00:44:18,861
+[SPEAKER_01]: So, while you think you're perceiving, means all you're doing is engaging in a view that you are outside of your experience.
+
+439
+00:44:20,090 --> 00:44:25,912
+[SPEAKER_01]: As in seeing yourself in that impersonal manner, independent of the five aggregates and of what has arisen.
+
+440
+00:44:26,493 --> 00:44:26,993
+[SPEAKER_01]: So, that's what I mean.
+
+441
+00:44:27,013 --> 00:44:29,694
+[SPEAKER_01]: That's not even seeing the body, let alone seeing the body in the body.
+
+442
+00:44:31,154 --> 00:44:32,335
+[SPEAKER_01]: But now, you have to go further.
+
+443
+00:44:32,375 --> 00:44:40,518
+[SPEAKER_01]: For somebody who does learn how to do properly composure based on mindfulness of body within the body, then he needs to start looking at the background of that.
+
+444
+00:44:41,739 --> 00:44:44,860
+[SPEAKER_01]: And that's how he develops signs and tokens in regard to that experience.
+
+445
+00:44:46,597 --> 00:44:54,342
+[SPEAKER_01]: In the background of him doing mindfulness of the body... Well, the significance, the tokens, the signs and tokens of the experience of being mindful of body in the body.
+
+446
+00:44:55,382 --> 00:44:56,603
+[SPEAKER_01]: That's not something you can do.
+
+447
+00:44:57,523 --> 00:45:02,506
+[SPEAKER_01]: That's something that you can discern based on the principles of discernment that you've been cultivating up to that point.
+
+448
+00:45:03,227 --> 00:45:05,748
+[SPEAKER_01]: But if you don't, that's what Buddha says the foolish monk.
+
+449
+00:45:06,809 --> 00:45:09,310
+[SPEAKER_01]: Because he didn't take it as far as he could have, should have.
+
+450
+00:45:12,565 --> 00:45:18,769
+[SPEAKER_00]: So, I wanted to start explicitly discussing jhāna itself.
+
+451
+00:45:19,870 --> 00:45:26,454
+[SPEAKER_00]: Is there any particular English translation that is appropriate for jhāna, or does nothing really seem to fit?
+
+452
+00:45:28,515 --> 00:45:38,481
+[SPEAKER_01]: Well, whatever you choose to translate it with, is going to require lots of explanation, because... well, because all the views associated with it.
+
+453
+00:45:40,422 --> 00:45:41,763
+[SPEAKER_01]: So, no translation will be perfect.
+
+454
+00:45:42,123 --> 00:45:44,304
+[SPEAKER_01]: Well, leaving it untranslated, it's not perfect either.
+
+455
+00:45:45,164 --> 00:45:46,344
+[SPEAKER_00]: Because it needs to be understood.
+
+456
+00:45:48,685 --> 00:45:50,386
+[SPEAKER_00]: But we at least establish it's like...
+
+457
+00:45:50,626 --> 00:45:53,287
+[SPEAKER_01]: I kind of end up referring to it as establishments of mind.
+
+458
+00:45:54,007 --> 00:45:55,368
+[SPEAKER_01]: I know it's a bit awkward.
+
+459
+00:45:55,388 --> 00:46:01,570
+[SPEAKER_01]: It's not a concise terminology, but... maybe I'll think about it.
+
+460
+00:46:01,590 --> 00:46:04,111
+[SPEAKER_01]: See if I can come up with one word that I'll be satisfied with.
+
+461
+00:46:05,732 --> 00:46:06,212
+[SPEAKER_00]: Right.
+
+462
+00:46:06,232 --> 00:46:07,993
+[SPEAKER_00]: We established previously that it's...
+
+463
+00:46:09,287 --> 00:46:11,750
+[SPEAKER_00]: It's along the lines of composing the mind.
+
+464
+00:46:11,790 --> 00:46:17,675
+[SPEAKER_01]: Yeah, let's call them... the first jhāna is the first composition.
+
+465
+00:46:17,715 --> 00:46:21,238
+[SPEAKER_01]: Samādhi is composure, practice of composure, jhāna is the composition.
+
+466
+00:46:22,419 --> 00:46:28,064
+[SPEAKER_00]: So, something like that.
+
+467
+00:46:28,084 --> 00:46:31,227
+[SPEAKER_00]: Can there be samādhi that isn't jhāna, though?
+
+468
+00:46:31,467 --> 00:46:32,528
+[SPEAKER_01]: Yeah, sure, sure.
+
+469
+00:46:33,618 --> 00:46:45,504
+[SPEAKER_01]: I mean, samādhi, as in composure of your mind, you can compose it in regard to, well, various approaches, various ways of looking at things.
+
+470
+00:46:46,945 --> 00:46:55,169
+[SPEAKER_01]: But, it's really, if your mind is developed to a sufficient extent, then you can say it's the extent of the first jhāna or the second jhāna.
+
+471
+00:46:55,209 --> 00:47:01,412
+[SPEAKER_01]: Even if your practice is not necessarily the practice of jhāna, you might be doing other types of mindfulness and meditation.
+
+472
+00:47:04,460 --> 00:47:08,584
+[SPEAKER_00]: Okay, so I'll read the formula for the first jhāna.
+
+473
+00:47:10,006 --> 00:47:17,974
+[SPEAKER_01]: First jhāna is basically a way of attending to certain aspects of your experience with a developed mind.
+
+474
+00:47:19,255 --> 00:47:24,060
+[SPEAKER_01]: That's how you establish, that's how you compose that first jhāna, that is outside of the central domain.
+
+475
+00:47:25,361 --> 00:47:25,802
+[SPEAKER_00]: We're gone.
+
+476
+00:47:27,780 --> 00:47:29,182
+[SPEAKER_00]: Enters and dwells.
+
+477
+00:47:29,242 --> 00:47:30,803
+[SPEAKER_00]: Means he spends time in it.
+
+478
+00:47:53,086 --> 00:47:59,531
+[SPEAKER_00]: So, we can go into discussing, perhaps, each of these pairs of factors.
+
+479
+00:48:01,252 --> 00:48:06,676
+[SPEAKER_00]: The first is secluded from sensual pleasures.
+
+480
+00:48:07,537 --> 00:48:09,739
+[SPEAKER_00]: So, seclusion.
+
+481
+00:48:09,879 --> 00:48:17,825
+[SPEAKER_00]: Some people say that in jhāna, you don't experience the senses at all, and that's why you're secluded.
+
+482
+00:48:17,845 --> 00:48:18,465
+[SPEAKER_00]: Quite the opposite.
+
+483
+00:48:19,606 --> 00:48:22,048
+[SPEAKER_01]: You've surmounted the senses, which means they're very much
+
+484
+00:48:23,648 --> 00:48:26,410
+[SPEAKER_01]: The full extent of the sense domain is right in front of you.
+
+485
+00:48:27,250 --> 00:48:33,054
+[SPEAKER_01]: And the reason why people can never be aware of the full extent is because they give in to the pull of the sense object way too soon.
+
+486
+00:48:34,074 --> 00:48:40,498
+[SPEAKER_01]: If you don't give in, then the positive object and the negative sense, the whole domain becomes, well, discerned.
+
+487
+00:48:42,059 --> 00:48:48,503
+[SPEAKER_01]: And that's why the first jhāna, in another sutra the Buddha said, the first jhāna is assailed by the perceptions of sensuality.
+
+488
+00:48:49,352 --> 00:48:51,533
+[SPEAKER_01]: That's what's trying to undermine your first jhāna.
+
+489
+00:48:52,133 --> 00:49:00,458
+[SPEAKER_01]: It's basically stepping back and seeing the whole picture, the whole nature of sensuality, senses and sense objects.
+
+490
+00:49:02,199 --> 00:49:13,965
+[SPEAKER_01]: So, those senses still remain subjected to the pull of the objects, but you have surmounted them, which means you don't share that nature anymore.
+
+491
+00:49:13,985 --> 00:49:14,925
+[SPEAKER_01]: You don't partake in it.
+
+492
+00:49:15,525 --> 00:49:16,686
+[SPEAKER_01]: You are not being pulled.
+
+493
+00:49:17,247 --> 00:49:18,067
+[SPEAKER_01]: The senses remain.
+
+494
+00:49:18,107 --> 00:49:22,992
+[SPEAKER_01]: The senses and sense objects are natural, indispensable counterparts.
+
+495
+00:49:23,352 --> 00:49:24,313
+[SPEAKER_01]: They define each other.
+
+496
+00:49:24,353 --> 00:49:25,154
+[SPEAKER_01]: They're inseparable.
+
+497
+00:49:26,956 --> 00:49:28,177
+[SPEAKER_01]: So, you don't shut them down.
+
+498
+00:49:28,718 --> 00:49:33,682
+[SPEAKER_01]: You find a way out without interfering with them, without trying to deny them.
+
+499
+00:49:33,702 --> 00:49:34,563
+[SPEAKER_01]: So, you leave them alone.
+
+500
+00:49:35,044 --> 00:49:39,648
+[SPEAKER_01]: That's why what I said just a few minutes before, a few minutes ago, is that
+
+501
+00:49:40,537 --> 00:49:49,162
+[SPEAKER_01]: You free yourself from that sensuality, quite secluded from sensual pleasures, by surmounting the domain of the body being there, this body present right here.
+
+502
+00:49:49,843 --> 00:49:51,123
+[SPEAKER_01]: Because that's where your senses are.
+
+503
+00:49:51,503 --> 00:49:52,784
+[SPEAKER_01]: The body is the five senses.
+
+504
+00:49:55,566 --> 00:50:05,812
+[SPEAKER_00]: So, if you establish, like, a mindfulness of the body there, you, you, you've established, like, the condition for the senses, so to speak.
+
+505
+00:50:06,656 --> 00:50:08,217
+[SPEAKER_01]: Yeah, it's the right direction to go.
+
+506
+00:50:08,537 --> 00:50:18,163
+[SPEAKER_01]: But you will know that you are... that you are outside of the central pole, when you have experienced the relief from the central pole, which is undeniable.
+
+507
+00:50:18,923 --> 00:50:25,687
+[SPEAKER_01]: But in order to experience relief from the central pole, means you need to understand and fully see the extent of the central pole.
+
+508
+00:50:26,788 --> 00:50:30,790
+[SPEAKER_01]: Not just replace it with something else you think it's more lofty to look at.
+
+509
+00:50:32,891 --> 00:50:35,933
+[SPEAKER_01]: So, paired with that is excluded from the wholesome states.
+
+510
+00:50:37,028 --> 00:50:45,255
+[SPEAKER_01]: There are also states of craving that always result then in craving for or against lust, ill-will, delusion, distraction.
+
+511
+00:50:45,355 --> 00:50:53,763
+[SPEAKER_01]: Distraction means dependence on the variety of the content, boredom, all that, rooted in the same domain.
+
+512
+00:50:56,038 --> 00:51:05,626
+[SPEAKER_00]: So, we're saying, then, that there's also no craving in regards to, like, any kinds of, like, putting crudely, like, mental phenomena, so to speak?
+
+513
+00:51:05,646 --> 00:51:05,767
+[SPEAKER_00]: Yeah.
+
+514
+00:51:05,847 --> 00:51:10,130
+[SPEAKER_01]: There is no... You're not trying to get rid of it either, which is unwholesome.
+
+515
+00:51:19,418 --> 00:51:20,980
+[SPEAKER_01]: You're not trying to get rid of it either.
+
+516
+00:51:22,098 --> 00:51:25,359
+[SPEAKER_01]: Because they're like, oh, sensuality is bad, I must get rid of it.
+
+517
+00:51:25,379 --> 00:51:29,161
+[SPEAKER_01]: Sensuality is bad, I must surmount it and learn how to stop interfering with it.
+
+518
+00:51:29,541 --> 00:51:33,323
+[SPEAKER_01]: Because you interfere with it either by giving in or trying to get rid of it.
+
+519
+00:51:33,363 --> 00:51:37,704
+[SPEAKER_01]: So, that's exactly why the first jhāna is secluded from sensual pleasure from unwholesome states.
+
+520
+00:51:38,044 --> 00:51:41,126
+[SPEAKER_01]: It's just secluded from it, but you're not trying to get rid of it either.
+
+521
+00:51:41,666 --> 00:51:44,847
+[SPEAKER_01]: You leave it alone, because it's not your problem anymore.
+
+522
+00:51:44,907 --> 00:51:49,809
+[SPEAKER_01]: It's not your debt, it's not your pressure, it's not your, your duty and your burden.
+
+523
+00:51:49,849 --> 00:51:50,630
+[SPEAKER_01]: It means, oh, I
+
+524
+00:51:56,113 --> 00:52:05,695
+[SPEAKER_00]: Then, it has the words vittaka and vichara here translated as just thinking and pondering.
+
+525
+00:52:05,735 --> 00:52:14,837
+[SPEAKER_00]: Traditionally, vittaka is like... Visuddhimagga mentions like the initial strike of the mind as object.
+
+526
+00:52:14,937 --> 00:52:15,577
+[SPEAKER_00]: Right, right.
+
+527
+00:52:15,597 --> 00:52:17,938
+[SPEAKER_01]: Yeah, I don't want to go into commentary or definition.
+
+528
+00:52:17,998 --> 00:52:18,418
+[SPEAKER_01]: It doesn't matter.
+
+529
+00:52:18,778 --> 00:52:24,819
+[SPEAKER_01]: The point is, once you have surmounted, once you have fully discerned,
+
+530
+00:52:25,250 --> 00:52:36,577
+[SPEAKER_01]: The extent of the body, the extent of sensuality and its corresponding pull, eh... once you disengage from it, so to speak, what's left there is thinking and pondering.
+
+531
+00:52:37,597 --> 00:52:41,019
+[SPEAKER_01]: Which means, it's the same thinking and pondering, minus sensuality.
+
+532
+00:52:42,420 --> 00:52:44,301
+[SPEAKER_01]: So, you're still engaged with it, so to speak.
+
+533
+00:52:44,321 --> 00:52:44,901
+[SPEAKER_01]: Yeah, exactly.
+
+534
+00:52:45,042 --> 00:52:50,605
+[SPEAKER_01]: But now, there is nothing to fear, there's nothing to try to get rid of, because thinking and pondering was never the problem.
+
+535
+00:52:51,025 --> 00:52:52,246
+[SPEAKER_01]: It was thinking and pondering
+
+536
+00:52:53,093 --> 00:52:58,894
+[SPEAKER_01]: About the senses, about the sense objects, about the sense avoidance, about the sense lust and so on.
+
+537
+00:52:58,994 --> 00:52:59,834
+[SPEAKER_01]: That was the problem.
+
+538
+00:53:00,455 --> 00:53:02,535
+[SPEAKER_01]: So, it was lust, aversion, delusion, they were the problem.
+
+539
+00:53:02,695 --> 00:53:03,215
+[SPEAKER_01]: Always were.
+
+540
+00:53:04,735 --> 00:53:09,116
+[SPEAKER_01]: Once, once you live withdrawn from it, then thinking and pondering can stay.
+
+541
+00:53:09,136 --> 00:53:11,417
+[SPEAKER_01]: That's exactly what, what defines the first jhāna.
+
+542
+00:53:12,637 --> 00:53:21,319
+[SPEAKER_01]: You've surmounted the body and now what's right in front of you, usually what's right in front of people is this, is this body with the sense options and sense pulls and sense, sense engagement.
+
+543
+00:53:22,318 --> 00:53:34,209
+[SPEAKER_01]: But through the discernment of that background, of that simultaneously present background in regard to your particular sense objects, you have developed discernment of phenomena of a whole domain of the body.
+
+544
+00:53:35,109 --> 00:53:37,672
+[SPEAKER_01]: And then, what's in front of you is the thinking and pondering.
+
+545
+00:53:39,113 --> 00:53:42,376
+[SPEAKER_01]: Not anymore the counterpart of your senses, which is sense objects.
+
+546
+00:53:44,077 --> 00:53:44,698
+[SPEAKER_01]: If you sort of
+
+547
+00:53:46,426 --> 00:53:47,727
+[SPEAKER_01]: Turn... well, not turn away.
+
+548
+00:53:48,527 --> 00:53:54,888
+[SPEAKER_01]: If you stop being mindful of thinking and pondering correctly, you are back onto the lower level, which is the level of sensuality.
+
+549
+00:53:54,928 --> 00:54:04,511
+[SPEAKER_01]: That's why somebody without the right view, somebody who hasn't understood the nature of assumption, the nature of upādāna, even if they have jhānas, after the jhāna, they will go back to the sensuality.
+
+550
+00:54:04,591 --> 00:54:06,091
+[SPEAKER_01]: They could go back to sensuality.
+
+551
+00:54:06,891 --> 00:54:13,853
+[SPEAKER_01]: But if once you are withdrawn, paired up with the right view and right understanding, you won't be going back to it, even if you're not in the jhāna anymore.
+
+552
+00:54:18,131 --> 00:54:23,512
+[SPEAKER_00]: And then, rapture and pleasure born of that seclusion.
+
+553
+00:54:23,532 --> 00:54:23,712
+[SPEAKER_00]: Yeah.
+
+554
+00:54:24,393 --> 00:54:27,633
+[SPEAKER_00]: So, I think that you mentioned before, like, the joy of freedom.
+
+555
+00:54:27,813 --> 00:54:28,453
+[SPEAKER_00]: Yeah, the relief.
+
+556
+00:54:28,954 --> 00:54:33,555
+[SPEAKER_01]: Imagine you have a pressure, like a debt, to pay back.
+
+557
+00:54:33,695 --> 00:54:35,715
+[SPEAKER_01]: And, you know, the debt collectors are there out for you.
+
+558
+00:54:35,735 --> 00:54:40,976
+[SPEAKER_01]: You don't know when they're going to pounce and come and impound your house and take away and whatever, imprison you.
+
+559
+00:54:41,456 --> 00:54:42,457
+[SPEAKER_01]: So, it's a big burden.
+
+560
+00:54:42,477 --> 00:54:43,677
+[SPEAKER_01]: It's a big stress to carry.
+
+561
+00:54:44,483 --> 00:54:46,404
+[SPEAKER_01]: That's the definition of a sensual world.
+
+562
+00:54:46,604 --> 00:54:49,866
+[SPEAKER_01]: There's always something pressuring you, pulling you, going against you.
+
+563
+00:54:50,786 --> 00:54:57,010
+[SPEAKER_01]: So, you stepping outside of the entire possibility of the sensual world and sensual pulls, it's a tremendous relief.
+
+564
+00:54:58,330 --> 00:55:03,493
+[SPEAKER_01]: That's why first jhāna is modern enough to become an arahant, an anāgāmī.
+
+565
+00:55:04,454 --> 00:55:11,738
+[SPEAKER_00]: And the Buddha mentions in some suttas that unlike pleasure of the senses, there's nothing blameworthy.
+
+566
+00:55:11,978 --> 00:55:12,598
+[SPEAKER_01]: Yeah.
+
+567
+00:55:12,618 --> 00:55:14,239
+[SPEAKER_01]: Yeah, because you can't crave.
+
+568
+00:55:14,912 --> 00:55:18,194
+[SPEAKER_01]: You can't crave for more of a relief.
+
+569
+00:55:19,294 --> 00:55:22,996
+[SPEAKER_01]: You're either relieved of that which was a problem, or you're not.
+
+570
+00:55:24,837 --> 00:55:28,119
+[SPEAKER_01]: If you're relieved from a problem, it means there's no more problem whatsoever.
+
+571
+00:55:28,760 --> 00:55:29,640
+[SPEAKER_01]: It's a full relief.
+
+572
+00:55:30,480 --> 00:55:31,901
+[SPEAKER_01]: So, you can't crave for more of it.
+
+573
+00:55:31,921 --> 00:55:36,024
+[SPEAKER_01]: It's just inconceivable.
+
+574
+00:55:36,044 --> 00:55:40,526
+[SPEAKER_01]: That's why you can't crave for more of the pleasure of the relief, the pleasure of the jhāna.
+
+575
+00:55:41,665 --> 00:55:47,669
+[SPEAKER_01]: If people crave for it, if people think, oh, you can't have enough of it, or you need more of it, that's just another sensuality.
+
+576
+00:55:48,350 --> 00:55:51,071
+[SPEAKER_01]: That's the definition of sensuality.
+
+577
+00:55:51,151 --> 00:55:52,612
+[SPEAKER_01]: Wanting more, needing more.
+
+578
+00:55:55,014 --> 00:55:57,396
+[SPEAKER_00]: So, in that context, it may be getting a little ahead.
+
+579
+00:55:58,076 --> 00:56:04,420
+[SPEAKER_00]: But, like, in terms of, like, the further jhānas, then, obviously, they become more refined, more things...
+
+580
+00:56:04,781 --> 00:56:06,642
+[SPEAKER_01]: It's the refinement of the same principle.
+
+581
+00:56:07,632 --> 00:56:17,514
+[SPEAKER_01]: So, as I said, you have abandoned the counterpart of your sense objects, of your sense bases, of your body, which is basically the sense object, is the counterpart.
+
+582
+00:56:18,214 --> 00:56:21,355
+[SPEAKER_01]: And what's in front of you is the thinking and pondering.
+
+583
+00:56:21,435 --> 00:56:24,356
+[SPEAKER_01]: But then, you can go further and abandon thinking and pondering.
+
+584
+00:56:25,736 --> 00:56:29,017
+[SPEAKER_01]: Then, what's in front of you is the clarity of your mindfulness, and so on.
+
+585
+00:56:29,997 --> 00:56:34,018
+[SPEAKER_01]: And that's why often it would carry on into those other kind of immaterial establishments.
+
+586
+00:56:34,848 --> 00:56:38,251
+[SPEAKER_01]: By following the same principles, the four jhānas, then, oh, well, is there more?
+
+587
+00:56:38,591 --> 00:56:42,754
+[SPEAKER_01]: Well, the phenomenon of space, the phenomenon of consciousness, the infinity of space, and so on.
+
+588
+00:56:43,434 --> 00:56:46,997
+[SPEAKER_01]: And then, eventually, the cessation of perception of feeling, and there is no more than that.
+
+589
+00:56:47,638 --> 00:56:52,761
+[SPEAKER_01]: But, as I said, whether it's the cessation of perception of feeling, or it's the first jhāna, the principle of the establishment is the same.
+
+590
+00:56:53,182 --> 00:56:56,424
+[SPEAKER_01]: That's why the first jhāna is sufficient for Arahantship.
+
+591
+00:56:58,606 --> 00:57:04,290
+[SPEAKER_01]: Because it's upon the understanding of the principle, that you develop the liberation and wisdom.
+
+592
+00:57:08,932 --> 00:57:13,214
+[SPEAKER_00]: Accompanying this sometimes simile is a given...
+
+593
+00:57:13,814 --> 00:57:19,536
+[SPEAKER_00]: I'll give the... read out the one that the first jhāna has.
+
+594
+00:57:20,557 --> 00:57:24,038
+[SPEAKER_00]: This is from Dīgha Nikāya number two.
+
+595
+00:57:24,658 --> 00:57:29,320
+[SPEAKER_00]: It starts with the reading... it starts with the first jhāna formula and then it says
+
+596
+00:57:30,036 --> 00:57:34,138
+[SPEAKER_00]: He fills this very body with rapture and happiness-born seclusion.
+
+597
+00:57:34,739 --> 00:57:37,540
+[SPEAKER_00]: He suffuses this very body with it.
+
+598
+00:57:37,660 --> 00:57:39,741
+[SPEAKER_00]: He makes the very body full of it.
+
+599
+00:57:40,062 --> 00:57:47,706
+[SPEAKER_00]: He pervades the very body with it, so that there is nothing in the entire body which is not pervaded by this rapture and happiness-born seclusion.
+
+600
+00:57:48,430 --> 00:57:56,296
+[SPEAKER_00]: Then, it gives a simile of, like, sprinkled some bath powder, kneading it with moisture and stuff.
+
+601
+00:57:56,936 --> 00:58:01,660
+[SPEAKER_00]: So, it seems to me, this could be very easily misconceived as, like, an energy flow exercise.
+
+602
+00:58:01,720 --> 00:58:02,701
+[SPEAKER_00]: Sure, sure.
+
+603
+00:58:02,741 --> 00:58:05,783
+[SPEAKER_00]: How should we understand it properly?
+
+604
+00:58:06,003 --> 00:58:09,546
+[SPEAKER_01]: Again, you have to come back to that notion of relief.
+
+605
+00:58:10,747 --> 00:58:16,471
+[SPEAKER_01]: So, imagine you've been harassed by something, say, a wild animal that you've been chained to.
+
+606
+00:58:17,108 --> 00:58:19,710
+[SPEAKER_01]: When the animal ran, you were just dragged with it.
+
+607
+00:58:20,850 --> 00:58:27,554
+[SPEAKER_01]: Then, you were either basically at the mercy of an animal, or you had to fight it back, and constantly drag it, and sort of dig your heels in, and endure it.
+
+608
+00:58:29,396 --> 00:58:39,482
+[SPEAKER_01]: And if you don't know that the problem is not the animal, but you being bound up with it, because of that, subjected to the things that animal wants,
+
+609
+00:58:41,040 --> 00:58:43,922
+[SPEAKER_01]: Because of not knowing that, you don't know how to free yourself from it.
+
+610
+00:58:44,602 --> 00:58:51,507
+[SPEAKER_01]: In other words, people might be blaming what animal wants to get, what animal wants to eat, where it drags you, might be blaming the animal.
+
+611
+00:58:52,167 --> 00:58:58,051
+[SPEAKER_01]: They don't know how to leave the animal alone, nor do they know how to step outside from the the animal range.
+
+612
+00:58:59,292 --> 00:59:04,575
+[SPEAKER_01]: But if you do, then you can literally have it sitting right in front of you, but you know you won't go there with your hand.
+
+613
+00:59:05,656 --> 00:59:07,337
+[SPEAKER_01]: You won't get hooked again onto it.
+
+614
+00:59:08,037 --> 00:59:09,979
+[SPEAKER_01]: And if you're not hooked, it won't do anything to you.
+
+615
+00:59:11,117 --> 00:59:22,221
+[SPEAKER_01]: So, it's mindfulness of that relief in regard to the extent for which you neither indulge, nor deny, nor try to get rid of.
+
+616
+00:59:23,241 --> 00:59:26,182
+[SPEAKER_01]: So, recognizing the right amount, discerning it.
+
+617
+00:59:26,582 --> 00:59:33,165
+[SPEAKER_01]: That's another sutra where the Buddha said the monk doesn't attain the jhāna because he does not attend to the theme of the jhāna.
+
+618
+00:59:33,685 --> 00:59:39,207
+[SPEAKER_01]: Basically, he does not attend to the theme of the extent that he needs to develop.
+
+619
+00:59:41,107 --> 00:59:48,611
+[SPEAKER_01]: Of extent of not completely ignoring, but not completely indulging either, not trying to get rid of, but not pretending it's not there as well.
+
+620
+00:59:50,012 --> 00:59:54,975
+[SPEAKER_01]: So, that's why, in order to attend to the theme of something, you need to know what that theme is.
+
+621
+00:59:55,135 --> 00:59:56,656
+[SPEAKER_01]: You need to have a hint.
+
+622
+00:59:56,696 --> 00:59:59,138
+[SPEAKER_01]: You need to have signs and tokens of that theme.
+
+623
+00:59:59,658 --> 01:00:03,300
+[SPEAKER_01]: And the simile the Buddha gave is that cow, the mountain cow that
+
+624
+01:00:03,733 --> 01:00:13,618
+[SPEAKER_01]: wants to go to the pastures that hasn't been before, and then steps on one rock, but without sort of steadying itself in it regularly, he wants to step on the other one, and then falls in between the two.
+
+625
+01:00:14,579 --> 01:00:17,901
+[SPEAKER_01]: So, jhāna is not like a culmination of some practice.
+
+626
+01:00:18,301 --> 01:00:19,902
+[SPEAKER_01]: Jhāna is the right practice.
+
+627
+01:00:19,982 --> 01:00:20,722
+[SPEAKER_01]: That's the culmination.
+
+628
+01:00:20,742 --> 01:00:22,203
+[SPEAKER_01]: There is no culmination to it.
+
+629
+01:00:23,264 --> 01:00:29,407
+[SPEAKER_01]: The joy of jhāna is the joy of doing it, so to speak, in that correct manner, which is a manner of non-doing, pretty much.
+
+630
+01:00:30,227 --> 01:00:31,448
+[SPEAKER_01]: That's why you can't pray for it.
+
+631
+01:00:32,212 --> 01:00:34,053
+[SPEAKER_01]: You can crave only for something that's an object.
+
+632
+01:00:34,073 --> 01:00:36,975
+[SPEAKER_01]: You can't crave for something that has no goal in it.
+
+633
+01:00:38,455 --> 01:00:43,338
+[SPEAKER_01]: So, the goal of jhāna is the doing the theme of jhāna, not the result of jhāna.
+
+634
+01:00:43,818 --> 01:00:46,499
+[SPEAKER_01]: The pleasure of jhāna is the pleasure of doing the jhāna.
+
+635
+01:00:47,280 --> 01:00:52,443
+[SPEAKER_01]: Oh, he pervades it like this, he pervades it like that, he thinks, he ponders, he withdraws, he studies it.
+
+636
+01:00:53,083 --> 01:00:55,244
+[SPEAKER_01]: That's where the pleasure comes from.
+
+637
+01:00:55,404 --> 01:00:59,706
+[SPEAKER_01]: Usually, people think, I'll do this, I'll meditate, I'll concentrate, I'll concentrate, and then I have the experience, and
+
+638
+01:01:01,322 --> 01:01:05,823
+[SPEAKER_01]: The culmination of joy and whatever light, that's my jhāna.
+
+639
+01:01:05,863 --> 01:01:06,003
+[SPEAKER_01]: No.
+
+640
+01:01:06,143 --> 01:01:12,425
+[SPEAKER_01]: Jhāna is that doing which means you can be doing the jhāna without still getting the pleasure of jhāna.
+
+641
+01:01:13,705 --> 01:01:16,446
+[SPEAKER_01]: That's why your mind hasn't been steadied in the jhāna.
+
+642
+01:01:16,566 --> 01:01:18,247
+[SPEAKER_01]: But that doesn't mean you're not doing the jhāna.
+
+643
+01:01:18,947 --> 01:01:26,149
+[SPEAKER_01]: That's why, again, as I said before, you can do other practices that would equal to the strength of the mind of the jhāna, but not steady your mind in jhāna.
+
+644
+01:01:28,329 --> 01:01:30,170
+[SPEAKER_01]: The pleasure of jhāna is the pleasure of doing it.
+
+645
+01:01:31,227 --> 01:01:48,233
+[SPEAKER_01]: Which means people should stop expecting the great kind of tremendous fountain of joy pouring out as an ecstatic result of their concentration practice, but instead focus on discerning and fully understanding what the theme of jhāna is, which is a theme of surmounting the central domain, and then do it.
+
+646
+01:01:49,253 --> 01:01:51,814
+[SPEAKER_01]: And through doing it, it's going to become pleasant doing it.
+
+647
+01:01:52,454 --> 01:02:02,178
+[SPEAKER_01]: And once you become established upon that pleasure and experience that relief that, oh, while I'm engaged like this, while I'm established like this, no amount of unwholesome can enter me.
+
+648
+01:02:02,358 --> 01:02:03,778
+[SPEAKER_01]: And that's just a tremendous relief.
+
+649
+01:02:04,759 --> 01:02:07,220
+[SPEAKER_01]: And that's what pleasure of jhāna is.
+
+650
+01:02:07,260 --> 01:02:08,480
+[SPEAKER_01]: Pleasure of doing it rightly.
+
+651
+01:02:11,581 --> 01:02:12,582
+[SPEAKER_01]: And then, is there further?
+
+652
+01:02:12,862 --> 01:02:13,242
+[SPEAKER_01]: There is.
+
+653
+01:02:13,262 --> 01:02:14,122
+[SPEAKER_01]: There's a second jhāna.
+
+654
+01:02:14,142 --> 01:02:14,702
+[SPEAKER_01]: Is there further?
+
+655
+01:02:14,722 --> 01:02:15,143
+[SPEAKER_01]: There's a third.
+
+656
+01:02:15,463 --> 01:02:16,343
+[SPEAKER_01]: There is a fourth jhāna.
+
+657
+01:02:17,583 --> 01:02:23,345
+[SPEAKER_01]: So, it's very, sort of, it can be a big obstacle for people, the ingrained assumption.
+
+658
+01:02:23,446 --> 01:02:26,227
+[SPEAKER_01]: And I'm speaking from my own experience.
+
+659
+01:02:26,387 --> 01:02:34,230
+[SPEAKER_01]: The expecting, like jhānas or whatever, samādhi, to result in this experience, that kind of overwhelms you.
+
+660
+01:02:34,370 --> 01:02:36,211
+[SPEAKER_01]: But actually, it doesn't result in it.
+
+661
+01:02:37,311 --> 01:02:38,092
+[SPEAKER_01]: You build it.
+
+662
+01:02:38,872 --> 01:02:44,314
+[SPEAKER_01]: And through building it, that's where your pleasure gets experienced.
+
+663
+01:02:44,374 --> 01:02:45,655
+[SPEAKER_01]: And that's why you can't crave for it.
+
+664
+01:02:47,948 --> 01:02:49,769
+[SPEAKER_01]: Because it's not something that's given that you want.
+
+665
+01:02:50,429 --> 01:02:51,690
+[SPEAKER_01]: It's either you do it or you don't do it.
+
+666
+01:02:52,030 --> 01:02:54,071
+[SPEAKER_01]: If you don't do it, you can't have it.
+
+667
+01:02:54,111 --> 01:02:57,192
+[SPEAKER_01]: So, you... it's inconceivable to even crave it.
+
+668
+01:03:00,294 --> 01:03:03,595
+[SPEAKER_01]: So, studying the mind in the theme of jhāna is the practice of jhāna.
+
+669
+01:03:04,176 --> 01:03:08,418
+[SPEAKER_01]: Even if there is no pleasure in regard to it yet, there is a practice of jhāna.
+
+670
+01:03:08,458 --> 01:03:09,538
+[SPEAKER_01]: He's cultivating jhāna.
+
+671
+01:03:10,099 --> 01:03:11,699
+[SPEAKER_01]: He's studying his mind in the jhāna.
+
+672
+01:03:11,719 --> 01:03:13,860
+[SPEAKER_01]: He's attending to the theme of jhāna rightly.
+
+673
+01:03:14,901 --> 01:03:17,162
+[SPEAKER_01]: If that's developed to a sufficient degree,
+
+674
+01:03:18,057 --> 01:03:23,944
+[SPEAKER_01]: Through sufficient repetition and diligence, again, that's why we always praise diligence as well, because it's not given.
+
+675
+01:03:24,604 --> 01:03:34,435
+[SPEAKER_01]: Then, you will recognize that that experience in itself is the experience of that joy and freedom from that, freedom from pressure, freedom from pull, that you haven't been recognizing.
+
+676
+01:03:34,515 --> 01:03:34,735
+[SPEAKER_01]: Why?
+
+677
+01:03:34,755 --> 01:03:38,740
+[SPEAKER_01]: Because you haven't fully discerned the theme of the jhāna, the extent of it.
+
+678
+01:03:40,315 --> 01:03:41,296
+[SPEAKER_01]: Because that's the whole point.
+
+679
+01:03:41,516 --> 01:03:48,059
+[SPEAKER_01]: You live next to the wild beast that drags you left and right, but you don't recognize when that beast is left alone.
+
+680
+01:03:48,940 --> 01:03:51,761
+[SPEAKER_01]: By not recognizing, you don't know how to cultivate it.
+
+681
+01:03:51,781 --> 01:03:54,883
+[SPEAKER_01]: So, you keep interfering with it, and you keep paying the price.
+
+682
+01:03:58,282 --> 01:04:04,005
+[SPEAKER_00]: So, if someone has the idea like, I want jhāna, they don't understand jhāna...
+
+683
+01:04:04,065 --> 01:04:04,586
+[SPEAKER_01]: Exactly.
+
+684
+01:04:04,926 --> 01:04:12,510
+[SPEAKER_01]: I want jhāna, they should divorce that idea from the almost natural expectation, oh, I want that great experience of pleasure.
+
+685
+01:04:13,091 --> 01:04:17,153
+[SPEAKER_01]: Because that's just another craving for pleasure, which is another craving for sensuality.
+
+686
+01:04:17,934 --> 01:04:20,995
+[SPEAKER_01]: That's why, as the Buddha said, most people end up meditating with sensuality.
+
+687
+01:04:22,456 --> 01:04:24,998
+[SPEAKER_01]: So, if somebody wants the jhāna, and you should want jhāna,
+
+688
+01:04:25,931 --> 01:04:35,141
+[SPEAKER_01]: Then, somebody must make all the effort to understand what that jhāna is, phenomenologically, mindfully, to be seen for what it is, the extent.
+
+689
+01:04:35,461 --> 01:04:43,049
+[SPEAKER_01]: Because again, the Buddha didn't say, oh, the monk doesn't know what jhāna is and he falls between these two rocks, same like the cow between those rocks, sorry.
+
+690
+01:04:43,951 --> 01:04:52,894
+[SPEAKER_01]: He said the monk doesn't attend to the theme of the jhāna, because not attending this particular extent, so not too much, not too little, this is the theme.
+
+691
+01:04:53,514 --> 01:04:57,896
+[SPEAKER_01]: By not attending it, he doesn't establish it.
+
+692
+01:04:57,916 --> 01:04:58,816
+[SPEAKER_01]: Which means he has it.
+
+693
+01:04:58,996 --> 01:04:59,717
+[SPEAKER_01]: Everybody has it.
+
+694
+01:05:01,317 --> 01:05:03,078
+[SPEAKER_01]: But nobody knows what it is.
+
+695
+01:05:03,118 --> 01:05:04,578
+[SPEAKER_01]: That's why they can't attend to it rightly.
+
+696
+01:05:05,399 --> 01:05:08,960
+[SPEAKER_01]: And that's why they expect it wrongly, so to speak.
+
+697
+01:05:11,668 --> 01:05:25,394
+[SPEAKER_00]: So, so it's basically that you're saying, if, please correct me if I'm wrong, that it's like, it's the pleasure of understanding a jhāna is the pleasure of the jhāna.
+
+698
+01:05:25,594 --> 01:05:26,295
+[SPEAKER_00]: Yeah, sure.
+
+699
+01:05:29,116 --> 01:05:33,858
+[SPEAKER_01]: Once the mind has recognized itself being established in that jhāna,
+
+700
+01:05:34,427 --> 01:05:36,188
+[SPEAKER_01]: That's already that pleasure of that jhāna.
+
+701
+01:05:36,348 --> 01:05:37,308
+[SPEAKER_01]: Yeah, that makes sense.
+
+702
+01:05:37,328 --> 01:05:39,909
+[SPEAKER_01]: It's like if you don't know you're relieved, then you're not relieved.
+
+703
+01:05:40,529 --> 01:05:43,250
+[SPEAKER_01]: That's why you cultivate the pleasure of jhāna.
+
+704
+01:05:44,871 --> 01:05:50,013
+[SPEAKER_01]: It's not given to you through some practice of some technique or something, and then the pleasure of jhāna comes over you.
+
+705
+01:05:50,553 --> 01:05:53,914
+[SPEAKER_01]: If pleasure is like that, that's the pleasure you can crave for.
+
+706
+01:05:53,974 --> 01:05:56,435
+[SPEAKER_01]: And if you can crave for it, it means it's not the pleasure of the jhāna.
+
+707
+01:05:57,315 --> 01:06:01,257
+[SPEAKER_01]: Because as the Buddha said, those... that pleasure is wholesome because you can't crave for it.
+

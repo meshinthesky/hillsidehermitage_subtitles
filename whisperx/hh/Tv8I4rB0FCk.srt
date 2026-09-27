@@ -1,0 +1,2028 @@
+1
+00:00:03,308 --> 00:00:22,801
+[SPEAKER_01]: So, I was kind of prompted by one of the things you mentioned in the last discussion we had about, you know, these various contexts that would describe different contemplations or developments.
+
+2
+00:00:23,241 --> 00:00:28,825
+[SPEAKER_01]: And then, at the end, the Buddha would say, now, practice jhāna, don't be negligent.
+
+3
+00:00:31,086 --> 00:00:31,887
+[SPEAKER_01]: And so, basically,
+
+4
+00:00:37,104 --> 00:00:41,345
+[SPEAKER_01]: It's about jhāna, basically.
+
+5
+00:00:41,565 --> 00:00:42,465
+[SPEAKER_01]: It's something that...
+
+6
+00:00:47,587 --> 00:01:05,471
+[SPEAKER_01]: I think I have like this kind of notion lingering still, or part of it, that from kind of the views I would have had before, that jhāna is like this very specific lofty state that
+
+7
+00:01:07,003 --> 00:01:10,527
+[SPEAKER_01]: It's almost like...
+
+8
+00:01:11,849 --> 00:01:15,112
+[SPEAKER_01]: I mean, the way I used to be, it was like a kind of taboo, almost.
+
+9
+00:01:15,413 --> 00:01:20,519
+[SPEAKER_01]: When I would read this, I kind of can't allow myself to even sort of think.
+
+10
+00:01:20,639 --> 00:01:20,859
+[SPEAKER_01]: But...
+
+11
+00:01:23,032 --> 00:01:29,173
+[SPEAKER_01]: And it was kind of... that was one of the reasons that I was finding this PDF kind of useful.
+
+12
+00:01:29,253 --> 00:01:30,194
+[SPEAKER_01]: It's the way he presents it.
+
+13
+00:01:30,234 --> 00:01:34,355
+[SPEAKER_01]: It's like, well, actually, that should be the... that is the meditation, basically.
+
+14
+00:01:34,575 --> 00:01:35,195
+[SPEAKER_03]: That is the training.
+
+15
+00:01:35,215 --> 00:01:36,095
+[SPEAKER_01]: That is the training.
+
+16
+00:01:36,395 --> 00:01:38,436
+[SPEAKER_01]: That's how you should be spending most of your day.
+
+17
+00:01:38,476 --> 00:01:38,916
+[SPEAKER_03]: Yeah.
+
+18
+00:01:40,476 --> 00:01:44,037
+[SPEAKER_03]: And by meditation does not mean concentration.
+
+19
+00:01:44,237 --> 00:01:44,977
+[SPEAKER_03]: Yes.
+
+20
+00:01:45,017 --> 00:01:52,599
+[SPEAKER_03]: Meditation meaning in the original sort of usage of that word, which is basically to contemplate, reflect,
+
+21
+00:01:53,454 --> 00:01:55,255
+[SPEAKER_03]: Ponder.
+
+22
+00:01:55,475 --> 00:01:57,336
+[SPEAKER_03]: And actually, yeah, I think I looked into that.
+
+23
+00:01:58,397 --> 00:02:03,140
+[SPEAKER_03]: It comes from the Latin, the same root as to medicate, to heal.
+
+24
+00:02:05,161 --> 00:02:11,525
+[SPEAKER_03]: So, it was when you basically develop a mental clarity that results in healing up of mental suffering.
+
+25
+00:02:12,566 --> 00:02:14,907
+[SPEAKER_03]: Even originally, that's how it was, what it meant.
+
+26
+00:02:15,508 --> 00:02:19,950
+[SPEAKER_03]: Like, to develop that clarity and understanding that will heal you, so to speak, internally.
+
+27
+00:02:20,791 --> 00:02:21,932
+[SPEAKER_03]: That's what meditation means.
+
+28
+00:02:22,930 --> 00:02:25,511
+[SPEAKER_03]: It's like, yeah, the first healing up would be the first jhāna.
+
+29
+00:02:27,052 --> 00:02:28,353
+[SPEAKER_03]: Oh, is there more than this?
+
+30
+00:02:28,393 --> 00:02:31,434
+[SPEAKER_03]: Oh, yeah, there's a second one, there's a third one, there's a fourth one, and so on.
+
+31
+00:02:32,755 --> 00:02:40,739
+[SPEAKER_03]: But, eh... That's why I don't like the word meditation, because it's just impossible to separate it from concentration practices today.
+
+32
+00:02:40,759 --> 00:02:42,200
+[SPEAKER_03]: It doesn't matter how much you qualify it.
+
+33
+00:02:45,621 --> 00:02:48,783
+[SPEAKER_03]: So, yeah, go on.
+
+34
+00:02:48,823 --> 00:02:50,744
+[SPEAKER_03]: So, if you're meditating in that sense,
+
+35
+00:02:51,670 --> 00:02:56,074
+[SPEAKER_03]: Purifying your mind from the unwholesome states, the whole day, you are practicing jhāna.
+
+36
+00:02:58,235 --> 00:03:02,339
+[SPEAKER_03]: And jhāna is lofty from the point of view of those who don't have it.
+
+37
+00:03:03,039 --> 00:03:04,521
+[SPEAKER_01]: Yeah, that's...
+
+38
+00:03:04,581 --> 00:03:05,441
+[SPEAKER_03]: It's mystified.
+
+39
+00:03:05,762 --> 00:03:06,882
+[SPEAKER_03]: That's what I mean by lofty.
+
+40
+00:03:08,584 --> 00:03:18,512
+[SPEAKER_03]: But if you're actually practicing the jhānas the way the suttas describe, as we mentioned today, like you have so many suttas that talk about jhāna,
+
+41
+00:03:19,668 --> 00:03:47,093
+[SPEAKER_03]: In the section on samādhi or whatever, like Samana Pālasutta, it clearly stops saying indriya samvara, restraining of your senses, then leads to... he doesn't get... he doesn't grasp the nimittas of the central perceptions, sight, sound, smell, taste, touches, so that things don't invade his mind.
+
+42
+00:03:47,985 --> 00:03:50,507
+[SPEAKER_03]: He goes about his days training like that.
+
+43
+00:03:51,427 --> 00:03:52,108
+[SPEAKER_03]: Day in, day out.
+
+44
+00:03:52,208 --> 00:03:52,708
+[SPEAKER_03]: Doesn't matter.
+
+45
+00:03:55,110 --> 00:03:58,952
+[SPEAKER_03]: So, first containing his senses, then stuff that comes up internally.
+
+46
+00:03:58,972 --> 00:04:01,134
+[SPEAKER_03]: He's not fueling it, latching on to it.
+
+47
+00:04:01,154 --> 00:04:02,255
+[SPEAKER_03]: He's not trying to get rid of it.
+
+48
+00:04:02,375 --> 00:04:03,936
+[SPEAKER_03]: It's not his creation.
+
+49
+00:04:04,536 --> 00:04:08,459
+[SPEAKER_03]: He's just basically not grasping the baits that are being presented mentally.
+
+50
+00:04:08,919 --> 00:04:10,080
+[SPEAKER_03]: And who knows for how long?
+
+51
+00:04:10,921 --> 00:04:17,345
+[SPEAKER_03]: Then the sūtra says, on another occasion, then, he does not... he overcomes the sensual desire,
+
+52
+00:04:18,123 --> 00:04:30,967
+[SPEAKER_03]: He overcomes the ill-will, he overcomes self-interpol, restlessness, he overcomes doubt, and then he starts giving the example... Oh, he goes to seclusion, he starts frequently the secluded dwellings, basically empty of people, empty of others.
+
+53
+00:04:31,387 --> 00:04:33,708
+[SPEAKER_03]: Again, for who knows how long?
+
+54
+00:04:35,208 --> 00:04:36,628
+[SPEAKER_03]: Well, for as long as it's necessary.
+
+55
+00:04:38,029 --> 00:04:41,670
+[SPEAKER_03]: Then the mind is withdrawn from the hindrances, then he feels the release from the
+
+56
+00:04:42,301 --> 00:04:49,664
+[SPEAKER_03]: sense of being indebted, being enslaved, being imprisoned, being starved, all those things.
+
+57
+00:04:50,444 --> 00:04:53,285
+[SPEAKER_03]: And then, he enters and abides in the first jhāna.
+
+58
+00:04:54,366 --> 00:04:58,047
+[SPEAKER_03]: So, it's like, oh, that's the practice, that's the method, quote-unquote, of jhāna.
+
+59
+00:04:59,748 --> 00:05:05,610
+[SPEAKER_03]: It's taming of the senses, not giving in to the mental images, not allowing them the center stage, as we say.
+
+60
+00:05:05,670 --> 00:05:08,131
+[SPEAKER_03]: That's basically what it means, not grasping the signs and features.
+
+61
+00:05:11,191 --> 00:05:34,462
+[SPEAKER_03]: Spending most of the time in seclusion, with that mental attitude, practicing those those contexts and purifications, literally, meditations, healing ups, cleaning ups, and then the mind is, basically, feels like it's relieved of the burden and the debt and the enslavement.
+
+62
+00:05:35,082 --> 00:05:36,003
+[SPEAKER_03]: And that's the first jhāna.
+
+63
+00:05:37,704 --> 00:05:40,705
+[SPEAKER_03]: So, somebody who starts practicing that,
+
+64
+00:05:41,773 --> 00:06:08,238
+[SPEAKER_03]: The more they're purifying these things, the more they're investing time in that sort of correct taming, well, the less mystical jhāna will feel, because they're effectively going to be relieving themselves of that assumed weight of some sort of duty, as I said, burden, enslavement, and so on.
+
+65
+00:06:11,698 --> 00:06:19,501
+[SPEAKER_03]: But for some bizarre reason, that's completely omitted from the modern view of what jhāna is and how to practice.
+
+66
+00:06:19,701 --> 00:06:26,244
+[SPEAKER_03]: Modern Buddhist view, modern scholar view, modern early Buddhist texts, sutta study views.
+
+67
+00:06:26,884 --> 00:06:32,627
+[SPEAKER_03]: It's like, no, jhāna is this method that you that you practice mechanically.
+
+68
+00:06:33,267 --> 00:06:38,509
+[SPEAKER_03]: They will somehow unify your mind magically into this state of elevated concentration.
+
+69
+00:06:38,569 --> 00:06:40,570
+[SPEAKER_03]: And that will help you see things clearly.
+
+70
+00:06:41,797 --> 00:06:44,818
+[SPEAKER_03]: It's not that you don't see things clearly, because you're not concentrated enough.
+
+71
+00:06:44,858 --> 00:06:51,602
+[SPEAKER_03]: You don't see them clearly, because you keep throwing the pollutions in the water, through your body, speech and mind actions, that you are completely unaware of.
+
+72
+00:06:54,243 --> 00:06:58,325
+[SPEAKER_03]: Like, literally, you are mudding the water yourself, while you're trying to see what's at the bottom of it.
+
+73
+00:07:00,626 --> 00:07:06,148
+[SPEAKER_03]: So, it's like, you gotta stop doing it, and then you... that's already purpose served.
+
+74
+00:07:07,329 --> 00:07:11,471
+[SPEAKER_03]: Why would you then need to practice some method of absorbing yourself into a single object?
+
+75
+00:07:12,169 --> 00:07:13,210
+[SPEAKER_03]: When things are already clear.
+
+76
+00:07:15,031 --> 00:07:21,934
+[SPEAKER_03]: No, it's just predicated on the view that somehow concentration will magically take me to the place I want to be.
+
+77
+00:07:25,016 --> 00:07:26,737
+[SPEAKER_03]: Without me grinding my way to it.
+
+78
+00:07:29,739 --> 00:07:36,162
+[SPEAKER_03]: So, it's like... All these people talk about jhānas and they talk about what, like, how to get them.
+
+79
+00:07:36,762 --> 00:07:41,645
+[SPEAKER_03]: Through indriya samadha, seclusion, not grasping the signs and features, overcoming hindrances.
+
+80
+00:07:42,159 --> 00:07:43,880
+[SPEAKER_03]: And then mention jhānas as a result of that.
+
+81
+00:07:44,700 --> 00:07:48,642
+[SPEAKER_03]: And this whole stuff that precedes the jhāna is just overlooked.
+
+82
+00:07:49,583 --> 00:08:00,428
+[SPEAKER_03]: And then all people see is the jhāna, and thinking and pondering, and they try to make sense of that, and how to do it, and how to apply, how to sustain the thought, or how to evaluate rightly, how to attend to it.
+
+83
+00:08:01,189 --> 00:08:05,711
+[SPEAKER_03]: It's like, no, that's the result of all this stuff that you, well, should have done.
+
+84
+00:08:08,618 --> 00:08:27,145
+[SPEAKER_03]: And if you take it that way, you realize, yeah, you practice jhāna for years, overcoming hindrances, not allowing the center stage of unsuitable images while they're there trying to pressure you, enduring them on that level, not feeding them, not reaching out to get rid of them through aversion.
+
+85
+00:08:27,785 --> 00:08:29,606
+[SPEAKER_03]: It's like, yeah, you're practicing jhāna.
+
+86
+00:08:32,827 --> 00:08:35,828
+[SPEAKER_01]: Basically sustaining that until it becomes like the
+
+87
+00:08:39,849 --> 00:08:42,751
+[SPEAKER_01]: way your mind is established.
+
+88
+00:08:43,372 --> 00:08:43,572
+[SPEAKER_03]: Yes.
+
+89
+00:08:44,593 --> 00:08:44,773
+[SPEAKER_03]: Yes.
+
+90
+00:08:44,793 --> 00:09:05,989
+[SPEAKER_03]: So, like, for example, say, you are restraining your senses, you're not allowing the center stage of nimittas to take over, you are not... you are dwelling in seclusion and your mind is free from hindrances, even if for a brief period of time.
+
+91
+00:09:07,620 --> 00:09:19,009
+[SPEAKER_03]: Even if you don't necessarily feel the relief of crossing the desert successfully or paying the debt and being released from a prison, that was still jhāna.
+
+92
+00:09:20,230 --> 00:09:22,792
+[SPEAKER_03]: It's just obviously jhāna that you haven't steadied your mind in.
+
+93
+00:09:23,593 --> 00:09:29,458
+[SPEAKER_03]: And once you do, then these pleasures of relief will come that you can pervade your body with.
+
+94
+00:09:31,099 --> 00:09:33,341
+[SPEAKER_03]: But pleasure of jhāna is not the jhāna.
+
+95
+00:09:33,861 --> 00:09:34,822
+[SPEAKER_03]: That's the result of it.
+
+96
+00:09:35,182 --> 00:09:35,783
+[SPEAKER_03]: That's the point.
+
+97
+00:09:36,575 --> 00:09:39,657
+[SPEAKER_03]: So, that's why those suttas start to make sense more.
+
+98
+00:09:40,338 --> 00:09:45,042
+[SPEAKER_03]: When we say practice jhāna even for a finger snap, it will be very... it will be streams of merit.
+
+99
+00:09:45,582 --> 00:09:50,446
+[SPEAKER_03]: People will think, ah, for a finger snap of experiencing this ecstatic pleasure means... No.
+
+100
+00:09:50,946 --> 00:09:51,607
+[SPEAKER_03]: Practice it.
+
+101
+00:09:52,828 --> 00:09:54,769
+[SPEAKER_03]: You're not practicing the ecstasy of pleasure.
+
+102
+00:09:56,431 --> 00:09:56,831
+[SPEAKER_03]: Exactly.
+
+103
+00:09:57,511 --> 00:10:05,818
+[SPEAKER_03]: Practice it means, no, no, no, you making the right effort on the right level, and even if it's set up rightly, even for a finger snap, it will be meritorious.
+
+104
+00:10:07,537 --> 00:10:09,477
+[SPEAKER_03]: Now, imagine if it's longer than a finger snap.
+
+105
+00:10:09,517 --> 00:10:16,359
+[SPEAKER_03]: Well, that's when you would come to realize that you are debt-free, not a slave, across the desert and everything else.
+
+106
+00:10:18,599 --> 00:10:35,082
+[SPEAKER_01]: And actually, that's a kind of a good point as well, because if the emphasis is on that, you know, feeling the sense of relief, being what jhāna is, you would be like, well, kind of blocking it by kind of
+
+107
+00:10:35,415 --> 00:10:37,176
+[SPEAKER_01]: But wait, where is the feeling of relief?
+
+108
+00:10:37,236 --> 00:11:02,554
+[SPEAKER_03]: Where is the... Obviously, that's how you would be... Yeah, well, and even worse, like people, certainly the modern meditation, quote-unquote, masters, they try to reconstruct the supposed pleasure of relief of jhāna through fabricating, basically, physical pleasure, like building it up,
+
+109
+00:11:03,309 --> 00:11:08,551
+[SPEAKER_03]: From sensations, spreading the sensations through your body until they accumulate enough.
+
+110
+00:11:09,351 --> 00:11:11,492
+[SPEAKER_03]: It's like, it's completely upset, like...
+
+111
+00:11:12,333 --> 00:11:13,813
+[SPEAKER_03]: So, it's like, oh, I still haven't...
+
+112
+00:11:14,133 --> 00:11:15,574
+[SPEAKER_03]: I don't even know I'm indebted.
+
+113
+00:11:16,314 --> 00:11:19,315
+[SPEAKER_03]: I don't even recognize my position of being enslaved.
+
+114
+00:11:19,936 --> 00:11:22,737
+[SPEAKER_03]: I just know I'm supposed to feel the relief of it.
+
+115
+00:11:22,757 --> 00:11:30,800
+[SPEAKER_03]: So, I just fabricate it through basically forcing my body to feel it bit by bit, here and there, until it falls...
+
+116
+00:11:31,426 --> 00:11:33,547
+[SPEAKER_03]: Finally, hopefully, magically, adds up.
+
+117
+00:11:34,108 --> 00:11:35,829
+[SPEAKER_03]: And then, that frees me from that.
+
+118
+00:11:36,489 --> 00:11:37,850
+[SPEAKER_03]: Because I feel like I'm that free.
+
+119
+00:11:39,131 --> 00:11:39,291
+[SPEAKER_03]: No.
+
+120
+00:11:39,351 --> 00:11:43,734
+[SPEAKER_03]: Freedom from that comes from recognizing the debt and recognizing that you're free from it.
+
+121
+00:11:44,274 --> 00:11:48,016
+[SPEAKER_03]: Freedom from slavery comes from recognizing that you were enslaved to begin with.
+
+122
+00:11:48,817 --> 00:11:50,018
+[SPEAKER_03]: Freedom from death is the same.
+
+123
+00:11:51,879 --> 00:11:52,199
+[SPEAKER_01]: Actually...
+
+124
+00:11:52,239 --> 00:11:52,819
+[SPEAKER_03]: So, imagine.
+
+125
+00:11:52,940 --> 00:11:53,620
+[SPEAKER_03]: Just imagine that.
+
+126
+00:11:53,660 --> 00:11:59,824
+[SPEAKER_03]: Like... You do recognize now that
+
+127
+00:12:01,378 --> 00:12:17,206
+[SPEAKER_03]: Like, I don't know, you would have to now completely uproot your current life, go back to your home country, because, I don't know, if you don't go there and work and serve and pay off your debt, well, they'll come after you and everybody will be in prison that you know.
+
+128
+00:12:17,486 --> 00:12:18,347
+[SPEAKER_03]: Just something horrible.
+
+129
+00:12:18,407 --> 00:12:19,647
+[SPEAKER_03]: So, you have to go and do it.
+
+130
+00:12:20,448 --> 00:12:23,349
+[SPEAKER_03]: So, you feel the weight of your situation.
+
+131
+00:12:24,510 --> 00:12:27,071
+[SPEAKER_03]: It's like you're not your own master, as the simile says.
+
+132
+00:12:27,131 --> 00:12:30,733
+[SPEAKER_03]: You have to go and do it factually, because, like, you might lose your life if you don't.
+
+133
+00:12:32,513 --> 00:12:46,482
+[SPEAKER_03]: And then, you know, with all that worry, with all that recognition, you go and do it, or for one reason or the other, you basically pay it back through your own effort.
+
+134
+00:12:46,942 --> 00:12:49,124
+[SPEAKER_03]: And now you feel the relief of that.
+
+135
+00:12:50,705 --> 00:12:58,730
+[SPEAKER_03]: That relief will be physically felt for days, depending on how much debt there was, especially if your life was at stake.
+
+136
+00:12:58,810 --> 00:12:59,150
+[SPEAKER_03]: Or same,
+
+137
+00:13:00,735 --> 00:13:02,457
+[SPEAKER_03]: Terminal illness, as we said before.
+
+138
+00:13:02,957 --> 00:13:13,806
+[SPEAKER_03]: And then, you suddenly realize, after living under that diagnosis for, like, say, a year, and then you realize, then they tell you, no, sorry, it was wrong, you're healthy, it's fine.
+
+139
+00:13:14,787 --> 00:13:18,250
+[SPEAKER_03]: You would feel relieved for days, physically.
+
+140
+00:13:18,930 --> 00:13:29,319
+[SPEAKER_03]: Like, whether you sit, walk, lay down, doesn't matter, you're gonna feel physical pleasure of the just sense of ease that comes out of it.
+
+141
+00:13:30,456 --> 00:13:38,278
+[SPEAKER_03]: That's why all the jhānas, when they describe the pleasure, it's compared to coolness and cool breeze or cool water or clear cool pond.
+
+142
+00:13:39,838 --> 00:13:42,978
+[SPEAKER_03]: So, yes, it's felt physically on account of mental relief.
+
+143
+00:13:44,199 --> 00:13:48,760
+[SPEAKER_03]: But now imagine you just trying to fabricate the relief while your diagnosis hasn't changed.
+
+144
+00:13:48,840 --> 00:13:50,280
+[SPEAKER_03]: You haven't found a way out of illness.
+
+145
+00:13:51,140 --> 00:13:52,720
+[SPEAKER_03]: That's modern meditation techniques.
+
+146
+00:13:54,421 --> 00:13:55,521
+[SPEAKER_03]: Completely upside down.
+
+147
+00:14:04,662 --> 00:14:29,103
+[SPEAKER_01]: I was going to say, like, in a way, at least from memory now, but in the way that that passage goes in the suttas, it's like, you know, it says, in the same way, as long as these five hindrances are not uprooted in him, he regards it as a debt.
+
+148
+00:14:29,823 --> 00:14:30,584
+[SPEAKER_01]: And then it's like,
+
+149
+00:14:31,468 --> 00:14:33,288
+[SPEAKER_01]: It's the right next thing.
+
+150
+00:14:33,328 --> 00:14:34,549
+[SPEAKER_01]: It's like the next sentence.
+
+151
+00:14:34,749 --> 00:14:38,610
+[SPEAKER_01]: But when they are uprooted in him, he feels it as a relief.
+
+152
+00:14:38,970 --> 00:14:54,553
+[SPEAKER_01]: So, it's like, in a way, you could say, I think, that, like, fully recognizing the extent of the death imprisonment is actually, like,
+
+153
+00:14:55,248 --> 00:14:57,689
+[SPEAKER_01]: The way to free yourself from it.
+
+154
+00:14:57,729 --> 00:14:58,969
+[SPEAKER_01]: There's nothing in between.
+
+155
+00:14:59,029 --> 00:15:01,170
+[SPEAKER_01]: Like, you don't need to kind of...
+
+156
+00:15:01,270 --> 00:15:08,212
+[SPEAKER_01]: If you're not free from the debt, it's actually more like because you aren't... You don't recognize the full extent of it.
+
+157
+00:15:08,232 --> 00:15:09,653
+[SPEAKER_01]: You don't recognize the full extent of the debt.
+
+158
+00:15:09,713 --> 00:15:20,276
+[SPEAKER_01]: You are still, like, perpetuating the debt, unknowingly, so to speak, or on some level, kind of, that you're overlooking.
+
+159
+00:15:20,457 --> 00:15:21,597
+[SPEAKER_03]: Overlooking, yeah.
+
+160
+00:15:23,017 --> 00:15:24,658
+[SPEAKER_03]: So, yeah, when they sort of say pervade,
+
+161
+00:15:26,283 --> 00:15:30,666
+[SPEAKER_03]: Pervade the body with that pleasure, with that relief of being that free.
+
+162
+00:15:31,246 --> 00:15:31,827
+[SPEAKER_03]: Yeah, sure.
+
+163
+00:15:33,588 --> 00:15:34,929
+[SPEAKER_03]: Pervade the body with that pleasure.
+
+164
+00:15:34,969 --> 00:15:38,011
+[SPEAKER_03]: Don't, don't try to deny it, because it's not unwholesome.
+
+165
+00:15:38,051 --> 00:15:41,113
+[SPEAKER_03]: See, it came from mental uprooting of the five hindrances.
+
+166
+00:15:41,754 --> 00:15:55,323
+[SPEAKER_03]: It didn't come from physical tactile sensation building and that relief that you will factually feel, physically, as a result of mental freedom from the constraint of the five hindrances,
+
+167
+00:15:56,222 --> 00:15:57,083
+[SPEAKER_03]: Yeah, by all means.
+
+168
+00:15:58,304 --> 00:15:58,784
+[SPEAKER_03]: Enjoy it.
+
+169
+00:15:59,705 --> 00:16:00,846
+[SPEAKER_03]: Spread it through your body.
+
+170
+00:16:01,386 --> 00:16:05,149
+[SPEAKER_03]: Make... recognize that... let it affect your whole body, so to speak.
+
+171
+00:16:10,433 --> 00:16:10,873
+[SPEAKER_03]: So, why?
+
+172
+00:16:12,254 --> 00:16:12,915
+[SPEAKER_03]: Why would you do that?
+
+173
+00:16:13,035 --> 00:16:14,336
+[SPEAKER_03]: Why is that a relevant practice?
+
+174
+00:16:18,960 --> 00:16:20,581
+[SPEAKER_00]: Maybe to keep you going in that direction.
+
+175
+00:16:21,121 --> 00:16:22,602
+[SPEAKER_00]: Yeah.
+
+176
+00:16:22,642 --> 00:16:25,745
+[SPEAKER_00]: It's like that... something like a treat for the mind.
+
+177
+00:16:27,878 --> 00:16:28,638
+[SPEAKER_00]: Encouraging it.
+
+178
+00:16:28,718 --> 00:16:29,459
+[SPEAKER_03]: Yeah.
+
+179
+00:16:29,879 --> 00:16:31,079
+[SPEAKER_03]: Well, exactly.
+
+180
+00:16:31,759 --> 00:16:35,481
+[SPEAKER_03]: So, but why, why the entire body?
+
+181
+00:16:35,501 --> 00:16:46,164
+[SPEAKER_03]: Like, you know, every, every one of those simile is that no part of the body is left unpervaded by that pleasure.
+
+182
+00:16:49,485 --> 00:16:51,366
+[SPEAKER_03]: So, does the pleasure come from the body?
+
+183
+00:16:52,486 --> 00:16:55,487
+[SPEAKER_01]: No, it comes from being the relief of...
+
+184
+00:16:55,507 --> 00:16:56,468
+[SPEAKER_03]: So, comes from citta?
+
+185
+00:16:57,028 --> 00:16:57,168
+[SPEAKER_01]: Yeah.
+
+186
+00:16:58,494 --> 00:17:04,417
+[SPEAKER_03]: Citta is relieved from being free, from dodging the bullet.
+
+187
+00:17:06,878 --> 00:17:15,142
+[SPEAKER_03]: So, it's not localized in the body, because it didn't come from the body.
+
+188
+00:17:16,222 --> 00:17:17,703
+[SPEAKER_03]: It didn't come from the sense of touch.
+
+189
+00:17:20,024 --> 00:17:25,927
+[SPEAKER_03]: It comes from the citta, which is technically, well, certainly, nowhere in any part of the body.
+
+190
+00:17:26,223 --> 00:17:35,327
+[SPEAKER_03]: It's simply a phenomenon that's neither here nor there in regard to your physicality and in regard to your... Well, perceptions, externally.
+
+191
+00:17:35,527 --> 00:17:35,727
+[SPEAKER_00]: Yeah.
+
+192
+00:17:35,988 --> 00:17:37,108
+[SPEAKER_03]: But feeling, you could say that.
+
+193
+00:17:37,208 --> 00:17:37,448
+[SPEAKER_03]: Yeah.
+
+194
+00:17:39,029 --> 00:17:45,512
+[SPEAKER_03]: So, citta is basically like a superimposed phenomenon in regard to the totality of your body.
+
+195
+00:17:46,813 --> 00:17:53,856
+[SPEAKER_03]: You could think of it like a source of light that can either be illuminating your whole body
+
+196
+00:17:54,657 --> 00:17:56,457
+[SPEAKER_03]: All parts of it, if it's not bright enough.
+
+197
+00:17:57,598 --> 00:18:01,979
+[SPEAKER_03]: Or none of it, if it's obstructed and clouded and dark and dim.
+
+198
+00:18:04,479 --> 00:18:11,001
+[SPEAKER_03]: So, if it's unobstructed, the entire body feels it.
+
+199
+00:18:13,762 --> 00:18:18,043
+[SPEAKER_03]: But why would you then need to make sure that it's the entire body, there's no parts of it?
+
+200
+00:18:19,703 --> 00:18:21,903
+[SPEAKER_03]: But what are you doing then?
+
+201
+00:18:22,864 --> 00:18:23,964
+[SPEAKER_03]: By making sure that
+
+202
+00:18:24,452 --> 00:18:34,060
+[SPEAKER_03]: The pleasure of the relief that comes from citta being free, citta's relief, the pleasure of that, you make sure that the whole body is illuminated by it.
+
+203
+00:18:35,020 --> 00:18:43,167
+[SPEAKER_03]: Not too much, not too little, like that foam that you mix with water, just so there's no water seeping, nor it's too dry, just to the right extent.
+
+204
+00:18:43,807 --> 00:18:44,068
+[SPEAKER_03]: Why?
+
+205
+00:18:48,491 --> 00:18:53,115
+[SPEAKER_01]: Because the non-relief of citta
+
+206
+00:18:54,388 --> 00:19:09,843
+[SPEAKER_01]: Like when it's... or let's say in the absence of light, comes from or is related to taking up the body.
+
+207
+00:19:10,263 --> 00:19:14,648
+[SPEAKER_01]: Or, yeah, taking up the body, which is always done through
+
+208
+00:19:15,312 --> 00:19:18,695
+[SPEAKER_01]: Specific... it's not... it's like a very practical thing.
+
+209
+00:19:18,775 --> 00:19:19,956
+[SPEAKER_01]: It's not a kind of...
+
+210
+00:19:19,976 --> 00:19:29,403
+[SPEAKER_01]: I mean, it is rooted in mental attitude, but it is very practically related to the way you use certain parts of your body, the way you assume certain parts of your body.
+
+211
+00:19:30,323 --> 00:19:31,664
+[SPEAKER_01]: So...
+
+212
+00:19:33,826 --> 00:19:36,228
+[SPEAKER_03]: The perspective narrows down onto them, basically.
+
+213
+00:19:36,748 --> 00:19:38,289
+[SPEAKER_01]: Yes.
+
+214
+00:19:40,571 --> 00:19:42,092
+[SPEAKER_03]: So, but now citta is debt-free.
+
+215
+00:19:42,112 --> 00:19:43,453
+[SPEAKER_01]: So, it's debt-free.
+
+216
+00:19:44,713 --> 00:19:50,456
+[SPEAKER_01]: But that debt-freeness... Yeah?
+
+217
+00:19:50,476 --> 00:20:03,322
+[SPEAKER_01]: ...needs to be kind of spread or, like, hammered in, I suppose.
+
+218
+00:20:05,003 --> 00:20:07,404
+[SPEAKER_01]: To, like, relate it to those end ways.
+
+219
+00:20:07,484 --> 00:20:08,825
+[SPEAKER_03]: It needs to saturate those things.
+
+220
+00:20:08,865 --> 00:20:09,585
+[SPEAKER_01]: Those things.
+
+221
+00:20:09,725 --> 00:20:10,766
+[SPEAKER_03]: For which it takes time.
+
+222
+00:20:11,286 --> 00:20:12,607
+[SPEAKER_01]: So that they cannot be
+
+223
+00:20:14,073 --> 00:20:24,395
+[SPEAKER_01]: The only way you can take them up is through overlooking them.
+
+224
+00:20:25,795 --> 00:20:30,016
+[SPEAKER_03]: You overlook them, you look past them, you took them up for the very reason.
+
+225
+00:20:30,036 --> 00:20:42,038
+[SPEAKER_03]: That's why, naturally, if you're still concerned with sense objects in the world and not practicing indriya-saṃvara, the beginning of jhāna, the beginning of samādhi, you're very much taking up your whole body.
+
+226
+00:20:42,999 --> 00:20:43,879
+[SPEAKER_03]: No, just parts of it.
+
+227
+00:20:45,860 --> 00:20:52,203
+[SPEAKER_03]: And, which means now, citta is even more obscure, even more buried, even more covered up.
+
+228
+00:20:55,584 --> 00:21:08,990
+[SPEAKER_03]: So, you would be... the relief that comes from citta, you would make sure that it sort of illuminates your whole body, back, forward, everywhere.
+
+229
+00:21:09,691 --> 00:21:12,752
+[SPEAKER_03]: Because you are the one who is just
+
+230
+00:21:13,762 --> 00:21:18,886
+[SPEAKER_03]: Through habitual non-illumination of those parts, you just overlook them.
+
+231
+00:21:20,167 --> 00:21:29,295
+[SPEAKER_03]: So, in other words, the clearer that pleasure illuminates the entire body, the clearer the separation between chitta and the body is.
+
+232
+00:21:29,335 --> 00:21:29,835
+[SPEAKER_03]: No overlap.
+
+233
+00:21:31,517 --> 00:21:32,818
+[SPEAKER_03]: No mixing of the domains.
+
+234
+00:21:32,898 --> 00:21:33,639
+[SPEAKER_03]: No touching up.
+
+235
+00:21:33,999 --> 00:21:34,299
+[SPEAKER_03]: Nothing.
+
+236
+00:21:34,820 --> 00:21:36,581
+[SPEAKER_03]: Just clear distinction.
+
+237
+00:21:39,263 --> 00:21:40,945
+[SPEAKER_03]: And the clearer that separation is,
+
+238
+00:21:42,757 --> 00:21:47,561
+[SPEAKER_03]: means the more secluded citta is from the domain of the five senses.
+
+239
+00:21:53,345 --> 00:21:56,708
+[SPEAKER_03]: How about the second jhāna description?
+
+240
+00:21:59,450 --> 00:22:11,459
+[SPEAKER_03]: That it's like an underground lake with an underground water source that fills it up right to the brim, not too much, not too little, no external water source, no rain,
+
+241
+00:22:12,375 --> 00:22:13,195
+[SPEAKER_03]: Nothing comes to it.
+
+242
+00:22:14,736 --> 00:22:22,698
+[SPEAKER_03]: But it's just perfectly full and cool from the underground source.
+
+243
+00:22:23,618 --> 00:22:25,478
+[SPEAKER_03]: Not from any observable source.
+
+244
+00:22:27,519 --> 00:22:29,759
+[SPEAKER_03]: What's the underground source in the simile?
+
+245
+00:22:31,380 --> 00:22:32,620
+[SPEAKER_03]: What's the source that doesn't appear?
+
+246
+00:22:34,561 --> 00:22:36,841
+[SPEAKER_03]: Because if it appears, it's on the level of the body.
+
+247
+00:22:37,621 --> 00:22:38,962
+[SPEAKER_03]: It's on the level of the senses.
+
+248
+00:22:39,002 --> 00:22:39,802
+[SPEAKER_03]: It's on the level of māna.
+
+249
+00:22:42,795 --> 00:22:50,078
+[SPEAKER_01]: So, it's citta, is the underground source.
+
+250
+00:22:50,779 --> 00:22:59,942
+[SPEAKER_03]: So, then, you can see another reason why you should be pervading the body.
+
+251
+00:22:59,962 --> 00:23:03,864
+[SPEAKER_03]: See, because when citta is unobstructed, there is nothing measuring it anymore.
+
+252
+00:23:05,405 --> 00:23:08,166
+[SPEAKER_03]: So, you're not... you're not perceiving it.
+
+253
+00:23:09,866 --> 00:23:11,167
+[SPEAKER_03]: You know, the signs of the mind
+
+254
+00:23:13,061 --> 00:23:15,703
+[SPEAKER_03]: Indicate the mind, but they're not the mind.
+
+255
+00:23:17,724 --> 00:23:21,327
+[SPEAKER_03]: So, underground source that you don't... How do you know there's an underground source?
+
+256
+00:23:22,147 --> 00:23:22,948
+[SPEAKER_03]: Let's stick with the lake.
+
+257
+00:23:25,049 --> 00:23:26,350
+[SPEAKER_03]: How do you know there's an underground source?
+
+258
+00:23:31,213 --> 00:23:31,513
+[SPEAKER_01]: Because...
+
+259
+00:23:32,034 --> 00:23:33,555
+[SPEAKER_03]: In the simile, what does it say?
+
+260
+00:23:34,135 --> 00:23:37,377
+[SPEAKER_03]: Because it's... the lake is full with... Well, it might have been filled before.
+
+261
+00:23:38,558 --> 00:23:41,120
+[SPEAKER_03]: The source might have blocked or something, but the water's still there.
+
+262
+00:23:45,938 --> 00:23:46,778
+[SPEAKER_03]: The lake is cool.
+
+263
+00:23:47,299 --> 00:23:50,120
+[SPEAKER_01]: Yeah, I was going to say, because the lake is clear and cool.
+
+264
+00:23:50,300 --> 00:23:51,561
+[SPEAKER_03]: Clear and cold.
+
+265
+00:23:51,801 --> 00:23:52,301
+[SPEAKER_01]: And cold.
+
+266
+00:23:52,341 --> 00:23:52,641
+[SPEAKER_01]: Yeah.
+
+267
+00:23:55,683 --> 00:24:09,330
+[SPEAKER_03]: So, it's the coolness of that illumination, let's put it that way, that's how you know citta is there, clean, unobstructed.
+
+268
+00:24:10,150 --> 00:24:12,011
+[SPEAKER_03]: So, through pervading your body,
+
+269
+00:24:13,275 --> 00:24:27,086
+[SPEAKER_03]: With the coolness of the illumination in the second jhāna, you are basically just outlining citta even more and more and more, without misconceiving it for one of its nimittas.
+
+270
+00:24:29,808 --> 00:24:32,470
+[SPEAKER_03]: Remember, like, in those early essays when I was saying, that because of which.
+
+271
+00:24:33,731 --> 00:24:36,873
+[SPEAKER_03]: Now, you can know it's there, but if you look at it, that's not it.
+
+272
+00:24:37,434 --> 00:24:38,855
+[SPEAKER_03]: You made it into something else.
+
+273
+00:24:39,656 --> 00:24:41,137
+[SPEAKER_03]: Well, that's exactly that principle.
+
+274
+00:24:42,084 --> 00:24:46,448
+[SPEAKER_03]: Whereby now, it's not even on the level of just like a reflection or contemplation.
+
+275
+00:24:46,508 --> 00:24:49,530
+[SPEAKER_03]: It's felt physically dead because of which...
+
+276
+00:24:49,650 --> 00:24:56,196
+[SPEAKER_03]: So, you don't need to find the source, you know, because the constant, fresh, cool water is just coming.
+
+277
+00:24:57,777 --> 00:24:58,258
+[SPEAKER_03]: Filling up.
+
+278
+00:24:59,999 --> 00:25:00,940
+[SPEAKER_01]: It's felt as well.
+
+279
+00:25:01,220 --> 00:25:01,881
+[SPEAKER_03]: It's felt.
+
+280
+00:25:01,901 --> 00:25:03,062
+[SPEAKER_03]: So, your... exactly.
+
+281
+00:25:03,122 --> 00:25:10,308
+[SPEAKER_03]: So, your... indication of a
+
+282
+00:25:11,425 --> 00:25:35,880
+[SPEAKER_03]: Unobstructed, bright, brighter, citta, is that feeling, that feeling of pity, that feeling of rapture, joy, which we translated in English, that feeling of being that free that's felt physically, because it doesn't come from anything physical.
+
+283
+00:25:37,621 --> 00:25:40,143
+[SPEAKER_03]: That's, I mean, I've said it many times, that's why jhānas
+
+284
+00:25:43,985 --> 00:25:57,916
+[SPEAKER_03]: are completely outside of the scope of craving, cannot be undermined by the underlying tendencies, because they don't come from any basis where underlying tendencies apply, which is the five senses and the mind.
+
+285
+00:26:00,538 --> 00:26:05,782
+[SPEAKER_03]: So, it's completely not coming from any direction of your five senses and mano.
+
+286
+00:26:06,162 --> 00:26:12,387
+[SPEAKER_03]: So, any direction of space and time, in terms of mano operating, that's not where the pleasure comes from.
+
+287
+00:26:13,594 --> 00:26:14,154
+[SPEAKER_03]: And you know that.
+
+288
+00:26:17,157 --> 00:26:39,656
+[SPEAKER_03]: It comes from, basically, from freeing, mano, from the pressure of the five senses, through not acting out of it, through restraining them, through seclusion, and then through recognizing the debt, the slavery, the desert, and freeing yourself from that, which we spoke about in other talks.
+
+289
+00:26:40,857 --> 00:26:42,118
+[SPEAKER_03]: You free yourself from that,
+
+290
+00:26:42,727 --> 00:26:51,689
+[SPEAKER_03]: When you tame your citta, the animal, the indications of the animal, in regard to those things.
+
+291
+00:26:51,729 --> 00:26:59,150
+[SPEAKER_03]: When the animal is not pressuring you from beyond, so to speak, you realize, oh, I'm that free here.
+
+292
+00:26:59,850 --> 00:27:00,910
+[SPEAKER_03]: I'm a no-risk animal.
+
+293
+00:27:01,050 --> 00:27:03,031
+[SPEAKER_03]: There is no danger internally or externally.
+
+294
+00:27:03,971 --> 00:27:05,771
+[SPEAKER_03]: And then the animal also recognizes that.
+
+295
+00:27:07,351 --> 00:27:08,151
+[SPEAKER_03]: And it feels free.
+
+296
+00:27:08,972 --> 00:27:11,472
+[SPEAKER_03]: And you, as a result of that, experience the physical
+
+297
+00:27:12,328 --> 00:27:12,668
+[SPEAKER_03]: Relief.
+
+298
+00:27:14,650 --> 00:27:22,857
+[SPEAKER_03]: So, pervading your body in its totality, internally, not externally, patching it up through tactile observation of your sensations or breath massages.
+
+299
+00:27:24,178 --> 00:27:39,632
+[SPEAKER_03]: If you internally pervade your whole body with that relief that comes from the citta, it will become... well, if you do it sufficiently long enough, it will become impossible for you to then misconceive citta as any part of any phenomenon that appears.
+
+300
+00:27:42,130 --> 00:27:43,711
+[SPEAKER_03]: Whether it's the five senses or the mind.
+
+301
+00:27:46,373 --> 00:27:47,634
+[SPEAKER_03]: And that's the liberated mind.
+
+302
+00:27:48,875 --> 00:27:50,196
+[SPEAKER_03]: It cannot be bound anymore.
+
+303
+00:27:50,657 --> 00:27:52,438
+[SPEAKER_03]: Certainly not to the five lower factors.
+
+304
+00:28:02,986 --> 00:28:06,008
+[SPEAKER_03]: How do you remove your sense of...
+
+305
+00:28:06,049 --> 00:28:06,349
+[SPEAKER_03]: I am?
+
+306
+00:28:07,029 --> 00:28:10,332
+[SPEAKER_03]: From the picture of your experience as a whole, how do you remove your sense of I am?
+
+307
+00:28:12,060 --> 00:28:14,581
+[SPEAKER_03]: The sense of I am that you have here and now, don't think absolutely.
+
+308
+00:28:16,961 --> 00:28:32,125
+[SPEAKER_03]: And say, yes, you are keeping the precepts, correcting sense restraint, not grasping the signs and features, not allowing them to the center stage, dwelling in sufficient amount of seclusion, recognizing hindrances.
+
+309
+00:28:34,366 --> 00:28:39,227
+[SPEAKER_03]: What else do you do in regard to the sense of I am that you do have there?
+
+310
+00:28:44,727 --> 00:28:46,428
+[SPEAKER_03]: What would be the way to free yourself from it?
+
+311
+00:28:47,609 --> 00:28:59,079
+[SPEAKER_03]: I mean, you can say contemplating impermanence, dukkha, but why?
+
+312
+00:28:59,640 --> 00:29:00,060
+[SPEAKER_03]: What for?
+
+313
+00:29:01,161 --> 00:29:02,342
+[SPEAKER_03]: Do you do it for your sense of self?
+
+314
+00:29:03,523 --> 00:29:04,224
+[SPEAKER_03]: Yeah, that's a good point.
+
+315
+00:29:05,445 --> 00:29:10,369
+[SPEAKER_02]: Well, or you do it for citta.
+
+316
+00:29:11,430 --> 00:29:11,810
+[SPEAKER_03]: Exactly.
+
+317
+00:29:12,030 --> 00:29:12,831
+[SPEAKER_03]: You do it for citta.
+
+318
+00:29:13,960 --> 00:29:15,681
+[SPEAKER_03]: So, does that mean citta?
+
+319
+00:29:16,761 --> 00:29:17,761
+[SPEAKER_03]: And does your sense of self?
+
+320
+00:29:34,068 --> 00:29:35,248
+[SPEAKER_01]: It's recognizing the
+
+321
+00:29:39,185 --> 00:29:58,852
+[SPEAKER_01]: Having the two points of view, as you would have said, like the point of view of citta to your sense of self, so to speak, and the point of view of your sense of self as a phenomenon in regard to citta, so to speak, and having, like... and it has to be complete.
+
+322
+00:30:00,312 --> 00:30:01,412
+[SPEAKER_03]: Well, that's my question.
+
+323
+00:30:01,492 --> 00:30:03,513
+[SPEAKER_03]: So, when do you know it's complete?
+
+324
+00:30:04,713 --> 00:30:06,254
+[SPEAKER_03]: How do you get rid of the sense of self?
+
+325
+00:30:07,940 --> 00:30:08,960
+[SPEAKER_03]: When do you know it's complete?
+
+326
+00:30:09,781 --> 00:30:11,381
+[SPEAKER_03]: When it's not anymore back and forth.
+
+327
+00:30:18,564 --> 00:30:23,946
+[SPEAKER_01]: Oh, when I said complete, I kind of meant nothing else left out, not complete, as in the sense of finished.
+
+328
+00:30:24,086 --> 00:30:25,887
+[SPEAKER_03]: Okay, well, I mean in the sense of finished.
+
+329
+00:30:26,807 --> 00:30:29,048
+[SPEAKER_03]: So, when is when is it complete, completed?
+
+330
+00:30:32,429 --> 00:30:33,930
+[SPEAKER_03]: When do you know the sense of self is gone?
+
+331
+00:30:38,077 --> 00:30:41,858
+[SPEAKER_03]: Could you stop choosing it?
+
+332
+00:30:41,998 --> 00:30:44,379
+[SPEAKER_03]: Or you stopped attending to things wrongly?
+
+333
+00:30:45,699 --> 00:30:48,260
+[SPEAKER_02]: Well, it's when... it's citta is... What?
+
+334
+00:30:49,520 --> 00:30:52,841
+[SPEAKER_02]: Like... deactivated or...
+
+335
+00:30:52,921 --> 00:30:53,321
+[SPEAKER_02]: I mean...
+
+336
+00:30:53,461 --> 00:30:54,582
+[SPEAKER_02]: I... yeah...
+
+337
+00:30:55,742 --> 00:30:57,462
+[SPEAKER_02]: I can only describe it like...
+
+338
+00:30:58,163 --> 00:31:00,383
+[SPEAKER_02]: I can't describe it experientially.
+
+339
+00:31:00,763 --> 00:31:01,003
+[SPEAKER_02]: Yeah.
+
+340
+00:31:02,064 --> 00:31:04,724
+[SPEAKER_02]: I can only describe it in terms of, like, relatively speaking.
+
+341
+00:31:05,004 --> 00:31:06,465
+[SPEAKER_02]: Well, describe it relatively speaking.
+
+342
+00:31:06,645 --> 00:31:07,045
+[SPEAKER_02]: Like...
+
+343
+00:31:08,896 --> 00:31:09,856
+[SPEAKER_03]: So, when citta, what?
+
+344
+00:31:10,997 --> 00:31:14,458
+[SPEAKER_03]: So, you have uprooted the sense of self.
+
+345
+00:31:18,660 --> 00:31:20,080
+[SPEAKER_03]: When citta, what?
+
+346
+00:31:23,141 --> 00:31:26,102
+[SPEAKER_02]: I mean, relatively speaking, when citta...
+
+347
+00:31:26,122 --> 00:31:27,503
+[SPEAKER_03]: Relatively speaking, when citta, what?
+
+348
+00:31:27,523 --> 00:31:36,026
+[SPEAKER_02]: When citta is not wanting to act out of or get rid of...
+
+349
+00:31:36,046 --> 00:31:38,507
+[SPEAKER_03]: But why would that affect your sense of self?
+
+350
+00:31:44,138 --> 00:31:57,128
+[SPEAKER_03]: Because, you know, you had samanas and brāhmaṇas outside of the Buddhist dispensation, who were able to free themselves from craving for sensuality thoroughly, which means the citta completely freed itself from craving for anything that comes from the five senses.
+
+351
+00:31:57,769 --> 00:32:01,552
+[SPEAKER_03]: So, yes, of course, that would be contributing, but that's not the main factor.
+
+352
+00:32:01,592 --> 00:32:02,572
+[SPEAKER_03]: What's the main factor?
+
+353
+00:32:05,735 --> 00:32:08,437
+[SPEAKER_01]: So, when citta... your sense of self is... you know your sense...
+
+354
+00:32:08,698 --> 00:32:12,160
+[SPEAKER_01]: That you've uprooted your sense of self is complete, as in finished.
+
+355
+00:32:12,541 --> 00:32:12,901
+[SPEAKER_03]: Yes.
+
+356
+00:32:12,961 --> 00:32:14,342
+[SPEAKER_01]: When citta... What?
+
+357
+00:32:15,703 --> 00:32:17,004
+[SPEAKER_03]: When the wild animal... What?
+
+358
+00:32:17,144 --> 00:32:19,065
+[SPEAKER_03]: Well, it's not wild, obviously, by that point.
+
+359
+00:32:22,227 --> 00:32:32,854
+[SPEAKER_03]: But basically, when citta doesn't regard you as self anymore, when it doesn't see you as an entity anymore, you will be unable to see yourself as one, doesn't matter how hard you try.
+
+360
+00:32:33,455 --> 00:32:33,975
+[SPEAKER_03]: And that's when
+
+361
+00:32:35,228 --> 00:32:45,533
+[SPEAKER_03]: Tathāgata or an arhant continues using the designations I am, I was this, I will be that, without that having any significance of self.
+
+362
+00:32:45,953 --> 00:32:48,855
+[SPEAKER_03]: Because the mind completely does not take it up that way.
+
+363
+00:32:50,576 --> 00:32:52,997
+[SPEAKER_03]: And that's that whole kind of... what's the Pali?
+
+364
+00:32:53,117 --> 00:32:56,519
+[SPEAKER_03]: Ahankara, the I-making saṅkhara.
+
+365
+00:32:57,359 --> 00:32:58,279
+[SPEAKER_03]: The citta does.
+
+366
+00:32:58,760 --> 00:32:59,520
+[SPEAKER_03]: Not you.
+
+367
+00:32:59,540 --> 00:33:01,461
+[SPEAKER_03]: That saṅkharas are not your activities.
+
+368
+00:33:01,481 --> 00:33:02,662
+[SPEAKER_03]: They're citta's activations.
+
+369
+00:33:05,654 --> 00:33:20,980
+[SPEAKER_03]: So, yes, you need to learn about anatta, you need to contemplate anicca and dukkha and so on, just so to keep teaching the animal to stop regarding you as self, as I am, as, oh, look at this guy.
+
+370
+00:33:24,062 --> 00:33:30,004
+[SPEAKER_03]: And, yes, it's correct, when animal is sufficiently deactivated from those activations,
+
+371
+00:33:34,747 --> 00:33:38,929
+[SPEAKER_03]: It will stop regarding you as self, and then you will stop regarding it yourself, as yourself.
+
+372
+00:33:41,850 --> 00:33:44,851
+[SPEAKER_03]: So, it's out of your hands then, so to speak.
+
+373
+00:33:44,891 --> 00:33:45,912
+[SPEAKER_03]: Anatta is out of your hands.
+
+374
+00:33:47,212 --> 00:33:57,137
+[SPEAKER_03]: You were atta, because the animal was seeing you too much of a person, basically, because of its own wilderness that you were responsible for, through not taming it.
+
+375
+00:33:58,037 --> 00:34:00,338
+[SPEAKER_03]: You tamed it, became unwild,
+
+376
+00:34:02,128 --> 00:34:11,574
+[SPEAKER_03]: You provided wisdom for it, the insights, the ten perceptions that the suttas talk about, which you should be providing your citta for, and it stops seeing you as a person.
+
+377
+00:34:13,515 --> 00:34:17,117
+[SPEAKER_03]: And when citta stops seeing you as a person, there's nothing you can do about it yourself.
+
+378
+00:34:18,098 --> 00:34:18,938
+[SPEAKER_03]: Why would you, obviously?
+
+379
+00:34:18,958 --> 00:34:21,140
+[SPEAKER_03]: Because you feel relieved of the burden of personality.
+
+380
+00:34:30,105 --> 00:34:31,086
+[SPEAKER_01]: So, would you say, eh...
+
+381
+00:34:32,777 --> 00:34:59,675
+[SPEAKER_01]: Practically speaking, it's basically when none of the same, like you can think as much as you want, like you would say the designations, you can think as much as you want in terms of the same images, the same things that used to kind of represent you.
+
+382
+00:35:00,536 --> 00:35:00,836
+[SPEAKER_03]: Yeah.
+
+383
+00:35:01,096 --> 00:35:02,257
+[SPEAKER_01]: But none of them can
+
+384
+00:35:04,092 --> 00:35:12,633
+[SPEAKER_01]: Not to be... can kind of take on this extra implication, because even those extra implications can't not be seen as things.
+
+385
+00:35:12,713 --> 00:35:14,394
+[SPEAKER_03]: Yeah, so the... exactly, exactly.
+
+386
+00:35:14,414 --> 00:35:15,634
+[SPEAKER_01]: They're just seen as things.
+
+387
+00:35:15,774 --> 00:35:23,595
+[SPEAKER_03]: The point is, the core of your sense of self, that you feel, is the citta's perception of you.
+
+388
+00:35:25,316 --> 00:35:26,116
+[SPEAKER_03]: Let's put it that way.
+
+389
+00:35:27,616 --> 00:35:28,576
+[SPEAKER_03]: You don't see a citta.
+
+390
+00:35:29,236 --> 00:35:33,177
+[SPEAKER_03]: You don't see that... where that core, where that activation comes from.
+
+391
+00:35:34,070 --> 00:35:35,591
+[SPEAKER_03]: So, you just bundle it all together.
+
+392
+00:35:37,171 --> 00:35:42,833
+[SPEAKER_03]: You start seeing citta enough, like a prerequisite for sotāpati, that core will be undermined.
+
+393
+00:35:44,614 --> 00:35:45,354
+[SPEAKER_03]: Everything else remains.
+
+394
+00:35:45,374 --> 00:35:52,097
+[SPEAKER_03]: The shell of you remains, but the core is now switched off, gone, destroyed.
+
+395
+00:35:53,697 --> 00:35:55,398
+[SPEAKER_03]: That's tyātavāda when it's abandoned.
+
+396
+00:35:56,058 --> 00:36:00,380
+[SPEAKER_03]: Then, you might have remnants, well, you will have remnants of I am and stuff, but the same principle remains.
+
+397
+00:36:05,049 --> 00:36:32,701
+[SPEAKER_03]: And that's also, see, to the extent that you are overlooking your internal body as the totality of your experience as a whole, to that extent there is a basis for that core of perception that comes from citta, seeing you as a person, for you to place it somewhere in that internal totality of your body, somewhere peripherally, at the back, neither here nor there.
+
+398
+00:36:33,649 --> 00:36:42,634
+[SPEAKER_03]: That's also why, through realizing that, well, backwards, forwards, at the back of my head, front, doesn't matter, up, down, in any direction, physicality is there.
+
+399
+00:36:43,355 --> 00:36:44,456
+[SPEAKER_03]: The four great elements.
+
+400
+00:36:44,596 --> 00:36:46,557
+[SPEAKER_03]: Nothing cannot be part of this.
+
+401
+00:36:47,718 --> 00:37:00,986
+[SPEAKER_03]: And that's how you delineate citta clearer and recognize that the activating core of that heart of I am, it's actually citta just mistakenly sees you as a person.
+
+402
+00:37:01,126 --> 00:37:01,606
+[SPEAKER_03]: And when you...
+
+403
+00:37:02,237 --> 00:37:02,457
+[SPEAKER_00]: Yes.
+
+404
+00:37:02,777 --> 00:37:11,420
+[SPEAKER_03]: And when you recognize that anything the citta would be seeing, the animal would be seeing when it looks at you, is the four great elements, nothing else.
+
+405
+00:37:11,640 --> 00:37:16,481
+[SPEAKER_03]: The bile, the skin, the space in between, the wind.
+
+406
+00:37:18,062 --> 00:37:19,142
+[SPEAKER_03]: Then the citta will stop.
+
+407
+00:37:19,362 --> 00:37:27,905
+[SPEAKER_03]: It will still see, maybe, a remnant of what it used to think was a full-blown person I am, but that whole source
+
+408
+00:37:28,917 --> 00:37:32,598
+[SPEAKER_03]: Of ākhaṅkāra and mamaṅkāra, isn't it?
+
+409
+00:37:32,618 --> 00:37:36,399
+[SPEAKER_03]: Eye-making and mind-making that comes from citta is going to be depleted.
+
+410
+00:37:39,440 --> 00:37:47,303
+[SPEAKER_03]: While everything, like even your speech patterns and ways of expression and reference, it remains completely unchanged because that's not where the self was.
+
+411
+00:37:51,024 --> 00:37:56,606
+[SPEAKER_03]: So that's also why it's relevant to pervade with the cool illuminating pleasure
+
+412
+00:37:57,765 --> 00:38:07,676
+[SPEAKER_03]: of the hindrance-free citta, the entire extent of the totality of your body internally, so that the whole thing will be seen as external to citta.
+
+413
+00:38:08,957 --> 00:38:12,821
+[SPEAKER_03]: No part left unilluminated, unpervaded.
+
+414
+00:38:13,962 --> 00:38:20,549
+[SPEAKER_03]: Thus, no part can be assumed as a basis for that lingering senses of I am that might be remaining.
+
+415
+00:38:26,298 --> 00:38:52,616
+[SPEAKER_01]: It reminded me also that what you just said now, and you said it earlier as well, but it reminded me of what you were saying in regards to ānāpānasati as well, about contrasting the internal physicality of the body with the act of breathing and the perception of breathing.
+
+416
+00:38:54,838 --> 00:39:00,980
+[SPEAKER_01]: So as to, yeah, further, basically, to... Outline.
+
+417
+00:39:01,280 --> 00:39:01,940
+[SPEAKER_03]: The extent of it.
+
+418
+00:39:01,960 --> 00:39:03,141
+[SPEAKER_01]: The extent of both.
+
+419
+00:39:03,721 --> 00:39:04,541
+[SPEAKER_03]: Exactly, yeah.
+
+420
+00:39:04,581 --> 00:39:10,403
+[SPEAKER_03]: By outlining the extent of the internal physicality, you're revealing what citta is not.
+
+421
+00:39:11,643 --> 00:39:12,643
+[SPEAKER_03]: What citta cannot be.
+
+422
+00:39:12,683 --> 00:39:21,806
+[SPEAKER_03]: That's why after you would have been doing these contrasting practices with regard to the body, then, sort of, comes to the feelings, and then the mind.
+
+423
+00:39:24,825 --> 00:39:35,729
+[SPEAKER_01]: So, that's not... Could you say that's basically, or it could be thought of just another type of description of jhāna?
+
+424
+00:39:35,769 --> 00:39:37,490
+[SPEAKER_01]: This was one kind of question I had.
+
+425
+00:39:37,590 --> 00:39:38,991
+[SPEAKER_01]: Or is it a completely different thing?
+
+426
+00:39:39,231 --> 00:39:41,132
+[SPEAKER_01]: No, no, of course.
+
+427
+00:39:41,212 --> 00:39:41,832
+[SPEAKER_03]: It's all jhāna.
+
+428
+00:39:42,072 --> 00:39:42,432
+[SPEAKER_01]: Exactly.
+
+429
+00:39:42,592 --> 00:39:43,152
+[SPEAKER_01]: Okay, good.
+
+430
+00:39:43,513 --> 00:39:44,733
+[SPEAKER_03]: Contemplating dead bodies.
+
+431
+00:39:45,173 --> 00:39:45,814
+[SPEAKER_01]: Yeah.
+
+432
+00:39:45,914 --> 00:39:48,635
+[SPEAKER_03]: They will outline your own internal physicality as unownable.
+
+433
+00:39:48,655 --> 00:39:49,155
+[SPEAKER_03]: It's jhāna.
+
+434
+00:39:49,255 --> 00:39:49,455
+[SPEAKER_01]: Yeah.
+
+435
+00:39:50,315 --> 00:39:52,096
+[SPEAKER_01]: It's just different directions of approaching it.
+
+436
+00:39:52,116 --> 00:39:54,237
+[SPEAKER_03]: So, that's... And I think,
+
+437
+00:39:54,710 --> 00:40:13,162
+[SPEAKER_03]: I think commentaries, the traditional Theravāda, sort of, with Siddhimāga and company, kind of understood that, in a sense of, through studying the texts, they saw that, you know, the magical, mystical jhāna occurs out of all these different, seemingly different practices.
+
+438
+00:40:14,022 --> 00:40:21,987
+[SPEAKER_03]: So, I remember, it was some, it was like some Theravāda manual on meditation, a long time ago, and it was like basically compiling all the
+
+439
+00:40:25,369 --> 00:40:30,158
+[SPEAKER_03]: all the objects that can lead to jhāna, on the basis of the suttas.
+
+440
+00:40:31,320 --> 00:40:37,071
+[SPEAKER_03]: So, it was ānāpānasati, it was contemplating corpses, it was loving-kindness,
+
+441
+00:40:37,665 --> 00:40:45,394
+[SPEAKER_03]: So, it was all presented as these different methods they would magically take to jhāna, not recognizing that actually doing those things rightly is already jhāna.
+
+442
+00:40:45,494 --> 00:40:45,914
+[SPEAKER_01]: Exactly.
+
+443
+00:40:46,455 --> 00:40:48,377
+[SPEAKER_03]: It's already what jhāna is.
+
+444
+00:40:48,417 --> 00:40:48,577
+[SPEAKER_01]: Yeah.
+
+445
+00:40:48,597 --> 00:40:54,183
+[SPEAKER_01]: So, this is really useful for me because that was one of the big confusions I used to have when reading the suttas.
+
+446
+00:40:54,223 --> 00:40:59,229
+[SPEAKER_01]: It's like, because, you know, you ask him what's the right meditation and the answer is jhāna.
+
+447
+00:40:59,449 --> 00:40:59,629
+[SPEAKER_02]: Yeah.
+
+448
+00:40:59,769 --> 00:41:04,531
+[SPEAKER_01]: But then, at the same time, you have, like, all of these different suttas, seemingly talking about different things.
+
+449
+00:41:04,551 --> 00:41:05,232
+[SPEAKER_01]: Different things, yeah.
+
+450
+00:41:05,432 --> 00:41:07,553
+[SPEAKER_01]: Nine percept, develop these nine perceptions.
+
+451
+00:41:07,593 --> 00:41:07,933
+[SPEAKER_02]: Yeah.
+
+452
+00:41:08,353 --> 00:41:10,794
+[SPEAKER_01]: And you can say, well, yeah, okay, that's, like, makes sense.
+
+453
+00:41:10,834 --> 00:41:12,415
+[SPEAKER_01]: But then, how does the, you know... Yeah.
+
+454
+00:41:12,435 --> 00:41:13,596
+[SPEAKER_01]: Where does jhāna come in here?
+
+455
+00:41:13,616 --> 00:41:14,196
+[SPEAKER_01]: Jhāna come into it?
+
+456
+00:41:15,016 --> 00:41:18,558
+[SPEAKER_01]: And, yeah, it simplifies things considerably.
+
+457
+00:41:18,578 --> 00:41:19,979
+[SPEAKER_03]: Jhāna is purification.
+
+458
+00:41:20,159 --> 00:41:21,339
+[SPEAKER_03]: Jhāna is contemplation.
+
+459
+00:41:21,379 --> 00:41:25,761
+[SPEAKER_03]: Jhāna is meditation, in the correct usage of that term.
+
+460
+00:41:26,042 --> 00:41:26,262
+[SPEAKER_03]: Yeah.
+
+461
+00:41:27,382 --> 00:41:28,943
+[SPEAKER_03]: Jhāna is not concentration.
+
+462
+00:41:32,177 --> 00:41:58,373
+[SPEAKER_01]: Or, like, one of the things I was kind of thinking about asking as well, in regards to this, was, yeah, we were just speaking about this, I suppose, contemplation of, or developing perception of, with this, this is, without this, this isn't, or, as you were, you would put it, like, the two points of view, thinking about that, or bearing this in mind.
+
+463
+00:41:59,755 --> 00:42:10,461
+[SPEAKER_01]: Yeah, you're doing jhāna.
+
+464
+00:42:10,521 --> 00:42:12,703
+[SPEAKER_01]: That is another way of describing it.
+
+465
+00:42:13,063 --> 00:42:14,444
+[SPEAKER_01]: And it's very efficient.
+
+466
+00:42:16,825 --> 00:42:17,706
+[SPEAKER_03]: It goes right to the middle.
+
+467
+00:42:19,607 --> 00:42:25,910
+[SPEAKER_03]: But you can see, like, even sensory strength is doing jhāna, is doing samādhi.
+
+468
+00:42:27,691 --> 00:42:28,892
+[SPEAKER_03]: That's only the beginning.
+
+469
+00:42:30,450 --> 00:42:33,111
+[SPEAKER_03]: Freeing yourself from that and the desert.
+
+470
+00:42:33,251 --> 00:42:40,395
+[SPEAKER_03]: It's not like, again, it's not something, oh, yeah, yeah, we got to do that, but the, you know, the real meat of the practice is this method or something.
+
+471
+00:42:40,415 --> 00:42:40,675
+[SPEAKER_03]: No, no.
+
+472
+00:42:40,755 --> 00:42:42,796
+[SPEAKER_03]: That is already the beginning of your jhāna practice.
+
+473
+00:42:46,258 --> 00:42:52,280
+[SPEAKER_03]: Not allowing images to take the center stage, not grasping the signs and features while they're pressuring you, while you're enduring them.
+
+474
+00:42:52,741 --> 00:42:53,881
+[SPEAKER_03]: It's doing the jhāna practice.
+
+475
+00:42:57,783 --> 00:42:59,744
+[SPEAKER_03]: Dwelling in seclusion, recognizing the extent
+
+476
+00:43:01,159 --> 00:43:12,084
+[SPEAKER_03]: of the hindrances that hinder you through the movement of your wild animal, because you're wrongly attending to it, that's already jhāna practice.
+
+477
+00:43:13,805 --> 00:43:24,390
+[SPEAKER_03]: Taming the wild animal, giving it rewards at the right time to recognize for itself, providing it with the ten perceptions, as that sutta says, that's already jhāna practice.
+
+478
+00:43:27,752 --> 00:43:30,733
+[SPEAKER_03]: When that whole training
+
+479
+00:43:33,647 --> 00:43:55,002
+[SPEAKER_03]: On the basis of prior development of virtue and the non-wrong livelihood, when that whole practice then is stable, steady, became your mode of being, as you said, you will feel debt-free, prison-free, cross the desert successfully.
+
+480
+00:43:56,483 --> 00:43:56,903
+[SPEAKER_03]: And now,
+
+481
+00:43:58,305 --> 00:43:59,366
+[SPEAKER_03]: Don't fall from that state.
+
+482
+00:43:59,406 --> 00:44:00,247
+[SPEAKER_03]: Don't become careless.
+
+483
+00:44:00,267 --> 00:44:01,488
+[SPEAKER_03]: Don't allow center images.
+
+484
+00:44:01,628 --> 00:44:04,250
+[SPEAKER_03]: Don't think you did the work, because there's still work to be done.
+
+485
+00:44:06,532 --> 00:44:27,169
+[SPEAKER_03]: So, then you pervade your body with that cool, illuminating pleasure of the unobstructed citta that's there, superimposed to your experience of your physicality, totality, internally as a whole, until there's no parts left that can serve as a basis for any assumption of I am and mine.
+
+486
+00:44:30,931 --> 00:44:40,895
+[SPEAKER_03]: And then, when that's developed, make sure that you regard even that purified, bright, clean, free from hindrances, experience as...
+
+487
+00:44:41,575 --> 00:44:45,517
+[SPEAKER_03]: But even this is a debt, is a dart, is a boil, is a burden.
+
+488
+00:44:46,937 --> 00:44:48,278
+[SPEAKER_03]: Nothingness is truly better.
+
+489
+00:44:49,258 --> 00:44:51,159
+[SPEAKER_03]: And then, citta will turn away even from that.
+
+490
+00:44:52,219 --> 00:44:53,320
+[SPEAKER_03]: And that's when there is nothing left.
+
+491
+00:44:53,740 --> 00:44:54,580
+[SPEAKER_02]: No more work to be done.
+
+492
+00:44:56,921 --> 00:44:57,922
+[SPEAKER_03]: That's why this sutta say,
+
+493
+00:45:00,483 --> 00:45:05,465
+[SPEAKER_03]: One can become an arahant on the basis of the first jhāna, or the second, or the third, or the fourth.
+
+494
+00:45:05,525 --> 00:45:05,806
+[SPEAKER_03]: How?
+
+495
+00:45:06,366 --> 00:45:10,067
+[SPEAKER_03]: Well, by fully studying his mind in the first jhāna, and then, by instructing.
+
+496
+00:45:10,127 --> 00:45:11,308
+[SPEAKER_03]: Okay, now, monk, great.
+
+497
+00:45:11,508 --> 00:45:21,472
+[SPEAKER_03]: That pure, blameless, factually developed mode of being that you would have cultivated, regard that now, same, as a doubt, as a debt.
+
+498
+00:45:22,853 --> 00:45:25,914
+[SPEAKER_03]: And citta will want nothing to do with it.
+
+499
+00:45:25,934 --> 00:45:29,376
+[SPEAKER_03]: And that means nothing will be binding you, form or formless.
+
+500
+00:45:31,715 --> 00:45:33,236
+[SPEAKER_00]: Traces of being, so to speak.
+
+501
+00:45:39,458 --> 00:45:52,542
+[SPEAKER_03]: So, for you, it's to provide, clarify, protect, restrain the extent, so that you can recognize it and illuminate it through your instruction, not through some mystical revelation.
+
+502
+00:45:54,503 --> 00:45:55,503
+[SPEAKER_03]: You need to train it.
+
+503
+00:45:56,244 --> 00:45:58,504
+[SPEAKER_03]: You need to be providing these perceptions for it.
+
+504
+00:45:59,305 --> 00:46:00,465
+[SPEAKER_03]: You might not see it right away,
+
+505
+00:46:01,057 --> 00:46:07,146
+[SPEAKER_03]: But if you keep it in front of it, that's your bhāvana, that's your work, the time will come when it will look and see it.
+
+506
+00:46:08,328 --> 00:46:10,431
+[SPEAKER_03]: And then it will be impossible to not understand it.
+
+507
+00:46:12,273 --> 00:46:15,178
+[SPEAKER_03]: So that's the whole patience aspect of practice.
+

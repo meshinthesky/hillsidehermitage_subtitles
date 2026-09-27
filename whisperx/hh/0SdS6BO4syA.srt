@@ -1,0 +1,4748 @@
+1
+00:00:01,650 --> 00:00:10,679
+[SPEAKER_00]: So, this Sutta I'm bringing up, because I'm interested in the topic of cessation of contact.
+
+2
+00:00:15,224 --> 00:00:22,311
+[SPEAKER_00]: And it's Anguttara 6.63, called the Penetrative Discourse.
+
+3
+00:00:29,707 --> 00:00:34,129
+[SPEAKER_00]: So, it says, sensual pleasures should be understood.
+
+4
+00:00:36,430 --> 00:00:39,232
+[SPEAKER_00]: The feelings should be understood.
+
+5
+00:00:39,292 --> 00:00:40,512
+[SPEAKER_00]: Perceptions should be understood.
+
+6
+00:00:41,093 --> 00:00:42,514
+[SPEAKER_00]: The taints should be understood.
+
+7
+00:00:42,654 --> 00:00:43,974
+[SPEAKER_00]: Karma should be understood.
+
+8
+00:00:44,454 --> 00:00:45,675
+[SPEAKER_00]: Suffering should be understood.
+
+9
+00:00:46,896 --> 00:00:50,097
+[SPEAKER_00]: So, there's these six topics that need to be understood.
+
+10
+00:00:50,698 --> 00:00:51,138
+[SPEAKER_00]: But also,
+
+11
+00:00:52,620 --> 00:00:56,888
+[SPEAKER_00]: The source and origin of sensual pleasures and so on should be understood.
+
+12
+00:00:57,088 --> 00:01:00,154
+[SPEAKER_00]: The diversity of sensual pleasures and so on should be understood.
+
+13
+00:01:01,353 --> 00:01:03,414
+[SPEAKER_00]: The result should be understood.
+
+14
+00:01:03,734 --> 00:01:05,654
+[SPEAKER_00]: The cessation should be understood.
+
+15
+00:01:06,034 --> 00:01:08,355
+[SPEAKER_00]: And the way leading to the cessation should be understood.
+
+16
+00:01:09,055 --> 00:01:09,976
+[SPEAKER_00]: Of those six things.
+
+17
+00:01:10,076 --> 00:01:11,156
+[SPEAKER_01]: In regard to all those things, yeah.
+
+18
+00:01:11,696 --> 00:01:16,437
+[SPEAKER_01]: So, first and foremost, should be understood.
+
+19
+00:01:18,098 --> 00:01:18,338
+[SPEAKER_00]: Yeah.
+
+20
+00:01:18,778 --> 00:01:19,058
+[SPEAKER_01]: So...
+
+21
+00:01:20,138 --> 00:01:22,899
+[SPEAKER_01]: So... A person should ask himself, what is understanding?
+
+22
+00:01:22,919 --> 00:01:23,099
+[SPEAKER_01]: Yeah.
+
+23
+00:01:23,399 --> 00:01:24,540
+[SPEAKER_01]: What is the nature of understanding?
+
+24
+00:01:24,600 --> 00:01:25,820
+[SPEAKER_00]: But those, those... Yeah.
+
+25
+00:01:26,560 --> 00:01:28,381
+[SPEAKER_00]: But through that kind of questioning of...
+
+26
+00:01:29,492 --> 00:01:31,352
+[SPEAKER_00]: What is the source and origin of sensual pleasures?
+
+27
+00:01:31,912 --> 00:01:33,713
+[SPEAKER_00]: What is the diversity in sensual pleasures?
+
+28
+00:01:33,833 --> 00:01:34,573
+[SPEAKER_00]: What is the result?
+
+29
+00:01:35,233 --> 00:01:36,213
+[SPEAKER_00]: What is the cessation?
+
+30
+00:01:36,753 --> 00:01:38,214
+[SPEAKER_00]: What is the way leading to the cessation?
+
+31
+00:01:38,234 --> 00:01:41,214
+[SPEAKER_00]: So, you can be thinking about these things, questioning this.
+
+32
+00:01:41,754 --> 00:01:46,355
+[SPEAKER_01]: Yeah, but I'm just trying to highlight that it should be understood, must be understood.
+
+33
+00:01:46,755 --> 00:01:52,056
+[SPEAKER_00]: Not like, oh, I had this experience of freedom from sensuality and I haven't understood it.
+
+34
+00:01:52,276 --> 00:01:53,696
+[SPEAKER_00]: So, why does it need to be understood?
+
+35
+00:01:53,936 --> 00:01:55,957
+[SPEAKER_01]: Because that's the only way to free yourself from it.
+
+36
+00:01:56,357 --> 00:01:58,417
+[SPEAKER_00]: The lack of understanding is the root of everything.
+
+37
+00:01:59,832 --> 00:02:14,680
+[SPEAKER_01]: So, that's what I mean, like, even when people practice the dhamma, they practice with this notion of you're going to have a special experience as a result of whatever methods and efforts you're making, then it's going to have these revelations and
+
+38
+00:02:15,516 --> 00:02:24,004
+[SPEAKER_01]: You will not have any revelations that matter, unless you make the effort to understand, and then your revelations will be, ah, now I understood it.
+
+39
+00:02:24,385 --> 00:02:25,906
+[SPEAKER_01]: Ah, okay, that's what's enshrined.
+
+40
+00:02:26,247 --> 00:02:29,690
+[SPEAKER_01]: That's why... what's the other one?
+
+41
+00:02:29,710 --> 00:02:30,631
+[SPEAKER_01]: The feeling.
+
+42
+00:02:30,671 --> 00:02:31,512
+[SPEAKER_01]: That's what feeling is.
+
+43
+00:02:31,972 --> 00:02:33,994
+[SPEAKER_01]: Okay, that's the nature of the feeling.
+
+44
+00:02:34,054 --> 00:02:36,196
+[SPEAKER_01]: That's the nature of things to be perceived.
+
+45
+00:02:36,336 --> 00:02:37,417
+[SPEAKER_01]: You need to understand it.
+
+46
+00:02:38,142 --> 00:02:43,009
+[SPEAKER_01]: Not like just do random stuff and then these these results will magically occur to you.
+
+47
+00:02:43,850 --> 00:02:44,691
+[SPEAKER_01]: So, how do you... that's what I mean.
+
+48
+00:02:44,711 --> 00:02:46,113
+[SPEAKER_01]: Like, you ask yourself, what is understanding?
+
+49
+00:02:46,634 --> 00:02:48,036
+[SPEAKER_01]: Like, how do I understand anything?
+
+50
+00:02:49,718 --> 00:02:53,303
+[SPEAKER_01]: Can I follow a set of sort of prescribed motions?
+
+51
+00:02:54,652 --> 00:02:58,955
+[SPEAKER_01]: And arrive at understanding, if I do step one, step two, step three... No.
+
+52
+00:02:59,595 --> 00:03:00,576
+[SPEAKER_01]: And everybody knows that.
+
+53
+00:03:00,636 --> 00:03:13,485
+[SPEAKER_01]: You just recall back in the... when you were in the school, when they... when they sort of, kind of, parrot you things out that you must memorize, and you memorize it, and you repeat, and you get a top mark, and you haven't understood a clue.
+
+54
+00:03:15,527 --> 00:03:20,109
+[SPEAKER_01]: You haven't actually made that internal connection to it, that you recognize the nature of it.
+
+55
+00:03:20,950 --> 00:03:23,991
+[SPEAKER_01]: And then, give it some time, and you don't remember a single thing.
+
+56
+00:03:24,431 --> 00:03:25,752
+[SPEAKER_01]: Even while you're still in school, by the way.
+
+57
+00:03:26,272 --> 00:03:30,854
+[SPEAKER_01]: But things you understood, you still remember, 30, 40 years later.
+
+58
+00:03:30,894 --> 00:03:31,975
+[SPEAKER_00]: But why do you remember it?
+
+59
+00:03:32,355 --> 00:03:33,395
+[SPEAKER_00]: Because they were understood.
+
+60
+00:03:33,736 --> 00:03:35,056
+[SPEAKER_00]: But why were they understood?
+
+61
+00:03:35,636 --> 00:03:35,977
+[SPEAKER_00]: Exactly.
+
+62
+00:03:35,997 --> 00:03:37,557
+[SPEAKER_01]: So, what is the difference then?
+
+63
+00:03:37,597 --> 00:03:43,240
+[SPEAKER_01]: What is the difference between knowing something, having information about it, and actually understanding it?
+
+64
+00:03:44,703 --> 00:03:49,686
+[SPEAKER_00]: How you... how you... yeah, the difference is that you... well, the difference is you know it.
+
+65
+00:03:50,026 --> 00:03:50,487
+[SPEAKER_01]: Yeah.
+
+66
+00:03:50,507 --> 00:03:54,109
+[SPEAKER_01]: Basically, understanding means knowing that thing in the nature, not just in the content.
+
+67
+00:03:55,850 --> 00:04:00,013
+[SPEAKER_01]: So, understanding the nature of whatever content you collected through information.
+
+68
+00:04:01,534 --> 00:04:04,115
+[SPEAKER_01]: So, that's like the most general description of what understanding is.
+
+69
+00:04:04,475 --> 00:04:08,218
+[SPEAKER_01]: So, if you never look for the nature, but you only focus on the content,
+
+70
+00:04:09,138 --> 00:04:20,136
+[SPEAKER_01]: of your methods, of your techniques, of your motions, of your observances, and then you hope for a new content to be that understanding of the practice and liberation, nibbāna, and it's not.
+
+71
+00:04:21,242 --> 00:04:22,663
+[SPEAKER_01]: The Buddha did not use a different word.
+
+72
+00:04:22,703 --> 00:04:24,044
+[SPEAKER_01]: It's the word for understanding.
+
+73
+00:04:24,544 --> 00:04:28,126
+[SPEAKER_01]: Same word used when a craftsman understands his craft.
+
+74
+00:04:28,166 --> 00:04:30,488
+[SPEAKER_01]: He knows the principle behind the chariot making.
+
+75
+00:04:30,528 --> 00:04:31,348
+[SPEAKER_01]: He understands it.
+
+76
+00:04:31,729 --> 00:04:33,029
+[SPEAKER_01]: He doesn't need to think about it.
+
+77
+00:04:33,069 --> 00:04:35,971
+[SPEAKER_01]: He just makes it because he understood that it works like that.
+
+78
+00:04:36,512 --> 00:04:37,932
+[SPEAKER_01]: In its nature, that's the result.
+
+79
+00:04:38,333 --> 00:04:39,493
+[SPEAKER_01]: But how does he understand it?
+
+80
+00:04:39,714 --> 00:04:41,174
+[SPEAKER_01]: By making effort to understand it.
+
+81
+00:04:41,795 --> 00:04:42,555
+[SPEAKER_01]: If you never make...
+
+82
+00:04:42,796 --> 00:04:44,296
+[SPEAKER_01]: Wait, what is the nature of this?
+
+83
+00:04:44,757 --> 00:04:45,317
+[SPEAKER_01]: Yeah, I know.
+
+84
+00:04:46,018 --> 00:04:47,819
+[SPEAKER_01]: I have all the content, all the information.
+
+85
+00:04:48,039 --> 00:04:49,400
+[SPEAKER_01]: But what is the nature of that?
+
+86
+00:04:50,120 --> 00:04:51,882
+[SPEAKER_01]: What are the characteristics of that nature?
+
+87
+00:04:51,902 --> 00:04:52,542
+[SPEAKER_00]: What is it for?
+
+88
+00:04:52,562 --> 00:04:53,523
+[SPEAKER_00]: What is this thing here?
+
+89
+00:04:53,563 --> 00:04:54,484
+[SPEAKER_01]: What is the purpose?
+
+90
+00:04:54,544 --> 00:04:55,424
+[SPEAKER_01]: What is my purpose?
+
+91
+00:04:55,845 --> 00:04:58,047
+[SPEAKER_01]: What is basically behind this content?
+
+92
+00:04:58,327 --> 00:04:59,768
+[SPEAKER_01]: Like, sensuality needs to be understood.
+
+93
+00:05:00,188 --> 00:05:00,789
+[SPEAKER_01]: It's a question.
+
+94
+00:05:00,809 --> 00:05:02,150
+[SPEAKER_01]: Sense-desire needs to be understood.
+
+95
+00:05:02,210 --> 00:05:03,151
+[SPEAKER_01]: Okay, sense-desire.
+
+96
+00:05:03,191 --> 00:05:04,612
+[SPEAKER_01]: So, you can relate to sense-desire.
+
+97
+00:05:05,673 --> 00:05:07,354
+[SPEAKER_01]: I had sense-desires in the past.
+
+98
+00:05:07,875 --> 00:05:09,056
+[SPEAKER_01]: I have sense-desires now.
+
+99
+00:05:09,476 --> 00:05:10,537
+[SPEAKER_01]: What are the sense-desires?
+
+100
+00:05:10,897 --> 00:05:12,398
+[SPEAKER_01]: I say sense-desire in the future.
+
+101
+00:05:13,199 --> 00:05:15,381
+[SPEAKER_01]: Ask yourself, am I liable to sense-desire in the future?
+
+102
+00:05:15,881 --> 00:05:17,503
+[SPEAKER_01]: So, what is the sense-desire?
+
+103
+00:05:18,461 --> 00:05:23,145
+[SPEAKER_01]: Oh, sense-desire is when I go after agreeable objects of my senses.
+
+104
+00:05:24,205 --> 00:05:26,167
+[SPEAKER_01]: Agreeable sight, sound, smell, taste, touches.
+
+105
+00:05:26,287 --> 00:05:26,647
+[SPEAKER_01]: Okay.
+
+106
+00:05:26,687 --> 00:05:30,350
+[SPEAKER_01]: So, what is determined?
+
+107
+00:05:31,110 --> 00:05:32,612
+[SPEAKER_01]: What has determined that agreeability?
+
+108
+00:05:33,152 --> 00:05:35,714
+[SPEAKER_01]: What is determined by the agreeability?
+
+109
+00:05:37,442 --> 00:05:39,143
+[SPEAKER_01]: Oh, this is agreeable, this is disagreeable.
+
+110
+00:05:40,004 --> 00:05:41,825
+[SPEAKER_01]: That's just how things present themselves, pretty much.
+
+111
+00:05:42,425 --> 00:05:43,886
+[SPEAKER_01]: So, where is your sense desire, then?
+
+112
+00:05:44,006 --> 00:05:45,567
+[SPEAKER_01]: Is it in that agreeable or disagreeable?
+
+113
+00:05:46,287 --> 00:05:49,389
+[SPEAKER_01]: Or is it in you wanting the agreeable and not wanting the disagreeable?
+
+114
+00:05:50,890 --> 00:05:58,695
+[SPEAKER_01]: Because if desire is truly in that thing, in that agreeability or disagreeability, it would be kind of... there would be nothing for you to do.
+
+115
+00:05:59,756 --> 00:06:01,617
+[SPEAKER_01]: Just having the experience of the sight,
+
+116
+00:06:02,606 --> 00:06:05,227
+[SPEAKER_01]: of agreeable nature would be enclosed in itself.
+
+117
+00:06:05,347 --> 00:06:06,708
+[SPEAKER_01]: That would be the agreeable experience.
+
+118
+00:06:07,168 --> 00:06:10,470
+[SPEAKER_01]: You wouldn't need or you wouldn't be able to want more of it.
+
+119
+00:06:11,330 --> 00:06:15,853
+[SPEAKER_01]: Because any notion between agreeable and more of it is already contained within the sight.
+
+120
+00:06:17,153 --> 00:06:19,034
+[SPEAKER_01]: So, there is no room there for self-awareness.
+
+121
+00:06:19,274 --> 00:06:20,835
+[SPEAKER_01]: Oh, I want this on account of that.
+
+122
+00:06:22,276 --> 00:06:24,437
+[SPEAKER_01]: But the fact is, when you have agreeable sight, you want more of it.
+
+123
+00:06:25,637 --> 00:06:26,658
+[SPEAKER_01]: You want to touch it as well.
+
+124
+00:06:27,018 --> 00:06:28,359
+[SPEAKER_01]: You want to taste it, if it's edible.
+
+125
+00:06:29,222 --> 00:06:29,863
+[SPEAKER_01]: You want to smell it.
+
+126
+00:06:31,024 --> 00:06:31,804
+[SPEAKER_01]: Oh, why is that?
+
+127
+00:06:31,824 --> 00:06:32,805
+[SPEAKER_01]: Because it's just a sight.
+
+128
+00:06:33,126 --> 00:06:34,587
+[SPEAKER_01]: So, how does sight make you want to smell?
+
+129
+00:06:34,607 --> 00:06:37,270
+[SPEAKER_01]: So, it's you who wants to do all of that on top of it.
+
+130
+00:06:37,730 --> 00:06:42,134
+[SPEAKER_01]: So, then you realize, okay, so sense desire is not in beautiful things in the world.
+
+131
+00:06:42,154 --> 00:06:46,838
+[SPEAKER_01]: Sense desire is in my attitude towards beautiful things in the world.
+
+132
+00:06:46,858 --> 00:06:50,302
+[SPEAKER_01]: As in, I can't just help myself, but automatically go towards it.
+
+133
+00:06:50,882 --> 00:06:52,203
+[SPEAKER_01]: Same like moth sees the light.
+
+134
+00:06:53,168 --> 00:06:54,429
+[SPEAKER_01]: He doesn't think, just goes straight.
+
+135
+00:06:55,310 --> 00:06:56,011
+[SPEAKER_01]: Can't help himself.
+
+136
+00:06:56,351 --> 00:06:58,233
+[SPEAKER_01]: It's still master's responsibility, by the way.
+
+137
+00:07:01,976 --> 00:07:06,340
+[SPEAKER_01]: It's not that the light makes you, commands you, controls you, takes over your actions.
+
+138
+00:07:07,321 --> 00:07:08,702
+[SPEAKER_01]: No, you just can't help yourself.
+
+139
+00:07:10,784 --> 00:07:14,227
+[SPEAKER_01]: So then you realize, oh, you're already now practicing understanding.
+
+140
+00:07:15,702 --> 00:07:20,204
+[SPEAKER_00]: So, if I understand that sensual pleasures, that sensual desire...
+
+141
+00:07:20,224 --> 00:07:24,145
+[SPEAKER_00]: If you understand what sensual desire is... Well, you know the escape.
+
+142
+00:07:24,345 --> 00:07:26,686
+[SPEAKER_01]: Well, then you will... the escape will become apparent.
+
+143
+00:07:27,546 --> 00:07:28,427
+[SPEAKER_00]: So, what is the escape?
+
+144
+00:07:28,987 --> 00:07:29,647
+[SPEAKER_01]: From sensuality.
+
+145
+00:07:29,907 --> 00:07:34,629
+[SPEAKER_01]: Well, it's exactly... it's not... it's removal of the assumption that sensual pleasures are in things.
+
+146
+00:07:36,590 --> 00:07:39,651
+[SPEAKER_01]: That's like the first... the basis for any... any escape.
+
+147
+00:07:40,312 --> 00:07:45,334
+[SPEAKER_01]: The only reason you don't escape it... the only reason you're still entangled is because you don't see where the trap is.
+
+148
+00:07:45,494 --> 00:07:46,275
+[SPEAKER_01]: So, you step in it.
+
+149
+00:07:48,616 --> 00:07:53,638
+[SPEAKER_01]: Once you learn what's really the trap and what it isn't, then you know how to not step in it.
+
+150
+00:07:56,079 --> 00:07:59,661
+[SPEAKER_01]: So, the trap is your own desire that you assume to be in those things.
+
+151
+00:08:00,502 --> 00:08:03,263
+[SPEAKER_01]: And by not seeing where it actually is, you're fully already trapped.
+
+152
+00:08:05,494 --> 00:08:08,196
+[SPEAKER_01]: By not seeing that it's your attitude that's the root of your desire.
+
+153
+00:08:10,338 --> 00:08:11,178
+[SPEAKER_00]: What about the pressure?
+
+154
+00:08:12,539 --> 00:08:17,543
+[SPEAKER_01]: Well, pressure, see, pressure is kind of secondary, so to speak.
+
+155
+00:08:19,705 --> 00:08:31,034
+[SPEAKER_01]: So, in the experience of, say, agreeable sight, you are pressured because you have been going after the agreeability of your senses by default.
+
+156
+00:08:32,500 --> 00:08:44,165
+[SPEAKER_01]: So, contact, passa or pressure, whichever way you want to translate it, has been maintained through you ignoring where the desire is.
+
+157
+00:08:45,946 --> 00:08:57,151
+[SPEAKER_01]: Now, it's even worse because there is no first point in our experience as a whole, in the entire saṃsāra, before which you did not ignore things and then you started ignoring.
+
+158
+00:08:57,611 --> 00:09:01,673
+[SPEAKER_01]: There is no first point before which you were not pressured and then you became pressured.
+
+159
+00:09:02,957 --> 00:09:05,919
+[SPEAKER_01]: So, although pressure is secondary, it was always first.
+
+160
+00:09:06,699 --> 00:09:09,581
+[SPEAKER_01]: Ignorance is secondary, yet it was always first.
+
+161
+00:09:10,101 --> 00:09:11,942
+[SPEAKER_01]: By not knowing that, that's why it was first.
+
+162
+00:09:13,863 --> 00:09:21,248
+[SPEAKER_01]: So, that's why there is no discernible point, manifestation, first moment when ignorance manifests, when avijjā manifests, as the Buddha described it.
+
+163
+00:09:22,669 --> 00:09:27,792
+[SPEAKER_01]: But once you realize that, oh, the only reason I'm pressured is because I've been giving in to the pressure.
+
+164
+00:09:29,108 --> 00:09:38,213
+[SPEAKER_01]: If I stop giving in to the pressure for agreeable, pressure for getting rid of the disagreeable, that pressure will fade, because I'm not fueling it anymore.
+
+165
+00:09:38,753 --> 00:09:45,396
+[SPEAKER_01]: If the pressure fades, any assumption that you jumped into by giving in to the pressure will have to disappear as well.
+
+166
+00:09:45,757 --> 00:09:52,280
+[SPEAKER_01]: And then you get to see, ah, sense desires were always unpleasant.
+
+167
+00:09:52,300 --> 00:09:53,521
+[SPEAKER_01]: They will always be unpleasant.
+
+168
+00:09:53,761 --> 00:09:54,821
+[SPEAKER_01]: There was never anything different.
+
+169
+00:09:54,841 --> 00:09:56,042
+[SPEAKER_01]: It was me misperceiving them.
+
+170
+00:09:57,030 --> 00:10:03,654
+[SPEAKER_01]: Like the man affected with leprosy, burning embers are providing him pleasure, although they're not.
+
+171
+00:10:03,674 --> 00:10:07,656
+[SPEAKER_01]: So, he realizes these burning embers were always uncomfortable and painful.
+
+172
+00:10:07,896 --> 00:10:08,156
+[SPEAKER_01]: Always.
+
+173
+00:10:08,776 --> 00:10:15,440
+[SPEAKER_01]: It's just because of my wrong view, misperception, I was regarding that genuine sharp pain as pleasant.
+
+174
+00:10:18,381 --> 00:10:20,002
+[SPEAKER_01]: So, all of this already are.
+
+175
+00:10:20,162 --> 00:10:21,443
+[SPEAKER_01]: That's how you understand things.
+
+176
+00:10:22,485 --> 00:10:27,488
+[SPEAKER_01]: Questioning, looking for the nature, discerning the characteristics, questioning further.
+
+177
+00:10:28,269 --> 00:10:28,409
+[SPEAKER_01]: Yeah.
+
+178
+00:10:28,889 --> 00:10:29,449
+[SPEAKER_01]: Day and night.
+
+179
+00:10:29,750 --> 00:10:31,651
+[SPEAKER_01]: First watch of the night, second watch of the night.
+
+180
+00:10:31,811 --> 00:10:35,913
+[SPEAKER_01]: Just purifying, as the Buddha said, his mind from the unwholesome state.
+
+181
+00:10:35,973 --> 00:10:37,714
+[SPEAKER_01]: What is the fundamental unwholesome state?
+
+182
+00:10:38,375 --> 00:10:39,476
+[SPEAKER_01]: Lack of understanding is.
+
+183
+00:10:40,596 --> 00:10:41,177
+[SPEAKER_01]: Ignorance is.
+
+184
+00:10:42,157 --> 00:10:44,078
+[SPEAKER_01]: That is the root of all unwholesome.
+
+185
+00:10:45,499 --> 00:10:50,763
+[SPEAKER_01]: So, you purify your mind by removing your own self-induced ignoring of the nature of things.
+
+186
+00:10:52,205 --> 00:10:53,606
+[SPEAKER_01]: What is the nature of aversion?
+
+187
+00:10:54,426 --> 00:10:55,387
+[SPEAKER_01]: What is the nature of anger?
+
+188
+00:10:56,308 --> 00:10:57,368
+[SPEAKER_01]: What is the nature of choice?
+
+189
+00:10:59,550 --> 00:11:01,731
+[SPEAKER_01]: What is the nature of feeling?
+
+190
+00:11:02,612 --> 00:11:03,812
+[SPEAKER_01]: What is the nature of perceiving?
+
+191
+00:11:04,573 --> 00:11:05,814
+[SPEAKER_01]: What is the nature of it?
+
+192
+00:11:06,494 --> 00:11:08,255
+[SPEAKER_01]: Not just what is perceiving, what is feeling.
+
+193
+00:11:08,756 --> 00:11:09,856
+[SPEAKER_01]: What is the nature of it?
+
+194
+00:11:10,477 --> 00:11:18,702
+[SPEAKER_01]: What is a universal characteristic of feeling that is present there as its nature, regardless of what is being specifically felt?
+
+195
+00:11:20,336 --> 00:11:22,436
+[SPEAKER_01]: What is the universal nature of perception?
+
+196
+00:11:22,937 --> 00:11:26,737
+[SPEAKER_01]: Regardless of what sense is perceiving and what is being perceived through that sense.
+
+197
+00:11:32,579 --> 00:11:40,180
+[SPEAKER_00]: So, for example, just on the... what is... okay, sorry...
+
+198
+00:11:46,391 --> 00:11:48,613
+[SPEAKER_00]: And what is the cessation of sensual pleasures?
+
+199
+00:11:49,653 --> 00:11:51,034
+[SPEAKER_00]: What is the cessation of it?
+
+200
+00:11:51,074 --> 00:11:52,555
+[SPEAKER_00]: Cessation of desire, the delight.
+
+201
+00:11:53,256 --> 00:11:55,757
+[SPEAKER_00]: It says here, with cessation of contact.
+
+202
+00:11:55,777 --> 00:11:57,238
+[SPEAKER_00]: Cessation of pressure.
+
+203
+00:11:57,258 --> 00:12:02,702
+[SPEAKER_00]: Cessation of... with cessation of pressure, contact, is the cessation of sensual pleasures.
+
+204
+00:12:02,722 --> 00:12:02,862
+[SPEAKER_01]: Yeah.
+
+205
+00:12:03,362 --> 00:12:03,923
+[SPEAKER_01]: That's what I said.
+
+206
+00:12:04,003 --> 00:12:04,183
+[SPEAKER_01]: Yeah.
+
+207
+00:12:04,483 --> 00:12:12,649
+[SPEAKER_01]: If you if you stop habitually going after the agreeable, you are inadvertently not fueling the pressure anymore.
+
+208
+00:12:12,709 --> 00:12:14,370
+[SPEAKER_01]: You... By not fueling the pressure,
+
+209
+00:12:16,007 --> 00:12:17,528
+[SPEAKER_01]: You won't be pressured to act anymore.
+
+210
+00:12:17,728 --> 00:12:19,149
+[SPEAKER_00]: That's the diminishing of pressure.
+
+211
+00:12:19,189 --> 00:12:19,569
+[SPEAKER_00]: Exactly.
+
+212
+00:12:19,589 --> 00:12:20,269
+[SPEAKER_01]: It diminishes.
+
+213
+00:12:20,389 --> 00:12:24,912
+[SPEAKER_01]: So, through developing understanding and seeing clearly, the pressure will fade away.
+
+214
+00:12:25,812 --> 00:12:34,877
+[SPEAKER_01]: Cessation, fading away of pressure, is then cessation, fading away of the necessary basis for sense desires.
+
+215
+00:12:34,917 --> 00:12:37,718
+[SPEAKER_01]: Can you have a desire without implicit pressure?
+
+216
+00:12:39,219 --> 00:12:39,719
+[SPEAKER_00]: Impossible.
+
+217
+00:12:39,739 --> 00:12:41,120
+[SPEAKER_00]: So, where does the pressure come from?
+
+218
+00:12:41,896 --> 00:12:42,957
+[SPEAKER_00]: I'm just asking a different way.
+
+219
+00:12:43,077 --> 00:12:45,719
+[SPEAKER_01]: Yeah, you want to ask really...
+
+220
+00:12:46,340 --> 00:12:49,302
+[SPEAKER_01]: It doesn't come from, as in it comes and now it's here.
+
+221
+00:12:49,783 --> 00:12:52,225
+[SPEAKER_01]: It's there because that which determines it is there.
+
+222
+00:12:53,206 --> 00:12:54,927
+[SPEAKER_01]: The saṅkhara of the pressure is there.
+
+223
+00:12:55,608 --> 00:13:01,813
+[SPEAKER_00]: So, what is determining or where... how does... how is pressure maintained?
+
+224
+00:13:02,774 --> 00:13:05,496
+[SPEAKER_01]: What is its... What is the necessary basis for pressure?
+
+225
+00:13:06,197 --> 00:13:08,739
+[SPEAKER_01]: It's a perception of agreeable and disagreeable.
+
+226
+00:13:10,398 --> 00:13:13,821
+[SPEAKER_00]: The necessary basis is the perception of...
+
+227
+00:13:15,603 --> 00:13:18,385
+[SPEAKER_01]: So, what is the necessary base of perception, if you're listening really well?
+
+228
+00:13:18,665 --> 00:13:19,086
+[SPEAKER_01]: Senses.
+
+229
+00:13:20,206 --> 00:13:23,549
+[SPEAKER_01]: Eyes, nose, ears, body, mouth.
+
+230
+00:13:24,170 --> 00:13:26,392
+[SPEAKER_00]: Now, what's the necessary base for senses?
+
+231
+00:13:26,852 --> 00:13:30,395
+[SPEAKER_01]: Well, you can go further now, but it's going to become too abstract for people.
+
+232
+00:13:31,596 --> 00:13:33,358
+[SPEAKER_01]: Let's stick with what you can relate to.
+
+233
+00:13:33,938 --> 00:13:34,379
+[SPEAKER_00]: Senses.
+
+234
+00:13:35,980 --> 00:13:40,444
+[SPEAKER_01]: So, can you have perception of agreeable or disagreeable if you don't have the eyes?
+
+235
+00:13:41,485 --> 00:13:41,565
+[SPEAKER_01]: No.
+
+236
+00:13:42,986 --> 00:13:43,647
+[SPEAKER_01]: Inconceivable.
+
+237
+00:13:43,807 --> 00:13:49,692
+[SPEAKER_01]: So, the necessary basis for your loves and your hates is being able to see.
+
+238
+00:13:51,434 --> 00:13:53,616
+[SPEAKER_01]: Yet, that's not how you regard your loves and your hates.
+
+239
+00:13:54,336 --> 00:13:55,417
+[SPEAKER_01]: They're far more important.
+
+240
+00:13:55,838 --> 00:13:56,658
+[SPEAKER_01]: They're put first.
+
+241
+00:13:57,479 --> 00:14:03,084
+[SPEAKER_01]: Although they're always within the domain of sight and eyes,
+
+242
+00:14:04,067 --> 00:14:06,028
+[SPEAKER_01]: It's actually more important to you.
+
+243
+00:14:06,768 --> 00:14:10,269
+[SPEAKER_01]: You see that as more fundamental, what I love and what I hate.
+
+244
+00:14:12,570 --> 00:14:20,353
+[SPEAKER_01]: So, you've been ignoring the right, the nature of that relationship for so long, that now you don't even see that it's actually the other way around.
+
+245
+00:14:20,813 --> 00:14:22,934
+[SPEAKER_01]: You turn the whole picture upside down.
+
+246
+00:14:22,954 --> 00:14:23,754
+[SPEAKER_00]: That is dependent.
+
+247
+00:14:23,774 --> 00:14:25,535
+[SPEAKER_01]: That which is a second, you put first.
+
+248
+00:14:25,695 --> 00:14:29,916
+[SPEAKER_01]: That which is dependent, you put as the kind of fundamental determinant.
+
+249
+00:14:30,817 --> 00:14:32,037
+[SPEAKER_01]: But it's actually being determined.
+
+250
+00:14:34,233 --> 00:14:39,298
+[SPEAKER_00]: So, what is determining that pressure again?
+
+251
+00:14:39,678 --> 00:14:41,640
+[SPEAKER_01]: It's the fact that you have eyes and senses.
+
+252
+00:14:42,120 --> 00:14:43,982
+[SPEAKER_01]: So, that's not enough in itself.
+
+253
+00:14:44,202 --> 00:14:48,787
+[SPEAKER_01]: Now, that's still fairly abstract, would probably be for most people.
+
+254
+00:14:49,187 --> 00:14:54,272
+[SPEAKER_01]: So, now you want to dwell on the nature of that saṅkhara, of eyes, of the sixth sense space.
+
+255
+00:14:55,425 --> 00:14:58,227
+[SPEAKER_01]: What is the nature now of those eyes?
+
+256
+00:14:58,308 --> 00:14:59,929
+[SPEAKER_01]: Connect with it, so to speak.
+
+257
+00:15:00,089 --> 00:15:00,830
+[SPEAKER_01]: Understand it.
+
+258
+00:15:01,831 --> 00:15:05,874
+[SPEAKER_01]: And then, everything else that's being determined by it cannot remain indifferent to it.
+
+259
+00:15:06,194 --> 00:15:09,117
+[SPEAKER_01]: It has to be affected by that understanding.
+
+260
+00:15:09,257 --> 00:15:10,638
+[SPEAKER_01]: So, what is the nature of your senses?
+
+261
+00:15:10,979 --> 00:15:11,979
+[SPEAKER_01]: What is the nature of perception?
+
+262
+00:15:13,721 --> 00:15:14,682
+[SPEAKER_01]: Are you in control?
+
+263
+00:15:16,133 --> 00:15:21,799
+[SPEAKER_00]: Yeah, yeah, yeah, but as you're saying, that's, that's, you should go deep, you go deeper in the questioning, you go deeper.
+
+264
+00:15:21,999 --> 00:15:32,230
+[SPEAKER_00]: So, anyway, it started off with sensuality, questioning sensuality, that it's... but then it goes to questioning feelings and then questioning perceptions.
+
+265
+00:15:32,770 --> 00:15:36,654
+[SPEAKER_00]: So, the nature of your position, nature of your feelings, then it's questioning the nature of your perceptions.
+
+266
+00:15:39,333 --> 00:15:42,115
+[SPEAKER_00]: But you... just questioning sensuality...
+
+267
+00:15:42,135 --> 00:15:43,356
+[SPEAKER_01]: It will take you everywhere, of course.
+
+268
+00:15:43,376 --> 00:15:44,136
+[SPEAKER_01]: ...through the whole thing.
+
+269
+00:15:44,156 --> 00:15:44,376
+[SPEAKER_01]: So...
+
+270
+00:15:46,198 --> 00:15:53,643
+[SPEAKER_00]: So, anyway, let's go on to feelings.
+
+271
+00:15:55,404 --> 00:15:56,685
+[SPEAKER_00]: So, feelings should be understood.
+
+272
+00:16:01,968 --> 00:16:03,710
+[SPEAKER_00]: What is the source and origin of feelings?
+
+273
+00:16:05,691 --> 00:16:08,453
+[SPEAKER_00]: Pressure is the source and origin of feelings.
+
+274
+00:16:08,797 --> 00:16:09,017
+[SPEAKER_01]: Yeah.
+
+275
+00:16:09,858 --> 00:16:10,278
+[SPEAKER_00]: Pressure.
+
+276
+00:16:13,099 --> 00:16:15,160
+[SPEAKER_00]: That is why it is felt.
+
+277
+00:16:16,180 --> 00:16:19,242
+[SPEAKER_00]: Something is felt because of that pressure.
+
+278
+00:16:20,462 --> 00:16:20,622
+[SPEAKER_01]: Yeah.
+
+279
+00:16:20,722 --> 00:16:21,683
+[SPEAKER_01]: Pressure is already felt.
+
+280
+00:16:22,883 --> 00:16:24,284
+[SPEAKER_01]: Pressure is what's felt.
+
+281
+00:16:24,704 --> 00:16:25,685
+[SPEAKER_01]: Feeling is the pressure.
+
+282
+00:16:26,065 --> 00:16:26,225
+[SPEAKER_00]: Right.
+
+283
+00:16:26,865 --> 00:16:31,928
+[SPEAKER_00]: So, the cessation of pressure is a cessation of sensual pleasures, but also...
+
+284
+00:16:31,948 --> 00:16:34,149
+[SPEAKER_01]: It's a cessation of that misperception.
+
+285
+00:16:35,089 --> 00:16:36,570
+[SPEAKER_01]: It's a cessation of feeling.
+
+286
+00:16:36,770 --> 00:16:36,990
+[SPEAKER_00]: Yeah.
+
+287
+00:16:37,943 --> 00:16:46,870
+[SPEAKER_00]: So, not only that pressure ceases or diminishes, that feeling diminishes.
+
+288
+00:16:46,890 --> 00:16:46,991
+[SPEAKER_00]: Yeah.
+
+289
+00:16:48,592 --> 00:16:50,674
+[SPEAKER_01]: Because that's the thing.
+
+290
+00:16:50,814 --> 00:17:00,522
+[SPEAKER_01]: Agreeable, disagreeable, that is felt in regard to perception, in regard to what's perceived, that's in itself.
+
+291
+00:17:00,642 --> 00:17:02,343
+[SPEAKER_01]: There's nothing...
+
+292
+00:17:02,403 --> 00:17:04,145
+[SPEAKER_01]: Disagreeable does not bother you in itself.
+
+293
+00:17:05,413 --> 00:17:08,056
+[SPEAKER_01]: Agreeable does not pull you towards it in itself either.
+
+294
+00:17:10,758 --> 00:17:16,362
+[SPEAKER_01]: But it's you being pressured by it, means you're feeling it, means you are pulled, you are being repelled and so on.
+
+295
+00:17:17,483 --> 00:17:27,471
+[SPEAKER_01]: So, removal, cessation of that pressure, through clear understanding, will make you then not feel disagreeable as pain.
+
+296
+00:17:28,612 --> 00:17:33,216
+[SPEAKER_01]: It will then make you not feel the agreeable as sensual delight for more of it.
+
+297
+00:17:34,309 --> 00:17:37,612
+[SPEAKER_01]: It will make you not feel the neutral feeling unpleasantly.
+
+298
+00:17:43,016 --> 00:17:45,719
+[SPEAKER_00]: Cessation of pressure through understanding.
+
+299
+00:17:49,302 --> 00:17:49,562
+[SPEAKER_01]: Yeah.
+
+300
+00:17:49,762 --> 00:17:53,125
+[SPEAKER_01]: The only way for pressure to cease is to understand the nature of it.
+
+301
+00:17:53,885 --> 00:17:57,909
+[SPEAKER_01]: To not put it first, but see it as determined by something else that's not in your control.
+
+302
+00:17:58,850 --> 00:18:01,412
+[SPEAKER_00]: We also spoke recently about the non-reactive
+
+303
+00:18:03,452 --> 00:18:10,699
+[SPEAKER_01]: Yeah, you have to have a non-reactive attitude, as in not jumping into pleasure, not trying to deny the pain.
+
+304
+00:18:11,039 --> 00:18:12,340
+[SPEAKER_01]: That's the only way you can understand it.
+
+305
+00:18:12,700 --> 00:18:15,683
+[SPEAKER_01]: That's the only way how you're going to be able to allow it to endure for what it is.
+
+306
+00:18:15,743 --> 00:18:17,104
+[SPEAKER_00]: For what it is, so that you can understand.
+
+307
+00:18:17,124 --> 00:18:18,646
+[SPEAKER_00]: So, it's clear, without you...
+
+308
+00:18:18,686 --> 00:18:19,627
+[SPEAKER_01]: It's a prerequisite.
+
+309
+00:18:20,027 --> 00:18:26,533
+[SPEAKER_01]: So, you not reacting out of pressure will not necessarily result in you understanding pressure.
+
+310
+00:18:27,257 --> 00:18:31,059
+[SPEAKER_01]: But certainly, there can be no understanding unless you stop reacting first.
+
+311
+00:18:31,519 --> 00:18:31,659
+[SPEAKER_01]: Yeah.
+
+312
+00:18:32,240 --> 00:18:34,981
+[SPEAKER_00]: But those those two things are non-reaction.
+
+313
+00:18:37,102 --> 00:18:41,625
+[SPEAKER_01]: And... Non-reaction will make you then... will make you endure it.
+
+314
+00:18:43,066 --> 00:18:46,708
+[SPEAKER_01]: Having something endure means becoming more familiar with it, whether you want it or not.
+
+315
+00:18:46,988 --> 00:18:47,228
+[SPEAKER_00]: Yeah.
+
+316
+00:18:47,760 --> 00:18:48,500
+[SPEAKER_00]: Right, but now...
+
+317
+00:18:48,520 --> 00:18:58,726
+[SPEAKER_01]: Being more familiar with it means, oh, you can look closer and closer and get to understand it without just habitually, reactively trying to either have more of it or less of it or ignore it.
+
+318
+00:18:59,726 --> 00:19:03,228
+[SPEAKER_00]: The thing becomes clearer and you can see it in detail.
+
+319
+00:19:03,248 --> 00:19:07,150
+[SPEAKER_01]: The reason why people don't understand the nature of sensuality is because by default you go to it.
+
+320
+00:19:07,971 --> 00:19:12,513
+[SPEAKER_01]: The reason why people don't understand the nature of ill will and anger is by default you act out of it.
+
+321
+00:19:13,914 --> 00:19:14,835
+[SPEAKER_01]: You need to stop doing that.
+
+322
+00:19:14,855 --> 00:19:15,615
+[SPEAKER_01]: That's not optional.
+
+323
+00:19:16,878 --> 00:19:18,740
+[SPEAKER_00]: Or neutral feeling, you close.
+
+324
+00:19:18,760 --> 00:19:23,423
+[SPEAKER_01]: Neutral feeling, you basically want to get rid of it by distracting yourself from it, because it's just too unbearable.
+
+325
+00:19:24,444 --> 00:19:25,285
+[SPEAKER_00]: Try and hide from it.
+
+326
+00:19:25,485 --> 00:19:26,466
+[SPEAKER_01]: Try and hide from it, yeah.
+
+327
+00:19:27,026 --> 00:19:27,727
+[SPEAKER_01]: Try and replace it.
+
+328
+00:19:32,110 --> 00:19:35,873
+[SPEAKER_00]: So, what is the result of feelings?
+
+329
+00:19:38,081 --> 00:19:40,883
+[SPEAKER_01]: What choices you make on account of it.
+
+330
+00:19:41,003 --> 00:19:42,544
+[SPEAKER_00]: The answer here, yeah.
+
+331
+00:19:43,264 --> 00:19:46,726
+[SPEAKER_00]: One produces an individual existence.
+
+332
+00:19:47,767 --> 00:19:48,847
+[SPEAKER_01]: That's a weird situation.
+
+333
+00:19:49,328 --> 00:19:56,132
+[SPEAKER_00]: That corresponds with whatever feelings one experiences and which may be the consequence either of merit or demerit.
+
+334
+00:19:56,912 --> 00:19:57,532
+[SPEAKER_00]: One chooses.
+
+335
+00:19:57,833 --> 00:19:58,833
+[SPEAKER_00]: Right, yeah.
+
+336
+00:19:58,913 --> 00:19:59,594
+[SPEAKER_00]: One's choice.
+
+337
+00:19:59,614 --> 00:20:00,174
+[SPEAKER_01]: Makes a decision.
+
+338
+00:20:00,194 --> 00:20:00,394
+[SPEAKER_01]: Yeah.
+
+339
+00:20:00,514 --> 00:20:04,737
+[SPEAKER_01]: One chooses and acts out of that choice, is the result of the feelings.
+
+340
+00:20:04,777 --> 00:20:04,997
+[SPEAKER_00]: Yeah.
+
+341
+00:20:06,620 --> 00:20:11,726
+[SPEAKER_01]: Which obviously can be meritorious, demeritorious, or neither meritorious nor non-meritorious.
+
+342
+00:20:13,272 --> 00:20:14,852
+[SPEAKER_01]: Like neutral action, neither good nor bad.
+
+343
+00:20:14,872 --> 00:20:15,993
+[SPEAKER_00]: By acting out of feelings.
+
+344
+00:20:16,953 --> 00:20:17,893
+[SPEAKER_01]: One performs action.
+
+345
+00:20:18,573 --> 00:20:19,533
+[SPEAKER_01]: One decides action.
+
+346
+00:20:19,573 --> 00:20:23,034
+[SPEAKER_01]: And the Buddha said, every action is all intention already.
+
+347
+00:20:23,094 --> 00:20:23,794
+[SPEAKER_00]: One is creating.
+
+348
+00:20:23,834 --> 00:20:26,435
+[SPEAKER_01]: Means your choice, your choice is already your kamma.
+
+349
+00:20:26,815 --> 00:20:27,055
+[SPEAKER_00]: Yeah.
+
+350
+00:20:27,575 --> 00:20:36,597
+[SPEAKER_01]: So you can choose to act further out of that choice, which is another set of choices on top of your choices, but even your fundamental choice, it's already your kamma, it's already an action.
+
+351
+00:20:37,778 --> 00:20:38,938
+[SPEAKER_01]: So that's why you remove the pressure
+
+352
+00:20:39,438 --> 00:20:42,121
+[SPEAKER_01]: You remove the necessary basis for acting out of pressure.
+
+353
+00:20:42,181 --> 00:20:45,285
+[SPEAKER_01]: How can you act out of pressure if there is no pressure felt?
+
+354
+00:20:45,365 --> 00:20:46,647
+[SPEAKER_00]: There's the ending of kāma there.
+
+355
+00:20:46,667 --> 00:20:47,768
+[SPEAKER_01]: Ending of kāma there and then.
+
+356
+00:20:47,888 --> 00:20:50,311
+[SPEAKER_01]: You don't need to wait for the saṃsāra to sort of...
+
+357
+00:20:51,325 --> 00:20:52,846
+[SPEAKER_01]: Run out, or something like that.
+
+358
+00:20:52,886 --> 00:21:02,270
+[SPEAKER_01]: You ended it by stepping outside of it, by not feeling it anymore, by not partaking in it anymore, by not deciding upon it anymore, by not perceiving it anymore, misperceiving it anymore.
+
+359
+00:21:02,290 --> 00:21:03,731
+[SPEAKER_00]: By not reacting and understanding.
+
+360
+00:21:03,751 --> 00:21:04,491
+[SPEAKER_01]: By not reacting, yeah.
+
+361
+00:21:04,891 --> 00:21:06,452
+[SPEAKER_01]: By not reacting, you get to understand it.
+
+362
+00:21:06,572 --> 00:21:09,553
+[SPEAKER_01]: Once you understood it, well, then reacting becomes impossible.
+
+363
+00:21:15,516 --> 00:21:17,757
+[SPEAKER_00]: It continues about perceptions.
+
+364
+00:21:19,257 --> 00:21:20,498
+[SPEAKER_00]: Perceptions should be understood.
+
+365
+00:21:25,580 --> 00:21:28,661
+[SPEAKER_00]: What is the source and origin of perceptions?
+
+366
+00:21:29,641 --> 00:21:34,842
+[SPEAKER_00]: So, you said before, contact, pressure, is the source of perceptions.
+
+367
+00:21:34,922 --> 00:21:37,023
+[SPEAKER_01]: Yeah, well, of the perceptions.
+
+368
+00:21:37,103 --> 00:21:43,485
+[SPEAKER_01]: As I said, there is no first point when these perceptions became bad and misperceived.
+
+369
+00:21:43,945 --> 00:21:45,545
+[SPEAKER_01]: Your perception is misperception.
+
+370
+00:21:45,985 --> 00:21:46,385
+[SPEAKER_01]: Right.
+
+371
+00:21:46,646 --> 00:21:48,926
+[SPEAKER_01]: Your feeling is misfeeling, so to speak.
+
+372
+00:21:49,446 --> 00:21:50,927
+[SPEAKER_01]: Your intention is misintention.
+
+373
+00:21:50,987 --> 00:21:51,847
+[SPEAKER_01]: Yeah, it's misfelt.
+
+374
+00:21:52,544 --> 00:21:59,928
+[SPEAKER_01]: But, it's only like... you can only call it misperception, misfeeling and misintention from the arahant's point of view.
+
+375
+00:22:00,768 --> 00:22:03,350
+[SPEAKER_01]: But, you have to be one or the other either.
+
+376
+00:22:03,430 --> 00:22:10,713
+[SPEAKER_01]: We're not talking about theory, in which case, yes, it's true to say that these perceptions don't exist in an arahant and so on.
+
+377
+00:22:11,434 --> 00:22:14,275
+[SPEAKER_01]: But, you don't start from a neutral position.
+
+378
+00:22:14,635 --> 00:22:19,758
+[SPEAKER_01]: You don't start by... somebody who's affected with ignorance cannot start from a position that can understand arahant.
+
+379
+00:22:23,130 --> 00:22:29,795
+[SPEAKER_01]: So, any perception that you can have is the misperception resulting out of pressure.
+
+380
+00:22:30,435 --> 00:22:34,158
+[SPEAKER_01]: Any feeling that you have is basically a misfeeling resulting out of pressure.
+
+381
+00:22:34,238 --> 00:22:39,301
+[SPEAKER_01]: So, any choice that you have, any intention that you have, it's a misintention resulting out of pressure.
+
+382
+00:22:39,962 --> 00:22:44,705
+[SPEAKER_01]: Which is why, then, the Buddha would say, when he was teaching somebody who is not an Arahant yet,
+
+383
+00:22:45,125 --> 00:22:47,486
+[SPEAKER_01]: He would call the cessation of the five aggregates.
+
+384
+00:22:47,926 --> 00:22:52,607
+[SPEAKER_01]: He would say feeling ceases, perception ceases, intention ceases.
+
+385
+00:22:52,627 --> 00:22:52,867
+[SPEAKER_00]: Right.
+
+386
+00:22:53,087 --> 00:22:53,667
+[SPEAKER_01]: Because they do.
+
+387
+00:22:54,747 --> 00:23:00,488
+[SPEAKER_01]: From that point of view, those type of feeling, intention, perception, rooted in pressure, they're gone.
+
+388
+00:23:00,868 --> 00:23:07,810
+[SPEAKER_01]: So, it's true to say that those type of... those feeling, perception, intention, they don't exist anymore in anārānta.
+
+389
+00:23:08,890 --> 00:23:11,652
+[SPEAKER_01]: But that's not to say that arahant is sort of like a...
+
+390
+00:23:11,712 --> 00:23:12,553
+[SPEAKER_01]: There's no perception.
+
+391
+00:23:12,573 --> 00:23:14,434
+[SPEAKER_01]: ...robot who doesn't perceive anything.
+
+392
+00:23:14,454 --> 00:23:19,658
+[SPEAKER_01]: No, it's just that the perception that he has, the only way to relate to it is to become an arahant yourself.
+
+393
+00:23:20,119 --> 00:23:27,584
+[SPEAKER_01]: You cannot understand it even theoretically, because theoretical understanding is still affected by your misperception rooted in the pressure.
+
+394
+00:23:27,744 --> 00:23:27,984
+[SPEAKER_00]: Right.
+
+395
+00:23:29,025 --> 00:23:31,907
+[SPEAKER_00]: So, yeah, it begins with perception needs to be understood.
+
+396
+00:23:32,328 --> 00:23:38,272
+[SPEAKER_00]: Thus, because I don't understand, thus... By understanding the perception, you will uproot the pressure
+
+397
+00:23:38,769 --> 00:23:40,990
+[SPEAKER_01]: And the perception that was being determined by that pressure.
+
+398
+00:23:41,730 --> 00:23:42,390
+[SPEAKER_01]: Because that's what I mean.
+
+399
+00:23:42,410 --> 00:23:50,534
+[SPEAKER_01]: Like, speaking in that kind of, like, say, a theoretical model, perception comes first.
+
+400
+00:23:50,874 --> 00:23:51,994
+[SPEAKER_01]: Feeling comes first.
+
+401
+00:23:52,034 --> 00:23:53,014
+[SPEAKER_01]: Intention comes first.
+
+402
+00:23:53,175 --> 00:23:54,135
+[SPEAKER_01]: They're the aggregates there.
+
+403
+00:23:54,895 --> 00:23:58,136
+[SPEAKER_01]: There is no pressure in the five aggregates.
+
+404
+00:23:58,757 --> 00:24:00,497
+[SPEAKER_01]: Cannot be.
+
+405
+00:24:00,517 --> 00:24:02,258
+[SPEAKER_01]: They're like five heaps exist on their own.
+
+406
+00:24:02,698 --> 00:24:04,819
+[SPEAKER_01]: Arise and fall, as the Buddha said.
+
+407
+00:24:05,839 --> 00:24:07,240
+[SPEAKER_01]: But that's not your starting position.
+
+408
+00:24:08,922 --> 00:24:17,328
+[SPEAKER_01]: Your starting position is that all of those aggregates, that are independent of you and of each other, are taken up by the pressure, by the assumption.
+
+409
+00:24:18,228 --> 00:24:23,932
+[SPEAKER_01]: And see, by taking them up means you put second as first.
+
+410
+00:24:24,372 --> 00:24:31,317
+[SPEAKER_01]: So, the pressure, which is really dependent only because there are things that can pressure you, like perception, feeling, intentions,
+
+411
+00:24:32,600 --> 00:24:34,742
+[SPEAKER_01]: Like, can you be pressured if there is no perception?
+
+412
+00:24:34,822 --> 00:24:36,323
+[SPEAKER_01]: Can you be pressured if there's nothing felt?
+
+413
+00:24:36,903 --> 00:24:38,645
+[SPEAKER_01]: Can you be pressured if there are no intentions?
+
+414
+00:24:39,545 --> 00:24:40,026
+[SPEAKER_01]: Impossible.
+
+415
+00:24:40,887 --> 00:24:45,810
+[SPEAKER_01]: If there are no ways of manifesting pressure, there can be no pressure manifesting.
+
+416
+00:24:46,651 --> 00:24:47,352
+[SPEAKER_01]: As simple as that.
+
+417
+00:24:48,673 --> 00:24:50,694
+[SPEAKER_01]: But, you put that pressure first.
+
+418
+00:24:50,894 --> 00:24:55,338
+[SPEAKER_01]: So, although that pressure is determined by the ability, basically, to be pressured, so to speak,
+
+419
+00:24:56,026 --> 00:25:05,056
+[SPEAKER_01]: You assume that pressure is first, so you keep acting out of pressure, and whenever you act out of pressure, you assume pressure first, and then everything else that you act on account of is second.
+
+420
+00:25:05,877 --> 00:25:13,905
+[SPEAKER_01]: So, anything you perceive, anything you feel, anything you intend, is actually made subordinate, by your own view, to the pressure.
+
+421
+00:25:14,226 --> 00:25:14,426
+[SPEAKER_01]: Why?
+
+422
+00:25:14,486 --> 00:25:17,950
+[SPEAKER_01]: Because the ultimate goal is getting rid of the discomfort of the pressure.
+
+423
+00:25:19,490 --> 00:25:21,631
+[SPEAKER_01]: But this comfort of the pressure, which is what?
+
+424
+00:25:22,131 --> 00:25:22,852
+[SPEAKER_01]: Have you created it?
+
+425
+00:25:23,012 --> 00:25:23,152
+[SPEAKER_01]: No.
+
+426
+00:25:23,612 --> 00:25:24,472
+[SPEAKER_01]: Are you subjected to it?
+
+427
+00:25:24,492 --> 00:25:25,473
+[SPEAKER_01]: So you have arisen on its own?
+
+428
+00:25:25,753 --> 00:25:25,933
+[SPEAKER_01]: Yeah.
+
+429
+00:25:26,353 --> 00:25:26,573
+[SPEAKER_01]: How?
+
+430
+00:25:26,974 --> 00:25:29,955
+[SPEAKER_01]: Oh, well, through what I perceived, through what I felt, through what I intended.
+
+431
+00:25:31,316 --> 00:25:32,656
+[SPEAKER_01]: That's why it's like a vicious circle.
+
+432
+00:25:35,838 --> 00:25:38,879
+[SPEAKER_01]: You create the pressure by not understanding perception, feeling, intention.
+
+433
+00:25:39,120 --> 00:25:39,840
+[SPEAKER_01]: You are pressured.
+
+434
+00:25:41,363 --> 00:25:53,031
+[SPEAKER_01]: But by being pressured and acting out of pressure, you then maintain perception, feeling, intention, that fuel, that provide the basis for pressure, that makes them more, that makes the basis bigger, and that's how pressure proliferates and grows.
+
+435
+00:25:53,692 --> 00:25:55,733
+[SPEAKER_01]: That's like the upādāna.
+
+436
+00:25:55,753 --> 00:26:04,039
+[SPEAKER_01]: The more fuel for the fire there is, the bigger the fire, the more fuel is consumed, the more fuel is found, the bigger the fire grows.
+
+437
+00:26:05,020 --> 00:26:06,741
+[SPEAKER_01]: But fire is not the fuel.
+
+438
+00:26:08,335 --> 00:26:13,260
+[SPEAKER_01]: Upādāna is not in the aggregates, as the Buddha said, but he said there is no upādāna anywhere apart from the aggregates.
+
+439
+00:26:14,240 --> 00:26:27,353
+[SPEAKER_01]: Desire and lust in regard to the aggregates, as in acting out of the value that your desire must be satisfied, desire to achieve, desire to get rid of, makes everything else subordinate to that desire, although desire is second to everything else.
+
+440
+00:26:28,177 --> 00:26:30,099
+[SPEAKER_01]: You made it first and now everything else is second.
+
+441
+00:26:30,740 --> 00:26:39,248
+[SPEAKER_01]: So, all of these aggregates as second, perception as second, feeling as second, intentions as second, will cease once you remove the pressure.
+
+442
+00:26:41,690 --> 00:26:48,697
+[SPEAKER_01]: Because if you have them as second and you don't make them, you don't understand them, they will keep fueling the pressure, they will keep taking itself as first.
+
+443
+00:26:54,415 --> 00:26:58,538
+[SPEAKER_01]: So, that's why I said, like, you are pressured because you perceive and you feel and you intend.
+
+444
+00:27:00,220 --> 00:27:02,982
+[SPEAKER_01]: But the perception, feeling and intention are that pressure.
+
+445
+00:27:03,042 --> 00:27:06,024
+[SPEAKER_01]: That's how pressure manifests.
+
+446
+00:27:06,304 --> 00:27:10,708
+[SPEAKER_00]: I got that image of... it's... you have a twisted view of things.
+
+447
+00:27:10,748 --> 00:27:14,010
+[SPEAKER_00]: Like upside-down, that the whole... everything's the wrong way around.
+
+448
+00:27:14,491 --> 00:27:14,711
+[SPEAKER_00]: Yeah.
+
+449
+00:27:14,911 --> 00:27:16,132
+[SPEAKER_00]: Or twisted out of shape.
+
+450
+00:27:16,292 --> 00:27:16,452
+[SPEAKER_01]: Yeah.
+
+451
+00:27:18,093 --> 00:27:18,974
+[SPEAKER_00]: And that's the pressure.
+
+452
+00:27:19,254 --> 00:27:19,815
+[SPEAKER_00]: Is that... Yeah.
+
+453
+00:27:20,255 --> 00:27:22,177
+[SPEAKER_01]: So, all those twisted shapes will cease.
+
+454
+00:27:22,317 --> 00:27:22,497
+[SPEAKER_00]: Yeah.
+
+455
+00:27:23,426 --> 00:27:25,988
+[SPEAKER_00]: And when things turn right, play around, pop away.
+
+456
+00:27:26,008 --> 00:27:26,168
+[SPEAKER_00]: Yeah.
+
+457
+00:27:26,248 --> 00:27:28,609
+[SPEAKER_01]: You remove that force that's been twisting them.
+
+458
+00:27:29,230 --> 00:27:29,430
+[SPEAKER_00]: Yeah.
+
+459
+00:27:30,551 --> 00:27:31,812
+[SPEAKER_00]: So, it's not bent out of shape.
+
+460
+00:27:31,832 --> 00:27:32,012
+[SPEAKER_01]: Yeah.
+
+461
+00:27:32,152 --> 00:27:34,774
+[SPEAKER_01]: So, it's not like your aggregates get replaced by something.
+
+462
+00:27:34,974 --> 00:27:35,994
+[SPEAKER_01]: Aggregates remain aggregates.
+
+463
+00:27:36,034 --> 00:27:39,257
+[SPEAKER_01]: Ignorant aggregates, arahants, aggregates, aggregates are there.
+
+464
+00:27:40,477 --> 00:27:42,219
+[SPEAKER_01]: Feelings, their perceptions, their intentions, there.
+
+465
+00:27:42,779 --> 00:27:44,600
+[SPEAKER_01]: But, now they're seen for what they are.
+
+466
+00:27:45,501 --> 00:27:46,622
+[SPEAKER_01]: They're not put second.
+
+467
+00:27:46,882 --> 00:27:47,822
+[SPEAKER_01]: They're seen as first.
+
+468
+00:27:47,842 --> 00:27:48,103
+[SPEAKER_00]: Yeah.
+
+469
+00:28:01,586 --> 00:28:10,134
+[SPEAKER_00]: Again, what is the cessation of perceptions, cessation of... what is the cessation of misperception?
+
+470
+00:28:10,174 --> 00:28:21,665
+[SPEAKER_01]: Well, no, I don't want to call it perception, feeling, intention, because by saying misperception, allows person who hasn't understood perception, feeling and intention, to think they can pertain to understanding of correct
+
+471
+00:28:22,738 --> 00:28:27,239
+[SPEAKER_01]: So, cessation of feeling, intention and perception for an ignorant mind is achieved through cessation of the pressure of ignorant mind.
+
+472
+00:28:27,259 --> 00:28:29,260
+[SPEAKER_01]: So, how do you free yourself from pressure?
+
+473
+00:28:53,427 --> 00:28:53,967
+[SPEAKER_00]: Understanding.
+
+474
+00:28:54,487 --> 00:28:54,647
+[SPEAKER_01]: Yes.
+
+475
+00:28:54,847 --> 00:28:55,927
+[SPEAKER_01]: How do you arrive at understanding?
+
+476
+00:28:59,528 --> 00:29:00,208
+[SPEAKER_00]: Trying to understand.
+
+477
+00:29:01,108 --> 00:29:04,669
+[SPEAKER_01]: Okay, but what is the necessary basis for you to try to understand correctly?
+
+478
+00:29:05,529 --> 00:29:06,309
+[SPEAKER_00]: That restraint.
+
+479
+00:29:06,609 --> 00:29:06,789
+[SPEAKER_01]: Yeah.
+
+480
+00:29:06,869 --> 00:29:07,930
+[SPEAKER_01]: By not acting out of pressure.
+
+481
+00:29:08,150 --> 00:29:09,190
+[SPEAKER_00]: And not reacting as I said.
+
+482
+00:29:09,210 --> 00:29:09,610
+[SPEAKER_01]: Exactly.
+
+483
+00:29:10,150 --> 00:29:12,891
+[SPEAKER_01]: So, I just reiterated in the same, because it's not an easy topic.
+
+484
+00:29:12,951 --> 00:29:13,811
+[SPEAKER_01]: It's a tricky question.
+
+485
+00:29:14,051 --> 00:29:14,611
+[SPEAKER_01]: No, no, no.
+
+486
+00:29:15,031 --> 00:29:16,291
+[SPEAKER_01]: So, you don't act out of pressure.
+
+487
+00:29:17,651 --> 00:29:20,972
+[SPEAKER_01]: See, even you haven't understood the pressure, but inadvertently,
+
+488
+00:29:21,447 --> 00:29:27,495
+[SPEAKER_01]: Taking it on faith that you shouldn't act out of pressure, you're ceasing to provide the basis for proliferation of that pressure.
+
+489
+00:29:28,716 --> 00:29:32,501
+[SPEAKER_01]: You're ceasing to provide the basis for that misperception, misfeeling and misintention.
+
+490
+00:29:32,521 --> 00:29:36,325
+[SPEAKER_01]: And you think, oh, there is the real intention, real perception.
+
+491
+00:29:37,329 --> 00:29:38,230
+[SPEAKER_01]: Theoretically, there is.
+
+492
+00:29:38,390 --> 00:29:39,250
+[SPEAKER_01]: Practically, there isn't.
+
+493
+00:29:39,470 --> 00:29:40,791
+[SPEAKER_00]: That's not my concern right now.
+
+494
+00:29:40,911 --> 00:29:58,821
+[SPEAKER_01]: Your concern is not cultivate the pressure, action out of pressure anymore, understand the pressure, and then, that feeling, perception, intention that are left, after you're free from pressure, then you wouldn't call it perception, feeling, intention, if those are the designations used for the ones that were pressured in the past.
+
+495
+00:30:00,360 --> 00:30:02,921
+[SPEAKER_01]: That's why five aggregates cease.
+
+496
+00:30:03,041 --> 00:30:06,502
+[SPEAKER_01]: For an arahant, the puthujjana's five aggregates have ceased completely.
+
+497
+00:30:07,023 --> 00:30:10,144
+[SPEAKER_01]: But from puthujjana's point of view, that means, oh, this is like dhyate, nothingness.
+
+498
+00:30:10,204 --> 00:30:11,424
+[SPEAKER_01]: That's why people would freak out.
+
+499
+00:30:12,045 --> 00:30:15,326
+[SPEAKER_01]: When they would get the sense what the Buddha is teaching, so they will kill us.
+
+500
+00:30:15,346 --> 00:30:16,587
+[SPEAKER_01]: They will make me disappear.
+
+501
+00:30:17,187 --> 00:30:21,769
+[SPEAKER_01]: Because any relation they can have with the idea of themself is the idea of these misperceived things.
+
+502
+00:30:22,329 --> 00:30:24,890
+[SPEAKER_01]: Things that are put second while they're actually first.
+
+503
+00:30:25,898 --> 00:30:34,361
+[SPEAKER_01]: So, if you have a... hold on... if you have a recognition that, oh, that would be removed, then you think, I will be removed, and that freaks you out.
+
+504
+00:30:36,602 --> 00:30:37,922
+[SPEAKER_01]: But why would you be doing that?
+
+505
+00:30:38,562 --> 00:30:39,463
+[SPEAKER_01]: Why do you freak out?
+
+506
+00:30:39,983 --> 00:30:43,764
+[SPEAKER_01]: Oh, because you want to get rid of that discomfort which pressures you.
+
+507
+00:30:43,784 --> 00:30:45,005
+[SPEAKER_01]: Both down to the same principle.
+
+508
+00:30:46,739 --> 00:30:48,460
+[SPEAKER_00]: And really, that's what you want to be free of.
+
+509
+00:30:48,480 --> 00:30:51,543
+[SPEAKER_00]: You don't want to be suffering.
+
+510
+00:30:51,583 --> 00:30:52,603
+[SPEAKER_00]: You want to be free of suffering.
+
+511
+00:30:52,623 --> 00:31:00,909
+[SPEAKER_00]: So, again, when you ask, when someone asks or is concerned with the state of an arahant, it's irrelevant.
+
+512
+00:31:01,310 --> 00:31:02,490
+[SPEAKER_00]: So, who cares?
+
+513
+00:31:02,671 --> 00:31:08,835
+[SPEAKER_01]: It's relevant if you're concerned on the level of collecting information, so you can clarify what your goal should be.
+
+514
+00:31:08,855 --> 00:31:09,075
+[SPEAKER_00]: Yeah.
+
+515
+00:31:09,435 --> 00:31:12,918
+[SPEAKER_01]: But if you're concerned on the level of satisfying the craving for my answer,
+
+516
+00:31:13,480 --> 00:31:17,810
+[SPEAKER_01]: You're just acting out of pressure, so no amount of knowledge of an arahant will make you anything closer to him.
+
+517
+00:31:18,231 --> 00:31:22,320
+[SPEAKER_01]: That's why if you start thinking, hold on, I can get all the knowledge about an arahant.
+
+518
+00:31:23,422 --> 00:31:27,004
+[SPEAKER_01]: The only way to understand an arahant, is to become at least a sotāpanna.
+
+519
+00:31:27,745 --> 00:31:29,446
+[SPEAKER_01]: Preferably, become an arahant myself.
+
+520
+00:31:30,106 --> 00:31:33,889
+[SPEAKER_01]: That's the only way you can understand an arahant.
+
+521
+00:31:34,029 --> 00:31:36,650
+[SPEAKER_01]: If that's your goal, then, then you'll start looking in the right direction.
+
+522
+00:31:36,670 --> 00:31:44,295
+[SPEAKER_01]: That's why I keep saying, you should not think, you are practicing the dhamma, you can practice the dhamma, unless you're at least a sotāpanna.
+
+523
+00:31:46,288 --> 00:31:50,150
+[SPEAKER_01]: You should think that I can practice the dhamma if I become a sotāpanna.
+
+524
+00:31:50,170 --> 00:31:51,231
+[SPEAKER_01]: Thus, that's my goal.
+
+525
+00:31:51,911 --> 00:32:00,635
+[SPEAKER_01]: But if you think, I'm not a sotāpanna, but I can practice the dhamma, means you allow yourself that kind of space in between for which you have no measure.
+
+526
+00:32:01,256 --> 00:32:04,877
+[SPEAKER_01]: Because the only measure of the dhamma is knowing what dhamma is, which is sotāpatti.
+
+527
+00:32:05,558 --> 00:32:07,299
+[SPEAKER_01]: As the Buddha said countless amount of time.
+
+528
+00:32:07,899 --> 00:32:14,742
+[SPEAKER_01]: Yet here you are, know that you don't know what the dhamma is, but at the same time refuse to give up the idea that you are practicing the dhamma, that
+
+529
+00:32:16,815 --> 00:32:23,001
+[SPEAKER_01]: And because of that, you will not push yourself in the right direction, whereby there will be no compromise in between.
+
+530
+00:32:23,121 --> 00:32:23,241
+[SPEAKER_01]: No.
+
+531
+00:32:23,341 --> 00:32:25,143
+[SPEAKER_01]: I have to become a sotāpanna in order to practice dhamma.
+
+532
+00:32:26,664 --> 00:32:30,988
+[SPEAKER_01]: Because if you think you can practice dhamma without being a sotāpanna, you'll not make the effort to become a sotāpanna.
+
+533
+00:32:31,689 --> 00:32:35,152
+[SPEAKER_01]: And becoming a sotāpanna is the necessary basis for beginning the practice of the dhamma.
+
+534
+00:32:47,759 --> 00:32:48,120
+[SPEAKER_00]: No.
+
+535
+00:32:48,740 --> 00:32:55,730
+[SPEAKER_00]: The fourth one is the taints should be understood.
+
+536
+00:32:55,790 --> 00:32:57,593
+[SPEAKER_00]: The way, okay, the source and origin.
+
+537
+00:33:02,039 --> 00:33:04,142
+[SPEAKER_00]: And what is the diversity of taints?
+
+538
+00:33:06,255 --> 00:33:14,818
+[SPEAKER_00]: There are taints leading to hell, leading to the animal realm, leading to the realm of ghosts, human world, or god, the god realm.
+
+539
+00:33:15,018 --> 00:33:15,618
+[SPEAKER_01]: Yeah.
+
+540
+00:33:15,638 --> 00:33:20,939
+[SPEAKER_01]: That's sometimes when people get confused, you know, like, levels of desire, so to speak.
+
+541
+00:33:22,780 --> 00:33:25,361
+[SPEAKER_01]: Also, now you say, acting out of desire is bad.
+
+542
+00:33:25,481 --> 00:33:26,441
+[SPEAKER_01]: Yes, that's true.
+
+543
+00:33:27,061 --> 00:33:30,522
+[SPEAKER_01]: But that's not to say that all desire is equally bad.
+
+544
+00:33:31,943 --> 00:33:35,624
+[SPEAKER_01]: That's not to say that all of the taints are equally bad.
+
+545
+00:33:36,569 --> 00:33:37,669
+[SPEAKER_01]: Some are worse than the other.
+
+546
+00:33:38,250 --> 00:33:39,650
+[SPEAKER_01]: Some taints take you to hell.
+
+547
+00:33:40,130 --> 00:33:41,671
+[SPEAKER_01]: Some taints take you to God's realms.
+
+548
+00:33:42,431 --> 00:33:43,072
+[SPEAKER_01]: They're still taints.
+
+549
+00:33:44,452 --> 00:33:48,454
+[SPEAKER_01]: So, that's only like when some of these people hear, ah, so desire is bad, I must be free from desire.
+
+550
+00:33:48,854 --> 00:33:51,015
+[SPEAKER_01]: Well, isn't practice of dhamma desire?
+
+551
+00:33:52,255 --> 00:33:52,976
+[SPEAKER_01]: And so what?
+
+552
+00:33:53,096 --> 00:33:53,576
+[SPEAKER_01]: Yes, it is.
+
+553
+00:33:53,716 --> 00:33:53,876
+[SPEAKER_01]: And?
+
+554
+00:33:55,230 --> 00:33:55,430
+[SPEAKER_01]: It is.
+
+555
+00:33:55,631 --> 00:33:56,692
+[SPEAKER_01]: Everything is rooted in desire.
+
+556
+00:33:57,152 --> 00:33:59,695
+[SPEAKER_01]: But there is a desire that's not as bad as sensual desire.
+
+557
+00:34:00,316 --> 00:34:06,344
+[SPEAKER_01]: Because it's not as bad as sensual desire, you can actually start to do things that will undermine the desire in itself.
+
+558
+00:34:07,044 --> 00:34:08,066
+[SPEAKER_01]: And you'll be free from desire.
+
+559
+00:34:08,726 --> 00:34:11,450
+[SPEAKER_01]: So, yes, you wanting to be free from desire is your own desire.
+
+560
+00:34:13,205 --> 00:34:14,065
+[SPEAKER_01]: What do you do now?
+
+561
+00:34:15,046 --> 00:34:17,907
+[SPEAKER_01]: But usually people say, oh, isn't wanting to practice dhamma a desire?
+
+562
+00:34:18,347 --> 00:34:20,988
+[SPEAKER_01]: Means, I can't do anything about it, so I go back to sensuality.
+
+563
+00:34:21,008 --> 00:34:21,988
+[SPEAKER_01]: No, there are different levels.
+
+564
+00:34:22,208 --> 00:34:25,549
+[SPEAKER_01]: So why don't you then choose a better desire on account of a worse desire?
+
+565
+00:34:25,970 --> 00:34:26,730
+[SPEAKER_01]: That's what you should do.
+
+566
+00:34:27,410 --> 00:34:29,591
+[SPEAKER_01]: Oh, so practicing the dhamma is a desire.
+
+567
+00:34:30,491 --> 00:34:32,492
+[SPEAKER_01]: Wanting to have a sexual intercourse is a desire.
+
+568
+00:34:32,792 --> 00:34:34,853
+[SPEAKER_01]: Yeah, but they're not the same level desires.
+
+569
+00:34:35,553 --> 00:34:39,534
+[SPEAKER_01]: So ask yourself, which desires are better than the others that I have?
+
+570
+00:34:40,195 --> 00:34:41,355
+[SPEAKER_01]: And then do the better ones.
+
+571
+00:34:43,154 --> 00:34:44,995
+[SPEAKER_01]: And then, find even better desires.
+
+572
+00:34:47,517 --> 00:34:48,858
+[SPEAKER_01]: Start refining, exactly.
+
+573
+00:34:49,959 --> 00:34:52,480
+[SPEAKER_01]: That's diversity of desire, diversity of attains.
+
+574
+00:34:52,860 --> 00:34:53,721
+[SPEAKER_01]: And that's what Buddha meant.
+
+575
+00:34:54,041 --> 00:34:56,203
+[SPEAKER_01]: Desire is to be abandoned by the means of desire.
+
+576
+00:34:56,763 --> 00:35:00,766
+[SPEAKER_01]: Craving is to be abandoned by the means of craving.
+
+577
+00:35:00,826 --> 00:35:02,947
+[SPEAKER_01]: Conceit is to be abandoned by the means of conceit.
+
+578
+00:35:03,587 --> 00:35:05,609
+[SPEAKER_01]: You hear that such and such became an arahant.
+
+579
+00:35:05,729 --> 00:35:05,909
+[SPEAKER_01]: What?
+
+580
+00:35:07,393 --> 00:35:08,435
+[SPEAKER_01]: If he can do it, I can do it.
+
+581
+00:35:09,196 --> 00:35:14,403
+[SPEAKER_01]: That's a completely conceited thought, because of which, now, you start looking into arahantship.
+
+582
+00:35:14,783 --> 00:35:15,364
+[SPEAKER_01]: You start studying.
+
+583
+00:35:15,384 --> 00:35:17,206
+[SPEAKER_01]: So, you start restraining your senses.
+
+584
+00:35:17,347 --> 00:35:23,014
+[SPEAKER_01]: You start dwelling on the nature of things, including the nature of your own conceit, that made you dwell on the nature of conceit.
+
+585
+00:35:23,795 --> 00:35:26,277
+[SPEAKER_01]: And then, you end up freeing yourself through your understanding of it.
+
+586
+00:35:26,297 --> 00:35:31,440
+[SPEAKER_01]: So, yes, conceit resulted in cancelling the conceit by thinking in the right direction.
+
+587
+00:35:31,460 --> 00:35:37,304
+[SPEAKER_00]: But it's not the same conceit as someone who is so extremely arrogant.
+
+588
+00:35:37,604 --> 00:35:37,984
+[SPEAKER_01]: Exactly.
+
+589
+00:35:38,024 --> 00:35:39,926
+[SPEAKER_00]: Who doesn't even recognize that he's not free.
+
+590
+00:35:40,026 --> 00:35:41,087
+[SPEAKER_00]: I'm free from suffering.
+
+591
+00:35:41,727 --> 00:35:42,587
+[SPEAKER_00]: I am ready in nibbāna.
+
+592
+00:35:42,608 --> 00:35:46,410
+[SPEAKER_01]: And that means, see, knowing that means understanding the diversity of conceit.
+
+593
+00:35:46,910 --> 00:35:50,833
+[SPEAKER_01]: Understanding the diversity of desire, understanding the diversity of taints.
+
+594
+00:35:51,133 --> 00:35:51,874
+[SPEAKER_00]: Yeah, it's different.
+
+595
+00:35:51,894 --> 00:35:52,074
+[SPEAKER_00]: Yeah.
+
+596
+00:35:52,634 --> 00:36:01,937
+[SPEAKER_01]: Because, ah, okay, so, yes, this all partake in the nature of conceit, this all partakes in the nature of craving, this all partakes in the nature of desire, this all partakes in the nature of taints.
+
+597
+00:36:02,657 --> 00:36:05,798
+[SPEAKER_01]: But that's not to say that all the taints because of that are the same.
+
+598
+00:36:06,638 --> 00:36:14,040
+[SPEAKER_01]: That's like seeing that two different contents share the same nature, and then you choose to ignore that they're different contents.
+
+599
+00:36:17,001 --> 00:36:20,342
+[SPEAKER_01]: The content of this action rooted in craving
+
+600
+00:36:21,128 --> 00:36:21,889
+[SPEAKER_01]: It takes you to hell.
+
+601
+00:36:21,989 --> 00:36:22,589
+[SPEAKER_01]: It's murder.
+
+602
+00:36:22,949 --> 00:36:24,190
+[SPEAKER_00]: It doesn't mean the same.
+
+603
+00:36:24,250 --> 00:36:25,912
+[SPEAKER_01]: You murder somebody out of desire.
+
+604
+00:36:26,772 --> 00:36:28,413
+[SPEAKER_01]: You eat food out of desire.
+
+605
+00:36:29,774 --> 00:36:32,116
+[SPEAKER_01]: In its nature, it shares the same nature.
+
+606
+00:36:32,196 --> 00:36:33,277
+[SPEAKER_01]: It's rooted in desire.
+
+607
+00:36:33,737 --> 00:36:36,219
+[SPEAKER_01]: In its content, it's a very different thing.
+
+608
+00:36:36,459 --> 00:36:38,401
+[SPEAKER_01]: One is murder, another one is just eating food.
+
+609
+00:36:38,941 --> 00:36:40,442
+[SPEAKER_01]: So, which one is better?
+
+610
+00:36:42,544 --> 00:36:43,765
+[SPEAKER_01]: Then, do the better one.
+
+611
+00:36:44,517 --> 00:36:46,959
+[SPEAKER_00]: You replace a coarser desire with a...
+
+612
+00:36:47,039 --> 00:36:47,259
+[SPEAKER_00]: Exactly.
+
+613
+00:36:47,279 --> 00:36:52,003
+[SPEAKER_01]: That's why the whole point of sensory strength and precepts, you have to replace bad action with good action.
+
+614
+00:36:52,143 --> 00:36:53,444
+[SPEAKER_01]: It's still an action.
+
+615
+00:36:54,145 --> 00:37:00,971
+[SPEAKER_01]: Or sometimes, then, you have people develop a belief that good action, simply replacing the bad action, is how you free yourself from action.
+
+616
+00:37:01,411 --> 00:37:02,612
+[SPEAKER_01]: And that's impossible as well.
+
+617
+00:37:03,873 --> 00:37:09,538
+[SPEAKER_01]: No amount of action can free you from action, unless it's the action that makes you understand the nature of action.
+
+618
+00:37:09,578 --> 00:37:10,298
+[SPEAKER_00]: We'll get into that.
+
+619
+00:37:10,318 --> 00:37:11,139
+[SPEAKER_01]: We'll get into that.
+
+620
+00:37:11,379 --> 00:37:12,340
+[SPEAKER_00]: Maybe we'll go a bit...
+
+621
+00:37:15,502 --> 00:37:16,142
+[SPEAKER_00]: There's a lot here.
+
+622
+00:37:16,462 --> 00:37:22,464
+[SPEAKER_01]: So... Let's just get back on the diversity within.
+
+623
+00:37:22,484 --> 00:37:30,827
+[SPEAKER_01]: So, that's like when sometimes people... You hear that you must be free from desire, and then you think all desire must stop immediately.
+
+624
+00:37:31,868 --> 00:37:33,448
+[SPEAKER_01]: And then you get paralyzed, you don't know what to do.
+
+625
+00:37:33,748 --> 00:37:33,968
+[SPEAKER_01]: Same.
+
+626
+00:37:34,069 --> 00:37:38,570
+[SPEAKER_01]: You hear that you need to be sensory-strained, means I must stop seeing, hearing, smelling, tasting, touching things.
+
+627
+00:37:39,010 --> 00:37:39,730
+[SPEAKER_01]: That's impossible.
+
+628
+00:37:42,672 --> 00:37:43,432
+[SPEAKER_01]: So, why do I do that?
+
+629
+00:37:43,672 --> 00:37:43,852
+[SPEAKER_01]: Well,
+
+630
+00:37:45,003 --> 00:37:47,124
+[SPEAKER_01]: Discern the diversity of the desire.
+
+631
+00:37:48,484 --> 00:37:49,625
+[SPEAKER_01]: Right.
+
+632
+00:37:49,665 --> 00:37:51,445
+[SPEAKER_01]: Discern the diversity of your motivation.
+
+633
+00:37:52,386 --> 00:37:54,627
+[SPEAKER_01]: Yeah, why are you doing this?
+
+634
+00:37:54,667 --> 00:38:00,089
+[SPEAKER_01]: Is this rooted in me, me sort of, like, unwholesomely satisfying my sensuality or some practical need?
+
+635
+00:38:00,109 --> 00:38:00,909
+[SPEAKER_01]: Where is it rooted?
+
+636
+00:38:02,189 --> 00:38:04,650
+[SPEAKER_01]: So, same thing, for example, eating.
+
+637
+00:38:04,670 --> 00:38:07,631
+[SPEAKER_01]: Like what the Buddha said, you should reflect upon reasons why you eat the food.
+
+638
+00:38:09,812 --> 00:38:10,132
+[SPEAKER_01]: That's it.
+
+639
+00:38:10,152 --> 00:38:11,733
+[SPEAKER_01]: So, it's the same thing, same content,
+
+640
+00:38:12,655 --> 00:38:15,356
+[SPEAKER_01]: But one is good action, another one is bad action.
+
+641
+00:38:15,976 --> 00:38:16,796
+[SPEAKER_01]: Both are desire.
+
+642
+00:38:18,056 --> 00:38:23,217
+[SPEAKER_01]: You have desire to be alive, as opposed to you have desire to have this pleasurable taste.
+
+643
+00:38:24,818 --> 00:38:29,039
+[SPEAKER_01]: Okay, so desire to be alive trumps desire for pleasurable taste.
+
+644
+00:38:29,799 --> 00:38:30,079
+[SPEAKER_01]: Why?
+
+645
+00:38:30,519 --> 00:38:35,000
+[SPEAKER_01]: Oh, because if I'm alive, I can get to understand the nature of desire, be free from it, and then I'll be an arahant.
+
+646
+00:38:36,417 --> 00:38:37,417
+[SPEAKER_01]: So, yeah, it's a better design.
+
+647
+00:38:37,437 --> 00:38:38,198
+[SPEAKER_00]: It's more practical.
+
+648
+00:38:38,318 --> 00:38:39,098
+[SPEAKER_01]: There's a need for it.
+
+649
+00:38:39,538 --> 00:38:44,660
+[SPEAKER_01]: Well, I need this life and health to some extent so that I can practice and basically undo this life and health.
+
+650
+00:38:45,720 --> 00:38:46,821
+[SPEAKER_01]: Not be dependent upon it.
+
+651
+00:38:48,701 --> 00:38:52,883
+[SPEAKER_01]: So, start discerning the diversity of your intentions, your desires, your cravings.
+
+652
+00:38:54,463 --> 00:39:03,807
+[SPEAKER_01]: See, another reason why people intentionally or kind of ignorantly try to ignore the diversity of one's craving is because then
+
+653
+00:39:07,072 --> 00:39:09,673
+[SPEAKER_01]: Levels it all, like, puts it on a plain field.
+
+654
+00:39:10,573 --> 00:39:15,776
+[SPEAKER_01]: Thus, see, uh, craving, in itself, has to be there.
+
+655
+00:39:15,796 --> 00:39:17,156
+[SPEAKER_01]: Whatever you do, you do through craving.
+
+656
+00:39:17,956 --> 00:39:20,637
+[SPEAKER_01]: So, I might as well then, you know, not be celibate.
+
+657
+00:39:21,838 --> 00:39:24,439
+[SPEAKER_01]: Well, it's cravings here, cravings there, cravings anywhere.
+
+658
+00:39:24,479 --> 00:39:26,320
+[SPEAKER_01]: Natural craving is in everything I want to do.
+
+659
+00:39:26,720 --> 00:39:29,061
+[SPEAKER_01]: So, I might as well be careless and non-sense-restrained.
+
+660
+00:39:30,061 --> 00:39:31,002
+[SPEAKER_01]: No, there is a difference.
+
+661
+00:39:31,442 --> 00:39:31,622
+[SPEAKER_01]: Yes.
+
+662
+00:39:31,982 --> 00:39:33,383
+[SPEAKER_01]: All is... all of it is craving.
+
+663
+00:39:33,483 --> 00:39:34,323
+[SPEAKER_01]: All of it is desire.
+
+664
+00:39:37,002 --> 00:39:42,245
+[SPEAKER_01]: Now, discern within that the worst content of that desire and the better content.
+
+665
+00:39:42,265 --> 00:39:43,766
+[SPEAKER_00]: Which one will lead me out?
+
+666
+00:39:44,446 --> 00:39:46,747
+[SPEAKER_01]: Well, which one will make this desire proliferate less?
+
+667
+00:39:48,228 --> 00:39:50,889
+[SPEAKER_01]: Which one will make this desire pressure me less?
+
+668
+00:39:51,630 --> 00:39:57,013
+[SPEAKER_01]: Because, see, when sensuality presents itself, you have desire to follow it or you can choose to not follow it.
+
+669
+00:39:57,773 --> 00:39:59,814
+[SPEAKER_01]: So, you can develop desire for renunciation.
+
+670
+00:40:00,695 --> 00:40:01,555
+[SPEAKER_01]: And that's what the Buddha said.
+
+671
+00:40:02,175 --> 00:40:05,357
+[SPEAKER_01]: You replace the desire for sensuality with your renunciation.
+
+672
+00:40:08,741 --> 00:40:08,981
+[SPEAKER_01]: Choice.
+
+673
+00:40:09,461 --> 00:40:10,422
+[SPEAKER_00]: Yeah, the choice.
+
+674
+00:40:10,802 --> 00:40:12,043
+[SPEAKER_01]: There's no desire without choice.
+
+675
+00:40:12,063 --> 00:40:13,103
+[SPEAKER_00]: Besides merit or demerit.
+
+676
+00:40:13,143 --> 00:40:14,324
+[SPEAKER_01]: There's no desire without choice.
+
+677
+00:40:14,364 --> 00:40:15,344
+[SPEAKER_01]: There's no choice without desire.
+
+678
+00:40:15,364 --> 00:40:16,305
+[SPEAKER_00]: Which is better for me?
+
+679
+00:40:17,105 --> 00:40:18,026
+[SPEAKER_00]: Which choice is better?
+
+680
+00:40:19,006 --> 00:40:19,346
+[SPEAKER_01]: Exactly.
+
+681
+00:40:19,786 --> 00:40:20,567
+[SPEAKER_01]: Which choice is better?
+
+682
+00:40:21,967 --> 00:40:24,108
+[SPEAKER_00]: For what my goal is?
+
+683
+00:40:24,289 --> 00:40:24,649
+[SPEAKER_00]: Yeah.
+
+684
+00:40:24,729 --> 00:40:29,311
+[SPEAKER_01]: The clearer you are about your values and your goal, the clearer you'll be about choices and your responsibilities.
+
+685
+00:40:29,911 --> 00:40:31,712
+[SPEAKER_01]: So, you don't have to worry about it's all desire.
+
+686
+00:40:31,732 --> 00:40:32,573
+[SPEAKER_01]: So, what do I do then?
+
+687
+00:40:33,273 --> 00:40:33,933
+[SPEAKER_01]: It's a question.
+
+688
+00:40:33,973 --> 00:40:34,614
+[SPEAKER_01]: What do I do then?
+
+689
+00:40:34,654 --> 00:40:35,994
+[SPEAKER_01]: It's another desire.
+
+690
+00:40:36,034 --> 00:40:37,135
+[SPEAKER_01]: Desire to figure this out.
+
+691
+00:40:39,467 --> 00:40:45,468
+[SPEAKER_01]: So, what you do then is, don't... stop making things worse through your careless choices and careless desires.
+
+692
+00:40:46,109 --> 00:40:47,749
+[SPEAKER_01]: Create careless acts out of your desires.
+
+693
+00:40:55,091 --> 00:40:59,212
+[SPEAKER_00]: What is the cessation of taints?
+
+694
+00:40:59,252 --> 00:41:01,752
+[SPEAKER_00]: Cessation of ignorance.
+
+695
+00:41:01,792 --> 00:41:02,692
+[SPEAKER_00]: Cessation of taints.
+
+696
+00:41:03,993 --> 00:41:05,153
+[SPEAKER_00]: So, understanding those things.
+
+697
+00:41:06,423 --> 00:41:07,704
+[SPEAKER_01]: The only one.
+
+698
+00:41:07,724 --> 00:41:12,648
+[SPEAKER_01]: It's not having a special experience, you know, or I had experience of cessation.
+
+699
+00:41:13,248 --> 00:41:14,089
+[SPEAKER_01]: Yeah, but what does that mean?
+
+700
+00:41:14,169 --> 00:41:16,150
+[SPEAKER_01]: Have you understood it?
+
+701
+00:41:16,170 --> 00:41:20,373
+[SPEAKER_01]: How can you have experience of cessation if it's not understood?
+
+702
+00:41:20,393 --> 00:41:21,834
+[SPEAKER_01]: It means it's not a cessation.
+
+703
+00:41:23,876 --> 00:41:26,818
+[SPEAKER_01]: Because what I said, cessation is understanding of those things.
+
+704
+00:41:27,618 --> 00:41:28,439
+[SPEAKER_01]: So, have you understood it?
+
+705
+00:41:28,879 --> 00:41:31,021
+[SPEAKER_01]: If so, convey it to me, please.
+
+706
+00:41:31,101 --> 00:41:33,663
+[SPEAKER_00]: Understanding is the diminishing of ignorance.
+
+707
+00:41:33,923 --> 00:41:35,384
+[SPEAKER_01]: Yeah, which is what cessation is.
+
+708
+00:41:37,078 --> 00:41:41,601
+[SPEAKER_01]: But more often than not, people regard, oh, cessation is this experience when everything has ceased.
+
+709
+00:41:42,422 --> 00:41:45,565
+[SPEAKER_01]: And now I need to understand that and find my way of interpreting it.
+
+710
+00:41:46,345 --> 00:41:47,606
+[SPEAKER_01]: It means you haven't understood it.
+
+711
+00:41:48,787 --> 00:41:53,571
+[SPEAKER_01]: It means your experience of cessation has arisen for you.
+
+712
+00:41:54,491 --> 00:41:55,592
+[SPEAKER_01]: Has nothing ceased.
+
+713
+00:41:56,473 --> 00:41:57,334
+[SPEAKER_01]: You just added more.
+
+714
+00:41:59,215 --> 00:41:59,936
+[SPEAKER_00]: That's quite funny.
+
+715
+00:42:00,636 --> 00:42:03,398
+[SPEAKER_01]: It's a contradiction in terms.
+
+716
+00:42:03,498 --> 00:42:04,139
+[SPEAKER_00]: A special...
+
+717
+00:42:05,843 --> 00:42:12,725
+[SPEAKER_00]: Weird experience that I had during my intense meditation is the ending of ignorance.
+
+718
+00:42:13,125 --> 00:42:13,325
+[SPEAKER_01]: Yeah.
+
+719
+00:42:13,805 --> 00:42:15,245
+[SPEAKER_01]: I had, like, when people...
+
+720
+00:42:15,265 --> 00:42:16,946
+[SPEAKER_01]: I have experience when everything is ceased.
+
+721
+00:42:17,346 --> 00:42:18,706
+[SPEAKER_01]: I had experience of nothingness.
+
+722
+00:42:19,946 --> 00:42:21,087
+[SPEAKER_01]: So, how can you talk about it?
+
+723
+00:42:21,787 --> 00:42:23,807
+[SPEAKER_01]: What are you designating if there is nothing there?
+
+724
+00:42:25,107 --> 00:42:27,368
+[SPEAKER_01]: If there was nothing there, what are you aware of?
+
+725
+00:42:29,202 --> 00:42:30,743
+[SPEAKER_01]: There has to be something for you to be aware of it.
+
+726
+00:42:31,824 --> 00:42:35,967
+[SPEAKER_01]: Which means, when you say cessation, when you say it's nothing, it's actually very much something.
+
+727
+00:42:37,328 --> 00:42:38,208
+[SPEAKER_01]: But, no, no, no.
+
+728
+00:42:38,429 --> 00:42:39,329
+[SPEAKER_01]: Nothing is ceased.
+
+729
+00:42:39,469 --> 00:42:44,333
+[SPEAKER_01]: Well, nothing that you kind of commonly know was there.
+
+730
+00:42:45,220 --> 00:42:48,283
+[SPEAKER_01]: That means an uncommon, a novelty experience was replaced.
+
+731
+00:42:48,383 --> 00:42:50,525
+[SPEAKER_01]: Ignorance has ceased in regard to that thing.
+
+732
+00:42:50,545 --> 00:42:59,273
+[SPEAKER_01]: So, when the Buddha said, when he talks about nothingness and cessation, it's always cessation of these things that determine your experience of something or anything.
+
+733
+00:43:00,094 --> 00:43:07,761
+[SPEAKER_01]: So, it's cessation of ignorance, cessation of lust, cessation of aversion, cessation of delusion, not the experience of cessation.
+
+734
+00:43:08,513 --> 00:43:14,476
+[SPEAKER_01]: Which you're very much lustful for, or averse if somebody attacks it, or ignore it if he starts making you doubt it.
+
+735
+00:43:15,896 --> 00:43:22,079
+[SPEAKER_01]: It's not the experience of cessation, it's cessation of greed, aversion, illusion, in regard to any experience as such.
+
+736
+00:43:22,639 --> 00:43:23,259
+[SPEAKER_01]: Doesn't matter.
+
+737
+00:43:32,223 --> 00:43:34,244
+[SPEAKER_00]: And, sorry, number five only.
+
+738
+00:43:35,672 --> 00:43:37,253
+[SPEAKER_00]: What is karma?
+
+739
+00:43:37,733 --> 00:43:40,754
+[SPEAKER_00]: Action should be understood.
+
+740
+00:43:41,294 --> 00:43:42,475
+[SPEAKER_01]: Choice should be understood.
+
+741
+00:43:42,995 --> 00:43:47,237
+[SPEAKER_00]: It is volition, bhikkhus, that I call.
+
+742
+00:43:48,886 --> 00:43:52,589
+[SPEAKER_00]: Intention is action.
+
+743
+00:43:52,689 --> 00:43:57,212
+[SPEAKER_00]: For having intended one acts by body, speech or mind.
+
+744
+00:43:57,232 --> 00:43:59,634
+[SPEAKER_01]: Cetanā, strictly speaking, is intentional intention.
+
+745
+00:44:00,915 --> 00:44:02,437
+[SPEAKER_00]: So, choice.
+
+746
+00:44:02,677 --> 00:44:06,740
+[SPEAKER_01]: See, when you're making a choice, you have all these possible ways of intending.
+
+747
+00:44:07,361 --> 00:44:10,263
+[SPEAKER_01]: I can intend it for this, or for this, or for this, or for this.
+
+748
+00:44:10,443 --> 00:44:10,944
+[SPEAKER_01]: Doesn't matter.
+
+749
+00:44:11,704 --> 00:44:14,547
+[SPEAKER_01]: So, I choose to intend this given intention.
+
+750
+00:44:15,504 --> 00:44:16,245
+[SPEAKER_01]: And that's your choice.
+
+751
+00:44:16,385 --> 00:44:19,928
+[SPEAKER_01]: You choose to make a choice on account of present possibilities.
+
+752
+00:44:20,208 --> 00:44:21,789
+[SPEAKER_01]: Each possibility is an intention.
+
+753
+00:44:22,710 --> 00:44:25,412
+[SPEAKER_01]: Intentionally choosing that intention is what cetanā is.
+
+754
+00:44:25,492 --> 00:44:26,533
+[SPEAKER_01]: And that's already kāma.
+
+755
+00:44:26,553 --> 00:44:27,974
+[SPEAKER_01]: That's already where your kāma is rooted.
+
+756
+00:44:29,075 --> 00:44:33,439
+[SPEAKER_00]: So, what is the origin of action, contact?
+
+757
+00:44:33,999 --> 00:44:35,360
+[SPEAKER_01]: Pressure.
+
+758
+00:44:35,420 --> 00:44:36,942
+[SPEAKER_01]: Pressure is the origin of your choice.
+
+759
+00:44:37,502 --> 00:44:38,063
+[SPEAKER_01]: And that's what I mean.
+
+760
+00:44:38,503 --> 00:44:39,384
+[SPEAKER_01]: You choose
+
+761
+00:44:41,065 --> 00:44:44,386
+[SPEAKER_01]: Out of the value of I must be free from the discomfort of the pressure.
+
+762
+00:44:44,466 --> 00:44:47,848
+[SPEAKER_01]: That's a gratuitous value that's maintained through ignoring it.
+
+763
+00:44:48,348 --> 00:44:53,810
+[SPEAKER_01]: That's why whatever your choice should you make, you make it on account of how you feel and trying to get rid of whatever you feel.
+
+764
+00:44:54,791 --> 00:44:58,993
+[SPEAKER_01]: Get rid of the pleasurable feeling by wanting to replace it with more of that pleasure.
+
+765
+00:44:59,693 --> 00:45:04,095
+[SPEAKER_01]: Get rid of the unpleasurable feeling by wanting to replace it but less unpleasurable.
+
+766
+00:45:04,988 --> 00:45:12,090
+[SPEAKER_01]: And getting rid of the neutral feeling by replacing it... getting rid of the discomfort of the neutral feeling by replacing it with comfortable feeling, whatever that is.
+
+767
+00:45:13,811 --> 00:45:14,351
+[SPEAKER_01]: So, that's what I mean.
+
+768
+00:45:15,031 --> 00:45:18,192
+[SPEAKER_01]: You have a choice to not choose to act out of pressure.
+
+769
+00:45:20,853 --> 00:45:21,454
+[SPEAKER_01]: Pressure is there.
+
+770
+00:45:21,914 --> 00:45:22,134
+[SPEAKER_01]: Fine.
+
+771
+00:45:23,814 --> 00:45:27,095
+[SPEAKER_01]: As I said, there is no first point when you're not pressured, then you become pressured.
+
+772
+00:45:27,636 --> 00:45:29,296
+[SPEAKER_01]: You wake up and you find yourself pressured.
+
+773
+00:45:31,497 --> 00:45:32,977
+[SPEAKER_01]: That's your point of view.
+
+774
+00:45:33,017 --> 00:45:33,698
+[SPEAKER_01]: That's your world.
+
+775
+00:45:33,718 --> 00:45:34,598
+[SPEAKER_01]: That's your universe.
+
+776
+00:45:35,875 --> 00:45:36,215
+[SPEAKER_00]: You can...
+
+777
+00:45:36,415 --> 00:45:39,277
+[SPEAKER_01]: But you have a choice to stop acting out of that pressure.
+
+778
+00:45:40,278 --> 00:45:44,300
+[SPEAKER_00]: So, again, what you said, there is a diversity of action.
+
+779
+00:45:44,320 --> 00:45:44,961
+[SPEAKER_00]: Yeah, diversity of choices.
+
+780
+00:45:44,981 --> 00:45:46,602
+[SPEAKER_01]: Diversity of what's acting at you.
+
+781
+00:45:46,642 --> 00:45:47,062
+[SPEAKER_01]: That's what I meant.
+
+782
+00:45:47,082 --> 00:45:50,524
+[SPEAKER_01]: Like sensuality presents to you, you have a choice to say no.
+
+783
+00:45:50,924 --> 00:45:51,144
+[SPEAKER_00]: Yeah.
+
+784
+00:45:51,645 --> 00:45:54,507
+[SPEAKER_00]: You have a choice to be non-reactive to the pressure.
+
+785
+00:45:54,527 --> 00:45:55,227
+[SPEAKER_00]: Yeah, that's a choice.
+
+786
+00:45:55,247 --> 00:45:57,448
+[SPEAKER_00]: So, that's still an action, a choice.
+
+787
+00:45:57,468 --> 00:46:02,912
+[SPEAKER_01]: It's just that you're much more pressured by other choices and you choose to choose out of the pressure.
+
+788
+00:46:04,317 --> 00:46:09,399
+[SPEAKER_01]: And that's why you keep maintaining the pressure.
+
+789
+00:46:09,439 --> 00:46:11,840
+[SPEAKER_01]: Complete, like, gratuitous reason that you choose it.
+
+790
+00:46:13,820 --> 00:46:15,221
+[SPEAKER_01]: You choose it because you don't understand it.
+
+791
+00:46:15,521 --> 00:46:18,102
+[SPEAKER_01]: If you were to understand it, you would realize it's impossible actually to choose it.
+
+792
+00:46:19,322 --> 00:46:21,443
+[SPEAKER_00]: And it's not a good idea to be choosing it.
+
+793
+00:46:21,563 --> 00:46:24,684
+[SPEAKER_01]: Well, that might... that understanding might come before.
+
+794
+00:46:25,684 --> 00:46:29,986
+[SPEAKER_01]: Like, if you understand it's impossible to choose it, then it ceases to even be a possibility as an idea.
+
+795
+00:46:30,506 --> 00:46:31,306
+[SPEAKER_01]: No, it's impossible.
+
+796
+00:46:36,222 --> 00:46:40,586
+[SPEAKER_01]: Pressure was always secondary to the experience as a whole.
+
+797
+00:46:40,726 --> 00:46:43,288
+[SPEAKER_01]: That was not changed even when I thought pressure was first.
+
+798
+00:46:43,728 --> 00:46:46,230
+[SPEAKER_01]: In my experience, my choices, my feelings are second.
+
+799
+00:46:47,111 --> 00:46:49,153
+[SPEAKER_01]: No, it was... that was just my perception of it.
+
+800
+00:46:49,553 --> 00:46:50,894
+[SPEAKER_01]: The only perception that I had.
+
+801
+00:46:51,855 --> 00:46:53,797
+[SPEAKER_01]: Now you have done it, that's why it's irreversible.
+
+802
+00:46:53,997 --> 00:46:56,039
+[SPEAKER_01]: Process of arahantship or getting the right view.
+
+803
+00:46:56,359 --> 00:46:57,500
+[SPEAKER_01]: You can't reverse it back.
+
+804
+00:46:57,640 --> 00:46:58,401
+[SPEAKER_01]: You can't forget it.
+
+805
+00:46:59,021 --> 00:47:02,024
+[SPEAKER_01]: Because it pertains to the nature of your experience that now you understood.
+
+806
+00:47:02,952 --> 00:47:04,253
+[SPEAKER_01]: It means you can't ignore it anymore.
+
+807
+00:47:04,313 --> 00:47:04,854
+[SPEAKER_01]: It's impossible.
+
+808
+00:47:04,874 --> 00:47:07,396
+[SPEAKER_01]: The only reason you were ignoring it is because you were not understanding it.
+
+809
+00:47:07,416 --> 00:47:08,577
+[SPEAKER_00]: You can't twist it out of shape.
+
+810
+00:47:08,718 --> 00:47:09,198
+[SPEAKER_01]: Impossible.
+
+811
+00:47:09,758 --> 00:47:11,180
+[SPEAKER_01]: Intentionally.
+
+812
+00:47:11,220 --> 00:47:12,081
+[SPEAKER_00]: For what reason?
+
+813
+00:47:12,121 --> 00:47:15,223
+[SPEAKER_01]: It cannot be twisted out of shape.
+
+814
+00:47:15,324 --> 00:47:16,825
+[SPEAKER_01]: Intentionally or unintentionally.
+
+815
+00:47:22,536 --> 00:47:25,277
+[SPEAKER_00]: What is the cessation of action?
+
+816
+00:47:25,317 --> 00:47:26,337
+[SPEAKER_00]: Cessation of contact.
+
+817
+00:47:26,377 --> 00:47:27,258
+[SPEAKER_01]: Cessation of pressure.
+
+818
+00:47:27,878 --> 00:47:28,998
+[SPEAKER_01]: What is the cessation of pressure?
+
+819
+00:47:29,099 --> 00:47:30,399
+[SPEAKER_01]: Well, not acting out of pressure.
+
+820
+00:47:30,499 --> 00:47:32,240
+[SPEAKER_01]: That's the vicious circle I was talking about.
+
+821
+00:47:32,720 --> 00:47:33,880
+[SPEAKER_01]: See, out of pressure, you act.
+
+822
+00:47:34,240 --> 00:47:35,581
+[SPEAKER_01]: Because of that action, you're pressured.
+
+823
+00:47:36,021 --> 00:47:36,962
+[SPEAKER_01]: Out of pressure, you act.
+
+824
+00:47:36,982 --> 00:47:37,902
+[SPEAKER_01]: The fuel is the pressure.
+
+825
+00:47:37,942 --> 00:47:38,642
+[SPEAKER_01]: The fuel is the action.
+
+826
+00:47:38,662 --> 00:47:39,362
+[SPEAKER_01]: The fuel is the pressure.
+
+827
+00:47:39,382 --> 00:47:40,023
+[SPEAKER_01]: The fuel is the action.
+
+828
+00:47:40,043 --> 00:47:41,143
+[SPEAKER_00]: The fuel is the action.
+
+829
+00:47:41,163 --> 00:47:42,544
+[SPEAKER_01]: It's a vicious circle.
+
+830
+00:47:42,564 --> 00:47:44,885
+[SPEAKER_01]: So, start choosing not acting out of pressure.
+
+831
+00:47:45,225 --> 00:47:46,385
+[SPEAKER_01]: Hence, sense restraint.
+
+832
+00:47:46,505 --> 00:47:48,526
+[SPEAKER_00]: The merging of that... Yeah.
+
+833
+00:47:49,722 --> 00:47:51,884
+[SPEAKER_01]: And it ties in well with what we said before.
+
+834
+00:47:51,904 --> 00:47:53,765
+[SPEAKER_01]: So, it's not like I must say no to everything.
+
+835
+00:47:54,125 --> 00:47:54,285
+[SPEAKER_00]: No.
+
+836
+00:47:54,946 --> 00:47:57,188
+[SPEAKER_01]: You just need to say no to acting when you're pressured.
+
+837
+00:47:58,448 --> 00:48:01,911
+[SPEAKER_01]: When you feel emotional need to act, that's when you say no to yourself.
+
+838
+00:48:04,273 --> 00:48:05,394
+[SPEAKER_01]: I don't feel emotional need to eat.
+
+839
+00:48:05,434 --> 00:48:06,294
+[SPEAKER_01]: I'm simply hungry.
+
+840
+00:48:07,255 --> 00:48:09,537
+[SPEAKER_01]: So, I'll eat for hunger.
+
+841
+00:48:10,437 --> 00:48:14,020
+[SPEAKER_01]: See, you're learning how to act not rooted in pressure.
+
+842
+00:48:16,623 --> 00:48:23,086
+[SPEAKER_01]: By refining your action, by making it less rooted in pressure, the coarser actions out of pressure will fall off.
+
+843
+00:48:23,566 --> 00:48:30,508
+[SPEAKER_01]: By refining your action further, making it even less, less and less rooted in pressure, what was coarser to that will fall off.
+
+844
+00:48:31,448 --> 00:48:37,430
+[SPEAKER_01]: But, as I said, it's not a blanket method that you can just say no to everything, because not everything equally pressures you.
+
+845
+00:48:37,470 --> 00:48:37,951
+[SPEAKER_01]: Yeah, exactly.
+
+846
+00:48:37,971 --> 00:48:39,471
+[SPEAKER_00]: You're not understanding it.
+
+847
+00:48:39,491 --> 00:48:40,471
+[SPEAKER_01]: That's what we always talk about.
+
+848
+00:48:40,492 --> 00:48:44,433
+[SPEAKER_01]: You need to know where your motivation is rooted, because you are motivated by the pressure.
+
+849
+00:48:45,352 --> 00:48:53,817
+[SPEAKER_01]: So, by finding out why you're doing something you want to do, or defending something you want to defend, or want to gain something you want to gain, you will find out whether you're pressured by it or not.
+
+850
+00:48:55,138 --> 00:48:57,700
+[SPEAKER_01]: And if you're pressured, you say no to acting out of pressure.
+
+851
+00:49:04,727 --> 00:49:08,970
+[SPEAKER_01]: That's why certain things must be abandoned, because they cannot not be rooted in pressure.
+
+852
+00:49:09,551 --> 00:49:18,757
+[SPEAKER_01]: Sexual intercourse, killing, stealing, cheating, lying, always, action in itself, cannot be done in any other way except rooted in pressure.
+
+853
+00:49:19,658 --> 00:49:23,160
+[SPEAKER_01]: So, it's not like, oh, you can have sexual intercourse, not being pressured by sensuality.
+
+854
+00:49:24,381 --> 00:49:25,362
+[SPEAKER_01]: Andy would have said that, actually.
+
+855
+00:49:25,942 --> 00:49:30,185
+[SPEAKER_01]: It's impossible to engage in sensuality without having perceptions of sensuality.
+
+856
+00:49:31,832 --> 00:49:33,913
+[SPEAKER_01]: And perceptions of sensuality are determined by what?
+
+857
+00:49:34,153 --> 00:49:38,075
+[SPEAKER_01]: By the pressure of sensuality, as perceptions are determined by pressure in general.
+
+858
+00:49:38,195 --> 00:49:44,879
+[SPEAKER_00]: So, yeah, one begins trying to understand, trying to make things clear, trying to understand what's going on.
+
+859
+00:49:44,899 --> 00:49:51,142
+[SPEAKER_01]: You begin that by looking where your motivation for action and choices is, whatever the action and choices are.
+
+860
+00:49:51,523 --> 00:49:54,464
+[SPEAKER_00]: Now, now I'm doing it, doing it, doing it.
+
+861
+00:49:54,524 --> 00:49:56,005
+[SPEAKER_00]: I'm getting better at it.
+
+862
+00:49:56,705 --> 00:49:58,626
+[SPEAKER_00]: I don't... you don't even have to
+
+863
+00:50:01,647 --> 00:50:05,769
+[SPEAKER_00]: You don't question it that much, if you think... No, because you're knowing where you look, you know where to look.
+
+864
+00:50:05,789 --> 00:50:06,529
+[SPEAKER_00]: You know what this thing is.
+
+865
+00:50:06,549 --> 00:50:07,150
+[SPEAKER_00]: You know where to look.
+
+866
+00:50:07,170 --> 00:50:07,470
+[SPEAKER_00]: Oh, yeah.
+
+867
+00:50:07,690 --> 00:50:07,970
+[SPEAKER_01]: Oh, yeah.
+
+868
+00:50:08,170 --> 00:50:08,450
+[SPEAKER_01]: Oh, yeah.
+
+869
+00:50:08,790 --> 00:50:14,173
+[SPEAKER_00]: I'm so familiar with this thing, that when it comes up, when the pressure's there, I know it already.
+
+870
+00:50:14,193 --> 00:50:14,373
+[SPEAKER_01]: Yeah.
+
+871
+00:50:14,833 --> 00:50:17,734
+[SPEAKER_00]: I don't have to go and look at the suit.
+
+872
+00:50:17,775 --> 00:50:21,436
+[SPEAKER_01]: Inevitably, when people start questioning things, it's going to be on the level of psychologizing.
+
+873
+00:50:21,596 --> 00:50:22,597
+[SPEAKER_01]: You know, why is this?
+
+874
+00:50:22,657 --> 00:50:23,197
+[SPEAKER_01]: Why is that?
+
+875
+00:50:23,217 --> 00:50:26,358
+[SPEAKER_01]: It's going to be like, you know, an arm's length away
+
+876
+00:50:30,169 --> 00:50:31,530
+[SPEAKER_01]: Don't take that as face value.
+
+877
+00:50:31,550 --> 00:50:33,291
+[SPEAKER_01]: Start questioning your questioning, so to speak.
+
+878
+00:50:33,752 --> 00:50:34,952
+[SPEAKER_01]: Oh, so why do I want to do that?
+
+879
+00:50:34,993 --> 00:50:38,255
+[SPEAKER_01]: Well, it's because yesterday such and such person said this, so today I feel...
+
+880
+00:50:38,875 --> 00:50:41,577
+[SPEAKER_01]: Okay, so can I be more immediate, more accurate?
+
+881
+00:50:42,098 --> 00:50:45,960
+[SPEAKER_01]: Can I find a more here-and-now reason for why I want to do this here and now?
+
+882
+00:50:46,961 --> 00:50:49,003
+[SPEAKER_01]: Not like, oh, it's because of something yesterday.
+
+883
+00:50:49,323 --> 00:50:51,785
+[SPEAKER_01]: That's you choosing that to be the reason for acting.
+
+884
+00:50:52,905 --> 00:50:57,108
+[SPEAKER_01]: Which means even that choice now is rooted by something more immediate you're not seeing.
+
+885
+00:50:57,689 --> 00:50:58,790
+[SPEAKER_01]: So why did you choose?
+
+886
+00:50:59,697 --> 00:51:03,819
+[SPEAKER_01]: That event that happened yesterday to be the reason for your action tomorrow.
+
+887
+00:51:05,940 --> 00:51:12,802
+[SPEAKER_01]: Because that event that happened yesterday displeased me, made me feel uncomfortable.
+
+888
+00:51:13,783 --> 00:51:16,144
+[SPEAKER_01]: So, I want to address it tomorrow.
+
+889
+00:51:16,284 --> 00:51:16,504
+[SPEAKER_01]: Why?
+
+890
+00:51:16,764 --> 00:51:20,746
+[SPEAKER_01]: So, then, it's the discomfort that's the problem, not what happened yesterday.
+
+891
+00:51:21,586 --> 00:51:26,268
+[SPEAKER_01]: If that which happened yesterday, if they were not uncomfortable, would you be planning dealing with it tomorrow?
+
+892
+00:51:26,918 --> 00:51:27,058
+[SPEAKER_00]: No.
+
+893
+00:51:27,719 --> 00:51:31,081
+[SPEAKER_01]: So, what's that more immediate reason for you wanting to deal with tomorrow?
+
+894
+00:51:31,161 --> 00:51:35,905
+[SPEAKER_01]: Ah, I want to deal, manage, prevent further discomfort.
+
+895
+00:51:37,045 --> 00:51:38,246
+[SPEAKER_00]: Which I'm liable to.
+
+896
+00:51:39,007 --> 00:51:39,367
+[SPEAKER_01]: Exactly.
+
+897
+00:51:39,407 --> 00:51:40,048
+[SPEAKER_01]: No, but that's the thing.
+
+898
+00:51:40,608 --> 00:51:42,089
+[SPEAKER_01]: Why do you want to prevent discomfort?
+
+899
+00:51:42,369 --> 00:51:43,690
+[SPEAKER_01]: Because I'm liable to it.
+
+900
+00:51:44,471 --> 00:51:49,094
+[SPEAKER_01]: So, can you prevent your liability to it by addressing the individual discomfort that already happened?
+
+901
+00:51:49,895 --> 00:51:50,055
+[SPEAKER_01]: No.
+
+902
+00:51:50,835 --> 00:51:51,856
+[SPEAKER_01]: You remain equally liable.
+
+903
+00:51:53,188 --> 00:51:54,529
+[SPEAKER_01]: Some other discomfort is going to arise.
+
+904
+00:51:55,149 --> 00:52:02,512
+[SPEAKER_01]: And ask yourself, how many times in the past you tried to manage discomfort by addressing this issue, that issue, or controlling, or psychologizing about it, figuring it out?
+
+905
+00:52:03,933 --> 00:52:05,534
+[SPEAKER_01]: Has that diminished your reliability?
+
+906
+00:52:06,174 --> 00:52:06,294
+[SPEAKER_01]: No.
+
+907
+00:52:06,454 --> 00:52:09,535
+[SPEAKER_01]: That just increased your skill of managing it.
+
+908
+00:52:10,176 --> 00:52:11,796
+[SPEAKER_01]: But you're still equally affected by it.
+
+909
+00:52:13,357 --> 00:52:17,599
+[SPEAKER_01]: So, what if you were to learn how to not be affected by it in the first place?
+
+910
+00:52:17,719 --> 00:52:18,880
+[SPEAKER_01]: Would there be anything for you to manage?
+
+911
+00:52:19,560 --> 00:52:19,680
+[SPEAKER_00]: No.
+
+912
+00:52:20,280 --> 00:52:21,741
+[SPEAKER_01]: So, why can't I learn
+
+913
+00:52:22,483 --> 00:52:23,524
+[SPEAKER_01]: To accept the discomfort.
+
+914
+00:52:24,584 --> 00:52:28,207
+[SPEAKER_01]: Why do I need to deal with it, get rid of it, act out of it?
+
+915
+00:52:28,287 --> 00:52:32,710
+[SPEAKER_01]: Why do I need, why am I pressured to choose action that wants to get rid of the discomfort?
+
+916
+00:52:34,311 --> 00:52:40,155
+[SPEAKER_01]: Ah, because I never made the opposite effort, of not acting out of discomfort.
+
+917
+00:52:42,925 --> 00:52:55,349
+[SPEAKER_00]: So, the cessation of contact is the cessation of, kind of, that habit of... Cessation of pressure is basically achieved through not acting out of pressure that maintains the pressure.
+
+918
+00:52:55,369 --> 00:52:56,489
+[SPEAKER_01]: Yeah, which you've been doing.
+
+919
+00:52:56,509 --> 00:52:58,250
+[SPEAKER_01]: They will then bring the understanding of it.
+
+920
+00:52:58,630 --> 00:52:58,810
+Yeah.
+
+921
+00:53:01,571 --> 00:53:09,593
+[SPEAKER_01]: That's what I mean, like, the dhamma can only be found within sīla, within sensory strain, within non-sensuality.
+
+922
+00:53:12,118 --> 00:53:15,744
+[SPEAKER_01]: Not like after, or later on, a second step.
+
+923
+00:53:16,345 --> 00:53:17,006
+[SPEAKER_01]: It's within it.
+
+924
+00:53:17,647 --> 00:53:22,495
+[SPEAKER_01]: So, by being sense-restrained and celibate and so on, you are emulating the dhamma.
+
+925
+00:53:24,157 --> 00:53:25,099
+[SPEAKER_01]: By emulating it,
+
+926
+00:53:25,953 --> 00:53:28,556
+[SPEAKER_01]: You actually have a chance of understanding what you're creating.
+
+927
+00:53:28,836 --> 00:53:29,076
+[SPEAKER_00]: Yeah.
+
+928
+00:53:29,537 --> 00:53:33,841
+[SPEAKER_01]: Of course, emulating in itself, if you don't make the effort to understand, it will not result in understanding.
+
+929
+00:53:34,181 --> 00:53:34,962
+[SPEAKER_01]: But it's still wholesome.
+
+930
+00:53:35,803 --> 00:53:41,689
+[SPEAKER_01]: It's still wholesome to not give in to the worst type of the diversification of your desire.
+
+931
+00:53:42,189 --> 00:53:48,836
+[SPEAKER_00]: Or the one thing is that I do it for a week, central strength, and then I go back to six.
+
+932
+00:53:49,207 --> 00:53:54,992
+[SPEAKER_01]: Yeah, which means you never addressed the ultimate value of sexual intercourse or sensuality.
+
+933
+00:53:55,052 --> 00:53:57,914
+[SPEAKER_01]: You only try to ignore it for a week by being sensory-strained.
+
+934
+00:53:58,794 --> 00:53:59,615
+[SPEAKER_00]: That is not...
+
+935
+00:53:59,635 --> 00:54:00,796
+[SPEAKER_01]: It needs to be other way around.
+
+936
+00:54:01,176 --> 00:54:06,180
+[SPEAKER_01]: You need to value sensory-strained, celibacy and non-sexual activity forever.
+
+937
+00:54:06,901 --> 00:54:10,724
+[SPEAKER_01]: And then, when you do engage with it, it will be obvious it's because of weakness.
+
+938
+00:54:11,718 --> 00:54:13,599
+[SPEAKER_01]: And that's how you will be able to uproot it.
+
+939
+00:54:14,079 --> 00:54:23,582
+[SPEAKER_01]: But if you never undermine the value of sexual intercourse essentiality, and only occasionally abstain yourself from it, means, oh, that's the wrong way around.
+
+940
+00:54:24,523 --> 00:54:28,884
+[SPEAKER_01]: You need to undermine the value, even if you don't occasionally abstain from it.
+
+941
+00:54:29,605 --> 00:54:29,765
+[SPEAKER_01]: Why?
+
+942
+00:54:29,825 --> 00:54:38,328
+[SPEAKER_01]: Because by undermining value, you will occasionally, and then much more profoundly, and maybe even for the rest of your life, abstain from it.
+
+943
+00:54:40,143 --> 00:54:43,205
+[SPEAKER_01]: Because you now undermine the view that sensuality is value.
+
+944
+00:54:43,245 --> 00:54:47,669
+[SPEAKER_01]: That's why we would teach people not that... We would teach them directly that sensuality is dangerous.
+
+945
+00:54:48,229 --> 00:54:51,672
+[SPEAKER_01]: So, the value that you have in regard to sensual pleasure is wrong.
+
+946
+00:54:52,332 --> 00:54:54,514
+[SPEAKER_01]: Because you value that which is deadly.
+
+947
+00:54:54,955 --> 00:54:57,156
+[SPEAKER_01]: You value that which is harmful.
+
+948
+00:54:57,176 --> 00:54:59,638
+[SPEAKER_01]: You value that which is factually painful.
+
+949
+00:55:00,619 --> 00:55:01,920
+[SPEAKER_01]: And then people say, thank you very much.
+
+950
+00:55:02,300 --> 00:55:04,482
+[SPEAKER_01]: Get the right view and go back to that sensuality.
+
+951
+00:55:05,543 --> 00:55:06,564
+[SPEAKER_01]: Acts of that sensuality.
+
+952
+00:55:06,604 --> 00:55:07,885
+[SPEAKER_01]: Like sotāpānas, for example.
+
+953
+00:55:08,735 --> 00:55:12,527
+[SPEAKER_01]: But they will never be able to get rid of now.
+
+954
+00:55:13,712 --> 00:55:16,092
+[SPEAKER_01]: The view that sensuality is bad.
+
+955
+00:55:16,713 --> 00:55:29,635
+[SPEAKER_01]: They will be too weak, initially, if they choose to not make the effort, if they're satisfied with understanding that sensuality is really painful, but they will be too weak to maintain that standard until they're fully freed from any sensual itch.
+
+956
+00:55:30,475 --> 00:55:32,935
+[SPEAKER_01]: So, they might still scratch their itch, but they will know what they're doing.
+
+957
+00:55:33,295 --> 00:55:35,176
+[SPEAKER_01]: They cannot say, oh, no, sensuality is not a problem.
+
+958
+00:55:35,656 --> 00:55:41,817
+[SPEAKER_01]: That's... that is like the pernicious view, as the Buddha said in another sutra, that is when they say, there is no danger in sensuality.
+
+959
+00:55:41,877 --> 00:55:42,277
+[SPEAKER_01]: Not like...
+
+960
+00:55:43,037 --> 00:55:46,698
+[SPEAKER_01]: Oh, it's... he's restrained or he's not practicing sense restraint.
+
+961
+00:55:47,438 --> 00:55:53,580
+[SPEAKER_01]: That's secondary to whether you think sensuality is dangerous or not really that dangerous.
+
+962
+00:55:54,800 --> 00:56:04,643
+[SPEAKER_01]: So, that... actually, that one, it was a monk, who was obviously celibate, sense restrained, but still had the view that sensuality is not dangerous.
+
+963
+00:56:05,422 --> 00:56:10,105
+[SPEAKER_01]: And the Buddha called him amidst the assembly and absolutely hammered him.
+
+964
+00:56:10,125 --> 00:56:17,171
+[SPEAKER_01]: Like, called him names and stuff for holding that ridiculous view because of which charnel grounds gets filled and so on.
+
+965
+00:56:18,091 --> 00:56:26,938
+[SPEAKER_01]: So, it would have been less wrong for him to lose his sense restraint but not adopt the view that sensuality is not dangerous.
+
+966
+00:56:27,977 --> 00:56:34,063
+[SPEAKER_01]: Because, if you have a view that sensuality is dangerous, there is only so far you can lose your sense restraint.
+
+967
+00:56:34,223 --> 00:56:39,108
+[SPEAKER_01]: Literally, you know, going down into this pit will kill me in the most horrifying death.
+
+968
+00:56:39,909 --> 00:56:43,593
+[SPEAKER_01]: So, you can maybe carelessly walk in two or three steps, and then you'll be out.
+
+969
+00:56:43,813 --> 00:56:45,315
+[SPEAKER_01]: Because the danger will be way...
+
+970
+00:56:45,795 --> 00:57:01,922
+[SPEAKER_01]: It will be apparent, not like fundamentally apparent, so you'd never even stop your foot in the cave, step your foot in the cave, but it's certainly apparent enough for you to, like, do things of that diversified nature that would take you in the hell, rooted in those type of taints.
+
+971
+00:57:04,983 --> 00:57:05,503
+[SPEAKER_01]: So, that's what I mean.
+
+972
+00:57:05,623 --> 00:57:08,104
+[SPEAKER_01]: It's that view that you want to undermine.
+
+973
+00:57:09,485 --> 00:57:14,547
+[SPEAKER_01]: But you will never undermine that view if you don't practice sense restraint at all,
+
+974
+00:57:16,603 --> 00:57:17,303
+[SPEAKER_01]: Even to begin with.
+
+975
+00:57:18,944 --> 00:57:24,086
+[SPEAKER_01]: So, that's why, ah, generosity, virtue, the mind were ready, we would say.
+
+976
+00:57:24,166 --> 00:57:29,488
+[SPEAKER_01]: So, then, he would teach them the danger of sensuality, that now they were withdrawn from, through listening to his talk.
+
+977
+00:57:30,548 --> 00:57:33,109
+[SPEAKER_01]: And now the dangers... and then he would teach them dhamma, and they would get the right view.
+
+978
+00:57:37,111 --> 00:57:41,873
+[SPEAKER_01]: So, even if they go back to sensuality, to their whole, like, lay life, they will never ever
+
+979
+00:57:42,824 --> 00:57:46,646
+[SPEAKER_01]: Think of sensuality as non-dangerous, or as fine, or as not a big deal.
+
+980
+00:57:47,566 --> 00:58:00,652
+[SPEAKER_01]: Even if they know for the rest of their life, they will be acting out of weakness, they're living with family, still engaging in... they're still always giving the five precepts, sometimes eight precepts, and so on, but finally they know they're not making effort to uproot the danger.
+
+981
+00:58:01,472 --> 00:58:03,253
+[SPEAKER_01]: They cannot have the view that it's not dangerous.
+
+982
+00:58:03,273 --> 00:58:03,973
+[SPEAKER_00]: So, would...
+
+983
+00:58:04,354 --> 00:58:09,876
+[SPEAKER_00]: I mean, it's ridiculous to think that... that such a person would...
+
+984
+00:58:11,660 --> 00:58:12,941
+[SPEAKER_00]: Promote sensuality.
+
+985
+00:58:13,041 --> 00:58:13,221
+[SPEAKER_00]: No.
+
+986
+00:58:13,582 --> 00:58:16,244
+[SPEAKER_00]: So, I see the danger, but I'll promote it for others.
+
+987
+00:58:16,304 --> 00:58:17,004
+[SPEAKER_00]: Impossible, impossible.
+
+988
+00:58:17,024 --> 00:58:17,665
+[SPEAKER_00]: I'll promote it.
+
+989
+00:58:18,145 --> 00:58:21,347
+[SPEAKER_01]: You know, I'm engaging with sensuality because I'm still weak.
+
+990
+00:58:21,848 --> 00:58:23,049
+[SPEAKER_01]: I will defend the danger.
+
+991
+00:58:23,069 --> 00:58:30,194
+[SPEAKER_01]: And I'm not making effort to uproot my weakness because, well, I have family, children, wives and so on, whatever else, back in the day.
+
+992
+00:58:31,355 --> 00:58:38,621
+[SPEAKER_01]: So, I'll just have to accept responsibility for my weakness and be satisfied with the right view, the Lord that taught me that the danger of sensuality, freedom from suffering and so on.
+
+993
+00:58:39,518 --> 00:58:50,847
+[SPEAKER_01]: But not under any circumstance will I say, oh, it's fine to say that sensuality is not bad, because that's far worse than my individual weakness of engaging with sensuality.
+
+994
+00:58:51,488 --> 00:58:56,592
+[SPEAKER_01]: Or saying, oh, you shouldn't say that sensuality is dangerous because it might upset people.
+
+995
+00:58:56,812 --> 00:58:56,973
+[SPEAKER_01]: No.
+
+996
+00:58:57,753 --> 00:58:59,475
+[SPEAKER_01]: You will never ever compromise
+
+997
+00:59:00,121 --> 00:59:04,164
+[SPEAKER_01]: On the view, if you have the right view, because you realize, well, if you compromise it, it's not right anymore.
+
+998
+00:59:04,744 --> 00:59:07,406
+[SPEAKER_01]: So, there's no like, oh, well, this works, so this doesn't know.
+
+999
+00:59:07,546 --> 00:59:12,089
+[SPEAKER_01]: The views are the right, where you know what dangerous is dangerous and non-dangerous is non-dangerous.
+
+1000
+00:59:12,250 --> 00:59:14,971
+[SPEAKER_01]: One with right view doesn't... cannot conceal.
+
+1001
+00:59:15,912 --> 00:59:17,133
+[SPEAKER_01]: Exactly, exactly.
+
+1002
+00:59:17,414 --> 00:59:17,994
+[SPEAKER_01]: For what reason?
+
+1003
+00:59:18,295 --> 00:59:20,837
+[SPEAKER_01]: And the truth is, oh, I'm weak, I'm not free from sensuality.
+
+1004
+00:59:21,138 --> 00:59:23,580
+[SPEAKER_01]: The truth is not, oh, sensuality is not that bad.
+
+1005
+00:59:24,241 --> 00:59:24,881
+[SPEAKER_00]: Yeah, yeah, yeah.
+
+1006
+00:59:25,342 --> 00:59:26,003
+[SPEAKER_01]: And that's what I mean.
+
+1007
+00:59:26,023 --> 00:59:32,650
+[SPEAKER_01]: The person who uttered that, that the Buddha destroyed in the assembly, was a monk himself who was restrained living by the patimokkha.
+
+1008
+00:59:33,432 --> 00:59:36,953
+[SPEAKER_01]: So, on the surface, he was more restrained than your average person.
+
+1009
+00:59:37,173 --> 00:59:38,013
+[SPEAKER_01]: Far more restrained.
+
+1010
+00:59:38,973 --> 00:59:41,454
+[SPEAKER_01]: That's not why the Buddha criticized him or praised him.
+
+1011
+00:59:41,774 --> 00:59:45,655
+[SPEAKER_01]: It was because he held the view that there is no danger in sensuality.
+
+1012
+00:59:46,255 --> 00:59:51,997
+[SPEAKER_01]: I'm restrained and I will be restrained for the rest of my life, but I don't see this danger in sensuality that the Lord talks about.
+
+1013
+00:59:52,037 --> 00:59:52,957
+[SPEAKER_00]: There is no obstruction.
+
+1014
+00:59:53,197 --> 00:59:55,037
+[SPEAKER_01]: Sensuality is not obstruction.
+
+1015
+00:59:55,137 --> 00:59:55,458
+[SPEAKER_01]: Exactly.
+
+1016
+00:59:55,478 --> 00:59:56,278
+[SPEAKER_01]: There's no danger in it.
+
+1017
+00:59:56,458 --> 00:59:56,838
+[SPEAKER_01]: It's fine.
+
+1018
+00:59:57,418 --> 00:59:58,438
+[SPEAKER_01]: You can do it or not do it.
+
+1019
+00:59:58,538 --> 00:59:58,918
+[SPEAKER_01]: Up to you.
+
+1020
+00:59:58,958 --> 00:59:59,739
+[SPEAKER_01]: However you feel like it.
+
+1021
+00:59:59,859 --> 01:00:00,599
+[SPEAKER_01]: I choose to do it.
+
+1022
+01:00:01,219 --> 01:00:01,979
+[SPEAKER_01]: to be restrained.
+
+1023
+01:00:02,580 --> 01:00:04,801
+[SPEAKER_01]: But either way, there is no obstruction in it.
+
+1024
+01:00:04,821 --> 01:00:07,642
+[SPEAKER_01]: It's like, no, that's... that's the core of the problem.
+
+1025
+01:00:07,682 --> 01:00:09,023
+[SPEAKER_00]: There's even a rule, isn't it?
+
+1026
+01:00:09,043 --> 01:00:09,643
+[SPEAKER_00]: There's even a rule, yeah.
+
+1027
+01:00:09,663 --> 01:00:11,124
+[SPEAKER_00]: You'll get kicked out, basically, eventually.
+
+1028
+01:00:11,184 --> 01:00:11,964
+[SPEAKER_01]: As a novice, yeah.
+
+1029
+01:00:12,124 --> 01:00:15,345
+[SPEAKER_01]: You just... if you... Actually, even as a monk, you'll be kicked out of the community.
+
+1030
+01:00:15,405 --> 01:00:16,006
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+1031
+01:00:16,066 --> 01:00:18,567
+[SPEAKER_01]: If you hold these views, that there is no danger in sensuality.
+
+1032
+01:00:20,008 --> 01:00:25,509
+[SPEAKER_01]: So, you realize, okay, so that... and that would also... you could... if people suddenly struggle and say, so how would Svatantipānda go back to sensuality?
+
+1033
+01:00:25,529 --> 01:00:25,989
+[SPEAKER_01]: That's how.
+
+1034
+01:00:26,610 --> 01:00:28,050
+[SPEAKER_01]: He knows he's done out of weakness.
+
+1035
+01:00:28,570 --> 01:00:31,731
+[SPEAKER_01]: He knows he's responsible for not making effort to uproot that weakness.
+
+1036
+01:00:31,791 --> 01:00:37,472
+[SPEAKER_01]: But what he cannot do is regard sensuality as not dangerous or as non-obstructive.
+
+1037
+01:00:37,592 --> 01:00:40,233
+[SPEAKER_01]: So, whenever he were to pick up his practice again,
+
+1038
+01:00:41,053 --> 01:00:43,415
+[SPEAKER_01]: He will do so by abandoning sensuality.
+
+1039
+01:00:43,955 --> 01:00:54,341
+[SPEAKER_01]: That's why nekama-saṅgapa, pretty much, thoughts of renunciation, picking up sense restraint, is all that's necessary for a person with the right view to develop that right view to arahant-ji.
+
+1040
+01:00:56,663 --> 01:01:00,505
+[SPEAKER_00]: If he's asked, is sensuality good?
+
+1041
+01:01:00,985 --> 01:01:02,326
+[SPEAKER_01]: He would say, not a chance.
+
+1042
+01:01:02,346 --> 01:01:04,708
+[SPEAKER_01]: Then you say, well, why are you still then living with your family?
+
+1043
+01:01:04,728 --> 01:01:05,808
+[SPEAKER_00]: Because I'm weak.
+
+1044
+01:01:06,769 --> 01:01:07,769
+[SPEAKER_01]: Ah.
+
+1045
+01:01:07,789 --> 01:01:08,850
+[SPEAKER_01]: It's end of the argument.
+
+1046
+01:01:09,030 --> 01:01:09,310
+[SPEAKER_00]: Yeah.
+
+1047
+01:01:09,991 --> 01:01:10,331
+[SPEAKER_00]: Okay.
+
+1048
+01:01:12,406 --> 01:01:20,470
+[SPEAKER_01]: But I'm not as weak as a person who is weak and chooses to mask their weakness as strength by saying, there is no danger in spirituality.
+
+1049
+01:01:22,371 --> 01:01:23,231
+[SPEAKER_01]: That's foulness.
+
+1050
+01:01:24,832 --> 01:01:28,794
+[SPEAKER_00]: And just to get to the last point, if we can...
+
+1051
+01:01:32,176 --> 01:01:33,477
+[SPEAKER_00]: Suffering should be understood.
+
+1052
+01:01:34,938 --> 01:01:36,158
+[SPEAKER_01]: Yeah, I was going to say that in the beginning.
+
+1053
+01:01:36,178 --> 01:01:38,780
+[SPEAKER_01]: That's why this whole principle is the principle of the Four Noble Truths.
+
+1054
+01:01:40,114 --> 01:01:41,714
+[SPEAKER_00]: The source and origin should be understood.
+
+1055
+01:01:41,734 --> 01:01:42,355
+[SPEAKER_01]: What is suffering?
+
+1056
+01:01:42,395 --> 01:01:43,195
+[SPEAKER_01]: Pressure is suffering.
+
+1057
+01:01:43,295 --> 01:01:45,696
+[SPEAKER_00]: Yeah.
+
+1058
+01:01:45,756 --> 01:01:46,876
+[SPEAKER_00]: The diversity.
+
+1059
+01:01:47,916 --> 01:01:48,156
+[SPEAKER_01]: Yeah.
+
+1060
+01:01:48,616 --> 01:01:49,737
+[SPEAKER_00]: There's extreme suffering.
+
+1061
+01:01:49,797 --> 01:01:50,017
+[SPEAKER_00]: Exactly.
+
+1062
+01:01:50,037 --> 01:01:50,817
+[SPEAKER_00]: There's slight suffering.
+
+1063
+01:01:50,837 --> 01:01:52,137
+[SPEAKER_01]: There is beneficial suffering.
+
+1064
+01:01:53,198 --> 01:01:54,438
+[SPEAKER_00]: Suffering that fades slowly.
+
+1065
+01:01:54,578 --> 01:01:55,698
+[SPEAKER_00]: Suffering that fades quickly.
+
+1066
+01:01:55,858 --> 01:01:58,819
+[SPEAKER_01]: Suffering of the sensory strength is beneficial suffering.
+
+1067
+01:01:59,519 --> 01:02:04,921
+[SPEAKER_01]: Suffering on account of not getting enough of what you want is not beneficial suffering.
+
+1068
+01:02:04,941 --> 01:02:05,161
+[SPEAKER_00]: Right.
+
+1069
+01:02:05,221 --> 01:02:08,322
+[SPEAKER_01]: Suffering on account of saying no to your desire is a beneficial suffering.
+
+1070
+01:02:09,018 --> 01:02:18,200
+[SPEAKER_01]: Because it creates a possibility for you to now understand the nature of acting out of non-desire, or acting out of saying no to desire.
+
+1071
+01:02:19,820 --> 01:02:24,781
+[SPEAKER_01]: And that possibility will not exist for those who don't have even basic sense restraint.
+
+1072
+01:02:37,843 --> 01:02:38,763
+[SPEAKER_00]: What is the cessation?
+
+1073
+01:02:40,890 --> 01:02:47,734
+[SPEAKER_00]: suffering, the cessation of craving, which is it, which is that very thing that fuels the contact, the pressure.
+
+1074
+01:02:47,874 --> 01:02:48,054
+[SPEAKER_01]: Yeah.
+
+1075
+01:02:50,716 --> 01:02:59,982
+[SPEAKER_00]: And, can you say that the sotāpanna
+
+1076
+01:03:01,365 --> 01:03:17,217
+[SPEAKER_00]: In a way, that's very much what frees you.
+
+1077
+01:03:17,718 --> 01:03:26,925
+[SPEAKER_01]: See, like, imagine you're trapped in the house, and the roof is basically eroding, falling down on you, bit by bit, and you don't know how to escape.
+
+1078
+01:03:27,765 --> 01:03:29,547
+[SPEAKER_01]: The real suffering there is that fear.
+
+1079
+01:03:30,728 --> 01:03:33,149
+[SPEAKER_01]: Of not being able to escape what will happen.
+
+1080
+01:03:34,849 --> 01:03:37,710
+[SPEAKER_01]: That's the despair, the terror.
+
+1081
+01:03:38,571 --> 01:03:39,991
+[SPEAKER_01]: But then imagine you figure out a way out.
+
+1082
+01:03:40,792 --> 01:03:42,352
+[SPEAKER_00]: And then you look at the roof and say, ah, I still have time.
+
+1083
+01:03:42,972 --> 01:03:43,973
+[SPEAKER_01]: Because you do, in a way.
+
+1084
+01:03:45,113 --> 01:03:47,754
+[SPEAKER_01]: But, of course, from Arhat's point of view, even that's careless.
+
+1085
+01:03:48,234 --> 01:03:56,137
+[SPEAKER_01]: That's why the Buddha would urge and cause... evoke sense of urgency in sotāpānas, sakadāgāmīs and anāgāmīs, because they, as he said, they still have work to do.
+
+1086
+01:03:58,033 --> 01:04:08,203
+[SPEAKER_01]: But, knowing the way out of that crumbling house will free you from that fundamental existential fear of not knowing the way out.
+
+1087
+01:04:08,223 --> 01:04:09,204
+[SPEAKER_01]: Yeah, because I can just step out.
+
+1088
+01:04:09,264 --> 01:04:10,024
+[SPEAKER_01]: I can just step out.
+
+1089
+01:04:10,044 --> 01:04:10,905
+[SPEAKER_01]: There's my door, I'm right there.
+
+1090
+01:04:10,925 --> 01:04:17,031
+[SPEAKER_01]: And that's why many sotāpannas would, like, become sotāpannas or even, like, many ārya-sāvakus become ārahant at the moment of death.
+
+1091
+01:04:17,051 --> 01:04:19,633
+[SPEAKER_01]: Because the moment of death is the moment of being thrown out.
+
+1092
+01:04:19,673 --> 01:04:20,714
+[SPEAKER_00]: Yeah, because you know the way out.
+
+1093
+01:04:20,734 --> 01:04:22,796
+[SPEAKER_01]: Because you know the way out and that's what you understood.
+
+1094
+01:04:22,957 --> 01:04:23,097
+[SPEAKER_01]: Yeah.
+
+1095
+01:04:23,818 --> 01:04:33,026
+[SPEAKER_00]: But for the person with the bright view, he knows which direction is nibbāna, which way leads to nibbāna.
+
+1096
+01:04:33,046 --> 01:04:34,347
+[SPEAKER_01]: Yeah, he knows where nibbāna is.
+
+1097
+01:04:34,967 --> 01:04:39,251
+[SPEAKER_01]: He now just needs to adhere to it sufficiently long enough.
+
+1098
+01:04:39,451 --> 01:04:41,952
+[SPEAKER_00]: He doesn't have to now start again each time.
+
+1099
+01:04:42,112 --> 01:04:42,693
+[SPEAKER_00]: No.
+
+1100
+01:04:43,473 --> 01:04:44,574
+[SPEAKER_00]: Is sensuality bad?
+
+1101
+01:04:44,634 --> 01:04:46,995
+[SPEAKER_01]: No, of course, because he's beyond... he's freed himself from doubt.
+
+1102
+01:04:47,255 --> 01:04:48,016
+[SPEAKER_00]: It's so clear.
+
+1103
+01:04:48,116 --> 01:04:48,856
+[SPEAKER_01]: He cannot doubt it.
+
+1104
+01:04:49,116 --> 01:04:50,437
+[SPEAKER_01]: It's so clear he cannot doubt it.
+
+1105
+01:04:50,597 --> 01:04:57,041
+[SPEAKER_00]: It's so... that is so clear that he cannot doubt it, but he knows what to do then and there.
+
+1106
+01:04:57,141 --> 01:04:58,902
+[SPEAKER_01]: And he knows what to do because he cannot doubt it.
+
+1107
+01:04:59,102 --> 01:04:59,302
+[SPEAKER_00]: Yeah.
+
+1108
+01:05:01,382 --> 01:05:04,224
+[SPEAKER_01]: That's why he doesn't need to... oh, so is this bad?
+
+1109
+01:05:04,444 --> 01:05:09,788
+[SPEAKER_01]: He understood it's bad and even the question is this bad is meaningless because the understanding that it's bad is clear.
+
+1110
+01:05:09,848 --> 01:05:11,710
+[SPEAKER_00]: It's completely familiar.
+
+1111
+01:05:16,613 --> 01:05:18,615
+[SPEAKER_01]: And not like familiar with all this information.
+
+1112
+01:05:19,595 --> 01:05:19,735
+[SPEAKER_01]: No.
+
+1113
+01:05:19,835 --> 01:05:21,477
+[SPEAKER_01]: Simply familiar with where the problem is.
+
+1114
+01:05:23,478 --> 01:05:25,920
+[SPEAKER_01]: Knowing problem as a problem and non-problem as non-problem.
+
+1115
+01:05:27,342 --> 01:05:32,366
+[SPEAKER_00]: Was it a quick wisdom, that kind of lightning wisdom?
+
+1116
+01:05:32,446 --> 01:05:34,328
+[SPEAKER_01]: It's with seeing things as they are, yeah.
+
+1117
+01:05:34,508 --> 01:05:35,629
+[SPEAKER_01]: But that takes time to develop.
+
+1118
+01:05:36,509 --> 01:05:38,951
+[SPEAKER_01]: You might not have the quick wisdom, necessarily, that quick.
+
+1119
+01:05:39,472 --> 01:05:42,614
+[SPEAKER_01]: But if it's quick, sufficiently enough, so to speak.
+
+1120
+01:05:43,114 --> 01:05:46,757
+[SPEAKER_01]: But not quick wisdom in a sense of it quickly responds to there is a problem.
+
+1121
+01:05:47,858 --> 01:05:50,480
+[SPEAKER_01]: Wisdom basically means when you see beyond there is a problem.
+
+1122
+01:05:51,060 --> 01:05:53,082
+[SPEAKER_01]: You cannot not see the nature of the problem.
+
+1123
+01:05:54,447 --> 01:05:56,148
+[SPEAKER_00]: Yeah, that's... that's like... it's so clear.
+
+1124
+01:05:56,168 --> 01:05:58,209
+[SPEAKER_01]: The first noble truth is the truth of suffering.
+
+1125
+01:05:58,850 --> 01:05:59,970
+[SPEAKER_01]: That's what the problem is.
+
+1126
+01:06:01,131 --> 01:06:05,353
+[SPEAKER_01]: So, you cannot mistake non-problem as problem.
+
+1127
+01:06:07,434 --> 01:06:10,316
+[SPEAKER_01]: By knowing what the problem is, you then know how that problem is there.
+
+1128
+01:06:11,277 --> 01:06:13,058
+[SPEAKER_01]: Why that... why that is a problem.
+
+1129
+01:06:13,678 --> 01:06:16,740
+[SPEAKER_01]: By knowing why that is a problem, you know then what it isn't a problem.
+
+1130
+01:06:17,180 --> 01:06:18,661
+[SPEAKER_01]: Thus, you will know the way out of the problem.
+
+1131
+01:06:19,341 --> 01:06:21,923
+[SPEAKER_01]: So, the four noble truths are basically one inside.
+
+1132
+01:06:23,202 --> 01:06:24,283
+[SPEAKER_01]: In these different directions.
+
+1133
+01:06:25,343 --> 01:06:27,525
+[SPEAKER_01]: Understanding suffering means understanding the way out of it.
+
+1134
+01:06:28,825 --> 01:06:31,407
+[SPEAKER_01]: Because suffering is not about figuring out information.
+
+1135
+01:06:31,967 --> 01:06:33,348
+[SPEAKER_01]: It's not the kind of things that make you suffer.
+
+1136
+01:06:34,048 --> 01:06:44,515
+[SPEAKER_01]: Suffering is about not resisting pain, not leaning towards pleasure, not leaning away from pain, and not kind of turning a blind eye to neither pleasure nor pain.
+
+1137
+01:06:45,495 --> 01:06:48,177
+[SPEAKER_01]: That is the root of suffering and that's what he has understood.
+
+1138
+01:06:49,082 --> 01:06:52,464
+[SPEAKER_01]: Thus, no amount of things that come from the world can be mistaken as suffering.
+
+1139
+01:06:53,064 --> 01:06:55,105
+[SPEAKER_01]: Only craving arises, only craving ceases.
+
+1140
+01:06:55,765 --> 01:07:05,029
+[SPEAKER_01]: Or as those in the Terra Terrigata, the verses, when, like, Mara comes and tries to, sort of, disturb their mind.
+
+1141
+01:07:05,089 --> 01:07:07,330
+[SPEAKER_01]: Oh, is this, or what if they, what if the robbers come?
+
+1142
+01:07:07,370 --> 01:07:09,011
+[SPEAKER_01]: It's like, what are we talking about?
+
+1143
+01:07:09,031 --> 01:07:10,332
+[SPEAKER_01]: There's nothing for me to protect.
+
+1144
+01:07:11,172 --> 01:07:17,535
+[SPEAKER_01]: None of the things that are being threatened, even by possible robber or rapist or whatever else, none of those things are suffering.
+
+1145
+01:07:19,048 --> 01:07:20,348
+[SPEAKER_01]: Craving is the suffering, basically.
+
+1146
+01:07:20,508 --> 01:07:25,069
+[SPEAKER_01]: Suffering within this arises, suffering ceases on its own, because craving arises, craving ceases on its own.
+
+1147
+01:07:25,710 --> 01:07:28,870
+[SPEAKER_01]: All I have to do is not act out of it, because now I understood it.
+
+1148
+01:07:30,131 --> 01:07:31,251
+[SPEAKER_01]: So, there is no other problem.
+
+1149
+01:07:32,831 --> 01:07:37,132
+[SPEAKER_01]: Who are you talking about when you say, oh, you should do this, or defend that, or run away from this forest?
+
+1150
+01:07:37,152 --> 01:07:38,013
+[SPEAKER_01]: Who are you talking about?
+
+1151
+01:07:40,393 --> 01:07:42,994
+[SPEAKER_01]: See, the only reason you would run out of the way of the forest is because it makes you suffer.
+
+1152
+01:07:43,474 --> 01:07:47,015
+[SPEAKER_01]: Which means you don't see that suffering that you feel is the problem, you think the forest is the problem.
+
+1153
+01:07:48,878 --> 01:07:50,399
+[SPEAKER_01]: So, only suffering arises, suffering ceases.
+
+1154
+01:07:50,419 --> 01:07:51,119
+[SPEAKER_01]: What else is there?
+
+1155
+01:07:51,219 --> 01:07:51,480
+[SPEAKER_01]: Nothing.
+
+1156
+01:07:52,160 --> 01:07:53,060
+[SPEAKER_01]: That's what Buddha said.
+
+1157
+01:07:53,180 --> 01:08:00,004
+[SPEAKER_01]: All I teach, I mean, as many suttas as there are, all I teach is suffering and freedom from it.
+
+1158
+01:08:00,584 --> 01:08:02,745
+[SPEAKER_01]: Everything else he ever said is within that.
+
+1159
+01:08:03,165 --> 01:08:03,506
+[SPEAKER_00]: Yeah.
+
+1160
+01:08:04,626 --> 01:08:05,607
+[SPEAKER_01]: Suffering and freedom from it.
+
+1161
+01:08:05,627 --> 01:08:08,128
+[SPEAKER_00]: So, this all simplifies to... the clarity is...
+
+1162
+01:08:08,168 --> 01:08:11,750
+[SPEAKER_01]: So, to me, the clarity of Sotāpanna is not the clarity... the clarity of Sotāpanna is, ah,
+
+1163
+01:08:12,660 --> 01:08:13,180
+[SPEAKER_00]: This is what matters.
+
+1164
+01:08:13,200 --> 01:08:14,241
+[SPEAKER_01]: There is suffering.
+
+1165
+01:08:14,261 --> 01:08:15,802
+[SPEAKER_01]: There is freedom from suffering.
+
+1166
+01:08:15,842 --> 01:08:16,443
+[SPEAKER_01]: That's what matters.
+
+1167
+01:08:16,543 --> 01:08:17,503
+[SPEAKER_01]: That's the only thing that matters.
+
+1168
+01:08:18,024 --> 01:08:20,305
+[SPEAKER_01]: Resisting a feeling or not doing so.
+
+1169
+01:08:20,345 --> 01:08:21,626
+[SPEAKER_01]: That's only the only thing that matters.
+
+1170
+01:08:24,088 --> 01:08:27,190
+[SPEAKER_01]: Because by not resisting your feeling, you cease to cultivate the craving.
+
+1171
+01:08:27,931 --> 01:08:29,672
+[SPEAKER_01]: Craving is that leaning towards pleasure.
+
+1172
+01:08:30,726 --> 01:08:32,047
+[SPEAKER_01]: Leaning is not in the pleasure.
+
+1173
+01:08:32,267 --> 01:08:33,989
+[SPEAKER_01]: Leaning is your that subtle attitude.
+
+1174
+01:08:34,449 --> 01:08:35,790
+[SPEAKER_00]: Or leaning away from pain.
+
+1175
+01:08:35,890 --> 01:08:36,371
+[SPEAKER_00]: Or hiding.
+
+1176
+01:08:36,931 --> 01:08:40,834
+[SPEAKER_01]: Oh, just turning a blind eye to neutral feeling because it's just too ambiguous.
+
+1177
+01:08:42,095 --> 01:08:43,416
+[SPEAKER_01]: You need something more defined.
+
+1178
+01:08:44,757 --> 01:08:46,318
+[SPEAKER_00]: Pressure, craving, contact.
+
+1179
+01:08:46,979 --> 01:08:47,479
+[SPEAKER_00]: Same thing.
+
+1180
+01:08:47,699 --> 01:08:48,700
+[SPEAKER_00]: Craving and contact.
+
+1181
+01:08:48,800 --> 01:08:49,501
+[SPEAKER_01]: Well, exactly.
+
+1182
+01:08:49,781 --> 01:08:51,242
+[SPEAKER_01]: Pressure.
+
+1183
+01:08:51,302 --> 01:08:52,623
+[SPEAKER_01]: Pressure, feeling, contact.
+
+1184
+01:08:52,683 --> 01:08:52,884
+[SPEAKER_01]: Yeah.
+
+1185
+01:08:53,684 --> 01:08:54,605
+[SPEAKER_01]: Pressure, feeling, craving.
+
+1186
+01:08:54,625 --> 01:08:54,885
+[SPEAKER_01]: Sorry.
+
+1187
+01:08:55,426 --> 01:08:55,726
+[SPEAKER_00]: Yeah.
+

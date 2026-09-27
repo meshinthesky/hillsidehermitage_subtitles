@@ -1,0 +1,2792 @@
+1
+00:00:00,988 --> 00:00:04,050
+[SPEAKER_00]: So, I've got a sutta here.
+
+2
+00:00:06,491 --> 00:00:08,632
+[SPEAKER_00]: I've translated it a bit.
+
+3
+00:00:08,772 --> 00:00:17,057
+[SPEAKER_00]: It's quite different from the other, the sort of standard translations out there.
+
+4
+00:00:19,078 --> 00:00:21,139
+[SPEAKER_00]: It might raise some interesting points.
+
+5
+00:00:21,699 --> 00:00:27,322
+[SPEAKER_00]: So, on one occasion, the Buddha was living with the Sambans.
+
+6
+00:00:28,263 --> 00:00:30,184
+[SPEAKER_00]: Venerable Udayi approaches the Buddha.
+
+7
+00:00:34,108 --> 00:00:37,510
+[SPEAKER_00]: It is marvelous, Bhante.
+
+8
+00:00:37,710 --> 00:00:38,870
+[SPEAKER_00]: It is wonderful, Bhante.
+
+9
+00:00:39,691 --> 00:00:48,756
+[SPEAKER_00]: Bhante, how much has been done by me and the extent of my respect and my shame and fear of wrongdoing.
+
+10
+00:00:48,816 --> 00:00:50,657
+[SPEAKER_00]: That's a different translation.
+
+11
+00:00:50,677 --> 00:00:54,159
+[SPEAKER_00]: I think the standard one is like something like
+
+12
+00:00:57,476 --> 00:01:03,518
+[SPEAKER_00]: Actually, I think, literally, it's...
+
+13
+00:01:03,538 --> 00:01:05,119
+[SPEAKER_00]: He's saying how much has been done by me.
+
+14
+00:01:07,200 --> 00:01:08,901
+[SPEAKER_00]: So, yeah.
+
+15
+00:01:09,001 --> 00:01:13,222
+[SPEAKER_00]: So, he's sort of commenting on how far he's come.
+
+16
+00:01:16,184 --> 00:01:19,525
+[SPEAKER_00]: He says, I wasn't doing much with the dhamma.
+
+17
+00:01:19,665 --> 00:01:21,206
+[SPEAKER_00]: I wasn't doing much with the saṅgha.
+
+18
+00:01:21,246 --> 00:01:24,287
+[SPEAKER_00]: I wasn't, like, particularly...
+
+19
+00:01:27,082 --> 00:01:27,302
+[SPEAKER_00]: What?
+
+20
+00:01:27,822 --> 00:01:38,488
+[SPEAKER_00]: Engage with the dhamma, engage with the saṅgha, but seeing my love for the Buddha, and respect, and shame, and fear of wrongdoing, I went forth from home to homelessness.
+
+21
+00:01:39,048 --> 00:01:39,268
+[SPEAKER_01]: Hmm.
+
+22
+00:01:39,608 --> 00:01:40,789
+[SPEAKER_00]: It was just mainly inspired.
+
+23
+00:01:41,269 --> 00:01:41,650
+[SPEAKER_00]: Exactly.
+
+24
+00:01:42,410 --> 00:01:49,554
+[SPEAKER_00]: I think pema, inspiration, devotion, it's that kind of...
+
+25
+00:01:49,574 --> 00:01:53,075
+[SPEAKER_00]: So, it's often, like, a negative thing.
+
+26
+00:01:53,175 --> 00:01:53,776
+[SPEAKER_00]: Yeah, yeah, yeah.
+
+27
+00:01:53,916 --> 00:01:54,456
+[SPEAKER_00]: Love, attachment.
+
+28
+00:01:54,476 --> 00:01:55,397
+[SPEAKER_00]: Completely based on ignorance.
+
+29
+00:01:55,657 --> 00:01:55,857
+[SPEAKER_01]: Yeah.
+
+30
+00:01:56,608 --> 00:01:58,409
+[SPEAKER_01]: And, uh, infatuation almost.
+
+31
+00:01:58,549 --> 00:01:59,389
+[SPEAKER_00]: Yeah.
+
+32
+00:02:00,069 --> 00:02:06,591
+[SPEAKER_00]: But, yeah, it can have this positive, um, effect.
+
+33
+00:02:06,611 --> 00:02:07,011
+[SPEAKER_00]: So, yeah.
+
+34
+00:02:07,031 --> 00:02:13,213
+[SPEAKER_00]: So, seeing my love for the auspicious one and respect for shame and fear of wrongdoing, I went forth from hometownlessness.
+
+35
+00:02:14,253 --> 00:02:21,655
+[SPEAKER_00]: The Buddha taught me that dhamma, such as matter, such as the arising of matter, such as the disappearing of matter, such as feeling,
+
+36
+00:02:22,209 --> 00:02:28,071
+[SPEAKER_00]: Bante, having gone forth to an empty dwelling, pondering over, turning round, the upside-downness of the five assumed aggregates,
+
+37
+00:02:44,251 --> 00:02:47,133
+[SPEAKER_00]: I discerned the essence of this is suffering.
+
+38
+00:02:47,933 --> 00:02:50,874
+[SPEAKER_00]: I discerned the essence of this is the arising of suffering.
+
+39
+00:02:51,955 --> 00:02:54,877
+[SPEAKER_00]: I discerned the essence of this is the cessation of suffering.
+
+40
+00:02:55,817 --> 00:02:59,679
+[SPEAKER_00]: And I discerned the essence of this is the way leading to the cessation of suffering.
+
+41
+00:02:59,699 --> 00:03:03,601
+[SPEAKER_01]: So, by discerning the right order, he discerned the Four Noble Truths.
+
+42
+00:03:05,682 --> 00:03:12,486
+[SPEAKER_01]: So, you might, maybe, if you say about the Pali of that, because you might sound as if... because we keep talking about the right order.
+
+43
+00:03:12,586 --> 00:03:12,806
+[SPEAKER_01]: Yeah.
+
+44
+00:03:13,529 --> 00:03:19,612
+[SPEAKER_00]: It might sound as if the translation tries to read into the sutta what we wanted to say.
+
+45
+00:03:20,012 --> 00:03:20,832
+[SPEAKER_00]: Exactly, I can imagine.
+
+46
+00:03:20,852 --> 00:03:23,793
+[SPEAKER_00]: But, if you look at the Pāli then, what does the Pāli say?
+
+47
+00:03:24,113 --> 00:03:27,935
+[SPEAKER_00]: So, the normal translation for this, I should say...
+
+48
+00:03:27,955 --> 00:03:34,858
+[SPEAKER_00]: So, the Pāli is ukuja and avakuja together as a compound.
+
+49
+00:03:35,698 --> 00:03:39,860
+[SPEAKER_00]: So, in the commentary, it takes that to mean
+
+50
+00:03:41,615 --> 00:03:51,319
+[SPEAKER_00]: So, ukuja as rise, and avakuja as fall, and it says something like it's... hang on, what's this how it says it here?
+
+51
+00:03:51,599 --> 00:03:55,941
+[SPEAKER_00]: The arising is called surge, akuja, and the fall is decline.
+
+52
+00:03:56,262 --> 00:04:00,143
+[SPEAKER_00]: Thus, he was exploring the aggregates by way of rise and fall.
+
+53
+00:04:00,683 --> 00:04:01,504
+[SPEAKER_00]: Udayabhaya.
+
+54
+00:04:03,405 --> 00:04:04,625
+[SPEAKER_01]: See, there's only the problem with that.
+
+55
+00:04:04,685 --> 00:04:06,046
+[SPEAKER_01]: How can you explore
+
+56
+00:04:07,428 --> 00:04:18,492
+[SPEAKER_01]: What you are, what the basis of your sense of self is, how can you see that decline, surge, unless you assume yourself separate from it, so you can look at it?
+
+57
+00:04:19,452 --> 00:04:27,735
+[SPEAKER_00]: Like, when your own I is subjected to rise and fall, if you want to take that to mean that, how can you see that?
+
+58
+00:04:28,988 --> 00:04:30,910
+[SPEAKER_01]: I mean, I can only see the sights.
+
+59
+00:04:31,410 --> 00:04:33,532
+[SPEAKER_01]: How can I have a sight of itself?
+
+60
+00:04:33,932 --> 00:04:34,633
+[SPEAKER_01]: That's impossible.
+
+61
+00:04:35,193 --> 00:04:39,857
+[SPEAKER_01]: So, how can then I understand the nature of itself if it merely knows how to approach it through sights?
+
+62
+00:04:40,578 --> 00:04:40,938
+[SPEAKER_00]: It can't.
+
+63
+00:04:41,459 --> 00:04:44,961
+[SPEAKER_01]: Nature is unattainable.
+
+64
+00:04:46,503 --> 00:04:49,906
+[SPEAKER_01]: An understanding of it is unattainable if all your eye can do is see.
+
+65
+00:04:51,227 --> 00:04:53,088
+[SPEAKER_01]: If there's no knowledge in regard to the eye.
+
+66
+00:04:55,612 --> 00:05:04,097
+[SPEAKER_01]: And that whole description of the surge, the fall, always ties in with the view of how you just have to keep observing things changing, keep observing things changing.
+
+67
+00:05:04,137 --> 00:05:05,418
+[SPEAKER_01]: It's still an observation.
+
+68
+00:05:05,678 --> 00:05:07,659
+[SPEAKER_00]: Thus, the observer remains completely unknown.
+
+69
+00:05:08,459 --> 00:05:11,301
+[SPEAKER_00]: But there are places in the suttas where people...
+
+70
+00:05:12,782 --> 00:05:16,544
+[SPEAKER_01]: They are, but that's on the level of endurance, what we discussed before.
+
+71
+00:05:17,408 --> 00:05:19,210
+[SPEAKER_00]: Even that is not on the level of observation.
+
+72
+00:05:19,610 --> 00:05:19,950
+[SPEAKER_00]: Well, no.
+
+73
+00:05:19,970 --> 00:05:20,271
+[SPEAKER_00]: Seeing.
+
+74
+00:05:21,091 --> 00:05:21,312
+[SPEAKER_00]: It is.
+
+75
+00:05:21,512 --> 00:05:21,972
+[SPEAKER_00]: It's seeing.
+
+76
+00:05:22,052 --> 00:05:22,473
+[SPEAKER_00]: Seeing.
+
+77
+00:05:22,573 --> 00:05:23,394
+[SPEAKER_00]: So... so...
+
+78
+00:05:23,714 --> 00:05:29,039
+[SPEAKER_00]: I've got... so... Bodhisattva Vipassi.
+
+79
+00:05:30,580 --> 00:05:30,800
+[SPEAKER_01]: Yeah.
+
+80
+00:05:30,980 --> 00:05:35,665
+[SPEAKER_00]: He dwell... dwells as one who sees rising his... What?
+
+81
+00:05:35,685 --> 00:05:36,465
+[SPEAKER_00]: Sees with his eyes?
+
+82
+00:05:36,906 --> 00:05:37,366
+[SPEAKER_00]: No, no, no.
+
+83
+00:05:37,587 --> 00:05:37,787
+[SPEAKER_00]: No.
+
+84
+00:05:37,907 --> 00:05:38,708
+[SPEAKER_00]: Sees, regards...
+
+85
+00:05:38,768 --> 00:05:40,009
+[SPEAKER_00]: So, that's not what I'm talking about.
+
+86
+00:05:40,029 --> 00:05:40,389
+[SPEAKER_00]: Yeah, exactly.
+
+87
+00:05:40,409 --> 00:05:41,250
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+88
+00:05:41,270 --> 00:05:42,811
+[SPEAKER_01]: So, there's no reason to bring it up.
+
+89
+00:05:44,760 --> 00:05:48,182
+[SPEAKER_00]: But, so, but there, rising and falling in the five assumed aggregates.
+
+90
+00:05:48,262 --> 00:05:52,704
+[SPEAKER_00]: This is matter, this is the origin, this is the arising, this is the disappearing.
+
+91
+00:05:54,525 --> 00:06:01,889
+[SPEAKER_01]: So, you see matter, you see... it's... Again, again, let's not conflate the two.
+
+92
+00:06:02,909 --> 00:06:03,109
+[SPEAKER_01]: Yeah.
+
+93
+00:06:03,229 --> 00:06:05,170
+[SPEAKER_01]: What I was saying is seeing with the eyes.
+
+94
+00:06:05,630 --> 00:06:09,072
+[SPEAKER_01]: The view is always where you just have to observe the change in the aggregates.
+
+95
+00:06:09,592 --> 00:06:12,594
+[SPEAKER_01]: Now, you're using word seeing in a sense like, oh, I saw the truth.
+
+96
+00:06:12,978 --> 00:06:13,538
+[SPEAKER_00]: Yeah, exactly.
+
+97
+00:06:13,638 --> 00:06:16,761
+[SPEAKER_01]: I'm referring to the actual seeing, literal seeing with your eyes.
+
+98
+00:06:17,281 --> 00:06:18,342
+[SPEAKER_01]: So, none of that applies.
+
+99
+00:06:18,982 --> 00:06:20,523
+[SPEAKER_01]: And the Buddha Vipassana was exactly that.
+
+100
+00:06:20,863 --> 00:06:25,247
+[SPEAKER_01]: He understood the nature of the five aggregates before he became the Buddha.
+
+101
+00:06:25,507 --> 00:06:25,647
+[SPEAKER_00]: Yeah.
+
+102
+00:06:26,087 --> 00:06:27,368
+[SPEAKER_01]: And then observed that.
+
+103
+00:06:27,468 --> 00:06:28,128
+[SPEAKER_01]: But with right view.
+
+104
+00:06:28,329 --> 00:06:29,269
+[SPEAKER_01]: Yeah, of course, of course.
+
+105
+00:06:29,309 --> 00:06:30,490
+[SPEAKER_01]: That's what the right view is.
+
+106
+00:06:31,251 --> 00:06:33,732
+[SPEAKER_01]: Then he observed that, or he was seeing it.
+
+107
+00:06:34,093 --> 00:06:34,313
+[SPEAKER_00]: Yes.
+
+108
+00:06:35,123 --> 00:06:38,585
+[SPEAKER_01]: And, simply by dwelling on that, he became a fully enlightened Buddha.
+
+109
+00:06:38,665 --> 00:06:38,845
+[SPEAKER_01]: Yeah.
+
+110
+00:06:39,125 --> 00:06:42,426
+[SPEAKER_01]: But not by actually seeing it with his eyes and looking at it.
+
+111
+00:06:42,506 --> 00:06:43,267
+[SPEAKER_00]: So, he sees...
+
+112
+00:06:43,287 --> 00:06:44,267
+[SPEAKER_00]: So, it's metaphorically.
+
+113
+00:06:44,387 --> 00:06:44,687
+[SPEAKER_00]: Sorry.
+
+114
+00:06:44,707 --> 00:06:45,448
+[SPEAKER_00]: So, yeah.
+
+115
+00:06:45,468 --> 00:06:46,688
+[SPEAKER_00]: So, he understands, let's say.
+
+116
+00:06:46,808 --> 00:06:47,428
+[SPEAKER_00]: He understands.
+
+117
+00:06:47,448 --> 00:06:48,929
+[SPEAKER_00]: Exactly.
+
+118
+00:06:49,829 --> 00:06:55,792
+[SPEAKER_00]: He dwells, he remains, he sort of spends time understanding... Hmm.
+
+119
+00:06:56,512 --> 00:06:56,692
+[SPEAKER_00]: Yeah.
+
+120
+00:06:56,712 --> 00:07:02,435
+[SPEAKER_00]: Not only has... have the aggregates... each aggregate has manifested, but
+
+121
+00:07:03,973 --> 00:07:05,975
+[SPEAKER_00]: This is... there's a rising.
+
+122
+00:07:06,315 --> 00:07:11,839
+[SPEAKER_00]: This is like a increasing in its presence, or it's decreasing in its presence.
+
+123
+00:07:11,879 --> 00:07:13,881
+[SPEAKER_00]: Either way, it's manifested.
+
+124
+00:07:13,961 --> 00:07:14,161
+[SPEAKER_00]: Yeah.
+
+125
+00:07:14,622 --> 00:07:17,544
+[SPEAKER_00]: So, such is matter, such is the arising of matter, such is the...
+
+126
+00:07:17,604 --> 00:07:28,953
+[SPEAKER_01]: So, in other words, say, in regards to sights, something you see, something that maybe it's affecting you either with passion or aversion, say, a displeasing sight... Yeah.
+
+127
+00:07:28,973 --> 00:07:31,655
+[SPEAKER_01]: ...that you're really, really wound up by... Yeah.
+
+128
+00:07:33,188 --> 00:07:42,252
+[SPEAKER_01]: If you keep observing that, you will remain ignorant of the nature of seeing, because you're fully absorbed with the object of your sight, which is what the sight is.
+
+129
+00:07:42,972 --> 00:07:52,115
+[SPEAKER_01]: But the point is, you understand the arising and ceasing, whatever you want to call it, of the eye, which is a necessary basis for any type of sight, pleasing or displeasing.
+
+130
+00:07:52,496 --> 00:07:54,697
+[SPEAKER_01]: And you can't see the eye on the level of sight.
+
+131
+00:07:56,323 --> 00:08:03,009
+[SPEAKER_01]: So, you get to see the truth of the I, but not by the physical, actual seeing, because that's secondary thing.
+
+132
+00:08:04,771 --> 00:08:08,134
+[SPEAKER_00]: But, back onto that Pali... That's right.
+
+133
+00:08:08,254 --> 00:08:11,937
+[SPEAKER_00]: So, that Buddha, Bodhisattva Vipassi,
+
+134
+00:08:12,855 --> 00:08:14,096
+[SPEAKER_00]: When he talks about rise and fall...
+
+135
+00:08:14,116 --> 00:08:14,816
+[SPEAKER_00]: So, it's the same part?
+
+136
+00:08:15,236 --> 00:08:15,396
+[SPEAKER_00]: No.
+
+137
+00:08:15,656 --> 00:08:16,797
+[SPEAKER_00]: He's talking about udāyabhaya.
+
+138
+00:08:17,357 --> 00:08:18,118
+[SPEAKER_00]: That's a rise and fall.
+
+139
+00:08:18,238 --> 00:08:19,118
+[SPEAKER_00]: That's a rise and fall.
+
+140
+00:08:19,398 --> 00:08:19,979
+[SPEAKER_00]: Udāyabhaya.
+
+141
+00:08:20,039 --> 00:08:22,760
+[SPEAKER_00]: That's what we discussed before, in terms of increasing and decreasing.
+
+142
+00:08:22,840 --> 00:08:23,240
+[SPEAKER_00]: Exactly.
+
+143
+00:08:23,300 --> 00:08:23,440
+[SPEAKER_00]: Yeah.
+
+144
+00:08:24,161 --> 00:08:27,983
+[SPEAKER_00]: And, and, there's also... Well, no, actually, that's slightly different.
+
+145
+00:08:28,003 --> 00:08:30,284
+[SPEAKER_00]: That, that's...
+
+146
+00:08:30,864 --> 00:08:35,486
+[SPEAKER_00]: There's another way it's talked about, which is not udāyabhaya.
+
+147
+00:08:36,727 --> 00:08:38,748
+[SPEAKER_00]: It's upādā.
+
+148
+00:08:39,248 --> 00:08:40,169
+[SPEAKER_00]: Upādā and...
+
+149
+00:08:41,136 --> 00:08:41,516
+[SPEAKER_00]: Vaya.
+
+150
+00:08:42,597 --> 00:08:43,137
+[SPEAKER_00]: They're similar.
+
+151
+00:08:43,778 --> 00:08:44,038
+[SPEAKER_01]: Yeah.
+
+152
+00:08:44,418 --> 00:08:49,522
+[SPEAKER_00]: So, but those... that's what we've talked about the three characteristics.
+
+153
+00:08:50,162 --> 00:08:51,163
+[SPEAKER_00]: Rising is manifest.
+
+154
+00:08:53,685 --> 00:08:55,706
+[SPEAKER_00]: Disappearing or passing.
+
+155
+00:08:56,687 --> 00:08:58,148
+[SPEAKER_00]: Falling is manifest.
+
+156
+00:08:58,228 --> 00:08:59,509
+[SPEAKER_00]: Rising and falling, let's say.
+
+157
+00:08:59,929 --> 00:09:00,609
+[SPEAKER_00]: Rising is manifest.
+
+158
+00:09:00,629 --> 00:09:01,490
+[SPEAKER_00]: Falling... Increasing, decreasing.
+
+159
+00:09:01,510 --> 00:09:02,851
+[SPEAKER_00]: Increasing, decreasing is manifest.
+
+160
+00:09:03,191 --> 00:09:07,694
+[SPEAKER_00]: Either way, something endures and there's change.
+
+161
+00:09:07,994 --> 00:09:08,235
+[SPEAKER_01]: Yeah.
+
+162
+00:09:08,535 --> 00:09:08,695
+[SPEAKER_00]: Yeah.
+
+163
+00:09:10,064 --> 00:09:11,185
+[SPEAKER_00]: It's changing one way or the other.
+
+164
+00:09:12,686 --> 00:09:18,470
+[SPEAKER_00]: So, so that's udāyavaya or upādāvaya, but that's not what's in this sutta with udāyī.
+
+165
+00:09:18,550 --> 00:09:19,330
+[SPEAKER_00]: Yeah, it's different.
+
+166
+00:09:19,490 --> 00:09:20,191
+[SPEAKER_00]: It's completely different.
+
+167
+00:09:20,231 --> 00:09:37,002
+[SPEAKER_00]: It's, um, uh, this ukuja and nikuja, and that appears quite a lot in the suttas, in the stock phrase, when, um, usually I think it's a householder,
+
+168
+00:09:37,732 --> 00:09:38,592
+[SPEAKER_00]: Here's the dhamma.
+
+169
+00:09:38,992 --> 00:09:42,193
+[SPEAKER_00]: And says, oh, it's like, it's as if...
+
+170
+00:09:42,213 --> 00:09:42,973
+[SPEAKER_00]: Turning the upside down.
+
+171
+00:09:43,013 --> 00:09:45,394
+[SPEAKER_00]: One might turn upright what was upside down.
+
+172
+00:09:45,494 --> 00:09:47,595
+[SPEAKER_01]: What was first put second, what was second put first.
+
+173
+00:09:47,635 --> 00:09:48,675
+[SPEAKER_00]: That's something slightly different.
+
+174
+00:09:48,695 --> 00:09:51,095
+[SPEAKER_00]: That's, um, that's talking about different views.
+
+175
+00:09:51,616 --> 00:09:51,916
+[SPEAKER_01]: But, yeah.
+
+176
+00:09:51,936 --> 00:09:54,516
+[SPEAKER_01]: So, this, this specific part, it's upside down.
+
+177
+00:09:54,916 --> 00:09:56,777
+[SPEAKER_01]: This... What was up, was not down.
+
+178
+00:09:56,797 --> 00:09:57,617
+[SPEAKER_01]: What was down, it's up.
+
+179
+00:09:57,637 --> 00:10:01,438
+[SPEAKER_00]: Turn upright, nikujjitaṃ, ukujja, ukujjaya.
+
+180
+00:10:01,538 --> 00:10:04,059
+[SPEAKER_00]: One turns up what was... Down.
+
+181
+00:10:04,239 --> 00:10:04,539
+[SPEAKER_00]: Down.
+
+182
+00:10:04,659 --> 00:10:04,799
+[SPEAKER_01]: Yeah.
+
+183
+00:10:05,359 --> 00:10:06,299
+[SPEAKER_01]: What was the wrong way around?
+
+184
+00:10:06,319 --> 00:10:07,099
+[SPEAKER_01]: What was the wrong way around?
+
+185
+00:10:07,139 --> 00:10:08,720
+[SPEAKER_01]: So, it is exactly the wrong order.
+
+186
+00:10:09,120 --> 00:10:09,360
+[SPEAKER_00]: Yeah.
+
+187
+00:10:11,481 --> 00:10:12,201
+[SPEAKER_00]: So, I've got it.
+
+188
+00:10:12,361 --> 00:10:30,786
+[SPEAKER_00]: So, this is, this is, this is Udayi saying how amazing how much work he's done in, where is it, insofar as he has pondered over turning around, turning upright, the upside-down-ness of the five assumed abrogates.
+
+189
+00:10:32,146 --> 00:10:32,366
+[SPEAKER_01]: Yeah.
+
+190
+00:10:32,970 --> 00:10:46,804
+[SPEAKER_01]: It's actually even probably... because usually I would refer to those examples of when people hear the Buddha and then, oh, it's like turning upside down, putting first to second, but then people can sometimes dismiss that and say, oh, it's just like...
+
+191
+00:10:48,327 --> 00:10:50,147
+[SPEAKER_01]: They were related, so that's how you would express it.
+
+192
+00:10:50,167 --> 00:10:50,447
+[SPEAKER_01]: Yeah.
+
+193
+00:10:50,587 --> 00:10:50,768
+[SPEAKER_00]: Yeah.
+
+194
+00:10:50,788 --> 00:10:52,168
+[SPEAKER_00]: Like, no, it's an accurate way to express.
+
+195
+00:10:52,188 --> 00:10:54,968
+[SPEAKER_01]: Why would you express it inaccurately, even if you're related?
+
+196
+00:10:55,608 --> 00:10:56,969
+[SPEAKER_01]: On account of accurate understanding.
+
+197
+00:10:57,389 --> 00:10:57,729
+[SPEAKER_01]: Exactly.
+
+198
+00:10:57,749 --> 00:10:58,529
+[SPEAKER_01]: Because that's the whole point.
+
+199
+00:10:58,569 --> 00:10:58,769
+[SPEAKER_00]: Yeah.
+
+200
+00:10:58,829 --> 00:11:00,089
+[SPEAKER_01]: You accurately understood now.
+
+201
+00:11:00,449 --> 00:11:00,649
+[SPEAKER_01]: Yeah.
+
+202
+00:11:00,770 --> 00:11:03,190
+[SPEAKER_00]: But now you're gonna inaccurately describe it.
+
+203
+00:11:03,790 --> 00:11:04,450
+[SPEAKER_00]: That doesn't make sense.
+
+204
+00:11:04,470 --> 00:11:09,951
+[SPEAKER_01]: But anyway, this is even more pertaining to... No, he's actually contemplating the right order of things.
+
+205
+00:11:10,011 --> 00:11:10,211
+[SPEAKER_01]: Yeah.
+
+206
+00:11:11,272 --> 00:11:13,092
+[SPEAKER_01]: So, what is the wrong order?
+
+207
+00:11:15,729 --> 00:11:19,772
+[SPEAKER_01]: From the point of view of your personal experience, what would constitute the wrong order?
+
+208
+00:11:20,352 --> 00:11:22,733
+[SPEAKER_01]: I come first, and these aggregates are related to me.
+
+209
+00:11:23,194 --> 00:11:25,495
+[SPEAKER_01]: Me and everything else in the relationship.
+
+210
+00:11:26,076 --> 00:11:26,716
+[SPEAKER_00]: So, they're mine.
+
+211
+00:11:26,796 --> 00:11:29,217
+[SPEAKER_00]: So, this matter is mine, or it's in me, or it's...
+
+212
+00:11:29,398 --> 00:11:30,678
+[SPEAKER_01]: I'm in the matter, or whatever.
+
+213
+00:11:30,698 --> 00:11:32,119
+[SPEAKER_01]: Either way, you come first.
+
+214
+00:11:32,359 --> 00:11:32,519
+[SPEAKER_01]: Yeah.
+
+215
+00:11:32,700 --> 00:11:34,701
+[SPEAKER_01]: And that's the point, that self-centredness of it.
+
+216
+00:11:35,561 --> 00:11:39,744
+[SPEAKER_01]: So, if you understand, it doesn't matter how self-centred your sense of self might feel, how in control, how much...
+
+217
+00:11:42,071 --> 00:11:46,374
+[SPEAKER_01]: The more present it is, it's present within the five aggregates.
+
+218
+00:11:46,474 --> 00:11:47,275
+[SPEAKER_01]: It's second to them.
+
+219
+00:11:47,435 --> 00:11:48,436
+[SPEAKER_01]: It's dependent on them.
+
+220
+00:11:48,856 --> 00:11:49,837
+[SPEAKER_01]: It's not on the way around.
+
+221
+00:11:51,418 --> 00:11:53,540
+[SPEAKER_01]: So, literally, it's the same thing that remains there.
+
+222
+00:11:53,960 --> 00:11:57,783
+[SPEAKER_01]: Just, instead of placing it like this, you place it like this.
+
+223
+00:11:58,463 --> 00:12:00,925
+[SPEAKER_01]: The emphasis is somewhere else and everything changes.
+
+224
+00:12:00,945 --> 00:12:01,145
+[SPEAKER_01]: That's it.
+
+225
+00:12:01,165 --> 00:12:02,526
+[SPEAKER_01]: You don't create new things.
+
+226
+00:12:02,686 --> 00:12:06,729
+[SPEAKER_01]: You don't introduce new components into the five aggregates when you start practicing the dhamma.
+
+227
+00:12:06,749 --> 00:12:07,290
+[SPEAKER_00]: Impossible.
+
+228
+00:12:08,143 --> 00:12:12,564
+[SPEAKER_00]: But the whole emotional significance of the picture is now completely different.
+
+229
+00:12:12,784 --> 00:12:13,344
+[SPEAKER_00]: Oh, yeah, of course.
+
+230
+00:12:13,484 --> 00:12:16,705
+[SPEAKER_01]: Well, everything... because the whole saṃsāra depends on the wrong order.
+
+231
+00:12:18,406 --> 00:12:19,366
+[SPEAKER_01]: It's not... that's what I mean.
+
+232
+00:12:19,386 --> 00:12:24,087
+[SPEAKER_01]: Like, saṃsāra is not outside of something... a universe of rebirths where you just travel through.
+
+233
+00:12:24,287 --> 00:12:25,407
+[SPEAKER_01]: No, it's within your point of view.
+
+234
+00:12:25,607 --> 00:12:26,668
+[SPEAKER_01]: That's what your point of view is.
+
+235
+00:12:27,688 --> 00:12:28,748
+[SPEAKER_01]: Saṃsāra is the wrong view.
+
+236
+00:12:28,768 --> 00:12:30,589
+[SPEAKER_01]: Saṃsāra is the structure of the wrong order.
+
+237
+00:12:31,429 --> 00:12:33,309
+[SPEAKER_01]: So, for as long as that's there, you'll keep reappearing.
+
+238
+00:12:34,650 --> 00:12:35,510
+[SPEAKER_00]: You'll keep enduring.
+
+239
+00:12:36,897 --> 00:12:43,339
+[SPEAKER_00]: But by contemplating, turning that round, one can discern the Four Noble Truths.
+
+240
+00:12:44,580 --> 00:12:45,040
+[SPEAKER_01]: Oh, well, yeah.
+
+241
+00:12:45,280 --> 00:12:51,842
+[SPEAKER_01]: I mean, that's how it was expressed there, where you can pretty much discern anything that the Buddha was teaching about, because it's the principle of Dītsuṃpāda.
+
+242
+00:12:52,182 --> 00:12:52,362
+[SPEAKER_01]: Yeah.
+
+243
+00:12:52,843 --> 00:12:53,743
+[SPEAKER_01]: With this, this is.
+
+244
+00:12:53,903 --> 00:12:57,904
+[SPEAKER_01]: With this first, this is second, as in description of the wrong order.
+
+245
+00:12:58,164 --> 00:12:58,324
+[SPEAKER_00]: Yeah.
+
+246
+00:12:58,664 --> 00:12:59,885
+[SPEAKER_01]: Now, without this as first,
+
+247
+00:13:00,655 --> 00:13:01,355
+[SPEAKER_01]: Have you had a second?
+
+248
+00:13:01,535 --> 00:13:02,716
+[SPEAKER_01]: It's a description of the right order.
+
+249
+00:13:03,136 --> 00:13:04,757
+[SPEAKER_01]: So, with the grain, against the grain.
+
+250
+00:13:05,177 --> 00:13:07,278
+[SPEAKER_00]: All those things that the Buddha used to describe patitsaṁpada.
+
+251
+00:13:09,859 --> 00:13:10,340
+[SPEAKER_01]: And that's what it is.
+
+252
+00:13:10,360 --> 00:13:13,801
+[SPEAKER_01]: So, there's... and again, even in Putujana's experience, there is patitsaṁpada.
+
+253
+00:13:14,481 --> 00:13:21,565
+[SPEAKER_01]: There is sense of I am, and everything else that belongs to me, that I can use, act, see, hear, taste, touch, think about, and so on.
+
+254
+00:13:23,025 --> 00:13:24,646
+[SPEAKER_01]: But it's the patitsaṁpada with that grain.
+
+255
+00:13:25,046 --> 00:13:26,587
+[SPEAKER_01]: You go with the grain of ignorance.
+
+256
+00:13:26,947 --> 00:13:28,008
+[SPEAKER_01]: Knee towards the world.
+
+257
+00:13:29,295 --> 00:13:31,296
+[SPEAKER_01]: So, it's still me and the world, if you want to call it like that.
+
+258
+00:13:31,656 --> 00:13:36,697
+[SPEAKER_01]: But then, you realize the world, as in this body, the material world, the senses, it's the container.
+
+259
+00:13:36,737 --> 00:13:40,198
+[SPEAKER_01]: It's a necessary basis for the existence of my notion of self.
+
+260
+00:13:41,039 --> 00:13:42,459
+[SPEAKER_01]: So, I'm not denying my notion of self.
+
+261
+00:13:42,519 --> 00:13:49,041
+[SPEAKER_01]: I'm just not seeing it as mine anymore, because it doesn't depend on me wanting to keep it, but it depends on these things allowing it to be.
+
+262
+00:13:51,182 --> 00:13:51,942
+[SPEAKER_01]: But it's still the same thing.
+
+263
+00:13:52,162 --> 00:13:53,182
+[SPEAKER_01]: Me and the matter.
+
+264
+00:13:53,342 --> 00:13:54,023
+[SPEAKER_01]: Me and the world.
+
+265
+00:13:56,666 --> 00:13:59,348
+[SPEAKER_01]: But now, its emphasis is, oh, this is the first, actually.
+
+266
+00:13:59,969 --> 00:14:00,689
+[SPEAKER_01]: This is the second.
+
+267
+00:14:00,769 --> 00:14:02,471
+[SPEAKER_01]: Not, this is the first and that's the second.
+
+268
+00:14:05,853 --> 00:14:07,375
+[SPEAKER_01]: So, that's what it's all about.
+
+269
+00:14:07,815 --> 00:14:10,077
+[SPEAKER_01]: In its principle, it's described as, with this, this is.
+
+270
+00:14:10,837 --> 00:14:11,078
+[SPEAKER_00]: Yeah.
+
+271
+00:14:11,598 --> 00:14:12,559
+[SPEAKER_01]: With this, this is.
+
+272
+00:14:13,299 --> 00:14:13,560
+[SPEAKER_01]: Two things.
+
+273
+00:14:13,580 --> 00:14:14,080
+[SPEAKER_01]: That's the dhamma.
+
+274
+00:14:14,220 --> 00:14:14,400
+[SPEAKER_01]: Yeah.
+
+275
+00:14:15,061 --> 00:14:15,942
+[SPEAKER_01]: With this, this is.
+
+276
+00:14:16,582 --> 00:14:16,802
+[SPEAKER_00]: Yeah.
+
+277
+00:14:18,303 --> 00:14:19,404
+[SPEAKER_01]: Without this, this won't be.
+
+278
+00:14:19,825 --> 00:14:20,005
+[SPEAKER_01]: Yeah.
+
+279
+00:14:20,145 --> 00:14:22,127
+[SPEAKER_01]: So, if this is not first, this cannot be the second.
+
+280
+00:14:22,287 --> 00:14:22,507
+[SPEAKER_01]: Yeah.
+
+281
+00:14:30,375 --> 00:14:36,437
+[SPEAKER_01]: And contemplating the right order, it's probably something a patujanā can do.
+
+282
+00:14:36,997 --> 00:14:39,298
+[SPEAKER_00]: Well, that's what I think what's going on here.
+
+283
+00:14:39,698 --> 00:14:45,119
+[SPEAKER_00]: He's describing himself as a patujanā, pondering over, turning around.
+
+284
+00:14:45,159 --> 00:14:48,220
+[SPEAKER_00]: It's almost as if, what if I were to turn around?
+
+285
+00:14:48,600 --> 00:14:55,222
+[SPEAKER_00]: What if I were to, out of mere faith in the Buddha and his teaching, out of the love for him, regard this as first and this as second?
+
+286
+00:14:55,982 --> 00:14:57,423
+[SPEAKER_01]: It doesn't seem natural to me.
+
+287
+00:14:58,392 --> 00:15:00,833
+[SPEAKER_01]: He contradicts... he goes against the grain of my experience.
+
+288
+00:15:00,853 --> 00:15:02,113
+[SPEAKER_01]: Yeah, there's nothing that I've got...
+
+289
+00:15:02,273 --> 00:15:05,054
+[SPEAKER_01]: There's no validation immediate that it's true, that it's right.
+
+290
+00:15:05,094 --> 00:15:06,655
+[SPEAKER_01]: But what if I were to do it out of mere faith?
+
+291
+00:15:06,855 --> 00:15:10,276
+[SPEAKER_01]: And that's exactly the faith type in the suttas they describe.
+
+292
+00:15:11,077 --> 00:15:16,298
+[SPEAKER_01]: People think faith type means you're just purely devoted, infatuated, and somehow you become an arahant on account of infatuation.
+
+293
+00:15:16,319 --> 00:15:16,539
+[SPEAKER_01]: Yeah.
+
+294
+00:15:16,779 --> 00:15:16,859
+[SPEAKER_01]: No.
+
+295
+00:15:16,879 --> 00:15:19,240
+[SPEAKER_01]: It means that you start applying the dhamma on account of faith.
+
+296
+00:15:19,860 --> 00:15:20,420
+[SPEAKER_01]: Nothing else.
+
+297
+00:15:21,360 --> 00:15:23,541
+[SPEAKER_01]: Like, somebody else would need to make some sense.
+
+298
+00:15:23,701 --> 00:15:25,242
+[SPEAKER_01]: Why would the right order work?
+
+299
+00:15:25,662 --> 00:15:25,842
+[SPEAKER_00]: Yeah.
+
+300
+00:15:26,782 --> 00:15:34,044
+[SPEAKER_01]: And based on getting some intellectual understanding why that order would work, he gets to apply the right order, and because it is a right order, it will work.
+
+301
+00:15:34,824 --> 00:15:39,505
+[SPEAKER_01]: And the result of it, the verification of it working, is being free from suffering amidst of suffering.
+
+302
+00:15:39,905 --> 00:15:40,505
+[SPEAKER_01]: You can't suffer.
+
+303
+00:15:41,105 --> 00:15:42,365
+[SPEAKER_01]: You're incapable of suffering.
+
+304
+00:15:44,126 --> 00:15:46,186
+[SPEAKER_01]: And, oh yeah, it worked.
+
+305
+00:15:46,986 --> 00:15:55,428
+[SPEAKER_01]: But somebody who doesn't necessarily ponder on it, can't make sense of it, could just do it because they understood to the extent that that's what the Buddha points at.
+
+306
+00:15:56,526 --> 00:16:02,689
+[SPEAKER_01]: So, that's why even the faith type, even him over there, because he was clearly a faith type, as he said himself.
+
+307
+00:16:02,769 --> 00:16:04,410
+[SPEAKER_01]: He was just inspired.
+
+308
+00:16:04,430 --> 00:16:06,831
+[SPEAKER_01]: He had no relation to the Saṅgha or nothing, basically.
+
+309
+00:16:06,851 --> 00:16:10,713
+[SPEAKER_01]: He was just inspired by the Buddha and that's why he became a monk.
+
+310
+00:16:12,214 --> 00:16:23,740
+[SPEAKER_01]: Even he was then, you know, the fact that he was able to at least get the notion of, oh, maybe I should put this first and this second, means that he had some grasp, some instruction that he made sense of.
+
+311
+00:16:24,758 --> 00:16:28,039
+[SPEAKER_01]: That's the difference between asuttava-putujjana and suttava-putujjana.
+
+312
+00:16:28,079 --> 00:16:28,219
+[SPEAKER_01]: Yeah.
+
+313
+00:16:29,499 --> 00:16:29,899
+[SPEAKER_00]: I don't think...
+
+314
+00:16:29,959 --> 00:16:30,299
+[SPEAKER_00]: I don't think...
+
+315
+00:16:30,479 --> 00:16:34,060
+[SPEAKER_00]: I don't think it actually says...
+
+316
+00:16:35,300 --> 00:16:41,021
+[SPEAKER_00]: There's suttava-bhikkhu in the suttas, but I don't think you ever actually see suttava-putujjana in the suttas.
+
+317
+00:16:41,041 --> 00:16:41,721
+[SPEAKER_00]: Right, right, right.
+
+318
+00:16:41,801 --> 00:16:42,782
+[SPEAKER_01]: You just see asuttava-putujjana.
+
+319
+00:16:42,802 --> 00:16:44,382
+[SPEAKER_01]: I think it's always... yeah, I think it's always the suttava-putujjana.
+
+320
+00:16:44,402 --> 00:16:46,282
+[SPEAKER_01]: But then you can infer that there is a suttava-putujjana.
+
+321
+00:16:46,322 --> 00:16:46,462
+[SPEAKER_01]: Yeah
+
+322
+00:16:50,161 --> 00:16:53,022
+[SPEAKER_00]: So, someone who's had some instruction doesn't see it for themselves.
+
+323
+00:16:53,142 --> 00:16:53,362
+[SPEAKER_01]: Yeah.
+
+324
+00:16:53,922 --> 00:17:02,104
+[SPEAKER_00]: But, see, so now, that puthujjana, who understood the right order, at least got the notion of it... Got the notion, yeah.
+
+325
+00:17:02,144 --> 00:17:08,286
+[SPEAKER_01]: ...can start to apply it on account of the faith in the Buddha, because he thinks the Buddha is the greatest, and he'll just do whatever the Buddha says.
+
+326
+00:17:09,746 --> 00:17:13,447
+[SPEAKER_01]: Or, if he doesn't have such faith, he can then start applying it after pondering on it.
+
+327
+00:17:14,487 --> 00:17:14,627
+[SPEAKER_00]: Yeah.
+
+328
+00:17:14,767 --> 00:17:17,628
+[SPEAKER_01]: I mean, he thinks about it, and he's like, what actually makes more sense?
+
+329
+00:17:17,848 --> 00:17:18,048
+[SPEAKER_00]: Yeah.
+
+330
+00:17:19,284 --> 00:17:23,666
+[SPEAKER_01]: What if I were to try to do this, and sustain this, and cultivate this, and develop this?
+
+331
+00:17:25,186 --> 00:17:27,227
+[SPEAKER_01]: Either way, that person would arrive at the right view.
+
+332
+00:17:28,327 --> 00:17:30,928
+[SPEAKER_01]: It doesn't matter whether you came through faith or through investigation.
+
+333
+00:17:31,188 --> 00:17:32,529
+[SPEAKER_01]: The point is to arrive at the right view.
+
+334
+00:17:36,590 --> 00:17:44,433
+[SPEAKER_01]: So the first... What would be the necessary condition for a patujana to be able to start practicing the right order?
+
+335
+00:17:46,020 --> 00:17:53,286
+[SPEAKER_01]: Except understanding that there is such thing as right order, what what what he needs to do in order to understand that?
+
+336
+00:17:54,407 --> 00:17:55,108
+[SPEAKER_01]: Sorry, what what?
+
+337
+00:17:55,989 --> 00:17:56,910
+[SPEAKER_01]: So, Bhutujana... Yeah.
+
+338
+00:17:56,950 --> 00:18:03,355
+[SPEAKER_00]: ...who has some notion of the teaching... His hands got stuck, eh?
+
+339
+00:18:04,436 --> 00:18:04,656
+[SPEAKER_00]: Okay.
+
+340
+00:18:04,696 --> 00:18:05,617
+[SPEAKER_00]: In order to...
+
+341
+00:18:05,858 --> 00:18:13,124
+[SPEAKER_01]: In order to start pondering on the right order, as the Buddha did, what does... he must stop doing?
+
+342
+00:18:15,050 --> 00:18:15,470
+[SPEAKER_00]: Ah, okay.
+
+343
+00:18:15,911 --> 00:18:24,276
+[SPEAKER_00]: He needs to, first of all, practice restraint and stop gratifying his desires, basically.
+
+344
+00:18:24,336 --> 00:18:26,257
+[SPEAKER_00]: Secondly?
+
+345
+00:18:26,337 --> 00:18:32,400
+[SPEAKER_00]: So, keep precepts, practice restraint and spend time on his own.
+
+346
+00:18:33,081 --> 00:18:34,862
+[SPEAKER_01]: Yeah, that's on that level of a lifestyle.
+
+347
+00:18:35,362 --> 00:18:35,502
+[SPEAKER_01]: Yeah.
+
+348
+00:18:36,123 --> 00:18:37,223
+[SPEAKER_01]: But it would be the second thing.
+
+349
+00:18:37,463 --> 00:18:38,444
+[SPEAKER_01]: It's kind of more internal.
+
+350
+00:18:38,784 --> 00:18:40,005
+[SPEAKER_01]: What would he have to stop doing?
+
+351
+00:18:44,038 --> 00:18:48,201
+[SPEAKER_01]: So, as we described, the order is the sense of self and the... and the... and everything else.
+
+352
+00:18:49,022 --> 00:18:49,262
+[SPEAKER_00]: Yeah.
+
+353
+00:18:50,003 --> 00:18:52,205
+[SPEAKER_01]: But the right order is everything else and the sense of self.
+
+354
+00:18:52,225 --> 00:18:52,625
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+355
+00:18:52,965 --> 00:18:55,887
+[SPEAKER_01]: So, he needs to start including everything else.
+
+356
+00:18:56,428 --> 00:19:03,233
+[SPEAKER_01]: He needs to start including, but above all, he needs to stop either ignoring the sense of self or trying to get rid of it.
+
+357
+00:19:03,273 --> 00:19:03,694
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+358
+00:19:03,794 --> 00:19:04,034
+[SPEAKER_00]: Okay.
+
+359
+00:19:04,074 --> 00:19:06,456
+[SPEAKER_01]: Because that's, practically speaking, what most people who
+
+360
+00:19:07,016 --> 00:19:12,218
+[SPEAKER_01]: God, the notion of the Buddha's teaching, would be doing, ah, there is no self, there is no self.
+
+361
+00:19:12,278 --> 00:19:15,179
+[SPEAKER_01]: And then, just, everything serves to, like, overriding the sense of self.
+
+362
+00:19:15,199 --> 00:19:15,999
+[SPEAKER_00]: That's not what he's doing.
+
+363
+00:19:16,039 --> 00:19:18,560
+[SPEAKER_00]: He's not saying, I'm... No, of course, of course.
+
+364
+00:19:18,660 --> 00:19:20,301
+[SPEAKER_00]: All it is, is just changing the priority.
+
+365
+00:19:20,581 --> 00:19:23,762
+[SPEAKER_01]: How can you change the priority to things if you keep denying one of those things?
+
+366
+00:19:23,782 --> 00:19:24,303
+[SPEAKER_01]: That's not...
+
+367
+00:19:24,343 --> 00:19:27,684
+[SPEAKER_01]: If you're not acknowledging it, and you tell, oh, it's not real, the sense is real.
+
+368
+00:19:27,944 --> 00:19:28,664
+[SPEAKER_01]: It's very real.
+
+369
+00:19:28,824 --> 00:19:29,064
+[SPEAKER_01]: Yeah.
+
+370
+00:19:29,905 --> 00:19:30,745
+[SPEAKER_01]: But it's not first.
+
+371
+00:19:30,905 --> 00:19:31,145
+[SPEAKER_01]: Yeah.
+
+372
+00:19:31,225 --> 00:19:31,845
+[SPEAKER_01]: It's the second
+
+373
+00:19:37,871 --> 00:19:50,059
+[SPEAKER_01]: Recognizing the self that has manifested right here, in the way, in the kind of... Well, I am, to whatever, yeah, whatever, whatever ambiguous sense I might be, if I try to overly define it, I do have a sense of self.
+
+374
+00:19:50,080 --> 00:19:53,002
+[SPEAKER_01]: I am such-and-such, a certain individual, something.
+
+375
+00:19:53,022 --> 00:20:00,447
+[SPEAKER_01]: There is this, like, a group of characteristics, so to speak, that do kind of outline the phenomenon of I am.
+
+376
+00:20:00,647 --> 00:20:00,827
+[SPEAKER_00]: Yeah.
+
+377
+00:20:01,267 --> 00:20:01,587
+[SPEAKER_01]: Whatever.
+
+378
+00:20:01,607 --> 00:20:04,088
+[SPEAKER_01]: I might be different or whatever, but there is still sense of I am.
+
+379
+00:20:04,948 --> 00:20:12,729
+[SPEAKER_01]: The reason why people struggle with it is because they always depend on, like, overly defining it in order for it to be clear or real, but...
+
+380
+00:20:12,749 --> 00:20:14,289
+[SPEAKER_01]: It's not a thing until it's...
+
+381
+00:20:14,329 --> 00:20:15,010
+[SPEAKER_01]: Exact.
+
+382
+00:20:15,050 --> 00:20:15,530
+[SPEAKER_01]: Clarified.
+
+383
+00:20:15,610 --> 00:20:17,070
+[SPEAKER_01]: Until I can put my finger on it.
+
+384
+00:20:17,130 --> 00:20:17,490
+[SPEAKER_01]: Well, no.
+
+385
+00:20:17,510 --> 00:20:22,491
+[SPEAKER_01]: See, the direction of putting a finger on it, even if there's nothing to put a finger on it, it's real as such.
+
+386
+00:20:22,511 --> 00:20:23,551
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+387
+00:20:23,971 --> 00:20:28,052
+[SPEAKER_01]: So you realize, oh, so you can put a finger on the direction where you will be putting a finger on.
+
+388
+00:20:28,212 --> 00:20:28,472
+[SPEAKER_00]: Yeah.
+
+389
+00:20:28,712 --> 00:20:32,394
+[SPEAKER_01]: But you're unaware of it, because you only want to put your finger on something, only that's real.
+
+390
+00:20:32,494 --> 00:20:37,797
+[SPEAKER_00]: If you... basically, your attempts to clarify something need that something to be there, first of all.
+
+391
+00:20:37,917 --> 00:20:38,678
+[SPEAKER_01]: Yeah, yeah, exactly.
+
+392
+00:20:38,718 --> 00:20:40,018
+[SPEAKER_00]: So, that's, I mean, the sense of self.
+
+393
+00:20:40,259 --> 00:20:40,399
+[SPEAKER_00]: Yeah.
+
+394
+00:20:40,419 --> 00:20:43,260
+[SPEAKER_01]: You can't make it more specific than that.
+
+395
+00:20:43,400 --> 00:20:43,600
+[SPEAKER_01]: Yeah.
+
+396
+00:20:44,361 --> 00:20:46,282
+[SPEAKER_01]: But then, you also must stop denying.
+
+397
+00:20:47,450 --> 00:20:49,092
+[SPEAKER_01]: Oh, there's no sense of self, everything is...
+
+398
+00:20:49,112 --> 00:20:51,633
+[SPEAKER_01]: The person who I love told me that that doesn't exist.
+
+399
+00:20:51,694 --> 00:20:52,134
+[SPEAKER_01]: Yeah, yeah.
+
+400
+00:20:52,154 --> 00:20:52,854
+[SPEAKER_01]: See, he didn't say that.
+
+401
+00:20:53,235 --> 00:20:56,377
+[SPEAKER_01]: So, and that's, I think, the main word for Patujana is that.
+
+402
+00:20:56,697 --> 00:20:57,058
+[SPEAKER_00]: Yeah.
+
+403
+00:20:57,158 --> 00:21:05,524
+[SPEAKER_01]: Learning how to discern the ambiguity of the sense of self without overly defining it and without ignoring it.
+
+404
+00:21:05,544 --> 00:21:06,085
+[SPEAKER_01]: Yeah, yeah.
+
+405
+00:21:07,025 --> 00:21:09,848
+[SPEAKER_01]: So, learning to see the phenomenon of self.
+
+406
+00:21:09,868 --> 00:21:10,128
+[SPEAKER_01]: Yeah, yeah.
+
+407
+00:21:12,564 --> 00:21:12,764
+[SPEAKER_00]: Yeah.
+
+408
+00:21:13,224 --> 00:21:17,126
+[SPEAKER_00]: And then... so that's the most... that's the... probably the most difficult.
+
+409
+00:21:17,186 --> 00:21:18,707
+[SPEAKER_00]: I think that's most difficult.
+
+410
+00:21:18,727 --> 00:21:21,168
+[SPEAKER_00]: If you get the sense of self, you... yeah.
+
+411
+00:21:21,188 --> 00:21:22,588
+[SPEAKER_00]: Changing the order thing is sort of...
+
+412
+00:21:22,608 --> 00:21:23,269
+[SPEAKER_00]: It's implied.
+
+413
+00:21:23,289 --> 00:21:23,829
+[SPEAKER_00]: Yeah, yeah.
+
+414
+00:21:24,029 --> 00:21:30,932
+[SPEAKER_01]: Because now you know that there is this phenomenon enduring, regardless of what you think about it, regardless whether you act, whether you deny it, there's a sense of I am.
+
+415
+00:21:31,512 --> 00:21:35,134
+[SPEAKER_01]: So, within the sense of I am, you discern the sense of everything else that belongs to that I am.
+
+416
+00:21:35,855 --> 00:21:39,317
+[SPEAKER_01]: And then, you see that everything else that belongs to I am, is the reason that sense of I am is there.
+
+417
+00:21:39,717 --> 00:21:40,858
+[SPEAKER_01]: It's not other way around.
+
+418
+00:21:41,258 --> 00:21:44,039
+[SPEAKER_01]: But by that time, you have grasped the sign of your mind thoroughly.
+
+419
+00:21:44,759 --> 00:21:45,460
+[SPEAKER_01]: And then, you could.
+
+420
+00:21:46,040 --> 00:21:49,422
+[SPEAKER_01]: So, it's not like fixing the order like one and two.
+
+421
+00:21:49,582 --> 00:21:51,223
+[SPEAKER_01]: It's more like... how to put it?
+
+422
+00:21:55,705 --> 00:21:56,846
+[SPEAKER_01]: Like a long-sleeved shirt.
+
+423
+00:21:57,626 --> 00:21:59,227
+[SPEAKER_00]: It's inside out.
+
+424
+00:22:01,648 --> 00:22:03,509
+[SPEAKER_01]: So, it's really turning it back.
+
+425
+00:22:04,103 --> 00:22:05,343
+[SPEAKER_01]: The right way.
+
+426
+00:22:06,784 --> 00:22:09,964
+[SPEAKER_01]: So, you have to go literally through the sleeve and pull it out.
+
+427
+00:22:10,464 --> 00:22:10,804
+[SPEAKER_00]: Okay.
+
+428
+00:22:11,525 --> 00:22:12,885
+[SPEAKER_00]: You have to go through the sense of self.
+
+429
+00:22:13,325 --> 00:22:13,545
+[SPEAKER_01]: Yeah.
+
+430
+00:22:13,605 --> 00:22:16,886
+[SPEAKER_01]: You have to go through the sense of self to then pull out that right order.
+
+431
+00:22:17,026 --> 00:22:18,286
+[SPEAKER_01]: And... but sense of self is still there.
+
+432
+00:22:18,786 --> 00:22:23,547
+[SPEAKER_01]: But now, that which was belonging to the sense of self, it's actually the reason for the sense of self.
+
+433
+00:22:23,867 --> 00:22:26,208
+[SPEAKER_01]: And the reason why it's not one and two is because you are it.
+
+434
+00:22:26,228 --> 00:22:29,608
+[SPEAKER_01]: So, you can't step outside and see the sense of self relating to this and that.
+
+435
+00:22:29,728 --> 00:22:32,369
+[SPEAKER_01]: Then, your point of view is where the sense of self is.
+
+436
+00:22:34,020 --> 00:22:40,902
+[SPEAKER_01]: So, first, you need to allow that phenomenal sense of self to endure, and then see through it.
+
+437
+00:22:41,223 --> 00:22:45,344
+[SPEAKER_01]: And by doing so, eventually, that sense of self that still endures is now seen a second.
+
+438
+00:22:46,805 --> 00:22:49,425
+[SPEAKER_01]: It's not an act of will, an act of fixing it up.
+
+439
+00:22:49,486 --> 00:22:56,228
+[SPEAKER_00]: Or even, even, I mean, that's a nice example, but you can't, you can't imagine you going in and pulling the thing.
+
+440
+00:22:56,935 --> 00:23:00,718
+[SPEAKER_01]: Well, you imagine yourself being in the sleeve, I suppose.
+
+441
+00:23:00,738 --> 00:23:05,581
+[SPEAKER_01]: So, the inside of the sleeve should be outside, but you're inside, so it's like, I have to make it outside.
+
+442
+00:23:05,841 --> 00:23:10,545
+[SPEAKER_01]: Anyway, if you succeed to pull it out, then you realize that now the order is right.
+
+443
+00:23:11,045 --> 00:23:16,108
+[SPEAKER_01]: And you will know the order is right, because you will be untouchable by the suffering.
+
+444
+00:23:16,869 --> 00:23:21,212
+[SPEAKER_01]: So, you're not hiding from the suffering, you're not denying it, you're not afraid of it.
+
+445
+00:23:21,812 --> 00:23:22,653
+[SPEAKER_01]: And it cannot touch you.
+
+446
+00:23:23,821 --> 00:23:25,282
+[SPEAKER_00]: You've understood the essence of suffering.
+
+447
+00:23:25,302 --> 00:23:26,203
+[SPEAKER_00]: This is suffering.
+
+448
+00:23:26,843 --> 00:23:29,285
+[SPEAKER_01]: So, it's the most direct verification you can have.
+
+449
+00:23:41,254 --> 00:23:48,539
+[SPEAKER_00]: Yeah, he then goes on to say, Bhante, the dhamma was broken through to by me.
+
+450
+00:23:49,080 --> 00:23:50,361
+[SPEAKER_00]: You know, I broke through to the dhamma.
+
+451
+00:23:53,683 --> 00:24:00,348
+[SPEAKER_00]: So, the sense of the right order that he established, if you just cultivate it, protect it, maintain it,
+
+452
+00:24:15,222 --> 00:24:17,403
+[SPEAKER_00]: The complete dispassion will have to be the result of it.
+
+453
+00:24:17,683 --> 00:24:18,543
+[SPEAKER_00]: And, and you know that.
+
+454
+00:24:18,603 --> 00:24:21,764
+[SPEAKER_00]: So, he knows that if he just keeps doing this... Oh, yeah.
+
+455
+00:24:21,784 --> 00:24:22,704
+[SPEAKER_01]: There's no doubt about it.
+
+456
+00:24:22,724 --> 00:24:23,244
+[SPEAKER_01]: This is true.
+
+457
+00:24:23,264 --> 00:24:23,645
+[SPEAKER_01]: Exactly.
+
+458
+00:24:24,005 --> 00:24:25,625
+[SPEAKER_01]: Now, you see the end result of this.
+
+459
+00:24:25,705 --> 00:24:25,905
+[SPEAKER_01]: Yeah.
+
+460
+00:24:26,445 --> 00:24:29,306
+[SPEAKER_01]: And that's the... that's where Sotāpanna understands what an arahant is.
+
+461
+00:24:29,326 --> 00:24:30,007
+[SPEAKER_01]: Yeah, exactly.
+
+462
+00:24:30,027 --> 00:24:30,547
+[SPEAKER_01]: He sees it.
+
+463
+00:24:30,787 --> 00:24:32,027
+[SPEAKER_01]: Oh, that's the ending of this.
+
+464
+00:24:32,667 --> 00:24:32,847
+[SPEAKER_00]: Yeah.
+
+465
+00:24:33,528 --> 00:24:34,968
+[SPEAKER_01]: It cannot result in anything else.
+
+466
+00:24:35,308 --> 00:24:35,568
+[SPEAKER_00]: Yeah.
+
+467
+00:24:37,369 --> 00:24:40,890
+[SPEAKER_01]: So, that's why the developing satipaṭṭhāna, the right view,
+
+468
+00:24:42,212 --> 00:24:42,833
+[SPEAKER_01]: It's the one way.
+
+469
+00:24:43,153 --> 00:24:43,433
+[SPEAKER_01]: Always.
+
+470
+00:24:43,713 --> 00:24:44,674
+[SPEAKER_01]: It's just the direct way.
+
+471
+00:24:44,774 --> 00:24:46,556
+[SPEAKER_00]: Only one direction that can result in.
+
+472
+00:24:46,676 --> 00:24:46,876
+[SPEAKER_01]: Yeah.
+
+473
+00:25:00,528 --> 00:25:02,390
+[SPEAKER_01]: And what's the common translation of that passage?
+
+474
+00:25:03,210 --> 00:25:03,431
+[SPEAKER_01]: Which...
+
+475
+00:25:04,348 --> 00:25:05,049
+[SPEAKER_01]: What's the one you read?
+
+476
+00:25:05,669 --> 00:25:06,330
+[SPEAKER_01]: Just the last bit.
+
+477
+00:25:06,450 --> 00:25:20,102
+[SPEAKER_01]: About the inside... turning the... Something like... having gone to an empty dwelling...
+
+478
+00:25:20,222 --> 00:25:21,203
+[SPEAKER_00]: I mean, the key phrase.
+
+479
+00:25:21,263 --> 00:25:24,505
+[SPEAKER_00]: Yeah, so... pondering over, turning around, the upside down...
+
+480
+00:25:24,525 --> 00:25:30,010
+[SPEAKER_00]: So, it'd be something like... yeah, examining the...
+
+481
+00:25:31,705 --> 00:25:33,706
+[SPEAKER_00]: Surge and decline.
+
+482
+00:25:33,726 --> 00:25:34,006
+[SPEAKER_00]: Right.
+
+483
+00:25:34,026 --> 00:25:44,872
+[SPEAKER_01]: So, the commentary, the bits you read, is identifying that the wrong order, right order, Pali, with the arising of the other Pali.
+
+484
+00:25:45,032 --> 00:25:45,572
+[SPEAKER_00]: Exactly.
+
+485
+00:25:45,592 --> 00:25:46,633
+[SPEAKER_00]: That's right.
+
+486
+00:25:49,074 --> 00:25:52,056
+[SPEAKER_01]: Because they couldn't understand what does disorder mean.
+
+487
+00:25:52,196 --> 00:25:52,796
+[SPEAKER_00]: What would it mean?
+
+488
+00:25:52,936 --> 00:25:54,797
+[SPEAKER_00]: It must mean up and down.
+
+489
+00:25:55,037 --> 00:25:55,898
+[SPEAKER_00]: Yeah.
+
+490
+00:25:56,078 --> 00:25:56,338
+[SPEAKER_00]: Yeah.
+
+491
+00:26:02,828 --> 00:26:04,870
+[SPEAKER_01]: Yeah, so that's that's already a red flag.
+
+492
+00:26:04,890 --> 00:26:13,020
+[SPEAKER_01]: You know, another thing, one thing is to, you know, ponder of what it means or try to understand the context of something that's being said.
+
+493
+00:26:14,061 --> 00:26:14,982
+[SPEAKER_01]: But another thing is, like,
+
+494
+00:26:16,547 --> 00:26:24,831
+[SPEAKER_01]: Pali says one thing, you can't make sense out of it, so then you just assume that, oh, it's the same like that other time, when a different Pali said something different.
+
+495
+00:26:24,891 --> 00:26:25,431
+[SPEAKER_01]: Yeah, yeah.
+
+496
+00:26:26,031 --> 00:26:27,432
+[SPEAKER_01]: That's a bit of a leap.
+
+497
+00:26:27,512 --> 00:26:30,353
+[SPEAKER_00]: Yeah, it might be, but you've got to be careful.
+
+498
+00:26:30,694 --> 00:26:34,435
+[SPEAKER_01]: Yeah, the reason is, like, well, you might, like, even if... Maybe I just don't understand what's being said.
+
+499
+00:26:34,455 --> 00:26:34,815
+[SPEAKER_00]: Exactly.
+
+500
+00:26:34,936 --> 00:26:35,576
+[SPEAKER_00]: Yeah, yeah.
+
+501
+00:26:35,676 --> 00:26:37,777
+[SPEAKER_01]: So, even if you get it right, it will be for the wrong reasons.
+
+502
+00:26:37,817 --> 00:26:38,337
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+503
+00:26:39,117 --> 00:26:40,038
+[SPEAKER_01]: You haven't understood it.
+
+504
+00:26:40,078 --> 00:26:40,298
+[SPEAKER_01]: Yeah.
+
+505
+00:26:43,800 --> 00:26:44,500
+[SPEAKER_01]: And you'll know you're...
+
+506
+00:26:46,382 --> 00:26:53,908
+[SPEAKER_01]: Well, at least closer to the clear understanding of it, is when you develop a context, they would include both.
+
+507
+00:26:54,388 --> 00:26:54,628
+[SPEAKER_00]: Yeah.
+
+508
+00:26:54,788 --> 00:26:55,809
+[SPEAKER_01]: They would not need changing.
+
+509
+00:26:55,949 --> 00:26:56,570
+[SPEAKER_00]: Yeah, exactly.
+
+510
+00:26:56,770 --> 00:27:00,833
+[SPEAKER_01]: Like what we explain now, it can be explained like the way we explained it before.
+
+511
+00:27:00,933 --> 00:27:01,894
+[SPEAKER_01]: Yeah.
+
+512
+00:27:02,174 --> 00:27:08,859
+[SPEAKER_01]: Arising is as intensifying and increasing and decreasing of the same thing that endures.
+
+513
+00:27:08,939 --> 00:27:09,079
+[SPEAKER_01]: Yeah.
+
+514
+00:27:09,560 --> 00:27:10,821
+[SPEAKER_01]: And that's how you discern the order.
+
+515
+00:27:12,238 --> 00:27:18,561
+[SPEAKER_01]: So, we explain two different passages, two different pāli, two different descriptions, with the same context.
+
+516
+00:27:19,041 --> 00:27:19,302
+[SPEAKER_00]: Yeah.
+
+517
+00:27:21,623 --> 00:27:22,243
+[SPEAKER_00]: So, could you say...
+
+518
+00:27:22,263 --> 00:27:24,344
+[SPEAKER_01]: Without... and there are no loose ends there, nothing to tie off.
+
+519
+00:27:24,364 --> 00:27:26,245
+[SPEAKER_00]: So, it's like... it's like the word saṅkhara.
+
+520
+00:27:28,146 --> 00:27:30,667
+[SPEAKER_00]: So, that seems to be...
+
+521
+00:27:31,648 --> 00:27:37,991
+[SPEAKER_00]: I think this... the common view seems that there's different... different usages of the word saṅkhara.
+
+522
+00:27:38,011 --> 00:27:39,332
+[SPEAKER_00]: So, it can... it can mean...
+
+523
+00:27:40,772 --> 00:27:43,994
+[SPEAKER_00]: Conditions for other things, or it can mean things that are compounded.
+
+524
+00:27:44,114 --> 00:27:44,414
+[SPEAKER_00]: Yeah.
+
+525
+00:27:44,534 --> 00:27:48,116
+[SPEAKER_00]: Or it can mean... it's just like... they're all different, completely different.
+
+526
+00:27:48,136 --> 00:27:48,676
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+527
+00:27:48,856 --> 00:27:49,777
+[SPEAKER_01]: No, you can't mean that.
+
+528
+00:27:49,877 --> 00:27:50,157
+[SPEAKER_01]: No.
+
+529
+00:27:50,217 --> 00:27:51,818
+[SPEAKER_00]: Then, really, surely that means you don't...
+
+530
+00:27:51,858 --> 00:27:52,698
+[SPEAKER_00]: It would be a different word.
+
+531
+00:27:52,818 --> 00:27:53,139
+[SPEAKER_00]: Exactly.
+
+532
+00:27:53,159 --> 00:28:06,225
+[SPEAKER_01]: If you've got all these completely different ideas... No, that's one of the reasons... but that's one of the things people don't necessarily realize or appreciate, for that matter, is the... like, the Buddha Gautama was the foremost
+
+533
+00:28:07,685 --> 00:28:11,087
+[SPEAKER_01]: That means the most accurate.
+
+534
+00:28:11,247 --> 00:28:11,608
+[SPEAKER_01]: Exactly.
+
+535
+00:28:11,828 --> 00:28:16,930
+[SPEAKER_01]: That doesn't mean the foremost, the most poetic, inspirational speaker, the orator.
+
+536
+00:28:17,731 --> 00:28:17,851
+[SPEAKER_01]: No.
+
+537
+00:28:17,871 --> 00:28:23,774
+[SPEAKER_01]: It means the most accurate in describing and expounding and teaching the dhamma.
+
+538
+00:28:23,794 --> 00:28:28,237
+[SPEAKER_01]: So if he did not choose a different term, it means it's not a different thing.
+
+539
+00:28:28,337 --> 00:28:28,977
+[SPEAKER_00]: Yeah, exactly.
+
+540
+00:28:29,577 --> 00:28:33,499
+[SPEAKER_01]: Sometimes, oh, well, you know, it wasn't clear and he used this word like this and then... Yeah.
+
+541
+00:28:35,418 --> 00:28:40,760
+[SPEAKER_01]: Most people would probably do that, except Buddha Gautama, who was the foremost expounding the dhamma.
+
+542
+00:28:40,780 --> 00:28:41,320
+[SPEAKER_01]: Yeah, exactly.
+
+543
+00:28:41,560 --> 00:28:49,783
+[SPEAKER_01]: So, if he was using the word for saṅkhara, in all these different contexts, means you now you need to understand the context, they will include all of it.
+
+544
+00:28:49,823 --> 00:28:50,703
+[SPEAKER_00]: Why would he use the same word?
+
+545
+00:28:50,723 --> 00:28:56,185
+[SPEAKER_01]: Not try to tailor the word to mean different things in different contexts.
+
+546
+00:28:56,205 --> 00:28:56,365
+[SPEAKER_01]: Exactly.
+
+547
+00:28:56,526 --> 00:28:58,126
+[SPEAKER_01]: That's just tying off the loose ends.
+
+548
+00:28:58,186 --> 00:28:58,366
+[SPEAKER_01]: Yeah.
+
+549
+00:28:59,667 --> 00:29:01,427
+[SPEAKER_01]: Why would he use... Patching it.
+
+550
+00:29:01,447 --> 00:29:01,867
+[SPEAKER_01]: Patching it.
+
+551
+00:29:01,887 --> 00:29:02,428
+[SPEAKER_01]: Patchwork.
+
+552
+00:29:02,448 --> 00:29:03,288
+[SPEAKER_01]: Yeah, exactly.
+
+553
+00:29:05,483 --> 00:29:06,984
+[SPEAKER_00]: This dhamma is free from patchwork.
+
+554
+00:29:09,427 --> 00:29:10,368
+[SPEAKER_01]: And that's what saṅkhara is.
+
+555
+00:29:11,128 --> 00:29:13,250
+[SPEAKER_01]: The most fundamental principle of vipassana.
+
+556
+00:29:13,270 --> 00:29:14,471
+[SPEAKER_01]: Two simultaneous things.
+
+557
+00:29:14,672 --> 00:29:15,793
+[SPEAKER_01]: That's what saṅkhara is.
+
+558
+00:29:16,473 --> 00:29:23,620
+[SPEAKER_01]: If you understand that, every single context, every single instance, exemplification of that saṅkhara will fall into that principle.
+
+559
+00:29:24,461 --> 00:29:26,823
+[SPEAKER_01]: And there is no need for patchwork, because it's all included.
+
+560
+00:29:32,668 --> 00:29:38,312
+[SPEAKER_01]: And that should be the criteria, again, even for a Buddhist who starts to get the notion of the Buddha's teaching.
+
+561
+00:29:38,853 --> 00:29:41,375
+[SPEAKER_01]: You must find a context that will not contradict itself.
+
+562
+00:29:42,235 --> 00:29:45,958
+[SPEAKER_01]: They will not need changing of the meaning of the term.
+
+563
+00:29:45,978 --> 00:29:51,202
+[SPEAKER_01]: Like you understood the context of saṅkhara, oh, but now you came across a different meaning of saṅkhara and your context falls apart.
+
+564
+00:29:51,643 --> 00:29:52,844
+[SPEAKER_01]: That's not the context then.
+
+565
+00:29:53,864 --> 00:29:58,288
+[SPEAKER_01]: But instead of now refusing to let go of that context that you got, some sense of it,
+
+566
+00:29:59,388 --> 00:30:03,772
+[SPEAKER_01]: And then, trying to know this is probably what it means, and that meant that, and this meant that...
+
+567
+00:30:04,052 --> 00:30:14,260
+[SPEAKER_01]: So, just that you can allow yourself to have a contradictory context, based on saṅkhara, that doesn't always mean that which you thought it means, you should really abandon your context and keep doing the work.
+
+568
+00:30:14,420 --> 00:30:16,102
+[SPEAKER_01]: So, it's more unpleasant...
+
+569
+00:30:16,542 --> 00:30:18,743
+[SPEAKER_01]: Yeah, but it's it's exactly what a practice is.
+
+570
+00:30:18,763 --> 00:30:22,484
+[SPEAKER_00]: Yeah, I have to admit, I actually don't know what the what context is being described here.
+
+571
+00:30:22,524 --> 00:30:22,924
+[SPEAKER_01]: Exactly.
+
+572
+00:30:22,984 --> 00:30:25,505
+[SPEAKER_01]: So, the context, I hope, was limited, which means it's not the context.
+
+573
+00:30:25,525 --> 00:30:25,986
+[SPEAKER_01]: It's not the context.
+
+574
+00:30:26,066 --> 00:30:26,226
+[SPEAKER_01]: Exactly.
+
+575
+00:30:26,246 --> 00:30:27,886
+[SPEAKER_00]: I haven't actually got what the meaning is.
+
+576
+00:30:28,046 --> 00:30:33,208
+[SPEAKER_01]: Yeah, the probably the best probably the best example of that was the, uh, nibbāna.
+
+577
+00:30:34,969 --> 00:30:41,251
+[SPEAKER_01]: Uh, there's that, uh, in Madhyamanikaya, I think in the 30s, 36 or...
+
+578
+00:30:41,851 --> 00:30:45,833
+[SPEAKER_01]: I can't remember exactly which one it is, but there's that bit where the Buddha describes
+
+579
+00:30:46,728 --> 00:30:55,631
+[SPEAKER_01]: Somebody, with a sense of I am, attaining the nibbāna, and he says, oh, this is nibbāna, I am in nibbāna, this nibbāna is mine.
+
+580
+00:30:57,952 --> 00:31:09,356
+[SPEAKER_01]: And then people are like, oh, well, how can you, you know, because for most people nibbāna is this notion of, you know, like a mystical experience of you're unaware of yourself, you just surrender to the universe, that kind of thing.
+
+581
+00:31:09,936 --> 00:31:14,178
+[SPEAKER_00]: So, how can you, with your self-awareness, with your sense of I am, experience nibbāna?
+
+582
+00:31:15,753 --> 00:31:21,674
+[SPEAKER_01]: And, eh... we had this discussion, like, with random monks and lay people, few... many years ago.
+
+583
+00:31:22,855 --> 00:31:33,717
+[SPEAKER_01]: And, eh... so this... this passage was brought up, and, eh... and then people were like, well, how... you know, how'd you... And then some other people saying, well, no, it's... probably it's not the real nibbāna.
+
+584
+00:31:35,037 --> 00:31:38,838
+[SPEAKER_01]: And then they said, look, remember that sutta where... where the Buddha asked that man,
+
+585
+00:31:39,673 --> 00:31:40,714
+[SPEAKER_01]: What is nibbāna for you?"
+
+586
+00:31:40,754 --> 00:31:42,975
+[SPEAKER_01]: And he said, this, this body is nibbāna.
+
+587
+00:31:43,136 --> 00:31:44,396
+[SPEAKER_00]: It starts hitting his limbs.
+
+588
+00:31:44,897 --> 00:31:46,638
+[SPEAKER_01]: This health is my nibbāna.
+
+589
+00:31:46,658 --> 00:31:48,720
+[SPEAKER_01]: And we said, that's ridiculous.
+
+590
+00:31:48,740 --> 00:31:50,081
+[SPEAKER_01]: And then pointed out why that's wrong.
+
+591
+00:31:50,241 --> 00:31:50,421
+[SPEAKER_00]: Yeah.
+
+592
+00:31:50,881 --> 00:31:54,224
+[SPEAKER_01]: So then this was, oh no, this probably means, refers to that wrong nibbāna.
+
+593
+00:31:54,384 --> 00:31:56,565
+[SPEAKER_01]: I was like, but no, this was, the Buddha was saying that.
+
+594
+00:31:56,605 --> 00:31:58,487
+[SPEAKER_01]: It wasn't a random man had the wrong view.
+
+595
+00:31:59,687 --> 00:32:03,550
+[SPEAKER_01]: And I was like, yeah, no, that's probably because there's the real nibbāna, you know, the mystical experience of nibbāna.
+
+596
+00:32:03,850 --> 00:32:04,231
+[SPEAKER_01]: And then this
+
+597
+00:32:07,193 --> 00:32:15,962
+[SPEAKER_01]: And I was quite surprised they were saying that, because in the same sutta, the Buddha continues, and says, this man is describing nibbāna.
+
+598
+00:32:16,883 --> 00:32:22,208
+[SPEAKER_01]: The man who says, I am nibbāna, nibbāna is mine, he factually asserts that which nibbāna is.
+
+599
+00:32:23,609 --> 00:32:25,691
+[SPEAKER_01]: So, I read that out loud, and it was just silence.
+
+600
+00:32:26,412 --> 00:32:28,454
+[SPEAKER_00]: Just... No.
+
+601
+00:32:29,395 --> 00:32:31,177
+[SPEAKER_01]: So, and that's the perfect example
+
+602
+00:32:32,096 --> 00:32:34,757
+[SPEAKER_01]: of that completely limited, wrong context.
+
+603
+00:32:34,777 --> 00:32:34,997
+[SPEAKER_01]: Yeah.
+
+604
+00:32:35,157 --> 00:32:40,119
+[SPEAKER_01]: You have an idea of what nibbāna is, and here you are in the same... from the same person, the Buddha himself.
+
+605
+00:32:40,739 --> 00:32:46,742
+[SPEAKER_01]: He said, no, that man also describes nibbāna, and that doesn't fit with your... nibbāna is indescribable.
+
+606
+00:32:46,782 --> 00:32:46,962
+[SPEAKER_00]: Yeah.
+
+607
+00:32:48,002 --> 00:32:55,245
+[SPEAKER_01]: But the Buddha said, this man, with the wrong view, describes that which nibbāna is, but he doesn't attain it, because he still prioritizes his sense of self.
+
+608
+00:32:57,321 --> 00:32:58,622
+[SPEAKER_01]: And you couldn't make sense out of it.
+
+609
+00:32:58,762 --> 00:32:59,682
+[SPEAKER_01]: So, you have two options.
+
+610
+00:33:00,143 --> 00:33:02,484
+[SPEAKER_01]: Either you ignore that you just contradicted the Buddha.
+
+611
+00:33:03,344 --> 00:33:03,545
+[SPEAKER_01]: Yeah.
+
+612
+00:33:04,525 --> 00:33:06,406
+[SPEAKER_01]: Or you realize that you must... And hold on to your own view.
+
+613
+00:33:06,506 --> 00:33:06,926
+[SPEAKER_01]: Exactly.
+
+614
+00:33:07,087 --> 00:33:08,587
+[SPEAKER_01]: Automatically, that's what it's implied.
+
+615
+00:33:08,707 --> 00:33:11,449
+[SPEAKER_01]: Which is why you would choose to contradict or pretend you didn't hear it.
+
+616
+00:33:11,669 --> 00:33:11,809
+[SPEAKER_00]: Yeah.
+
+617
+00:33:12,570 --> 00:33:12,990
+[SPEAKER_01]: It was like a...
+
+618
+00:33:13,850 --> 00:33:17,092
+[SPEAKER_01]: When I read it out loud, it was just like a... You could hear, you know, the tumbleweed.
+
+619
+00:33:17,292 --> 00:33:18,013
+[SPEAKER_01]: The silence.
+
+620
+00:33:19,869 --> 00:33:24,252
+[SPEAKER_01]: And then, anyway, in discussion, just like... like it never happened.
+
+621
+00:33:24,733 --> 00:33:25,834
+[SPEAKER_01]: Like it never happened.
+
+622
+00:33:26,714 --> 00:33:29,857
+[SPEAKER_01]: Or, alternatively, you realize, oh, no, that I cannot tolerate that.
+
+623
+00:33:30,017 --> 00:33:31,978
+[SPEAKER_01]: I should not tolerate that contradiction.
+
+624
+00:33:33,560 --> 00:33:40,625
+[SPEAKER_01]: So, I must now undo the context of what I thought nibbāna and my goal and my 20 years of practice were leading to, and upgrade it.
+
+625
+00:33:41,706 --> 00:33:46,610
+[SPEAKER_01]: That we'll be able to include this, which means I need to clarify even what I thought I understood, which I haven't.
+
+626
+00:33:47,693 --> 00:33:50,634
+[SPEAKER_01]: Not protect it blindly against anything that might challenge it.
+
+627
+00:33:50,714 --> 00:33:55,577
+[SPEAKER_01]: And it goes the same, by the way, in Mūlaparāyāsutta.
+
+628
+00:33:55,777 --> 00:33:56,217
+[SPEAKER_00]: Yeah.
+
+629
+00:33:56,237 --> 00:33:57,358
+[SPEAKER_00]: Conceive the nibbāna.
+
+630
+00:33:57,438 --> 00:33:58,398
+[SPEAKER_01]: Conceives in nibbāna.
+
+631
+00:33:58,438 --> 00:33:58,978
+[SPEAKER_00]: Takes nibbāna.
+
+632
+00:33:59,059 --> 00:34:00,759
+[SPEAKER_01]: Oh, there must be... No, it's a real nibbāna.
+
+633
+00:34:01,280 --> 00:34:02,460
+[SPEAKER_01]: It's a real nibbāna, exactly.
+
+634
+00:34:03,721 --> 00:34:10,824
+[SPEAKER_01]: So, by all means, conceive nibbāna as yours, means you've done much more work than if you just conceive centrality as yours.
+
+635
+00:34:11,525 --> 00:34:13,806
+[SPEAKER_01]: But fundamentally, yes, conceiving is still there.
+
+636
+00:34:14,486 --> 00:34:16,107
+[SPEAKER_01]: Which means the wrong order is still there.
+
+637
+00:34:16,765 --> 00:34:20,188
+[SPEAKER_01]: Which means what this man understood, the right order, hasn't been understood.
+
+638
+00:34:20,628 --> 00:34:24,511
+[SPEAKER_01]: And that's like the example of how can somebody become enlightened almost in an instant.
+
+639
+00:34:24,571 --> 00:34:33,959
+[SPEAKER_01]: It's because they've done all the work of replacing any inferior conceiving with the conceiving of nibbāna, conceiving of dispassion, disenchantment, letting go.
+
+640
+00:34:35,360 --> 00:34:43,067
+[SPEAKER_01]: And imagine, you've done all that work already, and all you need to do now is see that as first, and your sense of self as second.
+
+641
+00:34:43,147 --> 00:34:43,507
+[SPEAKER_01]: That's it.
+
+642
+00:34:43,587 --> 00:34:44,448
+[SPEAKER_01]: That's all that's left.
+
+643
+00:34:45,534 --> 00:34:47,976
+[SPEAKER_01]: And then you realize, oh no, that's why they became arahants.
+
+644
+00:34:48,196 --> 00:34:51,398
+[SPEAKER_01]: Just the Buddha said one sentence, minds were enlightened.
+
+645
+00:34:51,638 --> 00:34:56,621
+[SPEAKER_01]: Because they've done all the work of fixing the right order and now just understanding it as such.
+
+646
+00:34:57,642 --> 00:34:59,643
+[SPEAKER_01]: And again, as we mentioned before, the bhagya sutta.
+
+647
+00:35:00,604 --> 00:35:04,947
+[SPEAKER_01]: People think he was just lucky that the Buddha told him that in the scene there'll just be the scene.
+
+648
+00:35:05,947 --> 00:35:12,912
+[SPEAKER_01]: And they ignore the fact that he was a quite austere, bark-wearing ascetic for who knows how long, decades maybe.
+
+649
+00:35:14,200 --> 00:35:20,123
+[SPEAKER_00]: Of extreme renunciation and commitment, and he genuinely thought he was enlightened, because there's absolutely pure, perfect dispassion.
+
+650
+00:35:20,203 --> 00:35:22,504
+[SPEAKER_01]: Nothing, nothing can affect him.
+
+651
+00:35:25,725 --> 00:35:27,906
+[SPEAKER_01]: And when he heard the Buddha, he thought, oh, okay, that was the missing bit.
+
+652
+00:35:28,426 --> 00:35:28,787
+[SPEAKER_01]: That's it.
+
+653
+00:35:29,747 --> 00:35:32,008
+[SPEAKER_01]: All he, all he needed was utterance of another.
+
+654
+00:35:32,328 --> 00:35:34,569
+[SPEAKER_01]: He already developed yoniso, manasikāra thoroughly.
+
+655
+00:35:35,970 --> 00:35:36,150
+[SPEAKER_01]: Yeah.
+
+656
+00:35:37,610 --> 00:35:38,991
+[SPEAKER_01]: The two factors for the right view.
+
+657
+00:35:39,591 --> 00:35:42,933
+[SPEAKER_01]: So, he hadn't... he hadn't thought to change the order.
+
+658
+00:35:43,734 --> 00:35:46,856
+[SPEAKER_01]: And you cannot think that without external instruction.
+
+659
+00:35:47,256 --> 00:35:49,337
+[SPEAKER_01]: If you do, you will be samasambuddha.
+
+660
+00:35:49,417 --> 00:35:54,160
+[SPEAKER_00]: But he had done the work in discerning the phenomena.
+
+661
+00:35:54,520 --> 00:35:55,080
+[SPEAKER_00]: Absolutely.
+
+662
+00:35:55,180 --> 00:35:56,521
+[SPEAKER_01]: Absolutely.
+
+663
+00:35:56,541 --> 00:36:02,965
+[SPEAKER_01]: The mind, the sun, the nature, passion, the value of this passion, the restraint, all of that.
+
+664
+00:36:03,065 --> 00:36:04,386
+[SPEAKER_01]: All of that he has fully understood.
+
+665
+00:36:07,074 --> 00:36:10,857
+[SPEAKER_01]: And that's what we meant by some beings would have little dust in their eyes.
+
+666
+00:36:11,177 --> 00:36:19,963
+[SPEAKER_01]: It means the pollutions have been either undone or haven't been developed or the effort has been made and, you know, they've been abandoned.
+
+667
+00:36:20,404 --> 00:36:31,232
+[SPEAKER_01]: Like his previous teachers that he wanted to go and teach, not out of gratitude or some devotional respect, but simply because it's the least work for him.
+
+668
+00:36:32,252 --> 00:36:33,573
+[SPEAKER_01]: You say, oh, who should I teach first?
+
+669
+00:36:33,633 --> 00:36:36,095
+[SPEAKER_01]: Well, there are those beings that need very little teaching.
+
+670
+00:36:36,195 --> 00:36:37,216
+[SPEAKER_01]: Why don't I start with them?
+
+671
+00:36:53,469 --> 00:36:56,912
+[SPEAKER_00]: Yeah, so, yeah, the Buddha just ends that sutta.
+
+672
+00:36:56,932 --> 00:36:58,894
+[SPEAKER_00]: I mean, he then goes through and talks about
+
+673
+00:36:59,910 --> 00:37:03,195
+[SPEAKER_00]: The various factors of awakening have been obtained by him.
+
+674
+00:37:05,047 --> 00:37:07,688
+[SPEAKER_00]: That's why I think it's... what he's saying is, look, isn't it amazing?
+
+675
+00:37:07,708 --> 00:37:09,669
+[SPEAKER_00]: So, how much has been done by me?
+
+676
+00:37:09,809 --> 00:37:14,891
+[SPEAKER_00]: You know, it's... people might think that sounds conceited, but it's just fact.
+
+677
+00:37:14,911 --> 00:37:17,512
+[SPEAKER_01]: Well, to put it in, it sounds conceited, but it's just a factual statement.
+
+678
+00:37:17,532 --> 00:37:17,912
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+679
+00:37:17,992 --> 00:37:19,972
+[SPEAKER_00]: It's not... this is not based on conceit.
+
+680
+00:37:20,012 --> 00:37:21,253
+[SPEAKER_00]: It's talking about the lack of conceit.
+
+681
+00:37:21,273 --> 00:37:23,374
+[SPEAKER_01]: It's based on abandonment of the conceit.
+
+682
+00:37:23,434 --> 00:37:24,774
+[SPEAKER_00]: And that's... that's why it's so amazing.
+
+683
+00:37:25,634 --> 00:37:28,696
+[SPEAKER_00]: And it's... and so the sutta just ends with the Buddha saying... You know, whenever
+
+684
+00:37:32,977 --> 00:37:36,799
+[SPEAKER_01]: Then, I can glide the sun and fly in the sky and things like that.
+
+685
+00:37:37,779 --> 00:37:39,180
+[SPEAKER_01]: Oh, that's extremely conceited, isn't it?
+
+686
+00:37:39,200 --> 00:37:40,261
+[SPEAKER_01]: Exactly.
+
+687
+00:37:40,781 --> 00:37:41,641
+[SPEAKER_00]: It's just factual.
+
+688
+00:37:41,701 --> 00:37:42,022
+[SPEAKER_00]: Yeah.
+
+689
+00:37:42,302 --> 00:37:43,562
+[SPEAKER_01]: No, I can and it is amazing.
+
+690
+00:37:44,623 --> 00:37:46,224
+[SPEAKER_01]: You're amazed by yourself.
+
+691
+00:37:46,264 --> 00:37:46,564
+[SPEAKER_01]: Oh, wow.
+
+692
+00:37:46,584 --> 00:37:47,444
+[SPEAKER_00]: Yeah, yeah, yeah, exactly.
+
+693
+00:37:47,544 --> 00:37:49,185
+[SPEAKER_01]: Because it's not based on your conceit.
+
+694
+00:37:49,245 --> 00:37:50,226
+[SPEAKER_01]: It's not based on I am.
+
+695
+00:37:53,227 --> 00:37:56,329
+[SPEAKER_00]: And then, and then the Buddha responds and says, good, good, Udayi.
+
+696
+00:37:56,429 --> 00:37:58,930
+[SPEAKER_00]: This path, Udayi, has indeed been obtained by you.
+
+697
+00:38:00,207 --> 00:38:11,118
+[SPEAKER_00]: Which, when developed by you, made much of, dwelling in this way, will bring you to the truth, so that you will understand birth is destroyed, whole life has been lived, what should be done has been done, there is no more of this.
+
+698
+00:38:14,802 --> 00:38:15,062
+[SPEAKER_00]: Yeah.
+

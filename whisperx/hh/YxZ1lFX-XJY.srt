@@ -1,0 +1,1152 @@
+1
+00:00:13,456 --> 00:00:24,944
+[SPEAKER_02]: Okay, so we thought of doing a short, or not so short, series on the Jñānavīra Terā's teachings, specifically on his Notes on Dhamma book.
+
+2
+00:00:26,445 --> 00:00:40,514
+[SPEAKER_02]: And Venerable Pāññārātana is behind the camera, so he's going to ask some questions that are usually what people ask us about Jñānavīra, starting from preface and then going through different notes of that book.
+
+3
+00:00:41,014 --> 00:00:41,615
+[SPEAKER_02]: So also,
+
+4
+00:00:42,673 --> 00:00:54,540
+[SPEAKER_02]: If the viewers have any questions about the Ayurvedic teachings regarding this particular series, they can ask in the comment section and then we can probably include it in some future videos.
+
+5
+00:00:55,241 --> 00:01:09,129
+[SPEAKER_02]: So, yeah, we're going to start with preface and then move onwards with other notes, especially the ones that usually people have problems grasping them or understanding, or there's some lack of clarity or something like that.
+
+6
+00:01:10,065 --> 00:01:15,987
+[SPEAKER_00]: So, I'll start us off with just reading a section from the first paragraph of the preface.
+
+7
+00:01:17,447 --> 00:01:20,088
+[SPEAKER_00]: He writes, eh...
+
+8
+00:01:21,769 --> 00:01:29,011
+[SPEAKER_00]: There is therefore nothing in these pages to interest the professional scholar for whom the question of personal existence does not arise.
+
+9
+00:01:29,826 --> 00:01:36,394
+[SPEAKER_00]: For the scholar's whole concern is to eliminate or ignore the individual point of view in an effort to establish an objective truth.
+
+10
+00:01:36,974 --> 00:01:40,198
+[SPEAKER_00]: It would be impersonal synthesis of public facts.
+
+11
+00:01:41,034 --> 00:01:56,421
+[SPEAKER_00]: The scholar is essentially a horizontal view of things, seeking connections in space and time, and his historical approach to the texts disqualify him from any possibility of understanding a dhamma that the Buddha himself has called akālika, or timeless.
+
+12
+00:01:57,321 --> 00:02:01,903
+[SPEAKER_00]: Only in a vertical view, straight down into the abyss of his personal existence,
+
+13
+00:02:02,423 --> 00:02:06,765
+[SPEAKER_00]: Is a man capable of apprehending the perilous insecurity of his situation?
+
+14
+00:02:07,566 --> 00:02:11,448
+[SPEAKER_00]: And only a man who does apprehend this is prepared to listen to the Buddha's teaching.
+
+15
+00:02:13,549 --> 00:02:20,953
+[SPEAKER_00]: So, it can be a bit confusing about the idea of having two different kinds of thinking.
+
+16
+00:02:20,993 --> 00:02:30,158
+[SPEAKER_00]: Like, what exactly it is that distinguishes a horizontal kind of thinking, as he's saying, versus a vertical kind of thinking.
+
+17
+00:02:30,218 --> 00:02:31,959
+[SPEAKER_00]: Could you elaborate more on that?
+
+18
+00:02:33,431 --> 00:02:43,018
+[SPEAKER_02]: Well, in brief, the main difference is, eh... the vertical thinking is the thinking done through, eh... through your existence.
+
+19
+00:02:43,738 --> 00:02:53,045
+[SPEAKER_02]: So, you do that... that thinking arises on the basis, literally on the basis of anxiety, existential dread, recognition of your human situation.
+
+20
+00:02:53,065 --> 00:02:57,408
+[SPEAKER_02]: That's what the Buddha would often refer in the suttas as a young man would, eh...
+
+21
+00:02:57,843 --> 00:03:07,952
+[SPEAKER_02]: He would get disillusioned with life and then he would, he would, he would ponder on human situation and he would recognize this human life is subject to suffering, you are prey to suffering.
+
+22
+00:03:08,953 --> 00:03:15,359
+[SPEAKER_02]: Means suffering is, is this invisible hunter that can pounce on you at any time and you can't do anything about it.
+
+23
+00:03:16,400 --> 00:03:24,367
+[SPEAKER_02]: So, the main, eh... that's, that's, that's the prerequisite, that attitude is a prerequisite towards the sort of existential understanding and then towards the right practice of dhamma.
+
+24
+00:03:25,187 --> 00:03:26,708
+[SPEAKER_02]: So, that's what Jñāniru is talking about.
+
+25
+00:03:27,068 --> 00:03:38,091
+[SPEAKER_02]: When you're not trying to overcome any particular issue that you might have in your life, but really understanding the nature of a human deal and not being satisfied with it.
+
+26
+00:03:39,492 --> 00:03:50,856
+[SPEAKER_02]: So, that's why you cannot approach practice correctly as a scholar or somebody who's just merely collecting information about the dhamma.
+
+27
+00:03:51,216 --> 00:03:54,817
+[SPEAKER_02]: But you really need to make it not optional.
+
+28
+00:03:56,196 --> 00:04:02,837
+[SPEAKER_02]: So, that's what he meant.
+
+29
+00:04:02,957 --> 00:04:25,462
+[SPEAKER_02]: Because often people who approach the suttas, approach the study mostly for the scholarly value, as in collecting the data, collecting information, drawing the parallels in time and space, and sort of rationalizing it, but not really approaching it on the basis of that personal
+
+30
+00:04:26,190 --> 00:04:35,097
+[SPEAKER_02]: So, what is it about this vertical view that also makes it the timeless view, as opposed to the horizontal one that's looking at connections in space-time?
+
+31
+00:04:35,117 --> 00:04:39,300
+[SPEAKER_02]: Well, it's, as the Buddha said, that the suffering
+
+32
+00:04:55,150 --> 00:05:25,003
+[SPEAKER_02]: As a presently arisen cause of craving, which means that the freedom from suffering, freedom from possibility to suffer, which is a suffering in itself, is to be found in the present moment, but not in that kind of contemporary mystified notion of just being the present, but in understanding that pertains to the present moment as in understanding the cause of that suffering that's here presently, simultaneously arisen with that suffering.
+
+33
+00:05:26,573 --> 00:05:41,817
+[SPEAKER_02]: So, that is... that's what Jnana-Viratera described as a vertical, vertical view into your own being, as opposed to that horizontal view of you assuming or rationalizing before and after and in between and left or right.
+
+34
+00:05:41,877 --> 00:05:42,057
+[SPEAKER_02]: No.
+
+35
+00:05:42,117 --> 00:05:47,278
+[SPEAKER_02]: Seeing present there isn't suffering, simultaneously through that, you see present there isn't craving.
+
+36
+00:05:48,159 --> 00:05:53,240
+[SPEAKER_02]: And you know that with the absence of that craving, suffering cannot stand even for a second longer.
+
+37
+00:05:54,125 --> 00:05:59,814
+[SPEAKER_02]: And that's why to be known individually, as in vertically, personally, by the wise.
+
+38
+00:06:00,335 --> 00:06:02,158
+[SPEAKER_02]: Dhamma, that's timeless in that sense.
+
+39
+00:06:02,218 --> 00:06:04,001
+[SPEAKER_02]: It does not involve a passage of time.
+
+40
+00:06:04,121 --> 00:06:05,764
+[SPEAKER_02]: That direct insight doesn't involve it.
+
+41
+00:06:07,825 --> 00:06:20,390
+[SPEAKER_00]: People in the modern day, like neuroscientists and psychologists and stuff, they also try and study suffering, study, maybe apply their fields to the Buddha's teaching.
+
+42
+00:06:20,970 --> 00:06:26,213
+[SPEAKER_00]: Are they using that vertical view or are they divorced from that in some way?
+
+43
+00:06:26,473 --> 00:06:36,397
+[SPEAKER_02]: Well, they're divorced from that long time ago, when they sort of gave the unquestioned validity to the scientific method.
+
+44
+00:06:38,082 --> 00:06:41,763
+[SPEAKER_02]: Because science in itself negates the observer.
+
+45
+00:06:42,563 --> 00:06:46,764
+[SPEAKER_02]: Well, certainly, that's the starting premise.
+
+46
+00:06:47,764 --> 00:06:58,205
+[SPEAKER_02]: Later on, they might try to factor in the observer, but only through that scientifically assumed external public world of matter, and then you try to re-include the observer.
+
+47
+00:06:58,245 --> 00:07:02,426
+[SPEAKER_02]: But you fail to see that the observer was the one who was first.
+
+48
+00:07:03,266 --> 00:07:07,327
+[SPEAKER_02]: He was the one who decided to look for these particular things and develop science out of it.
+
+49
+00:07:08,119 --> 00:07:16,741
+[SPEAKER_02]: Which means you can't use then that science to explain the tools of your perception, of your feeling, of your point of view, that as an observer, you're inseparable from.
+
+50
+00:07:17,961 --> 00:07:25,243
+[SPEAKER_02]: Yet, that whole... that whole domain, that whole sphere, disappears in science, and when it's included, it's included as a second best.
+
+51
+00:07:26,003 --> 00:07:35,025
+[SPEAKER_02]: So then, when a... when a modern science talks about Buddhism, as... as if, like, they're... they're proving the Buddhist teaching to be right, they've completely misunderstood it to begin with.
+
+52
+00:07:35,862 --> 00:07:42,646
+[SPEAKER_02]: Because if the scientists were truly understanding that the Buddha was right, they would have been at least... they would become at least a sotāpanna through their science.
+
+53
+00:07:43,587 --> 00:07:44,728
+[SPEAKER_02]: Probably arahants as well.
+
+54
+00:07:45,428 --> 00:07:45,929
+[SPEAKER_02]: But they're not.
+
+55
+00:07:46,569 --> 00:07:49,391
+[SPEAKER_02]: They're not free from sensuality, greed, aversion, delusion, wrong view.
+
+56
+00:07:49,851 --> 00:07:53,153
+[SPEAKER_02]: Which means, when they say this is what the Buddha meant, they don't know what the Buddha meant.
+
+57
+00:07:53,173 --> 00:07:58,277
+[SPEAKER_02]: Because only... Well, nobody short in a sotāpanna knows what the Buddha meant correctly.
+
+58
+00:07:58,877 --> 00:08:02,079
+[SPEAKER_02]: And that's one of the things that Venerable Nanayathara was always insistent upon.
+
+59
+00:08:02,811 --> 00:08:28,237
+[SPEAKER_02]: Which is a good thing to insist on, because it might be unpleasant to admit to yourself, especially if you invested years of practice, but ultimately, it can actually spur you further, because you don't make a compromise thinking to know that which you don't, and you keep striving until you reach that clarity of knowledge, which is necessary for any correct practice of dhamma.
+
+60
+00:08:35,166 --> 00:08:36,370
+[SPEAKER_00]: Okay, I'll start reading now.
+
+61
+00:08:39,039 --> 00:09:00,355
+[SPEAKER_00]: So, going for the next part to page 12 of the Roman numeral 12 of the preface, it starts, Existential philosophies, then, insist upon asking questions about self and the world, taking care at the same time to insist that they are unanswerable.
+
+62
+00:09:00,375 --> 00:09:03,697
+[SPEAKER_00]: Beyond this point of frustration, these philosophies cannot go.
+
+63
+00:09:04,538 --> 00:09:14,964
+[SPEAKER_00]: The Buddha, too, insists that questions about the Self and the world are unanswerable, either by refusing to answer them, or by indicating that no statement about the Self and the world can be justified.
+
+64
+00:09:15,484 --> 00:09:30,232
+[SPEAKER_00]: But, and here is the vital difference, the Buddha can and does go beyond this point, not to be sure by answering the unanswerable, but by showing the way, leading to the final cessation of all questions about the Self and the world.
+
+65
+00:09:32,241 --> 00:09:47,017
+[SPEAKER_00]: So, one one issue that we can sometimes have when we're trying to start reading Nanavir is it all sounds so very like kind of lofty and philosophical, you know, talking about existential ambiguity.
+
+66
+00:09:48,578 --> 00:09:52,162
+[SPEAKER_00]: For some for some people it may be hard to see the connection between
+
+67
+00:09:53,003 --> 00:10:00,087
+[SPEAKER_00]: This vague existential problem and just, you know, the suffering I have when things don't go my way, for example.
+
+68
+00:10:00,107 --> 00:10:00,507
+[SPEAKER_00]: Could you...
+
+69
+00:10:00,567 --> 00:10:09,952
+[SPEAKER_00]: So, could you talk about how suffering all does kind of come to be rooted fundamentally in this... this problem?
+
+70
+00:10:09,972 --> 00:10:10,993
+[SPEAKER_02]: The problem of existence?
+
+71
+00:10:11,073 --> 00:10:11,373
+[SPEAKER_00]: Yeah.
+
+72
+00:10:12,934 --> 00:10:19,377
+[SPEAKER_02]: Well, the reason why Nyanavira approached it through the existential philosophy is because he himself
+
+73
+00:10:22,384 --> 00:10:33,831
+[SPEAKER_02]: I've read quite a lot of it, because he wasn't... Existential philosophy, likes of Sartre, Heidegger, well, even Kierkegaard is considered to be part of that.
+
+74
+00:10:34,532 --> 00:10:44,759
+[SPEAKER_02]: It's not really a philosophy in a sense of a system of a thought that you develop and, again, rationalize or idealize, but it's really in its root.
+
+75
+00:10:44,839 --> 00:10:51,303
+[SPEAKER_02]: Obviously, some of those philosophers have went further afterwards, but initially, the whole point of existential philosophy was to
+
+76
+00:10:52,715 --> 00:10:58,037
+[SPEAKER_02]: To found, to be like a descriptive method of the phenomenological insight.
+
+77
+00:10:58,217 --> 00:11:06,599
+[SPEAKER_02]: And saying phenomenological insight, nothing other than saying a mindful discernment.
+
+78
+00:11:06,759 --> 00:11:18,563
+[SPEAKER_02]: And that's why that philosophy was useful for a European thought, because most of the other philosophies were tending to forget the existence of the subject as a priority, as they would say, existence precedes the essence.
+
+79
+00:11:19,928 --> 00:11:26,932
+[SPEAKER_02]: And then, the whole descriptive method developed around just seeing what's present there, not developing conclusions based upon it.
+
+80
+00:11:27,512 --> 00:11:36,496
+[SPEAKER_02]: So, that's when Yanagira picked that up as a starting point for a putrjuna, because that's the most you can get as a putrjuna, to clarify the issue of your situation.
+
+81
+00:11:36,536 --> 00:11:42,199
+[SPEAKER_02]: As Heidegger described, in the heart of every human situation is a concern.
+
+82
+00:11:43,180 --> 00:11:45,321
+[SPEAKER_02]: It's fundamentally rooted upon concern.
+
+83
+00:11:45,941 --> 00:11:48,242
+[SPEAKER_02]: That's the most primordial aspect.
+
+84
+00:11:49,045 --> 00:11:55,510
+[SPEAKER_02]: And that's nothing other than dukkha in itself.
+
+85
+00:11:56,290 --> 00:11:58,732
+[SPEAKER_02]: You're not specifically concerned about this or that.
+
+86
+00:11:58,832 --> 00:12:05,136
+[SPEAKER_02]: Just a general, vague, ambiguous uneasiness, lack of easiness, lack of ease.
+
+87
+00:12:05,396 --> 00:12:07,077
+[SPEAKER_02]: And that's what dukkha means.
+
+88
+00:12:07,797 --> 00:12:11,080
+[SPEAKER_02]: It means absence of ease.
+
+89
+00:12:11,260 --> 00:12:14,742
+[SPEAKER_02]: So, that's why he would use existential philosophy.
+
+90
+00:12:15,450 --> 00:12:44,027
+[SPEAKER_02]: To relate to the reader, because that was his background, obviously, and also it because it would require the person who arises it to have some sort of, well, at least a degree of that self-awareness of their own existence, which means they won't be coming from some like a mystical point of view, some devotional inspiration and wanting to have, you know, the ecstasies of meditation, like how they used to translate the jhānas and so on.
+
+91
+00:12:44,444 --> 00:12:56,173
+[SPEAKER_02]: So, many people still have those residues of those notions as some sort of some transcendental projection through the Buddhist practice in some new astral realm of arahantship and similar, but it isn't.
+
+92
+00:12:56,233 --> 00:12:59,216
+[SPEAKER_02]: It's just freeing you from yourself, literally.
+
+93
+00:12:59,796 --> 00:13:01,618
+[SPEAKER_02]: Freeing you from greed, aversion, delusion.
+
+94
+00:13:01,638 --> 00:13:02,879
+[SPEAKER_02]: Freeing you from unwholesome.
+
+95
+00:13:03,459 --> 00:13:04,460
+[SPEAKER_02]: That's what nibbāna is.
+
+96
+00:13:05,360 --> 00:13:08,403
+[SPEAKER_02]: So, in that sense, by opting to not sort of
+
+97
+00:13:09,966 --> 00:13:16,969
+[SPEAKER_02]: He kind of sieved out many people who would have just casually arrived at it and misunderstood it.
+
+98
+00:13:17,529 --> 00:13:19,670
+[SPEAKER_02]: There's no doubt about it.
+
+99
+00:13:19,750 --> 00:13:20,591
+[SPEAKER_02]: So that was his approach.
+
+100
+00:13:20,611 --> 00:13:22,271
+[SPEAKER_02]: But obviously, you know, that was his approach.
+
+101
+00:13:22,291 --> 00:13:23,352
+[SPEAKER_02]: There can be different approaches.
+
+102
+00:13:23,452 --> 00:13:28,314
+[SPEAKER_02]: But what cannot be different is the necessity of that existential concern.
+
+103
+00:13:28,614 --> 00:13:32,296
+[SPEAKER_02]: As the Buddha said, a young man recognizes that he's prey to suffering.
+
+104
+00:13:32,996 --> 00:13:35,897
+[SPEAKER_02]: That's exactly a description of the entire existential philosophy.
+
+105
+00:13:39,045 --> 00:13:47,227
+[SPEAKER_02]: Imagine how would you feel if you go about every day of your life feeling you're prey to a hunter that you don't know where it is, who it is, when it's gonna pounce.
+
+106
+00:13:47,787 --> 00:13:49,167
+[SPEAKER_02]: You will feel very uneasy.
+
+107
+00:13:49,987 --> 00:13:52,028
+[SPEAKER_02]: And that is the definition of a human situation.
+
+108
+00:13:52,428 --> 00:14:03,950
+[SPEAKER_02]: So that's why people use sensuality, distraction, even anger, all the worldly projects, to distract themselves from the basic insecurity of their situation.
+
+109
+00:14:04,150 --> 00:14:05,370
+[SPEAKER_02]: So that that's how it relates.
+
+110
+00:14:07,568 --> 00:14:26,164
+[SPEAKER_00]: So, it sounds like it's... what's more primordial, then, is not so much always when things do not go one's way, but the fact that maybe they could, that these philosophers were pointing at, and Nyanavira is pointing at.
+
+111
+00:14:27,885 --> 00:14:28,726
+[SPEAKER_02]: They could what, sorry?
+
+112
+00:14:29,166 --> 00:14:31,608
+[SPEAKER_00]: Like, that it could go wrong, not necessarily that it does go wrong.
+
+113
+00:14:31,628 --> 00:14:32,669
+[SPEAKER_02]: Yes, yeah, exactly, sure, sure.
+
+114
+00:14:32,749 --> 00:14:34,511
+[SPEAKER_02]: Yeah, you don't need to wait for it to go wrong.
+
+115
+00:14:35,472 --> 00:14:38,014
+[SPEAKER_02]: Because sometimes, by that time, it might be too late.
+
+116
+00:14:39,075 --> 00:14:41,997
+[SPEAKER_02]: You want to recognize that it could go wrong, that it might go wrong.
+
+117
+00:14:42,358 --> 00:14:45,920
+[SPEAKER_02]: And then, of course, as the Buddha went a step further and says, well, eventually, it will go wrong.
+
+118
+00:14:46,581 --> 00:14:47,782
+[SPEAKER_02]: Sickness, aging and death.
+
+119
+00:14:48,262 --> 00:14:53,146
+[SPEAKER_02]: But those are the ultimate examples of the human situation that can go wrong at any time.
+
+120
+00:14:54,227 --> 00:14:59,111
+[SPEAKER_02]: So that's why that dukkha is not like intense, acute suffering.
+
+121
+00:14:59,481 --> 00:15:01,802
+[SPEAKER_02]: Like you're being tortured, tormented by something.
+
+122
+00:15:02,382 --> 00:15:08,323
+[SPEAKER_02]: It's the recognition of the possibility of being affected by suffering and you wouldn't be able to do anything about it.
+
+123
+00:15:08,923 --> 00:15:12,604
+[SPEAKER_02]: And that in itself, it's a cause for concern.
+
+124
+00:15:13,505 --> 00:15:15,625
+[SPEAKER_02]: And concern in itself is an unpleasant feeling.
+
+125
+00:15:15,685 --> 00:15:18,566
+[SPEAKER_02]: Thus, dukkha is translated as the most general suffering.
+
+126
+00:15:21,084 --> 00:15:30,229
+[SPEAKER_00]: So, you've mentioned that Jnana-vira, borrowed heavily from an existential phenomenological approach, is understanding of the Buddha's teaching.
+
+127
+00:15:31,290 --> 00:15:43,136
+[SPEAKER_00]: Do you think it's necessary... important or necessary for a person who is trying to understand the dhamma themselves to become familiar, like start reading Sartre and Heidegger and things like that?
+
+128
+00:15:43,396 --> 00:15:45,577
+[SPEAKER_02]: If they haven't been reading it, no.
+
+129
+00:15:46,078 --> 00:15:46,278
+[SPEAKER_02]: No.
+
+130
+00:15:46,498 --> 00:15:49,099
+[SPEAKER_02]: It will probably result in wasting more time.
+
+131
+00:15:51,318 --> 00:15:54,299
+[SPEAKER_02]: If they're already familiar, yeah, it can be helpful.
+
+132
+00:15:54,799 --> 00:16:10,982
+[SPEAKER_02]: But as I said, even Yanavera was referring to that, to those descriptions, to that terminology of existential phenomenology, because... well, because people who already understood it could relate with greater clarity, as in gives them a better starting point.
+
+133
+00:16:11,622 --> 00:16:12,923
+[SPEAKER_02]: So, it was just efficient way.
+
+134
+00:16:13,543 --> 00:16:14,063
+[SPEAKER_02]: But...
+
+135
+00:16:14,730 --> 00:16:19,775
+[SPEAKER_02]: It's not, you know, it is, as I said, either either you approach it in that manner or some other manner.
+
+136
+00:16:20,616 --> 00:16:26,781
+[SPEAKER_02]: One thing that person must have is that existential concern, recognition of its own existential human situation.
+
+137
+00:16:27,782 --> 00:16:28,563
+[SPEAKER_02]: So, if a person is
+
+138
+00:16:29,931 --> 00:16:36,537
+[SPEAKER_02]: If a person is aware of that, and approaching dhamma for that purpose, then they don't need to go through the existential philosophy.
+
+139
+00:16:37,217 --> 00:16:47,305
+[SPEAKER_02]: They just need to, well, become mindful of the feeling, the phenomenon of feeling, and mindful of the possibility of things that they might feel, while they're alive.
+
+140
+00:16:47,886 --> 00:16:49,988
+[SPEAKER_02]: As in, become mindful of the possibility of suffering.
+
+141
+00:16:51,553 --> 00:17:08,676
+[SPEAKER_00]: One thing that a person reading through the notes can start asking is, you know, all these descriptions of various terms we find in the suttas are great, they really make sense, they're really clarifying, but how do I start practicing and meditating and things like that?
+
+142
+00:17:12,957 --> 00:17:19,458
+[SPEAKER_02]: The suttas are so general, because it's been a long time ago,
+
+143
+00:17:19,968 --> 00:17:33,680
+[SPEAKER_02]: And the way of that oral transmission means now they're very condensed in meaning and very general in instruction, which means people can come from literally diametrically opposed angles and read the same sutra differently.
+
+144
+00:17:35,221 --> 00:17:37,924
+[SPEAKER_02]: And you can't help that, because the Buddha is not alive anymore.
+
+145
+00:17:38,304 --> 00:17:44,850
+[SPEAKER_02]: There's nobody there who sort of comes from that time to point you in the right direction as to how to read.
+
+146
+00:17:44,890 --> 00:17:45,230
+[SPEAKER_02]: That's why
+
+147
+00:17:48,214 --> 00:17:52,235
+[SPEAKER_02]: It is necessary to start with that existential attitude and that self-awareness.
+
+148
+00:17:52,815 --> 00:17:57,217
+[SPEAKER_02]: Because of that, you won't be able to go too wrong in your misreading of the suttas.
+
+149
+00:17:57,277 --> 00:17:59,517
+[SPEAKER_02]: Which, inevitably, everybody starts by misreading them.
+
+150
+00:18:00,758 --> 00:18:05,079
+[SPEAKER_02]: And then you will realize, yeah, you can interpret it like this, you can interpret it like this, and you can interpret it like this.
+
+151
+00:18:05,339 --> 00:18:10,120
+[SPEAKER_02]: But which one of those ways that you can interpret it really pertains to that existential suffering?
+
+152
+00:18:10,220 --> 00:18:13,281
+[SPEAKER_02]: That becomes your criteria for practice.
+
+153
+00:18:14,741 --> 00:18:16,442
+[SPEAKER_02]: So, that's why it's important
+
+154
+00:18:17,203 --> 00:18:22,210
+[SPEAKER_02]: To develop that, which is quite unpleasant, often results in anxiety and sense of dread.
+
+155
+00:18:22,751 --> 00:18:33,745
+[SPEAKER_02]: Because otherwise, a person would be sort of overly committing to a view, and then they would be reading the suttas from that point of view, and then defending it and so on, and not really applying it to that existential basis.
+
+156
+00:18:36,105 --> 00:18:36,846
+[SPEAKER_00]: And is there...
+
+157
+00:18:36,946 --> 00:18:44,170
+[SPEAKER_00]: I guess I was trying to ask, is there like a specific method or technique by which one does apply it to that place?
+
+158
+00:18:44,491 --> 00:18:45,431
+[SPEAKER_02]: Most certainly not.
+
+159
+00:18:45,511 --> 00:18:45,992
+[SPEAKER_02]: No.
+
+160
+00:18:46,092 --> 00:18:48,773
+[SPEAKER_02]: If it were, the Buddha would have spoke about it.
+
+161
+00:18:49,134 --> 00:18:52,796
+[SPEAKER_02]: And the closest to method or technique is what the suttas tell us.
+
+162
+00:18:52,876 --> 00:19:04,484
+[SPEAKER_02]: Develop, be restrained by the precepts, see the danger in the slightest fault, be moderate in eating, spend your days being mindful and wakeful.
+
+163
+00:19:05,387 --> 00:19:08,528
+[SPEAKER_02]: As in, don't give in to distraction, don't give in to careless thoughts.
+
+164
+00:19:08,568 --> 00:19:17,411
+[SPEAKER_02]: That will, in itself, will result in calmness, tranquility, that can then result in seeing things clearly and knowing exactly what you need to abandon.
+
+165
+00:19:17,551 --> 00:19:19,112
+[SPEAKER_02]: As in, the unwholesome thoughts.
+
+166
+00:19:20,052 --> 00:19:21,813
+[SPEAKER_02]: Thoughts that are rooted in greed, aversion, delusion.
+
+167
+00:19:21,833 --> 00:19:26,174
+[SPEAKER_02]: They're rooted in distraction and desire and craving.
+
+168
+00:19:27,155 --> 00:19:30,036
+[SPEAKER_02]: But, yeah, there is a tendency, obviously... That's what I mean.
+
+169
+00:19:30,836 --> 00:19:31,476
+[SPEAKER_02]: A person...
+
+170
+00:19:31,516 --> 00:19:33,417
+[SPEAKER_02]: If a person does not have that person...
+
+171
+00:19:34,074 --> 00:19:51,623
+[SPEAKER_02]: Individual, personal, vertical criteria of existential angst and suffering and possibility to suffer, it will be easy then to just give in to a promised method or a mechanical technique that can then result... well, you hope to result in liberation.
+
+172
+00:19:52,243 --> 00:20:03,169
+[SPEAKER_02]: But really, the only way you can liberate yourself is to come to grips with your own existence, bhāva, and see that you're responsible for upholding it, and then undo it.
+
+173
+00:20:04,197 --> 00:20:08,739
+[SPEAKER_02]: That's why Venerable Nyanavira Thera was often talking about undoing things.
+
+174
+00:20:09,020 --> 00:20:17,884
+[SPEAKER_02]: So, the closest to a method that can result in understanding, that you can come, is to say, you have to keep trying to understand.
+
+175
+00:20:18,645 --> 00:20:18,985
+[SPEAKER_02]: That's it.
+
+176
+00:20:19,865 --> 00:20:27,590
+[SPEAKER_02]: I can't tell you do this, do this, do this, and then that will automatically result in understanding, because understanding is when you understood, based on the given data and information.
+
+177
+00:20:27,670 --> 00:20:34,073
+[SPEAKER_02]: So, you inform yourself through Nyanavira, through the suttas, and using the personal criteria of being liable to suffering,
+
+178
+00:20:34,930 --> 00:20:42,573
+[SPEAKER_02]: Because if you understood things correctly, that liability to suffering should be diminishing and you will see directly.
+
+179
+00:20:42,593 --> 00:20:53,078
+[SPEAKER_02]: That's why a sotāpanna, somebody who has reached that first stage, knows exactly what suffering is, what origin of suffering is, what cessation of it is, and what to do to develop that cessation.
+
+180
+00:20:53,758 --> 00:20:54,859
+[SPEAKER_02]: He's not guessing anymore.
+
+181
+00:20:54,899 --> 00:20:57,600
+[SPEAKER_02]: He has a direct knowledge into that.
+
+182
+00:20:59,728 --> 00:21:20,302
+[SPEAKER_00]: So, to reiterate then, for one who's trying to develop this proper attitude and is trying to undertake a study of the suttas and the notes on dhamma, what is then the proper place of these notes in that pursuit?
+
+183
+00:21:22,383 --> 00:21:24,885
+[SPEAKER_02]: Well, the notes are sort of...
+
+184
+00:21:27,093 --> 00:21:49,125
+[SPEAKER_02]: Well, first of all, they need to live restrained by the precepts, depending on how far they want to go in their understanding, either five or, but ideally, eight precepts, which means, whether you are reading the notes or reading the suttas, if you don't have the basic virtue being developed, maintained through your practice of mindfulness and samādhi that comes out of it, no amount of understanding will take place.
+
+185
+00:21:49,265 --> 00:21:51,466
+[SPEAKER_02]: It will all be in the abstract scholastic theory.
+
+186
+00:21:53,526 --> 00:22:05,392
+[SPEAKER_02]: So, the place of notes is for somebody who does live restrained and wants the work laid out for them, as in what needs to be understood.
+
+187
+00:22:05,652 --> 00:22:11,935
+[SPEAKER_02]: Some people can handle more of it, some people less, but the point is you do need to understand at least a degree of the Buddhist teachings.
+
+188
+00:22:12,707 --> 00:22:18,131
+[SPEAKER_02]: So, the notes could help you develop that right attitude towards the suttas, how to read them.
+
+189
+00:22:18,631 --> 00:22:36,784
+[SPEAKER_02]: Whether you would read them just as an Indian folklore, a social commentary of the times, a loose compilation of the Buddha's utterances, or you're going to read them as the strictest, most condensed, and most universal, as in general, phenomenological description of your experience.
+
+190
+00:22:37,565 --> 00:22:40,547
+[SPEAKER_02]: Because if you start reading them like that, with that attitude, you will realize,
+
+191
+00:22:42,153 --> 00:22:46,134
+[SPEAKER_02]: All it takes is to understand fully one sutta and you can be an arahant on account of it.
+
+192
+00:22:47,675 --> 00:22:51,116
+[SPEAKER_02]: If you approach them as a folklore, then you can have it all.
+
+193
+00:22:51,176 --> 00:22:51,916
+[SPEAKER_02]: Makes no difference.
+
+194
+00:22:52,397 --> 00:23:01,460
+[SPEAKER_02]: But if you approach them actually as a direct description of something that's universally present in every human experience, means then that you need to see it in order to understand that sutta.
+
+195
+00:23:02,760 --> 00:23:05,421
+[SPEAKER_02]: So that was one of the examples that really kind of...
+
+196
+00:23:05,541 --> 00:23:10,643
+[SPEAKER_02]: I didn't realize that, because when I was a layman I was reading the suttas and I found them useful, but I didn't quite understand
+
+197
+00:23:11,651 --> 00:23:13,291
+[SPEAKER_02]: Well, their extent of their importance.
+
+198
+00:23:13,331 --> 00:23:21,493
+[SPEAKER_02]: Until I came across Yanavera, who, by that time, was reading lots of Sātre, Heidegger, and other philosophy, being in time, being in nothingness.
+
+199
+00:23:22,333 --> 00:23:28,134
+[SPEAKER_02]: So, I could read philosophy, and I had no trouble following it, and I was quite familiar with it.
+
+200
+00:23:28,254 --> 00:23:41,477
+[SPEAKER_02]: So, there was one bit, when Yanavera mentioned, he gives this entire quote from Sātre, or Heidegger, maybe, the entire page, about a human situation, and so on, about the senses and sense perception.
+
+201
+00:23:41,998 --> 00:23:47,063
+[SPEAKER_02]: And I remember, I read that quote many times, so it was, it was, it felt like, oh, yeah, this is very useful.
+
+202
+00:23:47,583 --> 00:23:57,032
+[SPEAKER_02]: And then he says, or for example, as the Buddha would say, so he compares what this, like pages of this philosophy said, compares, and it was just like one line from the suttas.
+
+203
+00:23:57,913 --> 00:24:04,880
+[SPEAKER_02]: Then I read many times, but it never occurred to me to read it in such a heavily condensed manner, to give it that kind of importance.
+
+204
+00:24:05,460 --> 00:24:06,762
+[SPEAKER_02]: But then I realized, well, actually,
+
+205
+00:24:07,733 --> 00:24:18,317
+[SPEAKER_02]: I should be giving it that kind of importance, because that's how people at the end of a discourse, by the Buddha, would have become arahants, or at least sotāpannas.
+
+206
+00:24:19,297 --> 00:24:22,319
+[SPEAKER_02]: And then we read it today and we wonder why is nothing happening to me.
+
+207
+00:24:22,339 --> 00:24:24,239
+[SPEAKER_02]: It's because you're not reading it rightly.
+
+208
+00:24:24,700 --> 00:24:30,942
+[SPEAKER_02]: If you approach every single line to be condensed with meaning, not in that scholastic sort of investigation of the
+
+209
+00:24:31,479 --> 00:24:39,045
+[SPEAKER_02]: Information and connections with other passages and so on, but genuinely, just what it actually... what is describing it, phenomenologically?
+
+210
+00:24:39,645 --> 00:24:44,509
+[SPEAKER_02]: What is being described by it, phenomenologically, as in presently, right here, right now?
+
+211
+00:24:44,529 --> 00:24:50,693
+[SPEAKER_02]: And if you approach it like that, then you realize, yeah, one sutta, fully understood, can certainly result in the right view.
+
+212
+00:24:51,694 --> 00:24:53,475
+[SPEAKER_02]: As I just gave the example, like when the Buddha...
+
+213
+00:24:53,575 --> 00:24:55,857
+[SPEAKER_02]: I mean, many of us would have just read over
+
+214
+00:24:57,903 --> 00:25:03,846
+[SPEAKER_02]: That line when the Buddha says, a young man feels he's prey to suffering, subject to suffering, so he goes forth into homeless life.
+
+215
+00:25:04,546 --> 00:25:05,566
+[SPEAKER_02]: Oh, yeah, yeah, of course, yeah.
+
+216
+00:25:05,886 --> 00:25:14,010
+[SPEAKER_02]: But if you stop and think about it, just that, just those two words, three words, prey to suffering, contains the entire existential philosophy.
+
+217
+00:25:14,590 --> 00:25:18,731
+[SPEAKER_02]: Volumes and volumes of work, centuries of phenomenological development.
+
+218
+00:25:18,891 --> 00:25:19,852
+[SPEAKER_02]: It's all in that attitude.
+
+219
+00:25:19,912 --> 00:25:22,013
+[SPEAKER_02]: That's all the existential philosophy concern about.
+
+220
+00:25:23,093 --> 00:25:25,394
+[SPEAKER_02]: Experiencing concern in regard to the
+
+221
+00:25:25,892 --> 00:25:27,433
+[SPEAKER_02]: That's the basic nature of your existence.
+
+222
+00:25:27,953 --> 00:25:30,695
+[SPEAKER_02]: Yet, the Buddha just included in the first line of every other sutta.
+
+223
+00:25:31,955 --> 00:25:32,896
+[SPEAKER_02]: But then, you realize, hold on.
+
+224
+00:25:33,296 --> 00:25:36,137
+[SPEAKER_02]: So, if I read the rest of the sutta, I have to have that attitude then.
+
+225
+00:25:36,738 --> 00:25:37,678
+[SPEAKER_02]: Because he would go further.
+
+226
+00:25:38,018 --> 00:25:45,562
+[SPEAKER_02]: That man who feel he's a prey to suffering, goes into homeless life, finds a teaching, applies himself, and then becomes an arahant.
+
+227
+00:25:46,923 --> 00:25:47,703
+[SPEAKER_02]: But that's what I mean.
+
+228
+00:25:47,723 --> 00:25:48,244
+[SPEAKER_02]: So, you can.
+
+229
+00:25:49,004 --> 00:25:50,765
+[SPEAKER_02]: You can say, no, it was just a social commentary.
+
+230
+00:25:50,925 --> 00:25:54,307
+[SPEAKER_02]: And you can't debate that, because there is no proof in between.
+
+231
+00:25:54,872 --> 00:25:57,014
+[SPEAKER_02]: Or a living person can say, no, you're right, you're wrong.
+
+232
+00:25:57,774 --> 00:26:01,277
+[SPEAKER_02]: But then, you ask yourself, well, why do you practice?
+
+233
+00:26:01,858 --> 00:26:07,762
+[SPEAKER_02]: Is it because some sort of cultural enrichment, or gathering data, or scholastic development, or is it for freedom from suffering?
+
+234
+00:26:09,284 --> 00:26:18,211
+[SPEAKER_02]: Then, you recognize that, well, scholastic understanding, social understanding, no matter how vast the net of your connection develops, does not free you from suffering.
+
+235
+00:26:18,271 --> 00:26:22,194
+[SPEAKER_02]: But phenomenologically understanding the presently arisen cause of the presently arisen suffering,
+
+236
+00:26:22,632 --> 00:26:24,715
+[SPEAKER_02]: One set of terms that comes up fairly often is a positive and negative.
+
+237
+00:26:40,364 --> 00:26:50,051
+[SPEAKER_00]: There's footnote letter N, which describes a brief quote from Soren Kierkegaard regarding the negative thinking.
+
+238
+00:26:51,272 --> 00:27:05,843
+[SPEAKER_00]: It says, precisely because the negative is present in existence, present everywhere, for existence is a constant process of becoming, it is necessary to become aware of its presence continuously as the only safeguard against it.
+
+239
+00:27:06,583 --> 00:27:14,526
+[SPEAKER_00]: Janavir writes, positive or abstract thinking abstracts from existence and is thus incapable of thinking continuously.
+
+240
+00:27:16,066 --> 00:27:23,509
+[SPEAKER_00]: So, it's not... it may not be clear to many people what exactly... what is a... what is a negative and a positive kind of thinking.
+
+241
+00:27:23,669 --> 00:27:26,110
+[SPEAKER_00]: Like, those domains may not mean anything to some people.
+
+242
+00:27:26,470 --> 00:27:32,953
+[SPEAKER_02]: Well, in simple terms, a negative thinker is a thinker who is aware of his own situation while thinking.
+
+243
+00:27:32,973 --> 00:27:34,133
+[SPEAKER_02]: He doesn't abstract.
+
+244
+00:27:34,982 --> 00:27:38,403
+[SPEAKER_02]: The content of his thoughts from the situation, which is why it's called abstraction.
+
+245
+00:27:39,003 --> 00:27:45,865
+[SPEAKER_02]: So, he remains aware of the background that the necessary basis for his whatever engagement might be.
+
+246
+00:27:46,745 --> 00:27:54,708
+[SPEAKER_02]: So, that's why the negative thinker is, eh... is... is... is in that... it's negative in relation to the positive content of his particular thought.
+
+247
+00:27:56,148 --> 00:28:01,770
+[SPEAKER_02]: So, he's kind of like aware of the background of his act of thinking or speaking or... or... or doing things by body.
+
+248
+00:28:02,370 --> 00:28:03,410
+[SPEAKER_02]: Aware of the peripheral.
+
+249
+00:28:04,159 --> 00:28:07,643
+[SPEAKER_02]: That's exactly where in the suttas, that's exactly where the development of mind comes down to.
+
+250
+00:28:07,704 --> 00:28:09,446
+[SPEAKER_02]: Practice of samādhi, practice of jhānas.
+
+251
+00:28:10,006 --> 00:28:19,559
+[SPEAKER_02]: Developing the sphere of that peripheral and thus overcoming the particular domains of sensuality, ill-will and so on.
+
+252
+00:28:21,735 --> 00:28:35,500
+[SPEAKER_00]: So, then, when one is trying to understand these notes, is it that negative kind of thinking through which they have to be understood, as opposed to the positive thinking that one may be used to?
+
+253
+00:28:36,020 --> 00:28:37,081
+[SPEAKER_02]: Well, it's not something you can...
+
+254
+00:28:37,161 --> 00:28:39,842
+[SPEAKER_02]: Negative thinking is not something you can jump into by choice.
+
+255
+00:28:40,122 --> 00:28:41,162
+[SPEAKER_02]: So, it needs to be developed.
+
+256
+00:28:42,123 --> 00:28:47,765
+[SPEAKER_02]: So, by trying to understand what negative thinking is, what the negative thinker is, that's how you begin to develop it.
+
+257
+00:28:48,324 --> 00:28:48,965
+[SPEAKER_02]: So, that's what I mean.
+
+258
+00:28:49,325 --> 00:28:55,810
+[SPEAKER_02]: If you approach it just through like a positive comparison and scholastic study and so on, you're not going to understand the notes.
+
+259
+00:28:56,570 --> 00:29:10,000
+[SPEAKER_02]: But if you approach it because you want solution to the existential problem of liability to suffering, then you will start to understand it, because you will be reading them increasingly more rightly, so to speak.
+
+260
+00:29:10,781 --> 00:29:11,441
+[SPEAKER_02]: And that's what I mean.
+
+261
+00:29:11,481 --> 00:29:12,282
+[SPEAKER_02]: The virtue
+
+262
+00:29:12,773 --> 00:29:24,951
+[SPEAKER_02]: The restraint, the sense restraint and the establishment of virtue and the precepts needs, it's not negotiable, needs to come first and needs to be maintained beforehand as well.
+
+263
+00:29:25,111 --> 00:29:27,715
+[SPEAKER_02]: Which means then, you took it on as your lifestyle.
+
+264
+00:29:27,997 --> 00:29:35,020
+[SPEAKER_02]: The whole approach to dhamma, not just as something you might do on the weekends or occasionally on an online forum.
+
+265
+00:29:35,580 --> 00:29:43,524
+[SPEAKER_00]: At the end of the preface, he talks about this fundamental structure, which is at the back of the notes on dhamma.
+
+266
+00:29:44,424 --> 00:29:49,227
+[SPEAKER_00]: A lot of people have many many questions and are very interested in mathematical appearance.
+
+267
+00:29:51,268 --> 00:29:54,769
+[SPEAKER_00]: Do you think that's something that's important for understanding the Buddha's teaching?
+
+268
+00:29:54,789 --> 00:29:54,929
+[SPEAKER_00]: Right.
+
+269
+00:29:54,950 --> 00:29:55,650
+[SPEAKER_02]: No, absolutely not.
+
+270
+00:29:55,730 --> 00:29:56,870
+[SPEAKER_02]: No.
+
+271
+00:29:57,111 --> 00:30:10,377
+[SPEAKER_02]: As Nyanavidyoteras himself said, it's just an instrument of thought that he himself found very useful, but you can't really think fundamental structure in phenomenological terms, because you are the structure.
+
+272
+00:30:10,598 --> 00:30:16,921
+[SPEAKER_02]: Your experience, the pañca, pañcupādānakkhandhā, the five aggregates, is your experience.
+
+273
+00:30:17,683 --> 00:30:26,931
+[SPEAKER_02]: So, what he deals there with, he deals with the description of the structure, which would require you to have an external view to it, which you can't.
+
+274
+00:30:27,692 --> 00:30:31,655
+[SPEAKER_02]: So, in order to describe it, you must give up the phenomenological method.
+
+275
+00:30:31,735 --> 00:30:34,137
+[SPEAKER_02]: If you give up phenomenological method, you're not talking about existence anymore.
+
+276
+00:30:34,457 --> 00:30:40,543
+[SPEAKER_02]: That's why he referred it as an instrument, as a justification for reflexive thinking and so on, as an explanation for it.
+
+277
+00:30:41,316 --> 00:30:48,520
+[SPEAKER_02]: But in terms of somebody needing to understand it or something, it's not necessary, completely.
+
+278
+00:30:49,180 --> 00:30:55,604
+[SPEAKER_02]: Because also, you cannot factor in that structure, which is the problem of science as well.
+
+279
+00:30:55,624 --> 00:30:59,486
+[SPEAKER_02]: They meet the same problem, which is when you assume the external point of view to your experience.
+
+280
+00:31:00,066 --> 00:31:03,468
+[SPEAKER_02]: You can't factor in the feeling, the domain of feeling.
+
+281
+00:31:03,568 --> 00:31:07,810
+[SPEAKER_02]: I mean, you can represent it on the paper, but that's not being felt right there and then.
+
+282
+00:31:08,731 --> 00:31:11,112
+[SPEAKER_02]: So, in that sense, feeling is always present.
+
+283
+00:31:11,927 --> 00:31:15,670
+[SPEAKER_02]: But if you remember the past feeling, the future feeling, the present feeling, you feel it presently.
+
+284
+00:31:16,291 --> 00:31:19,373
+[SPEAKER_02]: Hence, the Buddha said, my teaching is for the one who feels, who knows how to feel.
+
+285
+00:31:21,515 --> 00:31:33,945
+[SPEAKER_02]: So, so that's why I wouldn't... unless, unless you already have a starting point that allows you to relate to a fundamental structure and can kind of just enrich the instrument of, of your thinking, that's fine.
+
+286
+00:31:34,566 --> 00:31:35,987
+[SPEAKER_02]: But otherwise, you'd be just wasting time.
+
+287
+00:31:38,378 --> 00:31:41,900
+[SPEAKER_02]: I think he included it because it is quite unique.
+
+288
+00:31:43,021 --> 00:31:53,448
+[SPEAKER_02]: And for somebody who is in philosophy and phenomenology, yeah, it's a very interesting and useful thing in that semi-scholastic, semi-phenomenological sense.
+

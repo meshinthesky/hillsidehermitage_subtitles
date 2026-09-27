@@ -1,0 +1,548 @@
+1
+00:00:02,303 --> 00:00:08,508
+[SPEAKER_00]: Bhante, can the practice of observing my mind lead to the right view?
+
+2
+00:00:11,570 --> 00:00:13,872
+[SPEAKER_00]: Just sit down... Well, it depends.
+
+3
+00:00:13,992 --> 00:00:14,613
+[SPEAKER_00]: I watch my mind.
+
+4
+00:00:14,633 --> 00:00:18,996
+[SPEAKER_01]: If it is the actual mind that you're observing, or is it your idea of the mind that you're observing?
+
+5
+00:00:21,398 --> 00:00:24,701
+[SPEAKER_01]: If it's the actual mind, then... no.
+
+6
+00:00:26,042 --> 00:00:29,105
+[SPEAKER_01]: Well, you can't just observe your mind and expect to learn from it.
+
+7
+00:00:30,075 --> 00:00:35,357
+[SPEAKER_01]: You need to know what that mind is.
+
+8
+00:00:36,037 --> 00:00:39,878
+[SPEAKER_01]: You need to see what makes it wilder, what tames it.
+
+9
+00:00:41,138 --> 00:00:46,320
+[SPEAKER_01]: You need to endure its bursts and outfits and irrational episodes that are trying to make you act.
+
+10
+00:00:48,120 --> 00:00:51,301
+[SPEAKER_01]: And then you can see through what you need to see, sure.
+
+11
+00:00:51,641 --> 00:00:58,243
+[SPEAKER_01]: But if you just think by watching what I think the mind is and somehow the truth will magically reveal itself, that's not gonna happen.
+
+12
+00:01:01,931 --> 00:01:05,795
+[SPEAKER_00]: It's like you're starting off with this idea that you already know what the mind is.
+
+13
+00:01:06,296 --> 00:01:07,076
+[SPEAKER_00]: Well, yeah, exactly.
+
+14
+00:01:07,096 --> 00:01:08,738
+[SPEAKER_01]: That's all.
+
+15
+00:01:08,798 --> 00:01:10,380
+[SPEAKER_01]: For many people, that's already a problem.
+
+16
+00:01:10,420 --> 00:01:12,322
+[SPEAKER_01]: Yeah, that's... yeah, exactly.
+
+17
+00:01:14,524 --> 00:01:22,953
+[SPEAKER_00]: And is there... is there a practical difference between... like in Pali, you have these different terms of citta,
+
+18
+00:01:24,827 --> 00:01:26,867
+[SPEAKER_00]: Mano, viññāṇa.
+
+19
+00:01:27,248 --> 00:01:32,409
+[SPEAKER_00]: So, mind, there's thinking, intellect, consciousness.
+
+20
+00:01:33,569 --> 00:01:33,789
+[SPEAKER_01]: Yeah.
+
+21
+00:01:34,049 --> 00:01:34,869
+[SPEAKER_00]: So, what is the mind?
+
+22
+00:01:34,909 --> 00:01:36,690
+[SPEAKER_00]: You know, what's the mind part?
+
+23
+00:01:36,730 --> 00:01:38,310
+[SPEAKER_00]: Is it all just the same thing?
+
+24
+00:01:39,430 --> 00:01:40,110
+[SPEAKER_00]: It's not.
+
+25
+00:01:40,290 --> 00:01:41,231
+[SPEAKER_00]: Referring to the same thing.
+
+26
+00:01:41,251 --> 00:01:49,752
+[SPEAKER_01]: But, defining it in terms of further ideas will not necessarily make it any clearer.
+
+27
+00:01:50,152 --> 00:01:52,333
+[SPEAKER_01]: I mean, it might make you think,
+
+28
+00:01:53,738 --> 00:02:00,041
+[SPEAKER_01]: You now see the difference between the three things, but practically, if you don't see your mind, you see neither.
+
+29
+00:02:01,442 --> 00:02:03,663
+[SPEAKER_01]: So, māna is your intellect.
+
+30
+00:02:04,003 --> 00:02:04,923
+[SPEAKER_01]: It's your rational thought.
+
+31
+00:02:04,963 --> 00:02:06,024
+[SPEAKER_01]: It's your ability to think.
+
+32
+00:02:06,084 --> 00:02:06,524
+[SPEAKER_01]: Think that.
+
+33
+00:02:06,624 --> 00:02:10,406
+[SPEAKER_01]: Actively thinking thoughts engages your māna.
+
+34
+00:02:11,106 --> 00:02:12,307
+[SPEAKER_01]: Citta is, eh...
+
+35
+00:02:13,606 --> 00:02:16,067
+[SPEAKER_01]: Well, the translation, the old translation was hard.
+
+36
+00:02:16,208 --> 00:02:27,174
+[SPEAKER_01]: So, say when you're practicing self-reflection, self-awareness, awareness of you in your situation, of your mind being engaged with, of your mano being engaged with this and that.
+
+37
+00:02:27,774 --> 00:02:28,475
+[SPEAKER_01]: So, that's citta.
+
+38
+00:02:28,495 --> 00:02:36,560
+[SPEAKER_01]: It's kind of a more general mental mood that also encompasses your physicality.
+
+39
+00:02:36,600 --> 00:02:37,900
+[SPEAKER_01]: It's not separate from it.
+
+40
+00:02:38,180 --> 00:02:42,443
+[SPEAKER_01]: You won't find your mood somewhere else from where your body is either.
+
+41
+00:02:43,232 --> 00:02:45,353
+[SPEAKER_01]: You're going to be there and you're going to feel it in your body as well.
+
+42
+00:02:47,393 --> 00:02:48,733
+[SPEAKER_01]: So, that's what citta is.
+
+43
+00:02:49,274 --> 00:03:04,137
+[SPEAKER_01]: So, the general mood slash feeling that's kind of revealed, however obscurely, but to some extent revealed in an act of self-reflection.
+
+44
+00:03:04,177 --> 00:03:10,419
+[SPEAKER_01]: So, in an act of stepping back from what your senses and your mano are directly engaged with.
+
+45
+00:03:12,190 --> 00:03:20,116
+[SPEAKER_01]: So, becoming aware of you thinking these thoughts, or you seeing these sights, not seeing sights.
+
+46
+00:03:20,176 --> 00:03:20,877
+[SPEAKER_01]: Me see sights.
+
+47
+00:03:22,358 --> 00:03:23,879
+[SPEAKER_01]: Sights.
+
+48
+00:03:23,939 --> 00:03:25,721
+[SPEAKER_01]: That's what occupies my attention.
+
+49
+00:03:25,981 --> 00:03:29,384
+[SPEAKER_01]: But now, through practice of self-reflection,
+
+50
+00:03:30,043 --> 00:03:33,607
+[SPEAKER_01]: You recognize yourself in a situation of being preoccupied with the sight.
+
+51
+00:03:33,667 --> 00:03:46,821
+[SPEAKER_01]: So, it's kind of a way of stepping back in that direction, where you're gonna find the state of that citta, whether it's elated, depressed, expanded, narrowed, heavy, light, all these descriptions in the suttas.
+
+52
+00:03:47,241 --> 00:03:48,322
+[SPEAKER_01]: That's where it applies to.
+
+53
+00:03:48,643 --> 00:03:51,466
+[SPEAKER_01]: It's kind of on that level of the mood and how things are.
+
+54
+00:03:52,605 --> 00:03:56,267
+[SPEAKER_00]: But that level, that level, most people don't see that.
+
+55
+00:03:56,327 --> 00:03:57,908
+[SPEAKER_00]: That's too subtle, in a way.
+
+56
+00:03:57,928 --> 00:03:59,789
+[SPEAKER_01]: Well, it's there perpetually available.
+
+57
+00:03:59,809 --> 00:04:00,169
+[SPEAKER_01]: It's there.
+
+58
+00:04:00,429 --> 00:04:05,071
+[SPEAKER_01]: Yeah, it's not, it's not mysteriously sort of hidden, that you don't know where to look.
+
+59
+00:04:05,452 --> 00:04:09,834
+[SPEAKER_01]: But people don't know how to recognize it and stay with it, and then discern it further.
+
+60
+00:04:10,414 --> 00:04:16,877
+[SPEAKER_01]: They might get a hint of it, and then fall into the ideas about it.
+
+61
+00:04:16,897 --> 00:04:17,478
+[SPEAKER_00]: The description...
+
+62
+00:04:17,538 --> 00:04:19,219
+[SPEAKER_01]: Overlook it, or underlook it.
+
+63
+00:04:20,279 --> 00:04:21,940
+[SPEAKER_01]: Like, you get a sense of it, but then you look away.
+
+64
+00:04:22,896 --> 00:04:29,359
+[SPEAKER_01]: You prioritize your thoughts of your mood, of your enduring situation, at the expense of the mood and the enduring situation.
+
+65
+00:04:29,379 --> 00:04:30,539
+[SPEAKER_01]: That's still there, unchanged.
+
+66
+00:04:34,601 --> 00:04:36,341
+[SPEAKER_00]: And a consciousness, then?
+
+67
+00:04:38,102 --> 00:04:39,923
+[SPEAKER_01]: Well, consciousness on the level of the aggregates.
+
+68
+00:04:40,860 --> 00:04:51,823
+[SPEAKER_01]: So, I really wouldn't worry about... You will not even be able to intellectually grasp it correctly, unless you already have a good grasp of your citta, for what it is.
+
+69
+00:04:51,843 --> 00:04:59,405
+[SPEAKER_01]: You're just gonna have your idea of your chart, made connections between the aggregates and philosophical and psychological ideas.
+
+70
+00:05:00,366 --> 00:05:01,386
+[SPEAKER_01]: And that won't be consciousness.
+
+71
+00:05:01,686 --> 00:05:04,507
+[SPEAKER_01]: Those be ideas that you're conscious of.
+
+72
+00:05:06,470 --> 00:05:16,072
+[SPEAKER_01]: See, saying like, oh, you are conscious of, like in philosophy we talked about consciousness, it's the approximation of consciousness, but consciousness is not something you do.
+
+73
+00:05:16,992 --> 00:05:20,173
+[SPEAKER_01]: You are the result of consciousness being there as one of the aggregates.
+
+74
+00:05:21,053 --> 00:05:30,095
+[SPEAKER_01]: So, I am conscious of, kind of implies you being on one end from which consciousness originates and it's being sent to these directions, but it's completely the other way around.
+
+75
+00:05:32,042 --> 00:05:39,707
+[SPEAKER_01]: Any notion of space, your sense of self, everything else in between, is because consciousness is already there.
+
+76
+00:05:42,509 --> 00:05:55,378
+[SPEAKER_01]: So, when you would have... if you would have purified everything else, from your wrong assumptions of ownership, permanence, what's left there, of that experience, that's what consciousness is.
+
+77
+00:05:55,418 --> 00:05:57,480
+[SPEAKER_01]: The presence of those unobscured things.
+
+78
+00:06:00,462 --> 00:06:00,782
+[SPEAKER_01]: So,
+
+79
+00:06:03,107 --> 00:06:26,394
+[SPEAKER_01]: I think for somebody at the stage of development, the closest they could be thinking about consciousness rightly, would not be in terms of thinking about the ideas of consciousness, but it would be on the level of exactly becoming aware of your situation, unabsorbed from any of the six senses, not denying what your six senses are occupied with,
+
+80
+00:06:27,450 --> 00:06:35,974
+[SPEAKER_01]: Just putting that in certain, like a, like a, at a certain arm's length, that's revealed in that self-reflection.
+
+81
+00:06:36,995 --> 00:06:52,043
+[SPEAKER_01]: So, the experience of that, then, once, say, you become accustomed to that practice of correct mindfulness, really, it's nothing else, of of unabsorbing yourself to the right extent, not to the extent that you then get absorbed in your new ideas,
+
+82
+00:06:52,786 --> 00:06:53,426
+[SPEAKER_00]: Float away.
+
+83
+00:06:53,506 --> 00:06:54,647
+[SPEAKER_01]: Float away in something else, yeah.
+
+84
+00:06:54,727 --> 00:06:59,550
+[SPEAKER_01]: Unabsorbed, just to the extent you were absorbed, but then leave it being there.
+
+85
+00:07:00,770 --> 00:07:07,534
+[SPEAKER_01]: The practice of that, then you can have these other ideas, sort of, come out of it, so to speak.
+
+86
+00:07:07,614 --> 00:07:11,956
+[SPEAKER_01]: Like, for example, the assumption that, as I said, that you are at this end of consciousness.
+
+87
+00:07:12,697 --> 00:07:14,738
+[SPEAKER_01]: That consciousness originates from here.
+
+88
+00:07:16,559 --> 00:07:18,220
+[SPEAKER_01]: That you are doing the consciousness.
+
+89
+00:07:18,360 --> 00:07:19,721
+[SPEAKER_01]: That you are the conscious one.
+
+90
+00:07:20,061 --> 00:07:22,162
+[SPEAKER_01]: All this, that consciousness is in your brain.
+
+91
+00:07:23,391 --> 00:07:29,753
+[SPEAKER_01]: Then, you realize what consciousness is in my brain, which is another image I am conscious of, right here, now, as I'm thinking that.
+
+92
+00:07:30,793 --> 00:07:37,735
+[SPEAKER_01]: So, you realize there is no standpoint outside of consciousness that you can take, from which consciousness can be related to.
+
+93
+00:07:38,535 --> 00:07:51,279
+[SPEAKER_01]: And clarifying that would be clarifying the wrong notions that kind of linger around the view in regard to consciousness, such as consciousness is mine, I am consciousness, it's in me, and all of those appropriations.
+
+94
+00:07:51,659 --> 00:07:52,759
+[SPEAKER_01]: And that's why that's important.
+
+95
+00:07:53,800 --> 00:08:09,739
+[SPEAKER_01]: To eventually discern is because through those overlooking and kind of negligent, unclarified implications that consciousness is in your brain and you or the counterpart comes from you, whatever permutations these views might take, eh...
+
+96
+00:08:10,704 --> 00:08:14,066
+[SPEAKER_01]: Those little assumptions, that's how you maintain the ownership of consciousness.
+
+97
+00:08:14,646 --> 00:08:17,247
+[SPEAKER_01]: You don't need to explicitly think consciousness is mine.
+
+98
+00:08:17,827 --> 00:08:24,771
+[SPEAKER_01]: You just need to assume that it's in in the body, in your head, that is spatially secondary to this body that's placed in it.
+
+99
+00:08:25,311 --> 00:08:26,492
+[SPEAKER_01]: You've already appropriated it.
+
+100
+00:08:26,672 --> 00:08:27,312
+[SPEAKER_01]: That's all it takes.
+
+101
+00:08:27,932 --> 00:08:29,993
+[SPEAKER_00]: And that's what's already been done.
+
+102
+00:08:30,013 --> 00:08:31,634
+[SPEAKER_00]: That's already done, to some extent, yeah.
+
+103
+00:08:31,954 --> 00:08:35,456
+[SPEAKER_01]: Either you're going to assume it that it's like external, it's out there,
+
+104
+00:08:36,294 --> 00:08:45,899
+[SPEAKER_01]: It can be measured, or you're going to assume it that inside, internally, either way, overshoot, overshoot the mark, undershoot the mark, appropriations there.
+
+105
+00:08:48,100 --> 00:08:48,680
+[SPEAKER_01]: But that's what I mean.
+
+106
+00:08:48,700 --> 00:09:02,488
+[SPEAKER_01]: Like, you would be closer to contemplating consciousness rightly, by correctly being able to endure your moods without acting out of or losing perspective of what you've been absorbed, but now kind of put at the arm's length, but not denied it.
+
+107
+00:09:03,325 --> 00:09:13,168
+[SPEAKER_01]: That's closer to purifying your consciousness than you revolving around your ideas of what consciousness is and then trying to tie the loose ends and so on, or find plausible explanations.
+
+108
+00:09:13,368 --> 00:09:21,810
+[SPEAKER_01]: Purifying consciousness of those assumptions... Purifying consciousness of those assumptions of being in me, in space, exactly, in time, all of those things.
+
+109
+00:09:22,550 --> 00:09:31,013
+[SPEAKER_01]: Because all... anything that can be noted, anything that can be manifested as however subtle idea that might be,
+
+110
+00:09:32,325 --> 00:09:34,287
+[SPEAKER_01]: It's second to the existence of the five aggregates.
+
+111
+00:09:35,348 --> 00:09:36,749
+[SPEAKER_01]: In other words, it's because of them.
+
+112
+00:09:39,091 --> 00:09:40,192
+[SPEAKER_01]: So, it's second to the conscious.
+
+113
+00:09:40,212 --> 00:09:46,797
+[SPEAKER_01]: It's something you're conscious of, not something you can measure consciousness with.
+
+114
+00:09:46,817 --> 00:09:49,780
+[SPEAKER_01]: So, you always arrive later to the party, basically.
+
+115
+00:09:51,781 --> 00:09:52,802
+[SPEAKER_01]: That's what I mean.
+
+116
+00:09:53,122 --> 00:09:58,387
+[SPEAKER_01]: You find, when you start becoming aware of phenomena as phenomena,
+
+117
+00:09:59,518 --> 00:10:13,151
+[SPEAKER_01]: Without making them too objective or too subjective, seeing them to the extent that they have arisen, one of the main traits of that would be, as I was saying even in the early writings before, would be, oh, you find them already there.
+
+118
+00:10:13,211 --> 00:10:13,952
+[SPEAKER_01]: You don't create.
+
+119
+00:10:14,833 --> 00:10:18,677
+[SPEAKER_01]: Even when you recollect stuff, it's because it was already there, given beforehand.
+
+120
+00:10:25,475 --> 00:10:28,657
+[SPEAKER_00]: But the first step is to take a step back.
+
+121
+00:10:28,817 --> 00:10:30,618
+[SPEAKER_01]: Well, first step is to take a step back.
+
+122
+00:10:30,679 --> 00:10:40,925
+[SPEAKER_01]: So you realize, in order to be able to sustain the attitude of stepping back internally without denying things ahead of you, you then have to start restraining your behavior.
+
+123
+00:10:40,965 --> 00:10:43,767
+[SPEAKER_01]: See, practicing virtue is a way of stepping back.
+
+124
+00:10:44,008 --> 00:10:44,208
+[SPEAKER_00]: Yeah.
+
+125
+00:10:44,688 --> 00:10:47,090
+[SPEAKER_01]: Restraining your speech is a further way of stepping back.
+
+126
+00:10:47,810 --> 00:11:00,038
+[SPEAKER_01]: Restraining your unwholesome thoughts from intentionally allowing them to proliferate and revolve around sensuality, or will, or distraction, is another form of bracketing, and stepping back, and fortifying the stepping back.
+
+127
+00:11:01,519 --> 00:11:04,981
+[SPEAKER_01]: And then, sure, you can think about these ideas while you have stepped back.
+
+128
+00:11:05,061 --> 00:11:07,843
+[SPEAKER_01]: Those ideas will not pull you back into the sense objects.
+
+129
+00:11:08,303 --> 00:11:15,488
+[SPEAKER_01]: But if you just want to bypass that whole development, and just get the satisfaction of craving through clarifying these ideas that are oppressing you,
+
+130
+00:11:16,755 --> 00:11:23,403
+[SPEAKER_01]: You can spend your entire life, five lifetimes, of clarifying ideas and you won't be a step closer to understand consciousness.
+
+131
+00:11:23,903 --> 00:11:25,145
+[SPEAKER_00]: Getting the definitions down.
+
+132
+00:11:25,545 --> 00:11:25,766
+[SPEAKER_00]: Yeah.
+
+133
+00:11:25,906 --> 00:11:28,449
+[SPEAKER_00]: When you haven't made that those phenomenons stand out.
+
+134
+00:11:28,609 --> 00:11:28,969
+[SPEAKER_00]: Exactly.
+
+135
+00:11:29,249 --> 00:11:30,651
+[SPEAKER_00]: Through stepping back.
+
+136
+00:11:30,731 --> 00:11:31,152
+[SPEAKER_01]: Exactly.
+
+137
+00:11:31,312 --> 00:11:31,512
+[SPEAKER_00]: Yeah.
+

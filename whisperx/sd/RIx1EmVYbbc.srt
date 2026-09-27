@@ -1,0 +1,1624 @@
+1
+00:00:20,020 --> 00:00:43,028
+[SPEAKER_01]: So, I wonder if we can discuss today what is feeling and how is feeling different from emotion and also from sensation, because these three are commonly mixed up or regarded as the same thing, whereas actually they're quite different.
+
+2
+00:00:43,889 --> 00:00:46,970
+[SPEAKER_01]: So, I thought it would be good to clear that up.
+
+3
+00:00:49,535 --> 00:00:50,415
+[SPEAKER_01]: So, what is feeling?
+
+4
+00:00:52,236 --> 00:01:00,018
+[SPEAKER_01]: And how is that different from, let's say, emotions?
+
+5
+00:01:00,038 --> 00:01:06,160
+[SPEAKER_00]: Let's start with sensation, because that's the most obvious difference, I guess.
+
+6
+00:01:19,043 --> 00:01:19,563
+[SPEAKER_00]: Any ideas?
+
+7
+00:01:21,784 --> 00:01:29,608
+[SPEAKER_03]: Sensation could be like... any sensation, like sensation of cold, sensation of heat, sensation of... yeah, whatever.
+
+8
+00:01:29,668 --> 00:01:39,573
+[SPEAKER_03]: And feeling, maybe, like something more... primal, more in the background, like general unpleasantness, or general, like, agreeable, or neither of them.
+
+9
+00:01:40,394 --> 00:01:42,035
+[SPEAKER_03]: Could be, like, one of the distinctions.
+
+10
+00:01:43,736 --> 00:01:46,057
+[SPEAKER_00]: So, so, are sensations suffering?
+
+11
+00:01:46,517 --> 00:01:48,458
+[SPEAKER_00]: Can, can sensations make you suffer?
+
+12
+00:01:53,474 --> 00:02:01,922
+[SPEAKER_03]: Well, if I cling to them, like, in the sense that I believe that my unpleasantness comes from that, yes, but...
+
+13
+00:02:01,962 --> 00:02:08,067
+[SPEAKER_00]: So, really, it's not the sensation that makes you suffer, it's the feeling accompanying the sensation that will make you suffer.
+
+14
+00:02:08,127 --> 00:02:08,367
+[SPEAKER_03]: Yeah.
+
+15
+00:02:11,314 --> 00:02:20,242
+[SPEAKER_00]: So, that right there is already a primal distinction that would be overlooked in many contemporary practices and views.
+
+16
+00:02:20,282 --> 00:02:26,588
+[SPEAKER_00]: Because people would practice in the sense of enduring their sensations.
+
+17
+00:02:27,048 --> 00:02:29,250
+[SPEAKER_00]: It's quite a common thing.
+
+18
+00:02:29,330 --> 00:02:35,836
+[SPEAKER_00]: While you're meditating and stuff, like you have a pain in your knee, and you think that your reactions to that
+
+19
+00:02:36,937 --> 00:02:41,479
+[SPEAKER_00]: You confuse that with the same level as the dukkha that the Buddha was talking about.
+
+20
+00:02:41,499 --> 00:02:46,301
+[SPEAKER_00]: So, by training yourself to put up with sensations, you think you're training yourself to put up with your feelings.
+
+21
+00:02:46,401 --> 00:02:51,963
+[SPEAKER_00]: But, I mean, you might, by coincidence, sort of be enduring feelings at the same time.
+
+22
+00:02:52,423 --> 00:02:57,565
+[SPEAKER_00]: But the fact that you don't even see the distinction means, like, you're not actually training the same thing.
+
+23
+00:02:57,705 --> 00:02:58,005
+[SPEAKER_00]: That's right.
+
+24
+00:02:58,025 --> 00:03:01,707
+[SPEAKER_00]: Because you can't train this understanding by accident.
+
+25
+00:03:02,607 --> 00:03:12,971
+[SPEAKER_00]: So, if you're having an unpleasant sensation of your knee hurts or something, well, I mean, technically, you can't even say unpleasant sensation.
+
+26
+00:03:13,011 --> 00:03:15,652
+[SPEAKER_00]: That's like a moron.
+
+27
+00:03:15,732 --> 00:03:28,577
+[SPEAKER_00]: That's... it's a... you could say a sensation of heat, a sensation of pain, a sensation of cold, but you can't say unpleasant sensation, because that's already... you're involving the feeling there.
+
+28
+00:03:29,198 --> 00:03:29,598
+[SPEAKER_00]: So, you...
+
+29
+00:03:33,181 --> 00:03:37,145
+[SPEAKER_00]: So, unpleasant sensation is already two things.
+
+30
+00:03:37,445 --> 00:03:40,788
+[SPEAKER_00]: It's perception, which is the sensation, and feeling.
+
+31
+00:03:41,629 --> 00:03:48,616
+[SPEAKER_01]: And furthermore, even strictly speaking, the notion of sensation is also already somewhat of a confusion.
+
+32
+00:03:48,956 --> 00:03:58,438
+[SPEAKER_00]: Yeah, so, you can distinguish in terms of... like, obviously, the way it would be assumed would be more than it really is.
+
+33
+00:03:58,518 --> 00:04:00,879
+[SPEAKER_00]: Really, a sensation is just a perception of touch.
+
+34
+00:04:01,599 --> 00:04:03,559
+[SPEAKER_00]: It's one of the five senses, basically.
+
+35
+00:04:04,379 --> 00:04:11,281
+[SPEAKER_00]: The fifth sense has the counterpart of touches in the same way that the eye has the counterpart of sights.
+
+36
+00:04:11,961 --> 00:04:14,022
+[SPEAKER_00]: So, that's what a quote-unquote sensation is.
+
+37
+00:04:14,062 --> 00:04:14,742
+[SPEAKER_00]: It's just a touch.
+
+38
+00:04:16,203 --> 00:04:17,265
+[SPEAKER_00]: I mean, that's what it should be.
+
+39
+00:04:17,506 --> 00:04:19,409
+[SPEAKER_00]: And that's how the suttas describe it, basically.
+
+40
+00:04:19,430 --> 00:04:21,473
+[SPEAKER_00]: People might kind of put more into it.
+
+41
+00:04:21,714 --> 00:04:25,702
+[SPEAKER_01]: Yeah, because then, you see, then there might still be a further confusion about that.
+
+42
+00:04:25,722 --> 00:04:27,745
+[SPEAKER_01]: So, if you're used to a sensation in that sense,
+
+43
+00:04:28,925 --> 00:04:31,146
+[SPEAKER_01]: It can be used in the context of dhamma.
+
+44
+00:04:31,726 --> 00:04:56,477
+[SPEAKER_01]: But if a scientist is going to measure impulses going up and down your nervous system, or stuff that's happening in your brain, calling that sensation, creates more confusion, because it is conflating what is publicly observable from a scientific point of view, right, impulses traveling up and down your nervous system, with actual things like heat and cold that are experiential,
+
+45
+00:04:57,137 --> 00:05:15,767
+[SPEAKER_01]: And fully outside of the scope of the sciences, so the notion of sensation itself, as has already been established by the existential phenomenologists, is sort of a hybrid notion that tends to blur what is first-person experiential with what is third-person.
+
+46
+00:05:18,447 --> 00:05:19,968
+[SPEAKER_01]: Non-experiential, let's put it like that.
+
+47
+00:05:20,549 --> 00:05:22,110
+[SPEAKER_01]: So, that's one confusion.
+
+48
+00:05:22,410 --> 00:05:30,257
+[SPEAKER_01]: So, we should clear that up by saying that sensation, the way we're going to discuss it, is on the level of perception, which is fully within dhamma.
+
+49
+00:05:30,277 --> 00:05:36,042
+[SPEAKER_01]: So, we don't need to discuss what's happening inside the brain or the nervous system, because that's totally irrelevant for practicing Buddhist teaching.
+
+50
+00:05:36,702 --> 00:05:42,267
+[SPEAKER_01]: And then, that notion of sensation specified should be further distinguished from feeling.
+
+51
+00:05:43,408 --> 00:05:43,628
+[SPEAKER_00]: Right?
+
+52
+00:05:43,888 --> 00:05:44,089
+[SPEAKER_00]: Yeah.
+
+53
+00:05:45,269 --> 00:06:09,536
+[SPEAKER_00]: Because that sensation... yeah, like you said, because of putting science where it doesn't really belong, really, not that it's wrong in itself, but putting it where it doesn't belong, then you would make more out of this thing, which is absolutely not special in any sense, like sights, sounds, smells, tastes, touches, thoughts.
+
+54
+00:06:10,096 --> 00:06:11,797
+[SPEAKER_00]: And then, in regard to this, you have feeling.
+
+55
+00:06:12,437 --> 00:06:16,619
+[SPEAKER_00]: None of those six things are particularly, kind of, more special than the other.
+
+56
+00:06:16,719 --> 00:06:17,100
+[SPEAKER_00]: That's right.
+
+57
+00:06:17,200 --> 00:06:18,500
+[SPEAKER_00]: All of them are just perception.
+
+58
+00:06:19,141 --> 00:06:36,050
+[SPEAKER_00]: So, but yeah, if you start assuming that, kind of, the sensations go into your brain and stuff, then... And then, furthermore, you're assuming that freedom from suffering would be something that you can measure based on the... whatever chemicals or reactions in the brain.
+
+59
+00:06:36,130 --> 00:06:39,472
+[SPEAKER_00]: Well, all of what you're measuring is basically, eh...
+
+60
+00:06:39,932 --> 00:06:54,506
+[SPEAKER_00]: So, yeah, feeling is always something that's personal.
+
+61
+00:06:54,826 --> 00:06:59,050
+[SPEAKER_00]: It's always something that is basically from that first-person point of view.
+
+62
+00:06:59,090 --> 00:07:03,194
+[SPEAKER_00]: So, the part that a scientist might be able to observe would be
+
+63
+00:07:05,535 --> 00:07:05,855
+[SPEAKER_00]: Maybe.
+
+64
+00:07:06,375 --> 00:07:17,257
+[SPEAKER_00]: The heat, cold... Like, if there are some kind of nervous impulses that represent those sensations, those touches, then, yeah, that could be measured.
+
+65
+00:07:17,277 --> 00:07:26,159
+[SPEAKER_00]: But your personal relationship with that, that could... the level where really the development of mind happens, that you wouldn't be able to measure that on account of that.
+
+66
+00:07:26,379 --> 00:07:31,220
+[SPEAKER_01]: And even then, you could say a scientist might measure that something is 20 degrees Celsius,
+
+67
+00:07:31,760 --> 00:07:34,664
+[SPEAKER_01]: But whether that is for you, warm or cold, is still another matter.
+
+68
+00:07:36,827 --> 00:07:37,568
+[SPEAKER_00]: And it's...
+
+69
+00:07:38,389 --> 00:07:47,721
+[SPEAKER_00]: I mean, the suttas talk about how, for example, like the mind of an arahant, he would say, like, nobody would be able to tell it apart.
+
+70
+00:07:49,363 --> 00:07:53,386
+[SPEAKER_00]: Nobody would be able to to determine where he stands, basically.
+
+71
+00:07:53,946 --> 00:08:06,457
+[SPEAKER_00]: So, I mean, with a sensation, kind of, if it were on that level, then you just measure this thing and you can tell who's an arahant based on this very trivial, kind of, mundane thing.
+
+72
+00:08:06,517 --> 00:08:11,020
+[SPEAKER_00]: So, and furthermore, like, if your body just... What happens if your body
+
+73
+00:08:12,161 --> 00:08:22,609
+[SPEAKER_00]: If those chemicals and stuff stop working the way they did, which lead you to what you think is freedom from suffering, then arhantship would be kind of reversible.
+
+74
+00:08:22,689 --> 00:08:24,110
+[SPEAKER_00]: It would be impermanent.
+
+75
+00:08:24,330 --> 00:08:24,631
+[SPEAKER_00]: Dependent.
+
+76
+00:08:24,891 --> 00:08:25,511
+[SPEAKER_00]: Dependent, yeah.
+
+77
+00:08:25,551 --> 00:08:26,512
+[SPEAKER_00]: Dependent on form.
+
+78
+00:08:27,173 --> 00:08:28,413
+[SPEAKER_00]: Literally dependent on form.
+
+79
+00:08:28,554 --> 00:08:28,854
+[SPEAKER_00]: Yeah.
+
+80
+00:08:29,154 --> 00:08:32,036
+[SPEAKER_00]: So, how can that be what the Buddha was actually teaching?
+
+81
+00:08:32,076 --> 00:08:32,677
+[SPEAKER_00]: It's impossible.
+
+82
+00:08:33,397 --> 00:08:42,586
+[SPEAKER_00]: So, feelings, how to know what you're feeling and how to tell it apart from perception?
+
+83
+00:08:42,646 --> 00:08:53,797
+[SPEAKER_00]: Well, just imagine any time in your life where, if you, let's say, you had a reward coming on account of putting up with an unpleasant physical sensation,
+
+84
+00:08:54,978 --> 00:08:57,300
+[SPEAKER_00]: And, like, you were really close to getting that reward.
+
+85
+00:08:58,821 --> 00:09:17,536
+[SPEAKER_00]: I don't know, I mean, even doing sports and stuff, like, it's physically unpleasant, but the mental pleasure is there on the level of feeling, because you expect to win the competition, you know, all the praise and honor that's going to come out of you winning this.
+
+86
+00:09:17,596 --> 00:09:19,298
+[SPEAKER_00]: So, there is a pleasant feeling there.
+
+87
+00:09:19,958 --> 00:09:24,899
+[SPEAKER_00]: Even though the sensation might be very unpleasant on a physical level.
+
+88
+00:09:24,959 --> 00:09:33,542
+[SPEAKER_00]: So, that is the prime example of that distinction between feelings and sensations.
+
+89
+00:09:33,582 --> 00:09:40,344
+[SPEAKER_00]: And then, all the delight and lust that the Buddha talked about is towards your feelings.
+
+90
+00:09:40,904 --> 00:09:56,269
+[SPEAKER_00]: So, if a sensation is not... well, the light and lust and aversion for that matter... if a sensation is not producing a feeling, let's say a pleasant sensation, is not producing a feeling, a corresponding feeling,
+
+91
+00:09:56,989 --> 00:10:00,491
+[SPEAKER_00]: In regard to it, then, there can be no delight in that sensation.
+
+92
+00:10:00,511 --> 00:10:06,634
+[SPEAKER_00]: Like, you can be eating, you know, the best food in the world, for example, but you're in a really bad mood.
+
+93
+00:10:06,814 --> 00:10:09,715
+[SPEAKER_00]: Like, something bad really happened, just happened to you.
+
+94
+00:10:10,136 --> 00:10:17,659
+[SPEAKER_00]: You won't be able to delight in it, because the feeling that is reigning over your experience is unpleasant.
+
+95
+00:10:18,180 --> 00:10:19,840
+[SPEAKER_00]: So, that's not compatible.
+
+96
+00:10:20,401 --> 00:10:22,662
+[SPEAKER_00]: If it's a really unpleasant situation,
+
+97
+00:10:23,422 --> 00:10:28,589
+[SPEAKER_00]: Even though the sensation, quote-unquote, the the taste is pleasant, you won't be able to delight in it.
+
+98
+00:10:29,470 --> 00:10:37,901
+[SPEAKER_01]: So... Yeah, so we could say that there's feeling present for, let's say, each and every sense base, but there's always one
+
+99
+00:10:41,704 --> 00:11:01,301
+[SPEAKER_01]: So, practically speaking, it's probably most useful to just ask the question, what is the overall feeling that is enduring right now, from my experience as a whole, and not start getting lost in particular sense spaces, but just recognize
+
+100
+00:11:02,111 --> 00:11:06,734
+[SPEAKER_01]: That there will always be an overall feeling that you find yourself within, so to speak.
+
+101
+00:11:06,974 --> 00:11:07,214
+[SPEAKER_00]: Yeah.
+
+102
+00:11:07,374 --> 00:11:15,219
+[SPEAKER_00]: The Buddha said, on an occasion where you're feeling pleasure, you cannot be feeling pain at the same time, on the level of feeling.
+
+103
+00:11:15,759 --> 00:11:20,241
+[SPEAKER_00]: Sensation, like particular stuff, can be coming and going.
+
+104
+00:11:21,262 --> 00:11:24,724
+[SPEAKER_00]: But on that general level, you always only have one.
+
+105
+00:11:24,924 --> 00:11:27,566
+[SPEAKER_00]: He said that in Majjhima, 74, I think.
+
+106
+00:11:27,726 --> 00:11:31,148
+[SPEAKER_00]: He said, on an occasion where somebody feels a pleasant feeling,
+
+107
+00:11:31,668 --> 00:11:37,893
+[SPEAKER_00]: He doesn't feel an unpleasant or neither pleasant or unpleasant feeling because it is exclusive.
+
+108
+00:11:38,193 --> 00:11:40,334
+[SPEAKER_00]: Like, it is...
+
+109
+00:11:40,554 --> 00:11:46,999
+[SPEAKER_00]: In a practical sense, you can realize you can't be doing well and doing bad at the same time.
+
+110
+00:11:47,639 --> 00:11:48,680
+[SPEAKER_00]: It has to be one of the two.
+
+111
+00:11:49,201 --> 00:11:54,084
+[SPEAKER_00]: So, that kind of summarizes what a feeling is.
+
+112
+00:11:54,124 --> 00:11:58,787
+[SPEAKER_00]: It's kind of... What is the answer to the question, how am I doing right now?
+
+113
+00:12:03,036 --> 00:12:04,098
+[SPEAKER_04]: It's not like the...
+
+114
+00:12:04,118 --> 00:12:12,930
+[SPEAKER_04]: I mean, you can kind of look at that and read it and say, well, I don't know, for instance, right now, like, I don't know,
+
+115
+00:12:13,437 --> 00:12:17,198
+[SPEAKER_04]: My body is warm, which is pleasant, but my knee hurts, which is unpleasant.
+
+116
+00:12:17,498 --> 00:12:18,858
+[SPEAKER_04]: Therefore, that's not true.
+
+117
+00:12:19,098 --> 00:12:21,139
+[SPEAKER_04]: But, like, it's on that more general mood level.
+
+118
+00:12:21,159 --> 00:12:21,479
+[SPEAKER_00]: Yeah, yeah.
+
+119
+00:12:21,519 --> 00:12:24,720
+[SPEAKER_00]: So, like, how am I, in the most general sense, how am I doing?
+
+120
+00:12:24,880 --> 00:12:33,241
+[SPEAKER_00]: Means, like, would I like this to continue or would I like it to change?
+
+121
+00:12:34,142 --> 00:12:39,603
+[SPEAKER_00]: And if the answer is I would like it to change, then you can know there is some degree of unpleasantness there.
+
+122
+00:12:39,663 --> 00:12:39,903
+[SPEAKER_00]: So,
+
+123
+00:12:40,543 --> 00:12:43,644
+[SPEAKER_00]: Pleasure is what you want more of.
+
+124
+00:12:44,504 --> 00:12:46,184
+[SPEAKER_00]: This pleasure is what you want less of.
+
+125
+00:12:46,945 --> 00:13:09,230
+[SPEAKER_00]: And then there's the third one, which is neither pleasant nor unpleasant feeling, which is essentially the one that you wouldn't even be able to recognize unless you have been dwelling in seclusion, because the neither pleasant nor unpleasant feeling by someone who's not restrained is essentially automatically covered up with either pleasure or pain, because
+
+126
+00:13:10,553 --> 00:13:11,647
+[SPEAKER_00]: It's so kind of...
+
+127
+00:13:13,557 --> 00:13:14,077
+[SPEAKER_00]: Slippery.
+
+128
+00:13:15,317 --> 00:13:21,019
+[SPEAKER_00]: It's like... it's below the threshold of the things that you're used to looking at.
+
+129
+00:13:21,039 --> 00:13:26,880
+[SPEAKER_00]: So, then, when it's there, it automatically... you just can't stand it and you turn it into something else.
+
+130
+00:13:27,240 --> 00:13:31,061
+[SPEAKER_00]: You get busy, you get distracted, you get... you start thinking about stuff.
+
+131
+00:13:31,681 --> 00:13:33,261
+[SPEAKER_00]: You can't just stay with it.
+
+132
+00:13:33,281 --> 00:13:38,802
+[SPEAKER_01]: So... Yeah, I think it says when it's not known, it's experienced as unpleasant.
+
+133
+00:13:38,842 --> 00:13:39,022
+[SPEAKER_01]: Yeah.
+
+134
+00:13:39,342 --> 00:13:42,783
+[SPEAKER_01]: But when that feeling is known, it's actually experienced as pleasant.
+
+135
+00:13:42,883 --> 00:13:43,083
+[SPEAKER_00]: Yeah.
+
+136
+00:13:43,943 --> 00:14:00,587
+[SPEAKER_00]: Because it's the lack of disturbance that, for an ordinary person that's used to pleasure of the wrong kind, that lack of disturbance, really, is experienced more as a kind of, like, boredom.
+
+137
+00:14:00,967 --> 00:14:03,788
+[SPEAKER_00]: Like, kind of... Anxiety.
+
+138
+00:14:03,848 --> 00:14:04,088
+[SPEAKER_00]: Yeah.
+
+139
+00:14:04,268 --> 00:14:05,388
+[SPEAKER_00]: Anxiety, uneasiness.
+
+140
+00:14:06,188 --> 00:14:06,548
+[SPEAKER_00]: Sinking.
+
+141
+00:14:06,588 --> 00:14:07,689
+[SPEAKER_00]: Sinking, yeah.
+
+142
+00:14:07,849 --> 00:14:08,809
+[SPEAKER_01]: Which is unpleasant, yeah.
+
+143
+00:14:09,029 --> 00:14:12,290
+[SPEAKER_00]: Because you... it's like... like you've been running
+
+144
+00:14:13,750 --> 00:14:17,133
+[SPEAKER_00]: With a certain momentum, and then, suddenly, like, it stops.
+
+145
+00:14:17,454 --> 00:14:19,556
+[SPEAKER_00]: But you still need to, kind of, keep going.
+
+146
+00:14:19,576 --> 00:14:27,763
+[SPEAKER_00]: And then, you overlook the fact that, wait, when I actually stop running, as I've been doing before, it is actually more peaceful.
+
+147
+00:14:28,264 --> 00:14:28,704
+[SPEAKER_00]: But because
+
+148
+00:14:29,605 --> 00:14:33,568
+[SPEAKER_00]: The momentum, kind of, is the thing that you put first.
+
+149
+00:14:34,248 --> 00:14:36,770
+[SPEAKER_00]: You don't see that, actually, this is better.
+
+150
+00:14:36,810 --> 00:14:44,195
+[SPEAKER_00]: So, neither pleasant nor unpleasant feeling is what a person then needs to start to discern.
+
+151
+00:14:44,215 --> 00:14:56,483
+[SPEAKER_00]: Like, pleasure and pain is essentially... anybody can tell, if they... with just some basic instruction, when they're feeling pleasant, where they're feeling unpleasant, but that neutral one is...
+
+152
+00:14:57,944 --> 00:14:58,184
+[SPEAKER_00]: So,
+
+153
+00:15:00,460 --> 00:15:10,427
+[SPEAKER_00]: Then, eh... since we cleared up what is the difference between feeling and the sensations, then what would be emotions?
+
+154
+00:15:13,188 --> 00:15:17,411
+[SPEAKER_01]: Yeah, perhaps you can ask, like, are you responsible for your emotions?
+
+155
+00:15:18,552 --> 00:15:20,073
+[SPEAKER_01]: Or are they things that happen to you?
+
+156
+00:15:21,134 --> 00:15:22,114
+[SPEAKER_01]: What do people here say?
+
+157
+00:15:27,118 --> 00:15:29,199
+[SPEAKER_03]: Well, I guess if I was responsible, I would be
+
+158
+00:15:32,966 --> 00:15:39,511
+[SPEAKER_03]: If I was controlling all processes of it, I would never experience anger or things like that, I guess.
+
+159
+00:15:40,232 --> 00:15:44,895
+[SPEAKER_03]: So, as I said, I'm at least not fully responsible for them to appear.
+
+160
+00:15:47,617 --> 00:15:48,118
+[SPEAKER_01]: Anyone else?
+
+161
+00:15:48,518 --> 00:15:49,098
+[SPEAKER_01]: Any ideas?
+
+162
+00:15:50,379 --> 00:15:55,143
+[SPEAKER_01]: Because it's a common view that emotions are something that happen, you know,
+
+163
+00:15:55,840 --> 00:15:57,921
+[SPEAKER_02]: I'm struck by jealousy or something like this.
+
+164
+00:15:58,741 --> 00:15:59,502
+[SPEAKER_02]: Common expression.
+
+165
+00:16:01,303 --> 00:16:03,504
+[SPEAKER_01]: But I think that this is worthwhile discussing.
+
+166
+00:16:04,544 --> 00:16:04,804
+[SPEAKER_01]: Right?
+
+167
+00:16:05,225 --> 00:16:07,906
+[SPEAKER_01]: So, emotion, literally the word, right?
+
+168
+00:16:08,186 --> 00:16:13,228
+[SPEAKER_01]: Emotion means the mind being moved by things or disturbed.
+
+169
+00:16:13,909 --> 00:16:16,090
+[SPEAKER_01]: That's what emotion means.
+
+170
+00:16:17,590 --> 00:16:24,754
+[SPEAKER_01]: And so, it seems to me that it is crucial to recognize that all emotions are intentional.
+
+171
+00:16:26,100 --> 00:16:35,326
+[SPEAKER_01]: In the sense that they're always about something, but that intentionality should be strictly separated from the cause of your emotions.
+
+172
+00:16:37,027 --> 00:16:45,152
+[SPEAKER_01]: So, for example, someone breaks my favorite coffee cup and I'm angry with that person for having broken my coffee cup.
+
+173
+00:16:45,272 --> 00:16:48,234
+[SPEAKER_01]: That's what the emotion of anger is about.
+
+174
+00:16:48,934 --> 00:16:50,135
+[SPEAKER_01]: That's the intentionality.
+
+175
+00:16:51,036 --> 00:16:54,838
+[SPEAKER_01]: But that doesn't mean that my coffee cup
+
+176
+00:16:55,727 --> 00:17:01,552
+[SPEAKER_01]: Having been broken is the cause of my being angry.
+
+177
+00:17:01,572 --> 00:17:03,353
+[SPEAKER_01]: Those are two totally separate things.
+
+178
+00:17:05,115 --> 00:17:10,879
+[SPEAKER_01]: So, what is then the cause of me getting angry when someone breaks my favorite coffee cup?
+
+179
+00:17:12,080 --> 00:17:12,801
+[SPEAKER_01]: Why would that happen?
+
+180
+00:17:19,372 --> 00:17:22,034
+[SPEAKER_01]: Yes, that's exactly what I was going to say.
+
+181
+00:17:22,114 --> 00:17:23,255
+[SPEAKER_01]: Yeah, very good.
+
+182
+00:17:23,275 --> 00:17:30,861
+[SPEAKER_01]: And then, so, on the level of emotions then, like, what needs to be there in order for that emotion to flood up to begin with?
+
+183
+00:17:32,477 --> 00:17:34,098
+[SPEAKER_01]: So, okay, maybe one step back.
+
+184
+00:17:34,178 --> 00:17:36,860
+[SPEAKER_01]: So, there is an emotion, like anger, which is unpleasant.
+
+185
+00:17:37,280 --> 00:17:39,841
+[SPEAKER_01]: So, that is how we can already separate emotion from feeling.
+
+186
+00:17:40,322 --> 00:17:46,185
+[SPEAKER_01]: So, all emotions are already, let's say, complete phenomenon.
+
+187
+00:17:46,665 --> 00:17:47,986
+[SPEAKER_01]: Well, that's actually what phenomenon means.
+
+188
+00:17:48,026 --> 00:17:50,687
+[SPEAKER_01]: It means, like, the totality of something which is present.
+
+189
+00:17:51,288 --> 00:17:54,490
+[SPEAKER_01]: And one aspect of it is that it is either pleasant, unpleasant, or neither.
+
+190
+00:17:55,070 --> 00:17:58,072
+[SPEAKER_01]: That's how we can separate feeling, again, from emotion.
+
+191
+00:17:58,853 --> 00:18:06,958
+[SPEAKER_01]: But now we can ask also the question, why is... based on what is one liable to emotions, which are always unpleasant, by the way?
+
+192
+00:18:08,179 --> 00:18:14,683
+[SPEAKER_01]: Well, that is also what we can discuss, but I just said it, like, emotions are always unpleasant, but why do they happen?
+
+193
+00:18:18,125 --> 00:18:18,586
+[SPEAKER_03]: Attachment.
+
+194
+00:18:20,207 --> 00:18:21,548
+[SPEAKER_01]: Yeah, exactly.
+
+195
+00:18:22,128 --> 00:18:28,012
+[SPEAKER_01]: If I'm attached to my favorite coffee cup, then somebody breaking it will make me angry,
+
+196
+00:18:29,167 --> 00:18:31,530
+[SPEAKER_01]: With that person for having broken my coffee cup.
+
+197
+00:18:31,570 --> 00:18:46,370
+[SPEAKER_01]: But if I confuse the intentionality that my anger is about my coffee cup having been broken with the cause, namely my attachment, if that's... if that's conflated, I will never be able to free myself from emotions, because stuff in the world just happens.
+
+198
+00:18:47,111 --> 00:18:48,132
+[SPEAKER_01]: You cannot prevent that.
+
+199
+00:18:48,552 --> 00:19:02,063
+[SPEAKER_01]: So, if I do not want to be liable to suffer the unpleasantness of emotions, rather than assuming full control over the world, which is impossible, you should actually move in the opposite direction and start questioning whether you're still attached to things.
+
+200
+00:19:02,869 --> 00:19:09,191
+[SPEAKER_00]: So, what is the... because then, if you say it's because you're attached to the coffee cup, then it might seem like...
+
+201
+00:19:09,211 --> 00:19:12,752
+[SPEAKER_00]: So, I need to find everything that... every single thing that I'm attached to and then give it up.
+
+202
+00:19:12,792 --> 00:19:17,213
+[SPEAKER_00]: So, how could you... why are you more acutely attached to?
+
+203
+00:19:19,514 --> 00:19:21,254
+[SPEAKER_02]: Well, the assumption of feeling.
+
+204
+00:19:21,374 --> 00:19:21,654
+[SPEAKER_02]: Yes.
+
+205
+00:19:21,814 --> 00:19:23,375
+[SPEAKER_02]: That's the most general.
+
+206
+00:19:23,695 --> 00:19:24,335
+[SPEAKER_02]: Of course.
+
+207
+00:19:24,355 --> 00:19:27,836
+[SPEAKER_00]: So, really, you're attached to not experiencing this pleasure.
+
+208
+00:19:28,596 --> 00:19:30,637
+[SPEAKER_00]: So, you might say the coffee cup
+
+209
+00:19:32,384 --> 00:19:45,317
+[SPEAKER_00]: Because many times when people say, like, um, uh, I shouldn't be attached to this, what they think of it as is more like, I shouldn't, for example, feel this pleasure when the coffee cup is broken.
+
+210
+00:19:46,058 --> 00:19:46,859
+[SPEAKER_00]: But that's not on you.
+
+211
+00:19:46,899 --> 00:19:51,544
+[SPEAKER_00]: Like, um, you feel this pleasure because that is part of the arrogance.
+
+212
+00:19:52,645 --> 00:19:52,925
+[SPEAKER_00]: It is
+
+213
+00:19:54,127 --> 00:20:00,473
+[SPEAKER_00]: Even if it's not the coffee cup, even if you give everything up, you live under a bridge, and you have no possessions, quote-unquote.
+
+214
+00:20:00,853 --> 00:20:06,339
+[SPEAKER_00]: When this body breaks, you're gonna feel displeasure, at least on that account.
+
+215
+00:20:06,379 --> 00:20:09,582
+[SPEAKER_00]: So, the way to free yourself fully is not to have attachment.
+
+216
+00:20:10,203 --> 00:20:17,366
+[SPEAKER_00]: Towards what you feel and on that more kind of elemental level.
+
+217
+00:20:17,426 --> 00:20:23,029
+[SPEAKER_00]: So, you would fix every problem by...
+
+218
+00:20:25,790 --> 00:20:30,153
+[SPEAKER_00]: Giving up, as you said, the resistance to unpleasant feeling.
+
+219
+00:20:30,693 --> 00:20:34,976
+[SPEAKER_00]: That is the fundamental... And that is the cause of the emotion.
+
+220
+00:20:35,436 --> 00:20:40,219
+[SPEAKER_00]: If there isn't any resistance to the unpleasant feeling,
+
+221
+00:20:40,899 --> 00:20:45,943
+[SPEAKER_00]: There cannot be anger, there cannot be jealousy, there cannot be... but the unpleasant feeling is still there.
+
+222
+00:20:46,043 --> 00:20:46,263
+[SPEAKER_00]: Yeah.
+
+223
+00:20:46,684 --> 00:20:51,548
+[SPEAKER_00]: Like, because still, I don't know, you saw something factually as...
+
+224
+00:20:51,988 --> 00:20:56,532
+[SPEAKER_00]: I mean, the Buddha gave the simile in, I think, Majjhima Nikaya 140.
+
+225
+00:20:56,592 --> 00:21:04,898
+[SPEAKER_00]: He said, it's like if two logs or pieces of wood were to be rubbed together and then they produce heat.
+
+226
+00:21:04,938 --> 00:21:08,281
+[SPEAKER_00]: For as long as you're rubbing them together, they're going to be producing heat.
+
+227
+00:21:08,401 --> 00:21:09,082
+[SPEAKER_00]: In the same way,
+
+228
+00:21:09,762 --> 00:21:18,265
+[SPEAKER_00]: Whenever there is a pressure or a contact that is to be experienced as pleasant, pleasant feeling will remain.
+
+229
+00:21:18,445 --> 00:21:18,665
+[SPEAKER_00]: Yes.
+
+230
+00:21:18,945 --> 00:21:26,848
+[SPEAKER_00]: For as long as... and so, you have no control over what situation is leading to an unpleasant feeling.
+
+231
+00:21:27,028 --> 00:21:30,829
+[SPEAKER_00]: That will depend on various factors that are not in your control.
+
+232
+00:21:30,869 --> 00:21:36,891
+[SPEAKER_00]: Like, you might have been born with preference for a certain food, for example, that another person hates.
+
+233
+00:21:37,791 --> 00:21:45,117
+[SPEAKER_00]: And then, for as long as you're in contact with this, you will be experiencing pleasure, whereas the other person will not.
+
+234
+00:21:45,357 --> 00:21:56,866
+[SPEAKER_00]: And so, your say or your job is, regardless of what feeling comes, you must be able not to lean towards it or resist it.
+
+235
+00:21:57,747 --> 00:22:02,191
+[SPEAKER_00]: And on that level, then, it doesn't matter, like, what specific thing it is.
+
+236
+00:22:03,152 --> 00:22:03,392
+[SPEAKER_01]: Yeah.
+
+237
+00:22:03,732 --> 00:22:07,355
+[SPEAKER_01]: That is, generally, for basically all phenomena,
+
+238
+00:22:09,692 --> 00:22:14,817
+[SPEAKER_01]: So, this is the level where basically the practice of dhamma applies.
+
+239
+00:22:15,437 --> 00:22:17,860
+[SPEAKER_01]: And one, let's say,
+
+240
+00:22:19,341 --> 00:22:26,486
+[SPEAKER_01]: And so, where it also applies is with emotions, which is just one kind of phenomenon that also happens in people's lives.
+
+241
+00:22:26,506 --> 00:22:34,192
+[SPEAKER_01]: So, anger, as you said, envy, jealousy, loneliness, self-pity, and so on.
+
+242
+00:22:34,312 --> 00:22:35,753
+[SPEAKER_01]: They're all unpleasant.
+
+243
+00:22:36,474 --> 00:22:43,739
+[SPEAKER_01]: And so, once we have cleared up the distinction between the intentional structure and the cause of the emotion, by being the
+
+244
+00:22:44,313 --> 00:22:53,176
+[SPEAKER_01]: The resistance towards not wanting to experience unpleasant feelings, one basically should go about it, as we have discussed in other talks already.
+
+245
+00:22:54,057 --> 00:23:00,479
+[SPEAKER_01]: So then, you see, but the difficulty is then that there can be a natural tendency to wanting to get rid of the emotions because they are unpleasant.
+
+246
+00:23:00,879 --> 00:23:03,921
+[SPEAKER_01]: So, I shouldn't feel angry.
+
+247
+00:23:04,241 --> 00:23:07,202
+[SPEAKER_01]: It's so childish to feel jealous.
+
+248
+00:23:07,922 --> 00:23:08,602
+[SPEAKER_01]: And all those things.
+
+249
+00:23:09,062 --> 00:23:09,943
+[SPEAKER_01]: Whereas, actually,
+
+250
+00:23:11,013 --> 00:23:20,865
+[SPEAKER_01]: Yeah, that phenomenon called emotion is still what happens, but one wants to then realize that it does still happen on account of not having understood that feeling.
+
+251
+00:23:20,965 --> 00:23:21,105
+[SPEAKER_01]: Yeah.
+
+252
+00:23:21,286 --> 00:23:26,172
+[SPEAKER_01]: So, I would say then that one is 100% fully responsible
+
+253
+00:23:26,712 --> 00:23:28,833
+[SPEAKER_01]: So, there's a there's a sort of a double
+
+254
+00:23:52,003 --> 00:23:59,008
+[SPEAKER_00]: So, on the one hand, you are fully responsible, but at the same time, you don't have control over them, as you said before.
+
+255
+00:23:59,048 --> 00:24:01,629
+[SPEAKER_00]: It's not like you decide to be angry.
+
+256
+00:24:01,889 --> 00:24:03,010
+[SPEAKER_00]: No.
+
+257
+00:24:03,350 --> 00:24:04,952
+[SPEAKER_00]: For a puṭrjuna, that's how it works.
+
+258
+00:24:05,172 --> 00:24:09,454
+[SPEAKER_00]: For a person who doesn't see the sign of their mind, means a person who doesn't see
+
+259
+00:24:10,375 --> 00:24:21,080
+[SPEAKER_00]: How they resist, or how they delight in their feelings, means they don't see, as the Buddha would call it, the fuel that's powering these emotions.
+
+260
+00:24:21,200 --> 00:24:32,285
+[SPEAKER_00]: So then, what they would be trying to do, as you said just now, is, like, try to get rid of the emotions directly, by countering them with this, like, when I have anger, I counter it with the emotion of metta.
+
+261
+00:24:32,525 --> 00:24:32,765
+[SPEAKER_00]: Yeah.
+
+262
+00:24:33,025 --> 00:24:47,655
+[SPEAKER_00]: But, it's really... the only way to actually solve the issues that have managed it is to see and recognize that intention to either... how the mind is either leaning towards or leaning away from the feeling.
+
+263
+00:24:48,175 --> 00:24:57,261
+[SPEAKER_00]: And then, don't worry about the emotion because you can't... that is arisen on account of what you did in the past and you can't, like, undo that.
+
+264
+00:24:58,281 --> 00:25:03,582
+[SPEAKER_00]: Really, emotions, you could say, when the suttas talk about the results of your actions.
+
+265
+00:25:04,802 --> 00:25:13,724
+[SPEAKER_00]: Sometimes, obviously, there is a component of like, you know, you are stingy and then, as the Buddha would say, in the next life you would be reborn as a poor person or whatever.
+
+266
+00:25:13,764 --> 00:25:19,705
+[SPEAKER_00]: But, more importantly, you could say emotions are the results of your actions.
+
+267
+00:25:20,206 --> 00:25:22,066
+[SPEAKER_00]: Your action in the sense of resisting feeling.
+
+268
+00:25:22,486 --> 00:25:26,607
+[SPEAKER_00]: So, resisting feeling, for example, having resisted feeling in the past,
+
+269
+00:25:27,528 --> 00:25:31,290
+[SPEAKER_00]: The result of that is, when you encounter this pleasure, anger will be there.
+
+270
+00:25:31,810 --> 00:25:32,431
+[SPEAKER_00]: That's a result.
+
+271
+00:25:32,451 --> 00:25:33,531
+[SPEAKER_02]: Manifesting in this way.
+
+272
+00:25:33,732 --> 00:25:33,952
+[SPEAKER_02]: Yeah.
+
+273
+00:25:34,052 --> 00:25:35,012
+[SPEAKER_02]: These particular ways.
+
+274
+00:25:35,272 --> 00:25:35,873
+[SPEAKER_02]: Yeah.
+
+275
+00:25:36,033 --> 00:25:36,673
+[SPEAKER_00]: That's that.
+
+276
+00:25:36,733 --> 00:25:41,296
+[SPEAKER_00]: So, that's like a foundation of resistance that then gets manifested in these.
+
+277
+00:25:41,716 --> 00:25:47,760
+[SPEAKER_00]: So, if it happens to be that something bad or something annoying happens, you're going to get angry.
+
+278
+00:25:48,600 --> 00:25:55,925
+[SPEAKER_00]: If you see, I don't know, pleasure, what's going to happen is you're going to be craving for it.
+
+279
+00:25:56,466 --> 00:26:00,749
+[SPEAKER_00]: If you see... if you're sleepy, that's going to result in you getting lazy.
+
+280
+00:26:01,469 --> 00:26:07,574
+[SPEAKER_00]: If your mind gets, you know, has a lot of movement in it, that's going to result in restlessness.
+
+281
+00:26:08,174 --> 00:26:11,216
+[SPEAKER_00]: So, you see, what I'm describing now is basically emotions.
+
+282
+00:26:11,436 --> 00:26:12,037
+[SPEAKER_00]: You could take it
+
+283
+00:26:12,537 --> 00:26:14,538
+[SPEAKER_00]: Kind of on the same level as the five hindrances.
+
+284
+00:26:14,558 --> 00:26:15,178
+[SPEAKER_00]: Yes, yes, yes.
+
+285
+00:26:15,558 --> 00:26:22,720
+[SPEAKER_00]: It comes up as a result of things that you've been doing in the past, but when it's there, you can't just cover it up and get rid of it.
+
+286
+00:26:22,780 --> 00:26:24,040
+[SPEAKER_00]: You have to remove the cause.
+
+287
+00:26:24,960 --> 00:26:28,601
+[SPEAKER_00]: And the cause is... the cause is right now.
+
+288
+00:26:28,661 --> 00:26:33,643
+[SPEAKER_00]: Like, the cause is that even now, look, I'm trying to get rid of this emotion.
+
+289
+00:26:33,723 --> 00:26:33,943
+[SPEAKER_00]: Why?
+
+290
+00:26:34,003 --> 00:26:35,203
+[SPEAKER_00]: Because I'm still resisting.
+
+291
+00:26:35,463 --> 00:26:39,524
+[SPEAKER_00]: I'm still maintaining the same principle of resisting unpleasant feeling.
+
+292
+00:26:40,065 --> 00:26:40,845
+[SPEAKER_00]: So then, like,
+
+293
+00:26:41,785 --> 00:26:47,512
+[SPEAKER_00]: Anything that you might do, you replace this with that, and you antidote with loving-kindness and stuff.
+
+294
+00:26:47,893 --> 00:26:51,076
+[SPEAKER_00]: All of that is still within the fact that you resist this pleasure.
+
+295
+00:26:51,257 --> 00:26:52,498
+[SPEAKER_00]: So, you're feeding the same thing.
+
+296
+00:26:53,019 --> 00:27:01,048
+[SPEAKER_00]: Even if you successfully manage to, you know, get the emotion that you want, the fact is you're still
+
+297
+00:27:01,969 --> 00:27:05,031
+[SPEAKER_00]: Not actually addressing the the fundamental cause.
+
+298
+00:27:05,071 --> 00:27:10,735
+[SPEAKER_00]: So, then, in the future, when other unpleasant feelings manifest, you're going to have to go through the same thing again.
+
+299
+00:27:11,176 --> 00:27:14,198
+[SPEAKER_00]: Emotion is going to be there and you're going to have to counter it with something else.
+
+300
+00:27:14,318 --> 00:27:23,744
+[SPEAKER_00]: But if you actually address the the craving for or against feeling, then emotions would not arise in the first place.
+
+301
+00:27:24,485 --> 00:27:27,027
+[SPEAKER_00]: So, you don't need to counter or manage or do anything.
+
+302
+00:27:27,547 --> 00:27:30,769
+[SPEAKER_00]: So, that's kind of the... Yeah, but you see...
+
+303
+00:27:32,151 --> 00:27:32,832
+[SPEAKER_01]: That's all correct.
+
+304
+00:27:33,213 --> 00:27:44,473
+[SPEAKER_01]: But would you not say, like, for example, if somebody still has the view that anger might serve a useful purpose, that there are occasions where it is in your welfare to be angry,
+
+305
+00:27:45,367 --> 00:27:50,871
+[SPEAKER_01]: Then, will somebody be able to contemplate the dhamma correctly on the level of feeling, if they still hold a view like that?
+
+306
+00:27:51,551 --> 00:27:55,173
+[SPEAKER_01]: So, perhaps we should make a slight...
+
+307
+00:27:55,313 --> 00:28:07,481
+[SPEAKER_01]: This is all correct, but I think to go one step slightly back, then there is a whole area there, where there is a ton of confusion, where people might think, no, no, no, if this or that happens in my life, certainly I'm justified in being angry.
+
+308
+00:28:07,541 --> 00:28:12,905
+[SPEAKER_01]: Well, those views need to go, because to the extent that you allow room
+
+309
+00:28:14,712 --> 00:28:23,541
+[SPEAKER_01]: For anger being useful, you will not be able to rightly endure the displeasure of the anger when it arises.
+
+310
+00:28:23,601 --> 00:28:25,663
+[SPEAKER_01]: That anger won't go.
+
+311
+00:28:26,424 --> 00:28:35,954
+[SPEAKER_01]: So, one also has views about emotions and it seems to me that it is quite useful to regard them as generally quite useless and
+
+312
+00:28:36,875 --> 00:28:55,908
+[SPEAKER_00]: Yeah, but I think that might also be confused, because, again, if you don't see that distinction between this pleasure, between emotion and feeling, it might sound like, oh, yeah, I shouldn't have emotions anymore.
+
+313
+00:28:56,148 --> 00:29:00,591
+[SPEAKER_00]: It sounds like you should become like some sort of grey blob of nothing, basically.
+
+314
+00:29:00,631 --> 00:29:01,732
+[SPEAKER_00]: But no, it's...
+
+315
+00:29:03,253 --> 00:29:04,754
+[SPEAKER_00]: Emotions are
+
+316
+00:29:05,815 --> 00:29:09,158
+[SPEAKER_00]: On top of, like, gratuitously added on top of the feelings.
+
+317
+00:29:09,879 --> 00:29:16,424
+[SPEAKER_00]: So, and feelings in and of themselves, when you feel something unpleasant, you will
+
+318
+00:29:18,017 --> 00:29:25,264
+[SPEAKER_00]: Without emotion, be able to do something to fix that situation, if it is something that's not unwholesome, for example.
+
+319
+00:29:25,324 --> 00:29:30,549
+[SPEAKER_00]: So, as the Buddha would say, when his back would hurt, he would lie down.
+
+320
+00:29:30,809 --> 00:29:41,979
+[SPEAKER_00]: When his... when somebody would say something really foolish, like misrepresenting him, he would have the capacity to tell them off and strongly rebuke them.
+
+321
+00:29:42,660 --> 00:29:43,804
+[SPEAKER_00]: Without having emotions.
+
+322
+00:29:44,466 --> 00:29:48,197
+[SPEAKER_00]: So, emotion is... the problem with emotion is that it's something that...
+
+323
+00:29:49,412 --> 00:29:50,753
+[SPEAKER_00]: Kind of like you're subjected to.
+
+324
+00:29:51,434 --> 00:29:53,375
+[SPEAKER_00]: That's the main characteristic of emotions.
+
+325
+00:29:53,395 --> 00:29:55,116
+[SPEAKER_00]: Like, you're not really in control of this.
+
+326
+00:29:55,777 --> 00:30:01,641
+[SPEAKER_00]: So, you might be able to say, like, oh, I need this so that I can do such and such.
+
+327
+00:30:01,741 --> 00:30:04,143
+[SPEAKER_00]: But really, you're not using it.
+
+328
+00:30:04,283 --> 00:30:05,064
+[SPEAKER_00]: It's using you.
+
+329
+00:30:05,424 --> 00:30:06,165
+[SPEAKER_00]: That's the whole thing.
+
+330
+00:30:06,185 --> 00:30:12,710
+[SPEAKER_00]: So, you don't have, like, you might believe that you're using your anger for a beneficial.
+
+331
+00:30:12,770 --> 00:30:16,273
+[SPEAKER_00]: But really, if you ask yourself, I don't have a say in this,
+
+332
+00:30:16,933 --> 00:30:21,415
+[SPEAKER_00]: Like, if I tell myself to stop being angry, you won't be able to do it by choice.
+
+333
+00:30:21,455 --> 00:30:23,816
+[SPEAKER_00]: So, it's really controlling you.
+
+334
+00:30:23,977 --> 00:30:34,502
+[SPEAKER_00]: So, well, to some extent, I guess, it would depend on some degree of faith, but at the same time, like, clarifying the actual meaning of these terms.
+
+335
+00:30:34,562 --> 00:30:42,886
+[SPEAKER_00]: Because, see, for example, people who have the view that if you can't see the distinction between these three things,
+
+336
+00:30:43,346 --> 00:30:45,308
+[SPEAKER_00]: And you think that feelings are sensations.
+
+337
+00:30:46,008 --> 00:30:49,110
+[SPEAKER_00]: And then, the whole thing just gets messed up.
+
+338
+00:30:49,130 --> 00:30:56,616
+[SPEAKER_00]: Because how can they... how can then you understand the statement that you get rid of the emotions, but you still have feelings?
+
+339
+00:30:58,057 --> 00:31:00,078
+[SPEAKER_00]: Then, that would sound like, oh, I just have sensations.
+
+340
+00:31:00,279 --> 00:31:03,881
+[SPEAKER_00]: And then, mentally, there is no pleasure and pain.
+
+341
+00:31:03,901 --> 00:31:09,586
+[SPEAKER_00]: And that's what people would think of as an arahants, as a kind of robots, that that only has sensations.
+
+342
+00:31:09,826 --> 00:31:11,127
+[SPEAKER_00]: And there is no feeling.
+
+343
+00:31:11,747 --> 00:31:20,778
+[SPEAKER_00]: So, the whole thing would get scrambled up, but when you see the difference between these three things, you see there can still be pleasure.
+
+344
+00:31:22,416 --> 00:31:31,862
+[SPEAKER_00]: Like a mental experience of pleasure, there can still be a mental experience of displeasure, and those things are always, as you said, intentional.
+
+345
+00:31:32,062 --> 00:31:39,026
+[SPEAKER_00]: So, there will always be, eh... to put it coarsely, like an object that this thing is directed towards.
+
+346
+00:31:39,046 --> 00:31:42,488
+[SPEAKER_00]: So, you will be able to make choices in regard to that object.
+
+347
+00:31:43,128 --> 00:31:45,190
+[SPEAKER_00]: So, what then is the need for emotion?
+
+348
+00:31:45,210 --> 00:31:48,813
+[SPEAKER_00]: Like, if something needs to be done, you have all you need.
+
+349
+00:31:48,853 --> 00:31:51,055
+[SPEAKER_00]: You have the feeling and you have the intention.
+
+350
+00:31:51,115 --> 00:32:00,284
+[SPEAKER_00]: So, the emotion is kind of, really, might seem like, like, kind of, you might justify it after the fact.
+
+351
+00:32:01,105 --> 00:32:07,230
+[SPEAKER_00]: Like, because you can't get rid of it, then you convince yourself that you need to have it or something.
+
+352
+00:32:07,270 --> 00:32:09,072
+[SPEAKER_00]: But really, if you're honest with yourself,
+
+353
+00:32:10,854 --> 00:32:12,992
+[SPEAKER_00]: If I had a choice not to have this...
+
+354
+00:32:15,542 --> 00:32:16,562
+[SPEAKER_01]: That's the whole point.
+
+355
+00:32:16,662 --> 00:32:22,204
+[SPEAKER_01]: You would be much better off without emotions, but that doesn't mean that there can't be any feeling, because there will be.
+
+356
+00:32:22,825 --> 00:32:29,787
+[SPEAKER_01]: Nor does it mean that there can't be any sensations either, because there will still be heat and cold and all those things.
+
+357
+00:32:29,827 --> 00:32:31,347
+[SPEAKER_01]: And so, that's not the issue either.
+
+358
+00:32:31,568 --> 00:32:33,908
+[SPEAKER_00]: Mind you, some people might say, like...
+
+359
+00:32:33,928 --> 00:32:41,331
+[SPEAKER_00]: I'm sure some people, if you ask them, you give them a button or something that says, press this and you won't have emotions anymore.
+
+360
+00:32:41,371 --> 00:32:41,611
+[SPEAKER_00]: Well,
+
+361
+00:32:42,371 --> 00:32:50,936
+[SPEAKER_00]: A good amount of people might be scared of that because of their own assumption of what their own existence is, basically.
+
+362
+00:32:51,016 --> 00:33:01,101
+[SPEAKER_00]: Like, they would think not having emotions is just going to be this kind of torture, bleak, kind of lifeless states.
+
+363
+00:33:01,481 --> 00:33:04,863
+[SPEAKER_00]: But really, it is where the... like, everything that you're seeking
+
+364
+00:33:05,723 --> 00:33:14,411
+[SPEAKER_00]: in your life, by... completely the wrong way, really, is because you are essentially trying to get rid of your emotions.
+
+365
+00:33:14,591 --> 00:33:18,055
+[SPEAKER_01]: Because you are already moved, in the first place, by things in the world.
+
+366
+00:33:18,415 --> 00:33:25,041
+[SPEAKER_01]: And the question is, is it pleasurable to live with the mind that is moved by random things happening in the world?
+
+367
+00:33:25,201 --> 00:33:25,361
+[SPEAKER_02]: Yeah.
+
+368
+00:33:25,902 --> 00:33:29,605
+[SPEAKER_01]: Well, obviously, an intelligent person would come to the conclusion that it isn't.
+
+369
+00:33:29,765 --> 00:33:29,926
+[SPEAKER_02]: Yeah.
+
+370
+00:33:30,506 --> 00:33:30,786
+[SPEAKER_02]: But that...
+
+371
+00:33:30,806 --> 00:33:31,307
+[SPEAKER_02]: I could say that.
+
+372
+00:33:34,449 --> 00:33:48,723
+[SPEAKER_02]: So, if you... if people basically see that emotions is a kind of movement and depending on it, so that becomes very core of existence, being, yeah?
+
+373
+00:33:49,404 --> 00:33:53,588
+[SPEAKER_02]: So, that's why it's so difficult to imagine not having emotions.
+
+374
+00:33:54,248 --> 00:34:01,832
+[SPEAKER_02]: Because you go to the extreme of basically imagining that this is, yeah, lifeless or... You go to the other extreme.
+
+375
+00:34:02,032 --> 00:34:06,414
+[SPEAKER_00]: That's why the Buddha said there are only two extremes that people with the rear view can go.
+
+376
+00:34:06,674 --> 00:34:14,217
+[SPEAKER_00]: Either existence, so like, I delight in everything, I welcome my emotions, I act out of them, and then non-existence.
+
+377
+00:34:14,337 --> 00:34:16,758
+[SPEAKER_00]: No emotions, no nothing, just black.
+
+378
+00:34:17,119 --> 00:34:17,399
+[SPEAKER_00]: Yeah.
+
+379
+00:34:17,519 --> 00:34:19,320
+[SPEAKER_00]: So, you can't see the middle way.
+
+380
+00:34:20,540 --> 00:34:23,722
+[SPEAKER_00]: Get rid of the emotions, but all the feelings are perfectly fine.
+
+381
+00:34:24,183 --> 00:34:26,544
+[SPEAKER_00]: Because that is not even your fault.
+
+382
+00:34:26,884 --> 00:34:27,905
+[SPEAKER_00]: Then feelings come up.
+
+383
+00:34:28,245 --> 00:34:29,386
+[SPEAKER_01]: That's just a constituent.
+
+384
+00:34:29,406 --> 00:34:30,526
+[SPEAKER_00]: That's what it is.
+
+385
+00:34:31,927 --> 00:34:36,650
+[SPEAKER_00]: So, really, with this emotion thing, it's like what you would call the Stockholm Syndrome.
+
+386
+00:34:37,351 --> 00:34:46,096
+[SPEAKER_00]: Like people might kind of, you know, be saying that they're happy with this, while they're being held hostage by their own emotions.
+
+387
+00:34:47,797 --> 00:34:54,245
+[SPEAKER_04]: That kind of reaction to the idea of not having emotions, is an emotional reaction.
+
+388
+00:34:54,305 --> 00:34:54,505
+[SPEAKER_04]: Yes.
+
+389
+00:34:54,525 --> 00:34:59,851
+[SPEAKER_00]: That's your captor, kind of convincing you, oh, no, it's bad outside, don't go out there.
+
+390
+00:35:00,011 --> 00:35:00,792
+[SPEAKER_00]: Yeah.
+
+391
+00:35:01,613 --> 00:35:07,039
+[SPEAKER_00]: So, it's really like, it's something that needs to be contemplated to see
+
+392
+00:35:09,101 --> 00:35:14,245
+[SPEAKER_00]: As the Buddha said, it takes discernment to value nibbāna.
+
+393
+00:35:15,006 --> 00:35:23,232
+[SPEAKER_00]: Like, nibbāna is not regarded as pleasant by default, because it's the cessation of emotions, it's the cessation of being.
+
+394
+00:35:24,233 --> 00:35:29,416
+[SPEAKER_00]: And, as he said, the majority of people in the world are dependent on being.
+
+395
+00:35:29,436 --> 00:35:30,337
+[SPEAKER_00]: They delight in being.
+
+396
+00:35:30,677 --> 00:35:35,001
+[SPEAKER_00]: I mean, that's why he didn't want to teach the dhamma in the first place, because he felt like nobody would understand.
+
+397
+00:35:35,942 --> 00:35:42,689
+[SPEAKER_00]: And you could put it that way, because most people would not even be able to conceal the fact that not having emotions is good.
+
+398
+00:35:43,170 --> 00:35:54,163
+[SPEAKER_00]: So then, you felt like, well, I'm going to talk to this, to these people, and it's just going to be... result in frustration, because, like, it's going against the entire thing that defines them.
+
+399
+00:35:56,304 --> 00:36:06,550
+[SPEAKER_00]: Training yourself to see that going against the grain is pleasant, or is certainly better than what you have.
+
+400
+00:36:07,590 --> 00:36:10,012
+[SPEAKER_00]: Even if it's not immediately...
+
+401
+00:36:11,432 --> 00:36:19,137
+[SPEAKER_00]: Even if there is some dissonance at the beginning, you use your discernment to see like, well, no, it would be better not to be controlled by this.
+
+402
+00:36:21,829 --> 00:36:27,872
+[SPEAKER_00]: I mean, right now, I am suffering on account of this practice, because I'm being controlled by my emotions.
+
+403
+00:36:28,193 --> 00:36:31,955
+[SPEAKER_00]: That's why dhamma practice is difficult, because the emotions are still there.
+
+404
+00:36:32,175 --> 00:36:32,435
+[SPEAKER_00]: Yeah.
+
+405
+00:36:32,635 --> 00:36:49,625
+[SPEAKER_01]: So... Have you cleared up sufficiently the difference between emotion, feeling and sensation?
+
+406
+00:36:53,157 --> 00:36:54,091
+[SPEAKER_02]: How do you feel about it?
+

@@ -1,0 +1,1308 @@
+1
+00:00:03,787 --> 00:00:13,877
+[SPEAKER_01]: So, in previous talks, we've brushed on the topic, but never really gone into it in depth.
+
+2
+00:00:13,897 --> 00:00:18,702
+[SPEAKER_01]: So, how would we define what a method is?
+
+3
+00:00:20,125 --> 00:00:22,206
+[SPEAKER_01]: In the sense that we talk about it.
+
+4
+00:00:23,006 --> 00:00:24,286
+[SPEAKER_01]: And why is it a problem?
+
+5
+00:00:24,526 --> 00:00:37,930
+[SPEAKER_01]: Because, I mean, the siddhas do talk about, like, the Noble Method, and, you know, the... sometimes the Noble Eightfold Path is described as, like, the proper method, the proper practice.
+
+6
+00:00:38,130 --> 00:00:46,712
+[SPEAKER_01]: But, how do we define method in the wrong sense, that shouldn't be done?
+
+7
+00:00:57,449 --> 00:01:02,313
+[SPEAKER_02]: Yeah, are you asking what is ordinarily seen or conceived as a method?
+
+8
+00:01:03,014 --> 00:01:12,522
+[SPEAKER_02]: And how is that different from the noble method, which is the Noble Eightfold Path or the Penitentiary Nation, as it's described in the suttas?
+
+9
+00:01:20,188 --> 00:01:24,191
+[SPEAKER_01]: So, like, what's the difference between just having
+
+10
+00:01:28,563 --> 00:01:36,812
+[SPEAKER_01]: You're not improvising, of course, so we're not saying, like, don't do a method means, like, you kind of decide on the spot and you don't have a plan.
+
+11
+00:01:37,053 --> 00:01:38,755
+[SPEAKER_00]: You just kind of go with the flow or something.
+
+12
+00:01:39,335 --> 00:01:39,896
+[SPEAKER_00]: But...
+
+13
+00:01:42,897 --> 00:01:46,618
+[SPEAKER_00]: It also doesn't mean that you do that type of method.
+
+14
+00:01:46,638 --> 00:02:04,302
+[SPEAKER_00]: So, what is... where is it that, you know, having, like, an idea about what you should do and a kind of broad guideline, where is it that that becomes a method or a technique, the other word that we could use?
+
+15
+00:02:07,563 --> 00:02:08,663
+[SPEAKER_03]: One of the things we need to
+
+16
+00:02:10,700 --> 00:02:15,740
+[SPEAKER_03]: No, you just go somewhere, ask a question, and someone gives you an answer.
+
+17
+00:02:34,943 --> 00:02:38,625
+[SPEAKER_01]: So, why is that a problem?
+
+18
+00:02:39,866 --> 00:02:44,649
+[SPEAKER_01]: Because it could lead to results that people think are useful.
+
+19
+00:02:44,689 --> 00:02:53,375
+[SPEAKER_01]: It could lead to states of calm, to maybe novel perceptions or experiences.
+
+20
+00:02:55,377 --> 00:03:00,483
+[SPEAKER_01]: Being able to deal with life better, or whatever, whatever people are looking for.
+
+21
+00:03:00,964 --> 00:03:05,930
+[SPEAKER_01]: So, why is it that that doesn't apply to the practice?
+
+22
+00:03:05,990 --> 00:03:06,811
+[SPEAKER_01]: Like, why is it wrong?
+
+23
+00:03:08,253 --> 00:03:10,195
+[SPEAKER_01]: Even if it's the best.
+
+24
+00:03:11,437 --> 00:03:18,899
+[SPEAKER_01]: It gives you the best benefits and the best kind of, quote-unquote, spiritual development.
+
+25
+00:03:20,139 --> 00:03:23,659
+[SPEAKER_01]: Why is it not the same as the spiritual development that the Buddha was teaching?
+
+26
+00:03:24,520 --> 00:03:25,640
+[SPEAKER_02]: That's the question, yeah.
+
+27
+00:03:30,501 --> 00:03:40,543
+[SPEAKER_03]: Well, one thing that I see is that it's just like, okay, I go somewhere, I learn this technique, and then I keep repeating that.
+
+28
+00:03:41,252 --> 00:03:53,361
+[SPEAKER_03]: But the fact is that I never kind of question myself whether if I kind of... No, it's not quite what I want to say.
+
+29
+00:03:53,381 --> 00:03:54,962
+[SPEAKER_03]: It's more like...
+
+30
+00:03:55,863 --> 00:04:02,688
+[SPEAKER_03]: So, if my experience is kind of affected by kind of ignorance, whatever I learn comes through this lens in my experience.
+
+31
+00:04:02,728 --> 00:04:07,452
+[SPEAKER_03]: So, if someone teaches me something, and I think I understand what he's talking about,
+
+32
+00:04:08,824 --> 00:04:13,907
+[SPEAKER_03]: This understanding is coming through, kind of, ignorance and my, kind of, experience of that.
+
+33
+00:04:13,967 --> 00:04:30,876
+[SPEAKER_03]: So, if, like, the, kind of, teaching that is given to me doesn't try to highlight the fact that, right now, you might do this, you might do that, but you have to, kind of, improve your understanding, well, then there is no hope for me to understand anything, because I, kind of, assume that I already know
+
+34
+00:04:34,191 --> 00:04:35,332
+[SPEAKER_03]: Ignorance in the first place.
+
+35
+00:04:35,992 --> 00:04:38,634
+[SPEAKER_01]: But, so, okay, but how would you remedy that situation?
+
+36
+00:04:38,674 --> 00:04:43,998
+[SPEAKER_01]: Because, from that point of view, everything you hear is going to share that characteristic.
+
+37
+00:04:44,038 --> 00:05:00,189
+[SPEAKER_01]: Like, some instructions might be kind of more superficial, others might be less so, but, fundamentally, you still... all of it is happening within ignorance, as you said, or is being received by the ignorance... ignorant framework.
+
+38
+00:05:00,809 --> 00:05:01,950
+[SPEAKER_01]: So, how would you
+
+39
+00:05:04,415 --> 00:05:07,196
+[SPEAKER_01]: What's the missing element there?
+
+40
+00:05:07,236 --> 00:05:13,879
+[SPEAKER_01]: That wouldn't allow you to develop knowledge, even if you do the right technique that the Buddha himself gave you.
+
+41
+00:05:14,059 --> 00:05:15,160
+[SPEAKER_01]: You do it for a hundred years.
+
+42
+00:05:19,248 --> 00:05:36,112
+[SPEAKER_02]: Well, you see, it seems to me that the problem with these methods and techniques is that once you accept them, the method or the technique comes first and your, let's say, subjective state of mind or intentions come second.
+
+43
+00:05:36,652 --> 00:05:41,174
+[SPEAKER_02]: That is why the technique remains static.
+
+44
+00:05:41,554 --> 00:05:42,694
+[SPEAKER_02]: And the assumption is
+
+45
+00:05:45,732 --> 00:05:51,696
+[SPEAKER_02]: You just keep applying it and gradually, through time, things will begin to unfold.
+
+46
+00:05:52,756 --> 00:05:55,718
+[SPEAKER_02]: Which ties into the ignorance that you were talking about.
+
+47
+00:05:56,719 --> 00:06:08,346
+[SPEAKER_02]: If, being affected by ignorance, you accept a technique as right, then that acceptance and the criteria are part of that ignorance.
+
+48
+00:06:08,446 --> 00:06:13,389
+[SPEAKER_02]: So you can keep following that, but it will not lead you out of ignorance
+
+49
+00:06:14,799 --> 00:06:24,026
+[SPEAKER_02]: Except if that technique has as its main characteristic that it shows your subjective state of mind and intentions and tells you to put that first.
+
+50
+00:06:24,586 --> 00:06:36,035
+[SPEAKER_02]: But when that is the instruction, the technique can on no accounts ever become really a technique the way we are now discussing it, because those mind states and and intentions are impermanent.
+
+51
+00:06:36,455 --> 00:06:36,995
+[SPEAKER_02]: They change.
+
+52
+00:06:37,335 --> 00:06:41,478
+[SPEAKER_02]: So you have to put that first and move with that.
+
+53
+00:06:42,610 --> 00:06:46,712
+[SPEAKER_02]: Which is the reversal of how technique is usually applied.
+
+54
+00:06:46,732 --> 00:06:53,795
+[SPEAKER_02]: That's why I don't see how, ordinarily, methods and techniques lead inwards or, let's say, out of ignorance.
+
+55
+00:06:53,815 --> 00:06:55,136
+[SPEAKER_01]: Yeah, so...
+
+56
+00:06:56,056 --> 00:06:56,656
+[SPEAKER_01]: So, that's the thing.
+
+57
+00:06:56,676 --> 00:07:01,919
+[SPEAKER_01]: So, it's not... it's not even that the content of a technique is bad.
+
+58
+00:07:02,728 --> 00:07:07,130
+[SPEAKER_01]: It's not like, oh, you did technique number one, you should have done technique number two instead.
+
+59
+00:07:07,930 --> 00:07:09,310
+[SPEAKER_02]: Well, that actually also happens.
+
+60
+00:07:09,370 --> 00:07:15,312
+[SPEAKER_02]: Like, it's not uncommon in certain traditions to have a sense of false progress.
+
+61
+00:07:15,433 --> 00:07:22,655
+[SPEAKER_02]: Like, you do level one, and then you fiddle around with that for a few months, and then you can now apply for meditation method technique number two.
+
+62
+00:07:23,235 --> 00:07:27,877
+[SPEAKER_02]: And then people can go through that, and then weekend here, initiation there, special transmission here,
+
+63
+00:07:28,397 --> 00:07:29,878
+[SPEAKER_02]: Right, and so on.
+
+64
+00:07:30,138 --> 00:07:44,146
+[SPEAKER_02]: And then, you just keep accumulating slightly different methods and techniques, and you think that that is progress, whereas actually, it doesn't reveal anything about what is now subjectively for you going on.
+
+65
+00:07:44,226 --> 00:07:44,586
+[SPEAKER_01]: Exactly.
+
+66
+00:07:44,626 --> 00:07:45,987
+[SPEAKER_01]: So, but what is that
+
+67
+00:07:47,751 --> 00:07:51,573
+[SPEAKER_01]: Why is it important to have that subjective dimension?
+
+68
+00:07:51,893 --> 00:07:53,173
+[SPEAKER_01]: And what is it more specifically?
+
+69
+00:07:53,754 --> 00:07:56,635
+[SPEAKER_01]: Because, you know, you could also...
+
+70
+00:07:56,655 --> 00:08:02,918
+[SPEAKER_01]: I mean, from that point of view, people would also argue that, no, no, this is like getting me to understand my own mind.
+
+71
+00:08:02,978 --> 00:08:07,800
+[SPEAKER_01]: How can you say that it's not teaching me about subjective, well, elements?
+
+72
+00:08:08,020 --> 00:08:12,502
+[SPEAKER_02]: Because that state of mind is already there.
+
+73
+00:08:13,102 --> 00:08:30,226
+[SPEAKER_02]: And so, you deciding right now, should I practice meditation method technique number one, two, three, four, five, or whatever you have accumulated in the course of your life, that choice is already coming out of certain intentions and is already affected by certain mind states.
+
+74
+00:08:30,746 --> 00:08:39,528
+[SPEAKER_02]: But the difficulty is that that's precisely not seen if there is this kind of obsession or almost fetishism with accumulating
+
+75
+00:08:44,754 --> 00:08:55,125
+[SPEAKER_02]: So, even if it's wrong, but that's actually already quite uncommon to find somebody who sticks to one method and technique, even if it's still the wrong understanding of method and technique.
+
+76
+00:08:55,505 --> 00:08:58,969
+[SPEAKER_02]: In a sense, it would be better, I would almost argue, but still...
+
+77
+00:09:02,748 --> 00:09:17,967
+[SPEAKER_01]: Well, yeah, if you stick to one, at least you kind of assume... you're not like... it's not such a coarse dependence and assumption of your own qualification to decide what is useful and what is not useful.
+
+78
+00:09:18,427 --> 00:09:20,890
+[SPEAKER_01]: At least you're kind of recognizing like, okay, I
+
+79
+00:09:22,011 --> 00:09:27,354
+[SPEAKER_01]: If I'm ignorant, how am I supposed to be able to decide when to do this one and when to do the other one?
+
+80
+00:09:27,375 --> 00:09:33,438
+[SPEAKER_01]: So, at the very least, you would stick to one, like as the Buddha did.
+
+81
+00:09:33,478 --> 00:09:38,081
+[SPEAKER_01]: You stick to one, and then you master it, and then you realize it doesn't lead to the goal.
+
+82
+00:09:38,361 --> 00:09:39,702
+[SPEAKER_01]: So, then you move on.
+
+83
+00:09:39,762 --> 00:09:42,864
+[SPEAKER_01]: But, even then, of course, that's not the right attitude, but...
+
+84
+00:09:43,834 --> 00:09:55,157
+[SPEAKER_01]: The kind of mixing and matching and like cherry-picking, a little bit of this and a little bit of that, that's even more inauthentic than just doing one single technique.
+
+85
+00:09:56,177 --> 00:10:05,520
+[SPEAKER_01]: But so, the thing is like, so, what is that, like, what is that kind of
+
+86
+00:10:08,841 --> 00:10:13,986
+[SPEAKER_01]: You mentioned the intention.
+
+87
+00:10:14,947 --> 00:10:25,017
+[SPEAKER_01]: So, why is that, or let's say, how is that properly recognized if not through a technique?
+
+88
+00:10:27,360 --> 00:10:29,442
+[SPEAKER_01]: You mean whether intention is wholesome or unwholesome?
+
+89
+00:10:29,562 --> 00:10:31,484
+[SPEAKER_02]: Yeah, or whatever the intention is, yeah.
+
+90
+00:10:32,951 --> 00:10:34,672
+[SPEAKER_02]: Well, that's precisely the whole point.
+
+91
+00:10:36,213 --> 00:10:46,061
+[SPEAKER_01]: So, let's say, going back to what I said before, you scrap the techniques you were doing, and then your technique becomes watching your intentions.
+
+92
+00:10:47,702 --> 00:10:52,866
+[SPEAKER_01]: So, would that be the right practice?
+
+93
+00:10:54,821 --> 00:10:58,804
+[SPEAKER_02]: Well, certainly closer, but that's not your question now.
+
+94
+00:10:59,365 --> 00:11:07,532
+[SPEAKER_02]: Well, it would involve more than just, let's say, in an impersonal way, observing your intentions.
+
+95
+00:11:09,384 --> 00:11:15,206
+[SPEAKER_02]: Because an awesome intention, then, you shouldn't act out of, to begin with.
+
+96
+00:11:15,646 --> 00:11:19,168
+[SPEAKER_02]: So, that is closer.
+
+97
+00:11:20,068 --> 00:11:25,250
+[SPEAKER_02]: But you see, now we get into the domain of, like, precepts and sensory strength.
+
+98
+00:11:25,290 --> 00:11:28,992
+[SPEAKER_02]: Because those precepts, they are, in a sense, fixed.
+
+99
+00:11:29,032 --> 00:11:31,653
+[SPEAKER_02]: Although one's understanding of them can be refined.
+
+100
+00:11:31,973 --> 00:11:34,454
+[SPEAKER_02]: But certain things you just shouldn't do.
+
+101
+00:11:35,174 --> 00:11:37,256
+[SPEAKER_02]: Regardless of the situation that you find yourself in.
+
+102
+00:11:37,696 --> 00:11:39,038
+[SPEAKER_02]: So, that is actually...
+
+103
+00:11:39,078 --> 00:11:54,691
+[SPEAKER_02]: So, if people have difficulty totally giving up this idea of methods or techniques, then to stick to observing your precepts would be, in my opinion, closer to a method or technique than what is normally presented as meditation methods and techniques.
+
+104
+00:11:54,731 --> 00:11:55,432
+[SPEAKER_02]: That's not one thing.
+
+105
+00:11:55,832 --> 00:12:01,978
+[SPEAKER_02]: But your question then still, like, is it just a matter of observing whether intentions are
+
+106
+00:12:02,338 --> 00:12:03,639
+[SPEAKER_02]: Wholesome or unwholesome?
+
+107
+00:12:04,039 --> 00:12:09,964
+[SPEAKER_02]: Well, that, in and of itself, is also already an attitude that you bring.
+
+108
+00:12:10,024 --> 00:12:12,326
+[SPEAKER_02]: Like, now I'm going to look at my intentions.
+
+109
+00:12:12,366 --> 00:12:16,889
+[SPEAKER_02]: Like, you could become very suspicious about yourself, or you might have a sort of a background attitude.
+
+110
+00:12:16,909 --> 00:12:21,072
+[SPEAKER_02]: Like, I should be on the lookout for something that is unwholesome, or that's not supposed to happen, and so on.
+
+111
+00:12:21,733 --> 00:12:25,076
+[SPEAKER_02]: And that whole attitude can also already be
+
+112
+00:12:26,132 --> 00:12:28,354
+[SPEAKER_02]: Tainted by what's unwholesome.
+
+113
+00:12:28,694 --> 00:12:43,088
+[SPEAKER_02]: So, you can't also now make a formula and say just observe your intentions and then assume that that's always right, because to observe intentions is, from your subjective point of view, that attention is also not always the same.
+
+114
+00:12:43,368 --> 00:12:43,529
+[SPEAKER_00]: Yeah.
+
+115
+00:12:44,650 --> 00:12:44,830
+[SPEAKER_01]: Yeah.
+
+116
+00:12:44,850 --> 00:12:47,893
+[SPEAKER_01]: So, so basically, if you
+
+117
+00:12:49,752 --> 00:12:51,534
+[SPEAKER_01]: If you turn even the right...
+
+118
+00:12:52,094 --> 00:13:01,943
+[SPEAKER_01]: I mean, of course, even all these methods that exist today, they originated in some or were influenced in some way or another by things that are found in the suttas.
+
+119
+00:13:02,964 --> 00:13:13,754
+[SPEAKER_01]: But the problem is, if you take anything and you make it static, like you said, in that way, then it's just a matter of time until it devolves into something completely
+
+120
+00:13:15,434 --> 00:13:33,387
+[SPEAKER_01]: That's why I said already in the beginning, like asking yourself, if you if you never question yourself about your intention, and then you suddenly begin doing that, then of course it's gonna it's gonna kind of point you to that direction, let's say, of where your intentions are, which is not wrong, exactly.
+
+121
+00:13:33,547 --> 00:13:43,374
+[SPEAKER_01]: But the problem is that that very impulse to make it into like a fixed thing that I can just repeat, that in itself
+
+122
+00:13:43,990 --> 00:13:45,711
+[SPEAKER_01]: We'll make it not be right anymore.
+
+123
+00:13:46,311 --> 00:13:54,395
+[SPEAKER_01]: So, the point being, as I said before, it's not even that it's one technique that's wrong and then the other ones are fine.
+
+124
+00:13:54,415 --> 00:13:57,757
+[SPEAKER_01]: Like, oh, give up body scanning and then watch your intentions instead.
+
+125
+00:13:59,678 --> 00:14:08,142
+[SPEAKER_01]: The entire attitude of wanting to get a formula for it, wanting to get a recipe for it, that needs to be given up.
+
+126
+00:14:08,242 --> 00:14:12,724
+[SPEAKER_02]: Yeah, because you are essentially looking for something which is permanent.
+
+127
+00:14:14,145 --> 00:14:24,388
+[SPEAKER_02]: By holding on to that attitude of wanting a method or a technique, how is that now going to reveal the impermanency of phenomena that the Buddha keeps talking about?
+
+128
+00:14:24,548 --> 00:14:41,852
+[SPEAKER_01]: No, well, you are looking... you might be looking for impermanence, but the thing is, that entire dimension of your experience that actually matters, which is, like you said, the subjective part, which, I mean, it goes hand in hand, because you know that usually
+
+129
+00:14:42,890 --> 00:14:45,192
+[SPEAKER_01]: The view is like, oh, you need to be perfectly objective.
+
+130
+00:14:45,512 --> 00:14:47,053
+[SPEAKER_01]: You need to destroy your subjectivity.
+
+131
+00:14:47,213 --> 00:14:49,395
+[SPEAKER_01]: That's how you get rid of the self.
+
+132
+00:14:50,215 --> 00:14:51,216
+[SPEAKER_01]: But that's not another problem.
+
+133
+00:14:51,256 --> 00:14:51,776
+[SPEAKER_01]: Exactly.
+
+134
+00:14:52,357 --> 00:15:07,187
+[SPEAKER_01]: So then, by getting into this attitude of, okay, just the object, just the object, just the object, and completely disregarding even more the whole, like, shadow of
+
+135
+00:15:09,014 --> 00:15:11,096
+[SPEAKER_01]: Why are you doing this in the first place?
+
+136
+00:15:11,956 --> 00:15:30,709
+[SPEAKER_01]: There are, like, as the Buddha said, actually, there's there's one whole sutta where this Brahman came to ask, not the Buddha, Venerable Ananda, like, oh, the Blessed One, he was a meditator and he praised all kinds of meditation.
+
+137
+00:15:30,730 --> 00:15:31,330
+[SPEAKER_01]: That's right, yeah.
+
+138
+00:15:31,762 --> 00:15:34,284
+[SPEAKER_01]: And then, Ananda says, no, he wasn't.
+
+139
+00:15:34,885 --> 00:15:36,486
+[SPEAKER_01]: He didn't praise all kind of meditation.
+
+140
+00:15:37,106 --> 00:15:40,409
+[SPEAKER_01]: And he said, what's the kind of meditation that he didn't praise?
+
+141
+00:15:41,029 --> 00:15:46,453
+[SPEAKER_01]: He said, it's when someone harboring sensual desire internally, meditates
+
+142
+00:15:47,514 --> 00:15:57,341
+[SPEAKER_01]: over-meditates, under-meditates, mis-meditates, harboring ill-will internally, harboring laziness internally.
+
+143
+00:15:57,522 --> 00:16:00,284
+[SPEAKER_01]: So, all the five hindrances.
+
+144
+00:16:01,044 --> 00:16:06,928
+[SPEAKER_01]: And see, that description there, like pre-meditates, over-meditates, under-meditates, mis-meditates.
+
+145
+00:16:08,630 --> 00:16:14,454
+[SPEAKER_01]: The whole point there, it's like, any direction that he goes, it doesn't matter where it is.
+
+146
+00:16:14,514 --> 00:16:15,655
+[SPEAKER_01]: It doesn't matter whether it's
+
+147
+00:16:17,090 --> 00:16:29,022
+[SPEAKER_01]: Watching your breath, or doing body scanning, or doing noting, or doing mantras, or doing metta, or doing anything under the sun.
+
+148
+00:16:31,405 --> 00:16:32,786
+[SPEAKER_01]: The problem there is not that.
+
+149
+00:16:32,826 --> 00:16:36,290
+[SPEAKER_01]: The problem is that he's harboring these things internally.
+
+150
+00:16:37,572 --> 00:16:43,417
+[SPEAKER_01]: So, because he's kind of overlooking that entire dimension and then focusing on what's in front of him.
+
+151
+00:16:44,037 --> 00:16:51,623
+[SPEAKER_01]: Kind of like... there's actually... the same description happens in that sutta with the... with the thoroughbred, like the two horses.
+
+152
+00:16:52,224 --> 00:16:54,426
+[SPEAKER_01]: And it says, like, the first one just looks at the hay.
+
+153
+00:16:56,055 --> 00:17:02,837
+[SPEAKER_01]: And, uh, yeah, it just thinks, hey, hey, it's like, like, just completely, um, absorbed.
+
+154
+00:17:03,237 --> 00:17:04,698
+[SPEAKER_01]: Actually, literally, like, absorption.
+
+155
+00:17:05,218 --> 00:17:12,840
+[SPEAKER_01]: And then, the other one, he actually, wait, no, what does the horse trainer want me to do today?
+
+156
+00:17:13,020 --> 00:17:14,121
+[SPEAKER_01]: Yeah, we did the whole talk on that.
+
+157
+00:17:14,141 --> 00:17:14,461
+[SPEAKER_01]: Exactly.
+
+158
+00:17:14,941 --> 00:17:21,963
+[SPEAKER_01]: So, that's that direction where, that's that direction that cannot be, um,
+
+159
+00:17:23,840 --> 00:17:24,800
+[SPEAKER_01]: It's made static.
+
+160
+00:17:25,160 --> 00:17:30,702
+[SPEAKER_01]: That dimension of that horse asking himself, what does the trainer want me to do today?
+
+161
+00:17:30,722 --> 00:17:36,324
+[SPEAKER_01]: Obviously, in that example, yeah, you could just ask yourself that question every time and you'll be fine.
+
+162
+00:17:36,344 --> 00:17:48,048
+[SPEAKER_01]: But, in this case, the principle of... essentially, the principle of yonison manasikāra is something that we'll tend to kind of put it
+
+163
+00:17:48,685 --> 00:17:51,427
+[SPEAKER_01]: certain way, like, it's gonna be like a slippery fish.
+
+164
+00:17:52,327 --> 00:17:58,391
+[SPEAKER_01]: Most especially if you haven't been sufficiently restrained and and keeping the precepts and stuff.
+
+165
+00:17:58,411 --> 00:18:01,093
+[SPEAKER_01]: So, you will get like a like a sense of it.
+
+166
+00:18:01,113 --> 00:18:04,015
+[SPEAKER_01]: Like, okay, right now, I am aware of my intention properly.
+
+167
+00:18:05,335 --> 00:18:09,278
+[SPEAKER_01]: But the next time, you have the same information, the same teaching,
+
+168
+00:18:10,108 --> 00:18:12,269
+[SPEAKER_01]: The same explanation, and you try to do it again.
+
+169
+00:18:13,329 --> 00:18:14,750
+[SPEAKER_01]: But now, clearly, it's not working.
+
+170
+00:18:15,590 --> 00:18:22,693
+[SPEAKER_01]: And so, you start to see, then, that actually, even that description that you get...
+
+171
+00:18:24,514 --> 00:18:26,134
+[SPEAKER_01]: I mean, that's part of the problem with the method.
+
+172
+00:18:26,154 --> 00:18:29,675
+[SPEAKER_01]: Like, you think that the practice is in that description, like you said before.
+
+173
+00:18:29,695 --> 00:18:36,178
+[SPEAKER_01]: You just... Every time you apply it, as long as it's faithful to the description, it's correct.
+
+174
+00:18:37,348 --> 00:18:48,520
+[SPEAKER_01]: But if you go this route, you will start to realize, actually, there isn't even a guarantee that because I remember exactly what the instruction was, that I will do it properly next time.
+
+175
+00:18:49,261 --> 00:18:49,682
+[SPEAKER_01]: Because...
+
+176
+00:18:51,053 --> 00:18:52,533
+[SPEAKER_01]: Like I said, it just slips away from you.
+
+177
+00:18:52,913 --> 00:19:14,298
+[SPEAKER_01]: Like the the intention, just... even though it's there, because you're not developed sufficiently in authenticity, in sense restraint, and you're used to acting out of pressure, as your default, then everything you do is kind of like to continue with that momentum.
+
+178
+00:19:14,798 --> 00:19:14,998
+[SPEAKER_01]: Yeah.
+
+179
+00:19:15,058 --> 00:19:20,759
+[SPEAKER_01]: So then, as a result, the possibility of stopping the momentum of acting out,
+
+180
+00:19:21,301 --> 00:19:22,542
+[SPEAKER_01]: It becomes more and more unpleasant.
+
+181
+00:19:22,602 --> 00:19:28,808
+[SPEAKER_01]: So, in other words, you could actually recognize what your intention is at any given time and give it up.
+
+182
+00:19:29,829 --> 00:19:36,976
+[SPEAKER_01]: But the fact that you carry this momentum with your ignorance and with your unrestrained actions on top of it, means that
+
+183
+00:19:37,780 --> 00:19:41,801
+[SPEAKER_01]: Makes it even harder, pretty much, to look at that direction, where the intention is.
+
+184
+00:19:42,281 --> 00:19:43,401
+[SPEAKER_01]: Because it's going to be unpleasant.
+
+185
+00:19:43,461 --> 00:20:02,585
+[SPEAKER_01]: It means like, oh, wait, I've been acting out of greed, aversion, delusion, this whole time, and this mind is, it's like, like the dog, you've been letting it go there, in the same direction, for a very good amount of time, and then, now it doesn't want to stop, because it already caught something,
+
+186
+00:20:03,188 --> 00:20:10,495
+[SPEAKER_01]: You can smell it from who knows how many kilometers away and now it's just running towards it.
+
+187
+00:20:13,818 --> 00:20:19,484
+[SPEAKER_01]: That's what makes it even harder to attend in that direction.
+
+188
+00:20:20,104 --> 00:20:24,108
+[SPEAKER_01]: The opposite, let's say, the counterpart of where your attention is.
+
+189
+00:20:26,235 --> 00:20:31,216
+[SPEAKER_01]: You could, in the most acute sense, describe it as the intention.
+
+190
+00:20:31,256 --> 00:20:34,297
+[SPEAKER_01]: It's the sign of the mind that we discussed before.
+
+191
+00:20:34,437 --> 00:20:35,977
+[SPEAKER_01]: Yes.
+
+192
+00:20:37,458 --> 00:20:45,600
+[SPEAKER_01]: So, it's like the... it's almost like the first point from which you start.
+
+193
+00:20:46,660 --> 00:20:55,042
+[SPEAKER_01]: Like, let's say, you kept the precepts, you took them on, you have been restrained on that external level,
+
+194
+00:20:56,457 --> 00:20:58,098
+[SPEAKER_01]: Then, after that, what do you do?
+
+195
+00:20:59,078 --> 00:21:02,020
+[SPEAKER_01]: From that first point, what do you do?
+
+196
+00:21:03,941 --> 00:21:09,623
+[SPEAKER_01]: The problem is, with these techniques and methods, you would assume, like, no, no, even...
+
+197
+00:21:10,124 --> 00:21:12,665
+[SPEAKER_01]: I mean, the person wouldn't be aware, of course, but
+
+198
+00:21:14,224 --> 00:21:20,849
+[SPEAKER_01]: That first point would be tainted, like you said, with various defilements that they're not aware of.
+
+199
+00:21:21,570 --> 00:21:34,881
+[SPEAKER_01]: But then, because the stuff that comes afterwards, like the perceptions, the insights, the experiences, whatever it might be, seems to be right or whatever,
+
+200
+00:21:35,901 --> 00:21:40,503
+[SPEAKER_02]: Because you think it's a result of your method, so you automatically assume a bit of progress.
+
+201
+00:21:40,724 --> 00:21:53,090
+[SPEAKER_01]: Yeah, but the whole point is like, it doesn't matter how right that that stuff is, the first point from which it comes, or you could say the foundation from which it comes, is that first intention.
+
+202
+00:21:53,661 --> 00:21:56,002
+[SPEAKER_01]: of whatever defilement you were acting out of in the beginning.
+
+203
+00:21:56,042 --> 00:22:04,523
+[SPEAKER_01]: So, it could have been anticipation, craving, whatever, aversion, curiosity, even.
+
+204
+00:22:04,603 --> 00:22:08,964
+[SPEAKER_01]: Like, some people just genuinely just... Just give it a try for a little while.
+
+205
+00:22:09,064 --> 00:22:10,745
+[SPEAKER_01]: Exactly what happens in the mind-space.
+
+206
+00:22:11,625 --> 00:22:21,147
+[SPEAKER_01]: Or, yeah, curiosity, because you want to have these special experiences and then nothing to do with, like, sense of urgency and freedom from suffering.
+
+207
+00:22:22,207 --> 00:22:27,709
+[SPEAKER_01]: And those intentions are behind that whole thing that you're doing.
+
+208
+00:22:28,149 --> 00:22:40,554
+[SPEAKER_01]: Like, imagine you kind of, I don't know, you decided to go somewhere, and in that period of time, you're going to have to pass through such and such a place.
+
+209
+00:22:41,495 --> 00:22:50,538
+[SPEAKER_01]: Well, it's not that the intention to go to that place was there only at that first second, when you decided, okay, let me go there.
+
+210
+00:22:51,232 --> 00:22:57,232
+[SPEAKER_01]: No, that entire journey, doesn't matter how many kilometers you've walked, that intention
+
+211
+00:22:58,854 --> 00:23:01,897
+[SPEAKER_01]: of you going to such and such a place is with you there.
+
+212
+00:23:02,597 --> 00:23:11,204
+[SPEAKER_01]: So, that entire time, if the intention wasn't wholesome, that entire time, everything you're doing is polluted by that intention.
+
+213
+00:23:11,825 --> 00:23:14,787
+[SPEAKER_01]: So, that's how I meant it's like the first point.
+
+214
+00:23:14,907 --> 00:23:23,354
+[SPEAKER_01]: And then, yeah, you cannot magically, like, fix that, because that first point was where the practice is.
+
+215
+00:23:24,395 --> 00:23:25,176
+[SPEAKER_01]: Yeah, so...
+
+216
+00:23:25,276 --> 00:23:27,738
+[SPEAKER_01]: So, if you go wrong there... Yeah.
+
+217
+00:23:28,290 --> 00:23:29,210
+[SPEAKER_01]: The whole thing is...
+
+218
+00:23:29,291 --> 00:23:32,712
+[SPEAKER_02]: So, in a sense, you have to stay there, and then go perpendicular.
+
+219
+00:23:33,132 --> 00:23:40,416
+[SPEAKER_02]: Basically, more inwards on that first point, rather than now assuming that first point to be right, and then start building on top of it.
+
+220
+00:23:40,616 --> 00:23:41,176
+[SPEAKER_01]: Yeah, yeah.
+
+221
+00:23:41,196 --> 00:23:43,538
+[SPEAKER_01]: Basically, you could... you extend the analogy.
+
+222
+00:23:43,558 --> 00:23:50,041
+[SPEAKER_01]: So, instead, then, you realize, no, it's... it's not about, like, what
+
+223
+00:23:51,444 --> 00:24:00,690
+[SPEAKER_01]: Where I'm going to walk, even, because it's not, like I said, you just choose a different direction to walk in.
+
+224
+00:24:04,173 --> 00:24:10,417
+[SPEAKER_01]: It's staying at that point where you remain aware of your intentions.
+
+225
+00:24:10,457 --> 00:24:11,358
+[SPEAKER_01]: That's the place to walk.
+
+226
+00:24:11,598 --> 00:24:17,622
+[SPEAKER_01]: But, see, that walking is like... it's not... that's not in any of these directions.
+
+227
+00:24:17,682 --> 00:24:19,183
+[SPEAKER_01]: It's perpendicular, like you said.
+
+228
+00:24:19,904 --> 00:24:20,184
+[SPEAKER_01]: So,
+
+229
+00:24:21,573 --> 00:24:28,796
+[SPEAKER_01]: The purpose, precisely, like the knowledge that you're looking for, is not the type of knowledge that's dependent on time.
+
+230
+00:24:29,457 --> 00:24:30,157
+[SPEAKER_01]: That's the point, yeah.
+
+231
+00:24:30,197 --> 00:24:48,386
+[SPEAKER_01]: Like, as the siddhis would say, like, when the monks would... when Mara or whomever would try to tempt them, they would say, like, why do you go after what takes time, when you can go after what's presently visible, which is supposedly sensuality?
+
+232
+00:24:49,166 --> 00:24:54,496
+[SPEAKER_01]: Then, they twist it around and say, no, actually, what's presently visible is the dhamma and sensuality is what takes time.
+
+233
+00:24:55,077 --> 00:25:01,929
+[SPEAKER_01]: So, this whole principle of, like, I do this practice so as to get there, in other words, later in time,
+
+234
+00:25:02,537 --> 00:25:07,021
+[SPEAKER_01]: That whole principle is, in in its nature, wrong.
+
+235
+00:25:07,121 --> 00:25:07,521
+[SPEAKER_01]: It's wrong.
+
+236
+00:25:07,721 --> 00:25:11,665
+[SPEAKER_01]: Even if what you get to seems to be right.
+
+237
+00:25:12,205 --> 00:25:13,886
+[SPEAKER_03]: It's exactly what Sanskrit is.
+
+238
+00:25:14,427 --> 00:25:19,331
+[SPEAKER_01]: Yeah, you work for... you work for this achievement, basically.
+
+239
+00:25:19,631 --> 00:25:24,355
+[SPEAKER_01]: So, of course, like, enlightenment is an achievement.
+
+240
+00:25:24,395 --> 00:25:26,097
+[SPEAKER_01]: Like, it is something you have to work for.
+
+241
+00:25:26,137 --> 00:25:26,477
+[SPEAKER_01]: It's not that
+
+242
+00:25:27,076 --> 00:25:28,737
+[SPEAKER_01]: I call there's nothing to attain or something.
+
+243
+00:25:29,478 --> 00:25:36,984
+[SPEAKER_01]: But, as we said, it's not progress north, south, east or west.
+
+244
+00:25:37,765 --> 00:25:38,345
+[SPEAKER_01]: It's up.
+
+245
+00:25:39,006 --> 00:25:42,929
+[SPEAKER_01]: So, it's in a completely different direction than everywhere else that you have.
+
+246
+00:25:44,873 --> 00:25:46,193
+[SPEAKER_01]: Yeah, that's what I was going to say.
+
+247
+00:25:46,333 --> 00:25:48,974
+[SPEAKER_02]: Even geometrically, up wouldn't suffice.
+
+248
+00:25:49,054 --> 00:25:49,894
+[SPEAKER_02]: Exactly, yeah.
+
+249
+00:25:49,954 --> 00:25:53,975
+[SPEAKER_02]: There's a sutra which talks about this space walker who wants to find the end of the universe.
+
+250
+00:25:54,895 --> 00:25:57,435
+[SPEAKER_02]: But you're not going to find the end of the universe that way.
+
+251
+00:25:57,495 --> 00:25:59,155
+[SPEAKER_01]: By walking, yeah.
+
+252
+00:25:59,175 --> 00:26:03,596
+[SPEAKER_01]: Well, yeah, you could even say it's not even like up or down either.
+
+253
+00:26:04,696 --> 00:26:05,717
+[SPEAKER_01]: It's like a fourth dimension.
+
+254
+00:26:06,357 --> 00:26:07,977
+[SPEAKER_01]: In a sense, you could say that.
+
+255
+00:26:08,137 --> 00:26:11,037
+[SPEAKER_02]: But that might need some qualification.
+
+256
+00:26:11,077 --> 00:26:14,378
+[SPEAKER_02]: But based on what we've said so far, that would indeed be
+
+257
+00:26:16,475 --> 00:26:24,598
+[SPEAKER_02]: So, it's a vantage point that puts basically your whole experience in perspective, which is perpetually available.
+
+258
+00:26:24,858 --> 00:26:34,202
+[SPEAKER_02]: But the moment you stray from that, by assuming that all of this is not good enough, and you should be somewhere else, or it should be different, that's when you lose it.
+
+259
+00:26:34,882 --> 00:26:41,284
+[SPEAKER_01]: And that is always another characteristic if you're doing a technique.
+
+260
+00:26:41,704 --> 00:26:42,945
+[SPEAKER_01]: You're doing it always
+
+261
+00:26:43,813 --> 00:26:46,876
+[SPEAKER_01]: With that implication of, like, what I'm going to get from it.
+
+262
+00:26:47,897 --> 00:26:53,321
+[SPEAKER_01]: Always doing it with that implication of, like, they're emphasizing, like, the result that's going to come.
+
+263
+00:26:53,742 --> 00:27:07,994
+[SPEAKER_01]: Because you don't see, like, if you saw that the giving up of craving and purification of the mind lies, like, in the present, why would you do the technique?
+
+264
+00:27:08,014 --> 00:27:08,774
+[SPEAKER_01]: It would make no sense.
+
+265
+00:27:08,834 --> 00:27:09,235
+[SPEAKER_01]: It's, like,
+
+266
+00:27:12,177 --> 00:27:18,988
+[SPEAKER_01]: If I'm already where I need to be, why would I just hop on a car and then start driving somewhere else?
+
+267
+00:27:19,008 --> 00:27:19,108
+[SPEAKER_02]: Yeah.
+
+268
+00:27:19,148 --> 00:27:26,479
+[SPEAKER_02]: So, if out of ignorance somebody accepts a certain direction by their methods or techniques takes them,
+
+269
+00:27:27,567 --> 00:27:30,109
+[SPEAKER_02]: And then, basically, that they become inspired and start to practice.
+
+270
+00:27:30,729 --> 00:27:35,613
+[SPEAKER_02]: Now, then either most people don't have enough discipline, so they already halfway through cancels and start doing something else.
+
+271
+00:27:36,253 --> 00:27:36,934
+[SPEAKER_02]: That's what happens.
+
+272
+00:27:37,354 --> 00:27:40,696
+[SPEAKER_02]: But if somebody is a bit more diligent, they might stay on that track.
+
+273
+00:27:41,257 --> 00:27:49,563
+[SPEAKER_02]: But, even if they do then, let's say, for the sake of hypothesis, attain that result that from the beginning they were after,
+
+274
+00:27:50,103 --> 00:27:55,724
+[SPEAKER_02]: The only thing they actually attain is their own ignorance, because their acceptance of that result was fully tainted by their ignorance.
+
+275
+00:27:55,904 --> 00:27:58,465
+[SPEAKER_01]: In other words, they just keep going around in circles.
+
+276
+00:27:58,805 --> 00:28:08,106
+[SPEAKER_01]: Actually, that's a good... that image of this Prahitasa, the one who was running to the end of the world, and never actually got there.
+
+277
+00:28:08,246 --> 00:28:08,446
+[SPEAKER_01]: No.
+
+278
+00:28:08,706 --> 00:28:16,568
+[SPEAKER_01]: That's a good image for exactly what happens when you're chasing this knowledge that comes from, like, later.
+
+279
+00:28:17,488 --> 00:28:27,713
+[SPEAKER_01]: It's always going to... you're always going to be able to get more perceptions, more insights, more in-depth, focus on it even more, and get even more detailed understanding of it.
+
+280
+00:28:28,334 --> 00:28:34,137
+[SPEAKER_02]: And people can build a whole life around that, to the point that, ironically, they sit still for 10 hours a day,
+
+281
+00:28:35,017 --> 00:28:48,943
+[SPEAKER_02]: Because they have this attitude of wanting to get something, so they're still running, mentally, even though their whole environment is fixed, quiet, forced, presets, long, sit on my cushion, they don't understand that attitude, they will be running.
+
+282
+00:28:49,283 --> 00:28:57,927
+[SPEAKER_01]: And it's also... it does tend to tie in with the fact that, yeah, if you have been
+
+283
+00:28:59,540 --> 00:29:08,383
+[SPEAKER_01]: If you're understrained in your life, as people usually are, then almost anything will kind of take you in the opposite direction.
+
+284
+00:29:08,863 --> 00:29:23,068
+[SPEAKER_01]: So, almost anything you do, you just sit down, and just the fact that you're no longer engaging in those things that you used to do that were unwholesome, is going to make you calmer, is going to make you, like, feel better, whatever.
+
+285
+00:29:25,109 --> 00:29:42,322
+[SPEAKER_01]: But, see, if you don't see that the principle and the reason why it is making you feel better, is fundamentally because of the sickness that you had, or the... like you feel better because you were under a burden that you yourself were creating.
+
+286
+00:29:42,402 --> 00:29:43,442
+[SPEAKER_01]: Like you also make yourself sick.
+
+287
+00:29:43,502 --> 00:29:43,903
+[SPEAKER_01]: Exactly.
+
+288
+00:29:44,363 --> 00:29:48,086
+[SPEAKER_01]: Then you will think, oh, it's the technique that's helping me with this.
+
+289
+00:29:48,106 --> 00:29:49,587
+[SPEAKER_02]: Yeah, that's now the other thing, like...
+
+290
+00:29:50,630 --> 00:30:02,978
+[SPEAKER_02]: For most people, taking up a method or technique will be motivated by living a very busy and somewhat chaotic life and just wanting to feel a bit more calm, which is understandable, but...
+
+291
+00:30:03,944 --> 00:30:14,111
+[SPEAKER_02]: Then, from the point of view of the actual Buddhist teaching, why did the Buddha never even teach any meditation to lay people in the way that people now conceive meditation?
+
+292
+00:30:14,852 --> 00:30:16,092
+[SPEAKER_01]: Because... Not at all, really.
+
+293
+00:30:16,313 --> 00:30:17,453
+[SPEAKER_01]: Yeah, or not at all, really.
+
+294
+00:30:17,633 --> 00:30:22,277
+[SPEAKER_02]: Yeah, well, we could come to that later now, but... Because...
+
+295
+00:30:23,154 --> 00:30:29,682
+[SPEAKER_02]: Suppose you would have been teaching some method or technique with the aim of calming people's busy lives.
+
+296
+00:30:29,882 --> 00:30:31,864
+[SPEAKER_02]: Then you might say, well, that would be compassionate.
+
+297
+00:30:32,165 --> 00:30:33,226
+[SPEAKER_02]: But actually, it's not.
+
+298
+00:30:33,586 --> 00:30:35,829
+[SPEAKER_02]: Because it doesn't address the root of the issue.
+
+299
+00:30:36,249 --> 00:30:40,114
+[SPEAKER_02]: Like, if you keep... if on account of unwholesome actions,
+
+300
+00:30:41,521 --> 00:30:46,748
+[SPEAKER_02]: You keep steering up your own mind, then you can learn a method or technique to, in the evening, calm down again.
+
+301
+00:30:47,148 --> 00:30:50,433
+[SPEAKER_02]: If then, the next morning, you keep steering it up, that doesn't go anywhere.
+
+302
+00:30:50,653 --> 00:30:52,675
+[SPEAKER_02]: And never address why... Yeah.
+
+303
+00:30:52,715 --> 00:31:00,045
+[SPEAKER_02]: So, if somebody then teaches a technique that doesn't address the origin of the problem, then you would actively blind people
+
+304
+00:31:00,605 --> 00:31:06,189
+[SPEAKER_02]: From seeing what now the whole agenda problem is, precisely because then I become fascinated with technique and staying calm.
+
+305
+00:31:06,309 --> 00:31:12,753
+[SPEAKER_01]: He's giving them a painkiller, so that then they don't feel the need to fix the... Yeah, and then you die from a terminal illness.
+
+306
+00:31:13,074 --> 00:31:22,140
+[SPEAKER_02]: So, it would be better to not do that, to directly diagnose the symptoms, and then say, well, if you want to have always a calm mind, which doesn't need any maintenance on your part,
+
+307
+00:31:23,580 --> 00:31:27,521
+[SPEAKER_02]: Don't act in such a way that keeps scaring up your own mind, because you just shoot your own foot.
+
+308
+00:31:27,901 --> 00:31:33,702
+[SPEAKER_02]: That's the reason why there's always this emphasis on virtue and on sense restraint and seclusion.
+
+309
+00:31:34,062 --> 00:31:48,905
+[SPEAKER_02]: That is not because the Buddha hadn't yet discovered some sort of meditation method and technique, because if you emphasize that side, or even if you say anything along those lines without actually revealing the origin of the problem, then you would be
+
+310
+00:31:52,451 --> 00:31:54,993
+[SPEAKER_02]: I think we see basically everywhere these days.
+
+311
+00:31:55,753 --> 00:31:58,115
+[SPEAKER_01]: Yeah, it's more entertaining, for sure.
+
+312
+00:31:58,776 --> 00:32:08,604
+[SPEAKER_01]: It's more entertaining to just dance around the problem in an infinite array of ways, than to actually look at it in the face and see, oh, this is what it is.
+
+313
+00:32:10,326 --> 00:32:14,850
+[SPEAKER_01]: And, I mean, factually, in the same way that, yes, it could calm you down,
+
+314
+00:32:17,021 --> 00:32:40,655
+[SPEAKER_01]: Depending on the technique, I guess, but it could show you some... like, you could circumstantially have... due to no longer being as distracted by, you know, worldly things and breaking precepts and stuff, it may give you a better, a closer recognition of, let's say, your intentions.
+
+315
+00:32:42,411 --> 00:32:42,851
+[SPEAKER_01]: For a bit.
+
+316
+00:32:43,892 --> 00:32:53,257
+[SPEAKER_01]: But because you emphasize the technique part, you don't stay on that point where you could have, like, actually developed that awareness of the stuff that matters.
+
+317
+00:32:54,097 --> 00:32:56,038
+[SPEAKER_01]: You think it's the technique then.
+
+318
+00:32:56,078 --> 00:32:59,500
+[SPEAKER_01]: You, again, like I said before, you keep the emphasis in the wrong place.
+
+319
+00:33:00,240 --> 00:33:06,704
+[SPEAKER_01]: So, so it actually takes you now away from that middle ground where you could have, like, just
+
+320
+00:33:08,624 --> 00:33:15,596
+[SPEAKER_01]: Pulled back from the engagement with the world, but without then falling into another internal kind of activity.
+
+321
+00:33:15,856 --> 00:33:17,139
+[SPEAKER_01]: Yeah, that you need to keep going.
+
+322
+00:33:17,199 --> 00:33:17,579
+[SPEAKER_00]: Exactly.
+
+323
+00:33:17,619 --> 00:33:17,820
+[SPEAKER_00]: Yeah.
+
+324
+00:33:18,521 --> 00:33:21,005
+[SPEAKER_01]: So, so... yeah, like...
+
+325
+00:33:22,278 --> 00:33:26,839
+[SPEAKER_01]: In that sense, it wouldn't even be the technique itself.
+
+326
+00:33:26,999 --> 00:33:34,821
+[SPEAKER_01]: It would just be the fact that it would force you to withdraw, to stop engaging with things in the world.
+
+327
+00:33:34,861 --> 00:33:43,743
+[SPEAKER_01]: That in itself could be the basis for the right practice, but you need to keep it there and not then start running in a different direction.
+

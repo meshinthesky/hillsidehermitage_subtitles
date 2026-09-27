@@ -1,0 +1,1508 @@
+1
+00:00:02,909 --> 00:00:19,161
+[SPEAKER_02]: So, previously, I was taught about brahmaviharas, and I wanted to come here and find some clarity in regard to them, and I found a sutta that speaks on them.
+
+2
+00:00:19,502 --> 00:00:24,485
+[SPEAKER_01]: It's called Removing Resentment, and that's how it's translated in Guttur-Nikaya 161-161.
+
+3
+00:00:27,777 --> 00:00:38,364
+[SPEAKER_01]: In bhikkhus, there are these five ways of removing a resentment, by which a bhikkhu should entirely remove resentment when it has arisen towards... toward anyone.
+
+4
+00:00:38,404 --> 00:00:38,964
+[SPEAKER_01]: What five?
+
+5
+00:00:39,925 --> 00:00:42,746
+[SPEAKER_01]: One should develop love and kindness for the person one resents.
+
+6
+00:00:43,146 --> 00:00:46,348
+[SPEAKER_01]: In this way, one should remove the resentment toward that person.
+
+7
+00:00:47,109 --> 00:00:51,952
+[SPEAKER_01]: One should develop compassion and... and so... one should develop equanimity.
+
+8
+00:00:53,395 --> 00:00:57,746
+[SPEAKER_01]: Or, one should regard the person one resents and pay no attention to him.
+
+9
+00:00:58,007 --> 00:01:00,432
+[SPEAKER_01]: In this way, one should remove that resentment.
+
+10
+00:01:01,355 --> 00:01:02,036
+[SPEAKER_01]: Or, one...
+
+11
+00:01:02,825 --> 00:01:07,228
+[SPEAKER_01]: should apply the idea of ownership of kāma to the person one resents.
+
+12
+00:01:07,708 --> 00:01:12,311
+[SPEAKER_01]: Thus, this venerable one is the owner of his kāma, the heir of his kāma.
+
+13
+00:01:12,631 --> 00:01:15,432
+[SPEAKER_01]: He has his kāma as his origin, relative, resort.
+
+14
+00:01:16,793 --> 00:01:18,814
+[SPEAKER_01]: He is the heir of his kāma, good or bad.
+
+15
+00:01:19,195 --> 00:01:22,637
+[SPEAKER_01]: In this way, one should remove the resentment toward that person.
+
+16
+00:01:23,717 --> 00:01:29,200
+[SPEAKER_01]: These are the five ways in which removing resentment, by which bhikkhu should entirely remove it.
+
+17
+00:01:30,501 --> 00:01:31,242
+[SPEAKER_01]: I was wondering if
+
+18
+00:01:33,433 --> 00:01:44,799
+[SPEAKER_01]: It could be, I guess, more in regard to metta, compassion, equanimity... Well, yeah, that's the thing.
+
+19
+00:01:45,219 --> 00:01:52,583
+[SPEAKER_00]: Metta is translated as loving-kindness, but it's quite a, actually, silly translation.
+
+20
+00:01:52,623 --> 00:01:53,723
+[SPEAKER_00]: You're lovingly kind.
+
+21
+00:01:55,424 --> 00:01:56,325
+[SPEAKER_00]: It means friendliness.
+
+22
+00:01:58,966 --> 00:02:00,867
+[SPEAKER_00]: So, like, imagine if you're friends.
+
+23
+00:02:03,277 --> 00:02:06,038
+[SPEAKER_00]: Imagine if a stranger is saying something hurtful to you.
+
+24
+00:02:06,818 --> 00:02:08,518
+[SPEAKER_00]: Who do you think you are?
+
+25
+00:02:08,538 --> 00:02:09,119
+[SPEAKER_00]: You get upset.
+
+26
+00:02:10,179 --> 00:02:13,860
+[SPEAKER_00]: Now, imagine if your friend starts saying something, like your really, really good friend.
+
+27
+00:02:15,040 --> 00:02:21,341
+[SPEAKER_00]: It's going to be much harder to get upset, because you experience that person through the framework of friendliness.
+
+28
+00:02:22,021 --> 00:02:22,741
+[SPEAKER_00]: They are your friend.
+
+29
+00:02:24,982 --> 00:02:25,862
+[SPEAKER_00]: So, that's the difference.
+
+30
+00:02:26,342 --> 00:02:29,283
+[SPEAKER_00]: It's not what they said, and how they said it, and how you reacted.
+
+31
+00:02:30,167 --> 00:02:35,349
+[SPEAKER_00]: It's the context of that saying that's basically something your mind is responsible for.
+
+32
+00:02:36,810 --> 00:02:41,812
+[SPEAKER_00]: So, you want to practice metta, as in you want to develop the framework of friendliness towards all beings.
+
+33
+00:02:43,672 --> 00:02:45,993
+[SPEAKER_00]: All beings are your friends, even the ones that want to harm you.
+
+34
+00:02:46,533 --> 00:02:48,234
+[SPEAKER_00]: You cannot possibly experience your will.
+
+35
+00:02:49,034 --> 00:02:52,436
+[SPEAKER_00]: But loving-kindness, it's more of like a smarmy thing to do.
+
+36
+00:02:53,096 --> 00:02:54,296
+[SPEAKER_00]: Oh, but I love them.
+
+37
+00:02:54,336 --> 00:02:55,657
+[SPEAKER_00]: They hurt, but I love you back.
+
+38
+00:02:56,347 --> 00:02:56,507
+[SPEAKER_02]: No.
+
+39
+00:02:56,587 --> 00:02:57,867
+[SPEAKER_00]: That's you overshooting the mark.
+
+40
+00:02:58,248 --> 00:02:59,088
+[SPEAKER_00]: You don't need to love them.
+
+41
+00:02:59,188 --> 00:03:00,308
+[SPEAKER_00]: You just need to not hate them.
+
+42
+00:03:01,789 --> 00:03:02,929
+[SPEAKER_00]: That's the dhamma part of verse.
+
+43
+00:03:03,469 --> 00:03:05,570
+[SPEAKER_00]: It says hatred is not abandoned by hatred.
+
+44
+00:03:06,630 --> 00:03:09,991
+[SPEAKER_00]: Only by non-hatred you can abandon hatred.
+
+45
+00:03:10,131 --> 00:03:14,553
+[SPEAKER_00]: And people often jump to translate that by saying by love you abandon hatred.
+
+46
+00:03:14,573 --> 00:03:14,693
+[SPEAKER_00]: No.
+
+47
+00:03:14,853 --> 00:03:16,293
+[SPEAKER_00]: You abandon love by non-love.
+
+48
+00:03:17,474 --> 00:03:20,014
+[SPEAKER_00]: You abandon hatred by non-hatred.
+
+49
+00:03:20,054 --> 00:03:22,115
+[SPEAKER_00]: Love is an equal impediment as hatred is.
+
+50
+00:03:25,507 --> 00:03:26,968
+[SPEAKER_00]: So, think of metta as friendliness.
+
+51
+00:03:27,188 --> 00:03:31,332
+[SPEAKER_00]: That's why, if you're of friendly disposition, you can't hate anyone.
+
+52
+00:03:31,852 --> 00:03:37,037
+[SPEAKER_00]: That's the natural compassion already.
+
+53
+00:03:37,177 --> 00:03:44,483
+[SPEAKER_00]: If your perspective is not restricted with your anger and your conceit, you already... that perspective in itself is what carries compassion.
+
+54
+00:03:45,284 --> 00:03:48,987
+[SPEAKER_00]: Because you have a better sight, better... again, better perspective on what's going on.
+
+55
+00:03:50,961 --> 00:03:55,384
+[SPEAKER_00]: And that's why also that then culminates really in equanimity for Brahma-Vihāras.
+
+56
+00:03:56,345 --> 00:04:01,328
+[SPEAKER_00]: If you're friendly, if you're compassionate, you'll be indifferent to whatever that person chooses to do.
+
+57
+00:04:02,569 --> 00:04:09,374
+[SPEAKER_00]: He will not prompt your will in you, he will not prompt lust in you, so you will be equanimous, imperturbable.
+
+58
+00:04:10,797 --> 00:04:12,357
+[SPEAKER_02]: I've seen a...
+
+59
+00:04:12,838 --> 00:04:16,739
+[SPEAKER_02]: I guess compassion, the opposite of compassion, is not cruelty.
+
+60
+00:04:17,599 --> 00:04:22,581
+[SPEAKER_02]: Or, I suppose, it's not the desire to... Yeah, yeah, compassion is a translation.
+
+61
+00:04:22,601 --> 00:04:24,121
+[SPEAKER_00]: Yeah, you can say it's a non-cruelty.
+
+62
+00:04:25,381 --> 00:04:40,346
+[SPEAKER_02]: So, that would be the difference between this friendliness and compassion, is... the friendliness is in the lens of seeing whoever it is as a friend, and compassion in regard to any sort of
+
+63
+00:04:41,043 --> 00:04:43,324
+[SPEAKER_00]: It's even more, yeah, more encompassing.
+
+64
+00:04:43,664 --> 00:04:46,184
+[SPEAKER_00]: Yeah, it's even more encompassing than just friendliness.
+
+65
+00:04:46,984 --> 00:04:49,425
+[SPEAKER_00]: Friendliness is the basis, and it's a sufficient basis.
+
+66
+00:04:49,485 --> 00:04:57,146
+[SPEAKER_00]: I mean, you can just develop metta and experience complete dispassion, eventually, as a result of that framework.
+
+67
+00:04:58,047 --> 00:04:59,187
+[SPEAKER_00]: And that's the thing.
+
+68
+00:04:59,227 --> 00:05:08,929
+[SPEAKER_00]: So, if you were to take it further, the same principle, and you develop compassion, it would just be extended even further, in a sense of
+
+69
+00:05:10,169 --> 00:05:22,874
+[SPEAKER_00]: It's not even like a... it's not just about the person, but even whatever they were to do, you would still maintain compassion, as in you would still act and make the effort, if it comes to it, for their well-being.
+
+70
+00:05:24,075 --> 00:05:26,096
+[SPEAKER_00]: As opposed to acting out of their well-being.
+
+71
+00:05:26,336 --> 00:05:26,856
+[SPEAKER_00]: Yeah, yeah.
+
+72
+00:05:26,876 --> 00:05:33,379
+[SPEAKER_00]: You wouldn't be acting in response to what they're doing, because you wouldn't lose perspective, because you are already established upon the framework of friendliness.
+
+73
+00:05:33,999 --> 00:05:34,399
+[SPEAKER_00]: That's what I mean.
+
+74
+00:05:34,419 --> 00:05:36,200
+[SPEAKER_00]: The compassion would naturally come out of it.
+
+75
+00:05:38,209 --> 00:05:41,370
+[SPEAKER_00]: Because you're not compassionate when you lose the greater picture.
+
+76
+00:05:43,271 --> 00:05:44,951
+[SPEAKER_00]: You know, like that, you have an experience...
+
+77
+00:05:45,932 --> 00:05:52,214
+[SPEAKER_00]: I don't know, somebody says something and you get angry and then somebody tells you, like, oh, I don't... you know, his parents just died or something.
+
+78
+00:05:52,254 --> 00:05:55,675
+[SPEAKER_00]: And then suddenly you feel compassionate, although nothing has really changed.
+
+79
+00:05:55,755 --> 00:05:58,216
+[SPEAKER_00]: He's still insulting you and saying bad things to you, I don't know.
+
+80
+00:05:58,876 --> 00:06:02,837
+[SPEAKER_00]: But now you're not angry with him, because you kind of understood that, like, context that he's in pain.
+
+81
+00:06:04,538 --> 00:06:05,578
+[SPEAKER_00]: And then you can't have the anger.
+
+82
+00:06:06,258 --> 00:06:08,219
+[SPEAKER_00]: So, you have anger when you don't have perspective.
+
+83
+00:06:08,560 --> 00:06:13,303
+[SPEAKER_00]: But now, imagine you develop the ultimate perspective that doesn't even depend on the context in regard to that person.
+
+84
+00:06:13,563 --> 00:06:22,650
+[SPEAKER_00]: Even if his parents didn't die, even if he's not in the pain, if he's just being an utter complete idiot, rude, whatever, offensive, he's still a being.
+
+85
+00:06:23,070 --> 00:06:25,872
+[SPEAKER_00]: And that's like that beings are owners of their karma.
+
+86
+00:06:29,157 --> 00:06:33,319
+[SPEAKER_00]: It's not like something you need to psychologize and, like, oh, he's the owner, he'll pay the price.
+
+87
+00:06:33,359 --> 00:06:33,439
+[SPEAKER_00]: No.
+
+88
+00:06:33,459 --> 00:06:45,864
+[SPEAKER_00]: It literally means, recognizing that knowledge, that beings are bound with a karma, means, oh, he's subjected to his own actions, to his own lack of wisdom, to his own ignorance, to his own passions, completely unaware of it.
+
+89
+00:06:46,844 --> 00:06:50,606
+[SPEAKER_00]: And you cannot be upset on that account, because that's what ignorant beings are.
+
+90
+00:06:53,647 --> 00:06:56,188
+[SPEAKER_00]: So, in that sense, you wouldn't have any animosity towards them.
+
+91
+00:07:05,385 --> 00:07:14,774
+[SPEAKER_02]: I have another sutta, the next one following it, also called Removing Resentment, and it says, it goes through five ways.
+
+92
+00:07:15,074 --> 00:07:20,599
+[SPEAKER_00]: Oh, before you go for the next sutta, that's why also that friendliness, you practice towards all beings, animals too.
+
+93
+00:07:21,480 --> 00:07:22,361
+[SPEAKER_00]: It's the same framework.
+
+94
+00:07:23,001 --> 00:07:23,242
+[SPEAKER_00]: Yeah.
+
+95
+00:07:23,862 --> 00:07:28,427
+[SPEAKER_00]: Obviously, most often these things are prompted in people by interacting with other people, but it's the same.
+
+96
+00:07:30,168 --> 00:07:30,569
+[SPEAKER_00]: Animals,
+
+97
+00:07:31,595 --> 00:07:37,596
+[SPEAKER_00]: Pleasant animals, unpleasant animals, the ones you fear, the ones you hate, the ones you like, the ones you dislike.
+
+98
+00:07:38,997 --> 00:07:39,657
+[SPEAKER_00]: Same with people.
+
+99
+00:07:40,737 --> 00:07:47,559
+[SPEAKER_00]: So, the mind of friendliness means mind of non-harm, because you wouldn't harm a friend.
+
+100
+00:07:48,079 --> 00:07:49,139
+[SPEAKER_02]: Yeah.
+
+101
+00:07:49,840 --> 00:07:59,682
+[SPEAKER_00]: Even if the friend's trying to bite you, you wouldn't lose the context of that he is your friend.
+
+102
+00:08:03,216 --> 00:08:04,440
+[SPEAKER_02]: I'm trying to think in regard to...
+
+103
+00:08:04,621 --> 00:08:06,326
+[SPEAKER_02]: I mean, like, how I've seen...
+
+104
+00:08:09,046 --> 00:08:10,948
+[SPEAKER_02]: It's like the action, or the reaction.
+
+105
+00:08:11,108 --> 00:08:12,189
+[SPEAKER_00]: It's the reaction, yeah.
+
+106
+00:08:12,209 --> 00:08:18,694
+[SPEAKER_02]: Like, oh, you practice compassion by spreading love, by spreading this, by beaming it, by radiating it.
+
+107
+00:08:18,954 --> 00:08:22,557
+[SPEAKER_02]: Well, I've also seen it as, like, wishing for that person's... Yeah, yeah, yeah.
+
+108
+00:08:22,617 --> 00:08:23,378
+[SPEAKER_00]: Oh, wishing well.
+
+109
+00:08:23,498 --> 00:08:25,200
+[SPEAKER_00]: Well-wishing is your metta practice.
+
+110
+00:08:25,860 --> 00:08:26,361
+[SPEAKER_00]: No, actually.
+
+111
+00:08:26,381 --> 00:08:26,961
+[SPEAKER_00]: Well-wishing...
+
+112
+00:08:27,261 --> 00:08:27,502
+[SPEAKER_00]: Sorry.
+
+113
+00:08:27,762 --> 00:08:35,128
+[SPEAKER_00]: Metta practice is understanding what nature of friendliness is, what that framework is, and then cultivating it.
+
+114
+00:08:35,988 --> 00:08:38,889
+[SPEAKER_00]: Regardless of whether somebody is upsetting you or not.
+
+115
+00:08:39,569 --> 00:08:47,992
+[SPEAKER_00]: That's why the Buddha says, the Buddha said, oh, he would go, sit down, establish his mindfulness to the mouth, and then enter jhāna.
+
+116
+00:08:49,192 --> 00:08:53,014
+[SPEAKER_00]: Or, he would come back from penance, sit down, establish his mindfulness to the mouth, and the second, third, fourth.
+
+117
+00:08:53,534 --> 00:08:58,596
+[SPEAKER_00]: Or, he would come back from the penance, establish his mindfulness to the mouth, and practice development for Brahma-Vihāras.
+
+118
+00:09:01,316 --> 00:09:02,817
+[SPEAKER_00]: So, it's something you do when you're on your own.
+
+119
+00:09:03,750 --> 00:09:17,013
+[SPEAKER_00]: Because if you... if your mind is developed in that framework, that everybody is your friend, regardless of their actions and words, then when you do encounter people, they will be within that framework automatically.
+
+120
+00:09:17,693 --> 00:09:18,533
+[SPEAKER_00]: They will be friends.
+
+121
+00:09:18,573 --> 00:09:19,633
+[SPEAKER_00]: And you don't need to do anything.
+
+122
+00:09:19,653 --> 00:09:21,594
+[SPEAKER_00]: You don't need to make any effort towards them.
+
+123
+00:09:21,614 --> 00:09:24,334
+[SPEAKER_00]: Because that's not what friendship is.
+
+124
+00:09:24,414 --> 00:09:26,235
+[SPEAKER_00]: It's the attitude of the mind where the friendship is.
+
+125
+00:09:26,255 --> 00:09:27,295
+[SPEAKER_00]: That's what I mean by framework.
+
+126
+00:09:28,410 --> 00:09:29,370
+[SPEAKER_00]: Yeah.
+
+127
+00:09:29,710 --> 00:09:30,870
+[SPEAKER_00]: Oh, but I need to look in it.
+
+128
+00:09:31,611 --> 00:09:34,851
+[SPEAKER_00]: May my mother... Of course you wish your mother to be well.
+
+129
+00:09:34,891 --> 00:09:36,131
+[SPEAKER_00]: May my friends be well.
+
+130
+00:09:36,291 --> 00:09:39,432
+[SPEAKER_00]: Why do you keep repeating this mechanically?
+
+131
+00:09:39,532 --> 00:09:49,634
+[SPEAKER_00]: Understand what... Take your friend, take your mother, take people that you regard with friendly eye, and understand the nature of friendliness, regardless of the content of the people.
+
+132
+00:09:50,334 --> 00:09:52,474
+[SPEAKER_00]: That's why brahmavihāras are lofty abidings.
+
+133
+00:09:53,375 --> 00:09:55,435
+[SPEAKER_00]: Because you actually transcend the content of
+
+134
+00:09:56,274 --> 00:09:58,556
+[SPEAKER_00]: Engagement, passion, your will, all of that.
+
+135
+00:09:59,556 --> 00:10:01,698
+[SPEAKER_00]: You do it rightly, you will abandon sensuality as well.
+
+136
+00:10:03,339 --> 00:10:10,484
+[SPEAKER_02]: Brahmavihāras, were they exclusive to only, I guess, the disciples or the noble ones, the Buddha?
+
+137
+00:10:10,504 --> 00:10:13,847
+[SPEAKER_00]: Well, you need to have a right view for any type of mind establishment.
+
+138
+00:10:15,107 --> 00:10:17,389
+[SPEAKER_00]: But that doesn't mean you shouldn't be trying to do it rightly.
+
+139
+00:10:20,470 --> 00:10:26,054
+[SPEAKER_02]: So, because, I mean, I mean, thinking about in regard to other ascetics with jhāna... Well, I don't know.
+
+140
+00:10:26,715 --> 00:10:27,095
+[SPEAKER_00]: I don't know.
+
+141
+00:10:27,115 --> 00:10:39,604
+[SPEAKER_00]: I don't think it was mentioned that much in the suttas in that sense, but I would assume there are probably people who cultivated, you know, the compassion towards the whole world, plants, inanimate objects.
+
+142
+00:10:40,285 --> 00:10:44,828
+[SPEAKER_00]: You know, from the ultimate point of view of arahantship, it's kind of... well, it's not adequate.
+
+143
+00:10:45,209 --> 00:10:45,389
+[SPEAKER_00]: Yeah.
+
+144
+00:10:45,569 --> 00:10:48,911
+[SPEAKER_00]: But it's probably still quite a decent mind development.
+
+145
+00:10:50,248 --> 00:10:52,329
+[SPEAKER_00]: To not be able to hate anything or anyone.
+
+146
+00:10:54,670 --> 00:10:55,831
+[SPEAKER_00]: That's already quite something.
+
+147
+00:10:56,951 --> 00:10:58,592
+[SPEAKER_02]: By having... having right view...
+
+148
+00:10:58,612 --> 00:11:00,433
+[SPEAKER_00]: I think even Jesus might have been teaching that.
+
+149
+00:11:01,853 --> 00:11:02,514
+[SPEAKER_00]: In a nutshell.
+
+150
+00:11:04,295 --> 00:11:06,856
+[SPEAKER_00]: So, I think, you know, people get some recognition of it.
+
+151
+00:11:07,516 --> 00:11:18,982
+[SPEAKER_00]: You know, you had those other Indian sort of holy men and it was often... often revolving around that non-harmfulness, the Ahimsa principle, the Jains, yeah.
+
+152
+00:11:19,182 --> 00:11:19,822
+[SPEAKER_00]: But, eh...
+
+153
+00:11:20,805 --> 00:11:27,588
+[SPEAKER_00]: But, yeah, I think the way the Buddha was teaching is more like actually properly done, in a sense of properly established on the nature of that thing.
+
+154
+00:11:27,628 --> 00:11:28,448
+[SPEAKER_00]: And then you understand it.
+
+155
+00:11:28,508 --> 00:11:35,611
+[SPEAKER_00]: And then you don't need to be emulating or going through the motions of expressing it, so to speak.
+
+156
+00:11:37,432 --> 00:11:45,735
+[SPEAKER_02]: Having... using the cultivation of brahmaharas in regard to right view for uprooting conceit and sensuality.
+
+157
+00:11:45,755 --> 00:11:45,855
+[SPEAKER_02]: Yeah.
+
+158
+00:11:45,975 --> 00:11:48,756
+[SPEAKER_00]: Well, imagine now, like you go back to Kuti and you... like again,
+
+159
+00:11:50,278 --> 00:12:04,285
+[SPEAKER_00]: Recall a friend, something in your mind, but not the specific character or person, but just, like, try to ponder and discern the signs and characteristics of that friendship aspect, the nature of the... just friendship in general.
+
+160
+00:12:05,826 --> 00:12:11,449
+[SPEAKER_00]: How... what is your mind like when it's... when it's experiencing a phenomenon of friendliness?
+
+161
+00:12:12,870 --> 00:12:16,552
+[SPEAKER_00]: The more familiar you become with that friendliness, the more established that phenomenon is.
+
+162
+00:12:18,173 --> 00:12:22,536
+[SPEAKER_00]: Regardless of who you have to deal with, it will be seen through that phenomenon.
+
+163
+00:12:23,817 --> 00:12:26,419
+[SPEAKER_00]: And that's why you will be unable to hate them.
+
+164
+00:12:26,479 --> 00:12:27,460
+[SPEAKER_00]: Not because you love them.
+
+165
+00:12:28,361 --> 00:12:29,242
+[SPEAKER_00]: You don't need to love them.
+
+166
+00:12:30,362 --> 00:12:34,125
+[SPEAKER_00]: As I said, you can just... All you need to do is not give in to hate.
+
+167
+00:12:34,726 --> 00:12:34,866
+[SPEAKER_02]: Yeah.
+
+168
+00:12:34,926 --> 00:12:37,728
+[SPEAKER_02]: I mean, and the term love is always...
+
+169
+00:12:38,008 --> 00:12:44,513
+[SPEAKER_02]: I mean, how I always see it is like if something's taken away, if that thing that I love is taken, then there's going to be sadness emerging from it.
+
+170
+00:12:44,593 --> 00:12:44,813
+[SPEAKER_02]: It is.
+
+171
+00:12:45,014 --> 00:12:46,555
+[SPEAKER_00]: And I think it is like almost like a
+
+172
+00:12:47,522 --> 00:13:01,156
+[SPEAKER_00]: Semi-intentional effort to blur the line between love, which is an inevitable infatuation, attachment, requirement, need, and the spiritual love, which is clean of that and pure of that.
+
+173
+00:13:01,176 --> 00:13:01,956
+[SPEAKER_00]: That's impossible.
+
+174
+00:13:03,798 --> 00:13:06,281
+[SPEAKER_00]: If it's love, means you're overshooting the mark.
+
+175
+00:13:07,141 --> 00:13:09,083
+[SPEAKER_00]: If it's hate, means you're overshooting the mark.
+
+176
+00:13:09,984 --> 00:13:11,185
+[SPEAKER_02]: You're not seeing the middle of it.
+
+177
+00:13:13,692 --> 00:13:16,094
+[SPEAKER_00]: And the people think, well, the Buddha had the love.
+
+178
+00:13:16,434 --> 00:13:16,974
+[SPEAKER_00]: No, he didn't.
+
+179
+00:13:17,274 --> 00:13:18,275
+[SPEAKER_00]: He didn't even want to teach.
+
+180
+00:13:19,196 --> 00:13:20,136
+[SPEAKER_00]: He said, it's a hassle.
+
+181
+00:13:20,496 --> 00:13:21,977
+[SPEAKER_00]: Why would I waste my time?
+
+182
+00:13:22,838 --> 00:13:24,819
+[SPEAKER_00]: Eight out of ten people won't understand what I'm saying.
+
+183
+00:13:26,760 --> 00:13:36,186
+[SPEAKER_00]: And when the Supreme Brahma then came and asked him three times, begged him to do it, because, well, at least two out of ten people will understand, and to that extent, it's a great thing.
+
+184
+00:13:36,246 --> 00:13:40,269
+[SPEAKER_00]: And then the Buddha decided, okay, he'll teach, not because he loved them, but because he had compassion
+
+185
+00:13:41,014 --> 00:13:48,898
+[SPEAKER_00]: In the same sense, a doctor who knows the cure to the illness of the humanity, humankind, would decide to share his medicine.
+
+186
+00:13:49,998 --> 00:13:57,981
+[SPEAKER_00]: But he said himself, like, when the man asked him, oh, do you get elated when your disciples, like, you know, fulfill your teachings?
+
+187
+00:13:58,542 --> 00:13:59,802
+[SPEAKER_00]: Do you get sad when they don't?
+
+188
+00:14:00,382 --> 00:14:01,583
+[SPEAKER_00]: And he said, let me ask in return.
+
+189
+00:14:01,623 --> 00:14:05,405
+[SPEAKER_00]: Somebody comes and asks you for a way to a certain village.
+
+190
+00:14:05,445 --> 00:14:07,285
+[SPEAKER_00]: And you tell him, well, at this junction, take left.
+
+191
+00:14:09,066 --> 00:14:10,647
+[SPEAKER_00]: And then that person takes right.
+
+192
+00:14:12,155 --> 00:14:13,316
+[SPEAKER_02]: Are you upset on account of that?
+
+193
+00:14:13,356 --> 00:14:14,036
+[SPEAKER_00]: He says, no.
+
+194
+00:14:14,296 --> 00:14:15,717
+[SPEAKER_00]: I mean, I've done my bit.
+
+195
+00:14:16,557 --> 00:14:18,098
+[SPEAKER_00]: But he chose to go the opposite way.
+
+196
+00:14:18,118 --> 00:14:19,298
+[SPEAKER_00]: I say, well, so it's with the target.
+
+197
+00:14:19,418 --> 00:14:20,079
+[SPEAKER_00]: I've done my bit.
+
+198
+00:14:20,879 --> 00:14:23,060
+[SPEAKER_00]: The person chooses not to follow it.
+
+199
+00:14:23,440 --> 00:14:25,741
+[SPEAKER_00]: That's displeasing in a way, like I wasted my time.
+
+200
+00:14:26,601 --> 00:14:30,823
+[SPEAKER_00]: But that displeasure does not overcome and obsess and sort of possess my mind.
+
+201
+00:14:31,744 --> 00:14:34,925
+[SPEAKER_00]: Then somebody does what I suggest and what I instruct them to do.
+
+202
+00:14:35,505 --> 00:14:39,707
+[SPEAKER_00]: Then I'm pleased, because they follow my instructions through and through and I didn't waste my time talking to them.
+
+203
+00:14:40,287 --> 00:14:41,368
+[SPEAKER_00]: But that pleasure does not.
+
+204
+00:14:41,840 --> 00:14:44,382
+[SPEAKER_00]: Come over my mind and obsess it and persist it and so on.
+
+205
+00:14:46,124 --> 00:14:48,906
+[SPEAKER_00]: So, yeah, it's a compassion of... yeah, I can help you.
+
+206
+00:14:49,367 --> 00:14:51,729
+[SPEAKER_00]: And here is the cure, here is the medicine, here is the diet.
+
+207
+00:14:52,750 --> 00:14:56,873
+[SPEAKER_00]: Here is a strict set of rules you have to, like, adhere to and follow what I say.
+
+208
+00:14:57,694 --> 00:14:58,254
+[SPEAKER_00]: You don't do it?
+
+209
+00:14:58,675 --> 00:15:00,196
+[SPEAKER_00]: How could I possibly care about that?
+
+210
+00:15:00,236 --> 00:15:00,897
+[SPEAKER_00]: Not my problem.
+
+211
+00:15:01,777 --> 00:15:02,178
+[SPEAKER_00]: You do it?
+
+212
+00:15:02,238 --> 00:15:02,458
+[SPEAKER_00]: Okay.
+
+213
+00:15:02,538 --> 00:15:02,999
+[SPEAKER_00]: Good for you.
+
+214
+00:15:03,199 --> 00:15:03,659
+[SPEAKER_00]: There you go.
+
+215
+00:15:03,679 --> 00:15:04,540
+[SPEAKER_00]: Now you see for yourself.
+
+216
+00:15:05,803 --> 00:15:06,263
+[SPEAKER_00]: And that's it.
+
+217
+00:15:06,684 --> 00:15:16,471
+[SPEAKER_00]: But people like, again, as I said, with these blurred lines between our love and love, because it allows you to indulge, then, this great compassion love, which is all revolves around your conceit as well.
+
+218
+00:15:18,613 --> 00:15:22,776
+[SPEAKER_00]: And how the Buddha loved all of us, and we, no, we most certainly did not.
+
+219
+00:15:25,203 --> 00:15:31,186
+[SPEAKER_02]: It reminds me of the one sutra where the Buddha says, like, to the horse trainer, like, I kill them.
+
+220
+00:15:31,547 --> 00:15:38,471
+[SPEAKER_02]: Like, those that don't, you know, after I've tried to train them, and they still don't listen to me, well, then I kill them.
+
+221
+00:15:38,531 --> 00:15:38,811
+[SPEAKER_02]: How?
+
+222
+00:15:38,911 --> 00:15:40,472
+[SPEAKER_02]: By not talking to them.
+
+223
+00:15:40,532 --> 00:15:42,053
+[SPEAKER_00]: And that's also one... By being finished with them, yeah.
+
+224
+00:15:42,153 --> 00:15:44,194
+[SPEAKER_02]: And removing resentment also in regard to...
+
+225
+00:15:44,214 --> 00:15:44,874
+[SPEAKER_02]: Ignoring, yeah.
+
+226
+00:15:45,034 --> 00:15:45,555
+[SPEAKER_02]: Ignoring the person.
+
+227
+00:15:45,575 --> 00:15:47,275
+[SPEAKER_00]: Paying no attention to it, yeah.
+
+228
+00:15:52,498 --> 00:15:52,979
+[SPEAKER_02]: I've seen...
+
+229
+00:15:54,327 --> 00:16:09,120
+[SPEAKER_02]: In the following sutta, it talks about... there's a person... people of different bodily behavior, impure or verbal behavior, that is pure, and regarding them as such.
+
+230
+00:16:11,577 --> 00:16:14,599
+[SPEAKER_02]: Some of them have a placidity of mind.
+
+231
+00:16:15,340 --> 00:16:23,447
+[SPEAKER_02]: I've seen a certain portion of this sutta quoted in regard to compassion or cultivating compassion.
+
+232
+00:16:25,288 --> 00:16:26,309
+[SPEAKER_02]: I'll read that line now.
+
+233
+00:16:26,429 --> 00:16:36,578
+[SPEAKER_02]: It says, "...how, friends, should resentment be removed toward a person whose bodily and verbal behavior are impure and who does not gain an opening of mind, placidity of mind, from time to time?"
+
+234
+00:16:37,518 --> 00:16:54,390
+[SPEAKER_02]: as to suppose a sick afflicted gravely ill person was traveling along a highway from the last village behind him in the next ahead of him were both far away he would not obtain suitable food and medicine or a qualified attendant he would not get to meet the leader of the village district
+
+235
+00:16:55,270 --> 00:17:08,376
+[SPEAKER_02]: Another man traveling on that highway might see him and arouse sheer compassion, sympathy and tender concern for him, thinking, oh, may this man obtain suitable food, suitable medicine and a qualified attendant.
+
+236
+00:17:09,137 --> 00:17:16,140
+[SPEAKER_02]: May he meet the leader of the village and may not encounter calamity and disaster right here.
+
+237
+00:17:17,035 --> 00:17:29,485
+[SPEAKER_02]: And so, too, when a person bodily... a person's bodily and verbal behavior are impure, he does not gain from time to time an opening of mind, a placidity of mind on that occasion, one should arouse sheer compassion.
+
+238
+00:17:30,787 --> 00:17:35,490
+[SPEAKER_00]: And, eh... By the way, whose translation is that?
+
+239
+00:17:36,011 --> 00:17:36,992
+[SPEAKER_01]: Eh... Bhikkhu Bodhi's.
+
+240
+00:17:37,292 --> 00:17:37,552
+[SPEAKER_01]: Right.
+
+241
+00:17:37,812 --> 00:17:38,133
+[SPEAKER_01]: Mm-hm.
+
+242
+00:17:40,394 --> 00:17:41,876
+[SPEAKER_02]: Well, that's kind of self-explanatory.
+
+243
+00:17:42,436 --> 00:17:42,937
+[SPEAKER_00]: Mm-hm.
+
+244
+00:17:43,037 --> 00:17:44,938
+[SPEAKER_00]: A person might not see that it's for their welfare.
+
+245
+00:17:45,419 --> 00:17:45,679
+[SPEAKER_00]: Mm-hm.
+
+246
+00:17:46,304 --> 00:17:52,426
+[SPEAKER_00]: To be, you know, restrained and develop the mind and calmness and so on.
+
+247
+00:17:54,126 --> 00:17:57,787
+[SPEAKER_00]: So you try to help them and so they can see that it's for their own good.
+
+248
+00:17:58,087 --> 00:18:00,048
+[SPEAKER_00]: Yeah.
+
+249
+00:18:00,068 --> 00:18:01,268
+[SPEAKER_00]: But that's all you can do with.
+
+250
+00:18:01,468 --> 00:18:07,990
+[SPEAKER_00]: That's why even the Buddha said, even in his, you know, he's the Buddha himself, the Supreme Buddha himself, enlightening in every way.
+
+251
+00:18:08,110 --> 00:18:11,031
+[SPEAKER_00]: And he said, all I can do is point in the direction.
+
+252
+00:18:11,600 --> 00:18:11,920
+[SPEAKER_02]: Yeah.
+
+253
+00:18:13,481 --> 00:18:14,001
+[SPEAKER_02]: I've just seen...
+
+254
+00:18:14,041 --> 00:18:21,826
+[SPEAKER_02]: I've seen this particular part of the sutta quoted sometimes in regard to, like, the well-wishing, like... Well, that's the thing, you see, like... Yeah.
+
+255
+00:18:22,887 --> 00:18:23,327
+[SPEAKER_00]: You would...
+
+256
+00:18:26,409 --> 00:18:35,534
+[SPEAKER_00]: In order for you to do the well-wishing, you have to forget and ignore and be unaware and non-discerning of the fact that you are already compassionate.
+
+257
+00:18:38,536 --> 00:18:39,216
+[SPEAKER_00]: Most people,
+
+258
+00:18:39,660 --> 00:18:44,122
+[SPEAKER_00]: You already have a recognition of what compassion and helpfulness and friendliness is.
+
+259
+00:18:45,022 --> 00:18:58,027
+[SPEAKER_00]: But practicing that, it's more like discerning the nature of those phenomena, not like emulating now this whole new artificial method of compassion on top of it, so you can somehow reconnect with it.
+
+260
+00:18:58,807 --> 00:19:00,228
+[SPEAKER_00]: You're doing it instead of it.
+
+261
+00:19:01,088 --> 00:19:07,191
+[SPEAKER_00]: Which means, the more you commit to this ridiculous method of, how are you feeling now, I'm so concerned about you,
+
+262
+00:19:10,156 --> 00:19:20,161
+[SPEAKER_00]: You will be covering up the natural compassion, which won't just say things that are compassionate, but will actually have a compassionate perspective, and say things that are helpful.
+
+263
+00:19:21,402 --> 00:19:24,903
+[SPEAKER_00]: They might not necessarily make that person feel better.
+
+264
+00:19:25,684 --> 00:19:30,526
+[SPEAKER_00]: That's, again, when the doctor tells you what the medicine is, it might not be a pleasant thing to hear.
+
+265
+00:19:31,126 --> 00:19:32,047
+[SPEAKER_00]: Oh, this is the treatment.
+
+266
+00:19:33,047 --> 00:19:34,808
+[SPEAKER_00]: But it's factually for your own good.
+
+267
+00:19:35,248 --> 00:19:38,470
+[SPEAKER_00]: But if a doctor just pats you on the back, hugs you, cries with you,
+
+268
+00:19:39,285 --> 00:19:42,107
+[SPEAKER_00]: Full of loving-kindness doesn't want to upset you, you know.
+
+269
+00:19:43,008 --> 00:19:44,809
+[SPEAKER_02]: It's not for your own... it's not for your good, isn't it?
+
+270
+00:19:45,970 --> 00:19:49,292
+[SPEAKER_00]: You'll die ill, because treatment is too unpleasant to admit.
+
+271
+00:19:50,833 --> 00:20:03,202
+[SPEAKER_00]: And that's... that would explain... like if people ever actually make the effort to study the suttas, they would see that the Buddha was sometimes extremely, extremely harsh in his verbal
+
+272
+00:20:04,563 --> 00:20:07,845
+[SPEAKER_00]: Telling off to the monks they were not practicing or getting careless.
+
+273
+00:20:08,186 --> 00:20:11,508
+[SPEAKER_00]: And not like idiot monks, like monks that didn't know what they were doing.
+
+274
+00:20:12,949 --> 00:20:15,811
+[SPEAKER_00]: But, you know, like monks that were already established in dhamma.
+
+275
+00:20:16,471 --> 00:20:17,932
+[SPEAKER_00]: Like Venerable Ananda and others.
+
+276
+00:20:19,353 --> 00:20:23,476
+[SPEAKER_00]: And you say, oh, how can somebody full of love speak like this?
+
+277
+00:20:23,676 --> 00:20:32,581
+[SPEAKER_00]: And you don't even, you know, if that upsets someone who reads it, don't even go and read Vibhanga stories, where the monks broke the rules, how Buddha then spoke to them.
+
+278
+00:20:34,511 --> 00:20:35,091
+[SPEAKER_00]: So, that's what I mean.
+
+279
+00:20:35,111 --> 00:20:39,733
+[SPEAKER_00]: Like, it's nothing to do with that samāmi love and spreading my joy to you.
+
+280
+00:20:40,273 --> 00:20:50,297
+[SPEAKER_00]: It's more like, out of my friendliness, I can help you, and that's why I'm not sacrificing my own perspective, which is... you are not aware of.
+
+281
+00:20:50,317 --> 00:20:55,919
+[SPEAKER_00]: So, see, like, the other man knows that there is the end of his suffering if he continues walking to the next village.
+
+282
+00:20:56,580 --> 00:20:57,800
+[SPEAKER_00]: He will get the proper care.
+
+283
+00:20:58,701 --> 00:21:00,561
+[SPEAKER_00]: The man who is stuck in between, he doesn't know that.
+
+284
+00:21:00,661 --> 00:21:02,242
+[SPEAKER_00]: And he doesn't know that this man knows that.
+
+285
+00:21:04,177 --> 00:21:11,099
+[SPEAKER_00]: So, yeah, it can maybe sound arrogant to him that this man is telling him where to go, but if he makes the effort, he'll confirm for himself.
+
+286
+00:21:11,659 --> 00:21:15,320
+[SPEAKER_00]: And it's like this was pure compassion, pure non-arrogance.
+
+287
+00:21:16,341 --> 00:21:17,701
+[SPEAKER_00]: Because he didn't have to say that to me.
+
+288
+00:21:17,941 --> 00:21:18,701
+[SPEAKER_00]: It's nothing to him.
+
+289
+00:21:19,482 --> 00:21:28,084
+[SPEAKER_00]: He doesn't know me, doesn't love me, you know, doesn't even, like, want to, like, spend time with me, so to speak.
+
+290
+00:21:28,184 --> 00:21:29,045
+[SPEAKER_00]: Yet, he still helped me.
+
+291
+00:21:29,925 --> 00:21:30,545
+[SPEAKER_00]: So, that's what I mean.
+
+292
+00:21:30,585 --> 00:21:33,386
+[SPEAKER_00]: Compassion and all these things, even jhānas, by the way, are
+
+293
+00:21:34,097 --> 00:21:39,278
+[SPEAKER_00]: ...developed by undoing everything that blocks them, in your experience.
+
+294
+00:21:40,338 --> 00:21:46,899
+[SPEAKER_00]: And one of the main reason... one of the main thing that blocks them is the idea of a method and performance and set of prescriptions.
+
+295
+00:21:46,919 --> 00:21:48,860
+[SPEAKER_00]: So, this is how I do, this is how I do, this is how I do it.
+
+296
+00:21:49,820 --> 00:21:59,121
+[SPEAKER_00]: Because, even like in Brahmavihāras, you know, people try to emulate and do it mechanically, this spreading of matter, as you can spread your friendliness, here, here, here.
+
+297
+00:21:59,921 --> 00:22:03,042
+[SPEAKER_00]: But, how would you then spread upeka?
+
+298
+00:22:04,083 --> 00:22:10,206
+[SPEAKER_00]: How can you spread, how can you beam and spread rays of indifference?
+
+299
+00:22:11,746 --> 00:22:12,467
+[SPEAKER_00]: How does that work?
+
+300
+00:22:13,507 --> 00:22:15,708
+[SPEAKER_00]: So, you're beaming indifference.
+
+301
+00:22:17,088 --> 00:22:18,249
+[SPEAKER_00]: Here's my indifference to you.
+
+302
+00:22:19,009 --> 00:22:20,210
+[SPEAKER_00]: It's the framework in your mind.
+
+303
+00:22:20,990 --> 00:22:27,793
+[SPEAKER_00]: If your mind is developed to the point of imperturbable equanimity, friend, nothing matters anymore.
+
+304
+00:22:28,693 --> 00:22:31,835
+[SPEAKER_00]: Nothing can perturb that mind, because it's seen in the right order.
+
+305
+00:22:34,146 --> 00:22:44,873
+[SPEAKER_02]: I've seen it too, I guess, people or teachers prescribing like this, like, you know, if you feel hate, you need to get rid of it.
+
+306
+00:22:44,934 --> 00:22:52,939
+[SPEAKER_00]: Because people are so much dependent in their lay life, generally, even monks actually, on having something to do.
+
+307
+00:22:53,680 --> 00:22:56,141
+[SPEAKER_00]: If I have nothing to do, well, I'll start going mad.
+
+308
+00:22:57,802 --> 00:23:02,806
+[SPEAKER_00]: So then, even when they take on practice of dhamma, it just becomes a new thing, which is something to do.
+
+309
+00:23:03,804 --> 00:23:11,130
+[SPEAKER_00]: Which is my duty, my this, my method, my meditation technique, and all that, and you become dependent on having to do it.
+
+310
+00:23:12,471 --> 00:23:16,874
+[SPEAKER_00]: So, that's why if you come across instruction, meditation, well, you can't do it.
+
+311
+00:23:17,195 --> 00:23:18,195
+[SPEAKER_00]: You can only understand it.
+
+312
+00:23:19,176 --> 00:23:20,497
+[SPEAKER_00]: Which is not on the level of doing.
+
+313
+00:23:20,597 --> 00:23:23,880
+[SPEAKER_00]: Well, that's just... For many people, that's hard to accept.
+
+314
+00:23:24,600 --> 00:23:28,744
+[SPEAKER_00]: Because that means they need to undo their compulsive dependence upon having something to do.
+
+315
+00:23:29,524 --> 00:23:30,325
+[SPEAKER_00]: And that's frightening.
+
+316
+00:23:32,222 --> 00:23:35,304
+[SPEAKER_00]: It undermines you existentially, which means you will have to feel that.
+
+317
+00:23:36,224 --> 00:23:42,887
+[SPEAKER_00]: But those who are not afraid to do it, then they get to see the direction where the mindfulness and understanding and discernment and everything else that Buddha talks about is.
+
+318
+00:23:48,943 --> 00:24:10,090
+[SPEAKER_02]: So, in regard to having to experience being around a difficult person, and then hatred or resentment arising in regard to them, instead of standing there, you know, in your mind, wishing, radiating... You don't, you can't, and you shouldn't try to get rid of that resentment, in a sense of this should not be arising, because it's already there.
+
+319
+00:24:10,470 --> 00:24:12,191
+[SPEAKER_00]: You don't want it, obviously, yet it's there.
+
+320
+00:24:12,911 --> 00:24:17,733
+[SPEAKER_00]: So, you now trying to go against it, while it's there, is just confirming its presence even more.
+
+321
+00:24:18,654 --> 00:24:21,375
+[SPEAKER_00]: Instead, you want to include it in the right context.
+
+322
+00:24:22,075 --> 00:24:25,235
+[SPEAKER_00]: Context that you would have had to have understood beforehand and developed.
+
+323
+00:24:25,975 --> 00:24:31,536
+[SPEAKER_00]: You can't include it magically in the right context through a set of prescribed motions and mechanical methods.
+
+324
+00:24:32,797 --> 00:24:34,537
+[SPEAKER_00]: Because that's not what the context is.
+
+325
+00:24:35,497 --> 00:24:38,578
+[SPEAKER_00]: So, you want to understand the context that can include resentment.
+
+326
+00:24:39,878 --> 00:24:40,858
+[SPEAKER_00]: Context of friendship.
+
+327
+00:24:41,478 --> 00:24:45,359
+[SPEAKER_00]: You can be upset with your friend, because he's saying something or he's acting
+
+328
+00:24:46,532 --> 00:24:48,193
+[SPEAKER_00]: Inappropriately, whatever, that's upset.
+
+329
+00:24:48,713 --> 00:24:50,174
+[SPEAKER_00]: But you still don't question your friendship.
+
+330
+00:24:51,915 --> 00:24:54,796
+[SPEAKER_00]: And to that extent, you're still not losing perspective on your behavior.
+
+331
+00:24:56,457 --> 00:25:01,459
+[SPEAKER_00]: Means even if your friend is acting like an idiot, you're not going to get upset and dismiss him.
+
+332
+00:25:01,619 --> 00:25:05,041
+[SPEAKER_00]: You're trying to help him because he's still primarily within the framework of friendship.
+
+333
+00:25:06,281 --> 00:25:09,303
+[SPEAKER_00]: Yeah, if he really pushes it, then you might dismiss the whole framework.
+
+334
+00:25:09,983 --> 00:25:14,665
+[SPEAKER_00]: But in this case, you want to not dismiss the framework in regard to people who you don't even know.
+
+335
+00:25:16,199 --> 00:25:18,381
+[SPEAKER_00]: Because you can still maintain the framework of friendliness.
+
+336
+00:25:19,241 --> 00:25:23,945
+[SPEAKER_00]: People, animals, you don't even need the engagement on the level of personalities.
+
+337
+00:25:25,726 --> 00:25:31,010
+[SPEAKER_00]: So, anything opposite of me is within the framework of friendliness that I cultivate.
+
+338
+00:25:31,811 --> 00:25:36,154
+[SPEAKER_00]: So, if I experience resentment, it's within the framework of the friendliness I cultivate.
+
+339
+00:25:36,174 --> 00:25:38,155
+[SPEAKER_00]: Thus, it's not really the resentment that you act out.
+
+340
+00:25:39,416 --> 00:25:40,917
+[SPEAKER_00]: And then, it will cease as a resentment.
+
+341
+00:25:41,138 --> 00:25:45,441
+[SPEAKER_00]: It's going to be just a response of... No, this is a genuinely foolish behavior that is disagreeable.
+
+342
+00:25:46,560 --> 00:25:50,202
+[SPEAKER_00]: So, then, resentment is just seen as a disagreeable counterpart of that behavior.
+
+343
+00:25:51,203 --> 00:25:54,905
+[SPEAKER_00]: But it's not taken personally and it's certainly not rooted in your anger or your will anymore.
+
+344
+00:25:57,026 --> 00:26:05,671
+[SPEAKER_00]: Because that's what the Buddha would say, like, sometimes, if they, if they, you know, if you get, like, paired with a fool, it's factual.
+
+345
+00:26:05,751 --> 00:26:06,771
+[SPEAKER_00]: His behavior is foolish.
+
+346
+00:26:06,791 --> 00:26:07,552
+[SPEAKER_00]: He's a foolish man.
+
+347
+00:26:07,592 --> 00:26:07,992
+[SPEAKER_00]: You leave.
+
+348
+00:26:08,052 --> 00:26:09,073
+[SPEAKER_00]: You don't want to deal with him.
+
+349
+00:26:11,614 --> 00:26:12,975
+[SPEAKER_00]: But people, like, think, oh, it's just this...
+
+350
+00:26:14,588 --> 00:26:18,790
+[SPEAKER_00]: Non-discriminating, all-encompassing, universal love towards everything.
+
+351
+00:26:18,830 --> 00:26:19,710
+[SPEAKER_00]: I just love everything.
+
+352
+00:26:20,470 --> 00:26:21,391
+[SPEAKER_00]: I'm in love with everything.
+
+353
+00:26:22,931 --> 00:26:26,353
+[SPEAKER_00]: Which means, I'm oblivious to the nature of action of that person.
+
+354
+00:26:26,573 --> 00:26:28,853
+[SPEAKER_00]: I don't see how they behave, because I just love everyone.
+
+355
+00:26:28,873 --> 00:26:29,294
+[SPEAKER_00]: I don't care.
+
+356
+00:26:30,534 --> 00:26:31,154
+[SPEAKER_00]: No, you do care.
+
+357
+00:26:31,174 --> 00:26:33,875
+[SPEAKER_00]: You're just trying to override it and pretend it's not there.
+
+358
+00:26:36,456 --> 00:26:37,557
+[SPEAKER_02]: Is there a way of...
+
+359
+00:26:39,473 --> 00:26:46,958
+[SPEAKER_02]: If you see that you've lost the context and you say, oh, I should not say anything, I should not do anything, I should walk away.
+
+360
+00:26:47,459 --> 00:26:47,919
+[SPEAKER_02]: Yeah, exactly.
+
+361
+00:26:47,939 --> 00:26:49,400
+[SPEAKER_00]: That is the extent of your...
+
+362
+00:26:49,500 --> 00:26:56,245
+[SPEAKER_00]: If you have lost the context and you're certain that you cannot act out of the right perspective, then, yeah, you restrain.
+
+363
+00:26:56,906 --> 00:26:57,546
+[SPEAKER_00]: Restrain yourself.
+
+364
+00:26:57,786 --> 00:26:58,527
+[SPEAKER_00]: Walk away.
+
+365
+00:26:58,647 --> 00:27:01,229
+[SPEAKER_00]: Or, as I said, ignore until it subsides.
+
+366
+00:27:01,729 --> 00:27:05,412
+[SPEAKER_00]: Because you obviously haven't developed the framework enough, sufficiently enough.
+
+367
+00:27:08,897 --> 00:27:16,902
+[SPEAKER_02]: I've seen people saying that would be your act of compassion or friendliness, because you did not engage at all.
+
+368
+00:27:16,982 --> 00:27:17,602
+[SPEAKER_00]: Yeah, that's true.
+
+369
+00:27:17,722 --> 00:27:18,123
+[SPEAKER_00]: That's true.
+
+370
+00:27:18,823 --> 00:27:24,507
+[SPEAKER_00]: Because it's like, you know, you have hatred on one side and non-hatred on the other side.
+
+371
+00:27:25,287 --> 00:27:28,689
+[SPEAKER_00]: You have acts of hatred on one side and acts of non-hatred on the other side.
+
+372
+00:27:29,330 --> 00:27:33,993
+[SPEAKER_00]: So, to that extent, you're contributing to the betterment of that situation.
+
+373
+00:27:35,225 --> 00:27:38,787
+[SPEAKER_00]: So, yeah, if it comes like... well, if you walk away, you can't act out of hate then.
+
+374
+00:27:39,747 --> 00:27:44,009
+[SPEAKER_00]: So, to that extent, you prevented half of the hate that would have been in that situation.
+
+375
+00:27:44,029 --> 00:27:46,390
+[SPEAKER_00]: There would have been an escalated neo-opposing end of the other hate.
+
+376
+00:27:47,091 --> 00:27:48,251
+[SPEAKER_00]: There would have been an escalated end.
+
+377
+00:27:48,271 --> 00:27:49,532
+[SPEAKER_00]: That's why hate breeds more hate.
+

@@ -1,0 +1,1256 @@
+1
+00:00:02,966 --> 00:00:13,725
+[SPEAKER_00]: So, this is the first sutta of Majjhima Nikāya, Majjhima Nikāya number one, and it's called the Mūla Pāryāya Sutta, which, in English, it's translated as the root of all things.
+
+2
+00:00:24,850 --> 00:00:32,954
+[SPEAKER_00]: So, it begins by describing... by saying that the Buddha was staying near Ukata, in the Subhāga forest, and he was talking to the monks.
+
+3
+00:00:34,295 --> 00:00:42,759
+[SPEAKER_00]: So, he addressed them, saying, monks, I will teach you the explanation of the root of all things.
+
+4
+00:00:44,280 --> 00:00:45,640
+[SPEAKER_00]: Listen and apply your minds well.
+
+5
+00:00:46,001 --> 00:00:46,621
+[SPEAKER_00]: I will speak.
+
+6
+00:00:48,488 --> 00:00:49,409
+[SPEAKER_00]: So, the Buddha continues.
+
+7
+00:00:49,709 --> 00:00:58,776
+[SPEAKER_00]: Take an unlearned ordinary person who has not seen the Noble Ones and is neither skilled nor trained in the teaching of the Noble Ones.
+
+8
+00:00:58,796 --> 00:01:04,060
+[SPEAKER_00]: They have not seen true persons and are neither skilled nor trained in the teaching of true persons.
+
+9
+00:01:06,227 --> 00:01:13,991
+[SPEAKER_00]: So, this is a description of a puthujjana, of somebody who does not have the right view.
+
+10
+00:01:14,411 --> 00:01:28,319
+[SPEAKER_00]: So, when the Buddha decided to begin this exposition of the root of all things, like what is... what is at the root of anything that you might experience, he started by... with a case of puthujjana.
+
+11
+00:01:28,599 --> 00:01:33,482
+[SPEAKER_00]: So, somebody who is not sotāpanna, who does not understand the way out of suffering,
+
+12
+00:01:35,163 --> 00:01:39,707
+[SPEAKER_00]: For that person, the Buddha says, they perceive earth as earth.
+
+13
+00:01:41,529 --> 00:01:45,614
+[SPEAKER_00]: Having perceived earth as earth, they conceive earth.
+
+14
+00:01:46,434 --> 00:01:49,698
+[SPEAKER_00]: They conceive in earth, they conceive from earth.
+
+15
+00:01:50,419 --> 00:01:53,542
+[SPEAKER_00]: They conceive earth is mine, they delight in earth.
+
+16
+00:01:55,043 --> 00:02:07,268
+[SPEAKER_00]: So, first thing here, it's, as you will see, obviously, the sutta starts by listing earth, water, fire, air, the four great elements, then goes into all sorts of other phenomena.
+
+17
+00:02:08,609 --> 00:02:16,732
+[SPEAKER_00]: The point there is to paint the picture of any direction, anything big,
+
+18
+00:02:18,468 --> 00:02:27,576
+[SPEAKER_00]: Small, far, or near, personal, impersonal, lofty, coarse, sublime, divine...
+
+19
+00:02:30,278 --> 00:02:43,909
+[SPEAKER_00]: The emphasis is that the root of any of those things, it's on the way Puthujana perceives it, as it will become clearer later on in the sutta when the Buddha speaks about the noble disciple and the Arahant.
+
+20
+00:02:45,098 --> 00:02:52,925
+[SPEAKER_00]: So, the root of all things that exist for Puthujan, however lofty, however coarse, is in his perception of them.
+
+21
+00:02:54,026 --> 00:02:58,090
+[SPEAKER_00]: So, when he perceives those things, he does not understand that.
+
+22
+00:02:59,185 --> 00:03:02,487
+[SPEAKER_00]: So, when he perceives, he then conceives Earth.
+
+23
+00:03:03,007 --> 00:03:04,427
+[SPEAKER_00]: He conceives what he perceives.
+
+24
+00:03:05,308 --> 00:03:06,768
+[SPEAKER_00]: He conceives in Earth.
+
+25
+00:03:07,069 --> 00:03:08,849
+[SPEAKER_00]: He conceives apart from Earth.
+
+26
+00:03:09,210 --> 00:03:10,730
+[SPEAKER_00]: He conceives Earth is mine.
+
+27
+00:03:11,551 --> 00:03:12,811
+[SPEAKER_00]: He delights in Earth.
+
+28
+00:03:13,631 --> 00:03:16,133
+[SPEAKER_00]: So, these attitudes that are described here,
+
+29
+00:03:17,934 --> 00:03:31,486
+[SPEAKER_00]: Conceiving, conceiving-in, conceiving-from, conceiving-mind, delighting-in, they're not like linear, sort of, linear steps that Puṭṭhujana is doing.
+
+30
+00:03:31,626 --> 00:03:38,532
+[SPEAKER_00]: They're more like the immediate implications of him already delighting in earth.
+
+31
+00:03:38,853 --> 00:03:43,017
+[SPEAKER_00]: So, as the Buddha said in in Ādi-sutta, ignorance is beginningless.
+
+32
+00:03:43,657 --> 00:03:50,282
+[SPEAKER_00]: So, you could, obviously, infer here, you could say the same, that conceiving is beginningless.
+
+33
+00:03:50,422 --> 00:03:59,488
+[SPEAKER_00]: There is not like a time before which a putujana did not misconceive things and then he started misconceiving them.
+
+34
+00:03:59,709 --> 00:04:09,276
+[SPEAKER_00]: All he has, or if he were to look in the direction of earth, water, fire, air, gods and so on, he'll find him delighting in phenomena first.
+
+35
+00:04:10,036 --> 00:04:14,618
+[SPEAKER_00]: Through that delight, he can discern that there is conceiving.
+
+36
+00:04:14,718 --> 00:04:21,481
+[SPEAKER_00]: So, whether he conceives earth, whether he conceives in, from, apart, he conceives it as mine.
+
+37
+00:04:21,881 --> 00:04:24,983
+[SPEAKER_00]: He conceives himself as separate from that phenomenon.
+
+38
+00:04:25,734 --> 00:04:32,517
+[SPEAKER_00]: So, when he perceives earth as earth, through the perception of earth, he puts himself outside of that earth, so to speak.
+
+39
+00:04:32,997 --> 00:04:37,418
+[SPEAKER_00]: In other words, he becomes the master, the owner, the center, the fulcrum of the experience.
+
+40
+00:04:37,498 --> 00:04:40,600
+[SPEAKER_00]: That's pretty much the definition of attavāda.
+
+41
+00:04:40,620 --> 00:04:44,201
+[SPEAKER_00]: A sense of self that's independent of the five aggregates.
+
+42
+00:04:44,361 --> 00:04:45,682
+[SPEAKER_00]: And that's the point in this sutta.
+
+43
+00:04:46,942 --> 00:04:49,103
+[SPEAKER_00]: Somebody might wonder, why does the Buddha list all these
+
+44
+00:04:50,372 --> 00:04:55,056
+[SPEAKER_00]: Not just all these elements, but then these gods and gods of streaming radiance and brahmas and stuff.
+
+45
+00:04:55,137 --> 00:05:03,885
+[SPEAKER_00]: It's just to show that on any plane of existence, on any layer, in any direction, whatever can be perceived,
+
+46
+00:05:04,793 --> 00:05:17,782
+[SPEAKER_00]: Puṭṭhujana is misconceiving it, not because of the things he's perceiving, but because of his attitude of... of the light and misconceiving of the ownership of his perception.
+
+47
+00:05:17,822 --> 00:05:29,891
+[SPEAKER_00]: He might not conceive that he owns a Brahma, but he's... if he were to perceive it, for example, but he's certainly conceiving the perception of sight, the presence of sight as his.
+
+48
+00:05:30,651 --> 00:05:34,613
+[SPEAKER_00]: So, that's why, again, the point here, it's not to look for these specific things.
+
+49
+00:05:35,413 --> 00:05:40,055
+[SPEAKER_00]: Mulāpariyāya, the root of all things, means like the root of the framework of all things.
+
+50
+00:05:41,276 --> 00:05:49,959
+[SPEAKER_00]: So, it's not about specific things, but it's about these the most general representatives of the framework of your senses, of your mind, of your perception.
+
+51
+00:05:50,800 --> 00:05:52,681
+[SPEAKER_00]: Because that's where these conceivings take place.
+
+52
+00:05:54,721 --> 00:05:57,703
+[SPEAKER_00]: So, having perceived Earth as Earth,
+
+53
+00:05:58,307 --> 00:05:58,728
+[SPEAKER_00]: Why is that?
+
+54
+00:05:58,748 --> 00:06:01,010
+[SPEAKER_00]: Because he has not completely understood it.
+
+55
+00:06:01,071 --> 00:06:03,213
+[SPEAKER_00]: So, the lack of understanding of his perception of Earth,
+
+56
+00:06:16,663 --> 00:06:19,365
+[SPEAKER_00]: means there is going to be some form of conceiving.
+
+57
+00:06:20,025 --> 00:06:32,935
+[SPEAKER_00]: Conceiving Earth in a part means there will be sense of ownership of perception, sense of mind, there will be delight in things that are then perceived on that secondary level.
+
+58
+00:06:34,078 --> 00:06:37,459
+[SPEAKER_00]: So, the sutta continues about water.
+
+59
+00:06:37,859 --> 00:06:41,800
+[SPEAKER_00]: So, he perceives, Bhutujanās, they perceive water as water.
+
+60
+00:06:42,540 --> 00:06:45,401
+[SPEAKER_00]: They perceive fire as fire.
+
+61
+00:06:46,201 --> 00:06:47,622
+[SPEAKER_00]: They perceive air as air.
+
+62
+00:06:48,462 --> 00:06:49,522
+[SPEAKER_00]: Beings as beings.
+
+63
+00:06:51,683 --> 00:06:52,543
+[SPEAKER_00]: Gods as gods.
+
+64
+00:06:53,083 --> 00:06:54,824
+[SPEAKER_00]: The progenitor as the progenitor.
+
+65
+00:06:55,244 --> 00:06:56,424
+[SPEAKER_00]: Brahma as Brahma.
+
+66
+00:06:58,824 --> 00:07:04,388
+[SPEAKER_00]: Those of streaming radiance as those of streaming radiance, replete with glory as replete with glory.
+
+67
+00:07:05,668 --> 00:07:11,633
+[SPEAKER_00]: Abandoned fruit, those of abandoned fruit, they perceive the conqueror as the conqueror, and so on.
+
+68
+00:07:12,193 --> 00:07:21,100
+[SPEAKER_00]: So, it carries on, after covering all these realms, all these possible things that someone's even expanded mind might perceive.
+
+69
+00:07:22,001 --> 00:07:31,529
+[SPEAKER_00]: The point is, the root of all of that, of the existence of all of that, and how it exists for you, so to speak, it's within your own perception or ignorance of it.
+
+70
+00:07:32,513 --> 00:07:39,157
+[SPEAKER_00]: So, as it says, he perceives all of that, he conceives, he conceives his mind, he delights in it, because he has not completely understood it.
+
+71
+00:07:40,318 --> 00:07:47,182
+[SPEAKER_00]: Then, he carries on to the dimension of infinite space, the dimension of infinite consciousness, the dimension of nothingness.
+
+72
+00:07:48,203 --> 00:07:55,387
+[SPEAKER_00]: So, these are the... considered as fine and immaterial mental comprehensions and establishments of the mind.
+
+73
+00:07:56,048 --> 00:07:57,949
+[SPEAKER_00]: Dimension of neither perception nor perception.
+
+74
+00:07:58,385 --> 00:07:59,767
+[SPEAKER_00]: Then, it goes to the senses.
+
+75
+00:07:59,787 --> 00:08:01,990
+[SPEAKER_00]: Anything that's seen, heard,
+
+76
+00:08:16,515 --> 00:08:20,159
+[SPEAKER_00]: sensed, touched, smelt, thought.
+
+77
+00:08:21,060 --> 00:08:21,600
+[SPEAKER_00]: Doesn't matter.
+
+78
+00:08:22,501 --> 00:08:26,825
+[SPEAKER_00]: He will be misconceiving it, because he has not completely understood the nature of perception.
+
+79
+00:08:26,885 --> 00:08:29,648
+[SPEAKER_00]: Or, in other words, what he perceives, he will then
+
+80
+00:08:31,160 --> 00:08:36,704
+[SPEAKER_00]: Automatically, I want to say automatically, but really simultaneously, misconceived.
+
+81
+00:08:37,525 --> 00:08:39,806
+[SPEAKER_00]: That's again, what I said in the beginning.
+
+82
+00:08:40,467 --> 00:08:49,113
+[SPEAKER_00]: There's no starting point where there's a pure perception of Putrajana, clean, unadulterated, unperverted, and then that somehow
+
+83
+00:08:49,713 --> 00:08:55,301
+[SPEAKER_00]: Gradually, step by step, it gets infected with these conceivings and then it becomes... mind becomes delight.
+
+84
+00:08:55,361 --> 00:09:01,971
+[SPEAKER_00]: That's a linear explanation of somebody who is approaching this from the outside point of view, like the commentaries and so on.
+
+85
+00:09:02,712 --> 00:09:05,776
+[SPEAKER_00]: Internally, when you look at it, what you see is delight.
+
+86
+00:09:06,770 --> 00:09:17,273
+[SPEAKER_00]: Within the delight, you'll find ownership, because it would be impossible to delight in things unless you're already implying ownership of perception that can find joy and pleasure in these sense objects, for example.
+
+87
+00:09:18,053 --> 00:09:25,175
+[SPEAKER_00]: Within the ownership, you're gonna find that that thing, that phenomena, in its broadest presence, manifestation of itself,
+
+88
+00:09:26,439 --> 00:09:33,881
+[SPEAKER_00]: That thing is conceived as something separate from you, as something over here, or in here, or apart from.
+
+89
+00:09:34,501 --> 00:09:44,384
+[SPEAKER_00]: In other words, you gratuitously assume your own standpoint of perceiving that thing as
+
+90
+00:09:45,670 --> 00:09:47,791
+[SPEAKER_00]: Too independent of that thing, so to speak.
+
+91
+00:09:47,831 --> 00:09:50,012
+[SPEAKER_00]: You perceive it as an observer, as, eh...
+
+92
+00:09:50,532 --> 00:09:57,095
+[SPEAKER_00]: Sorry, you assume it as an observer, as something that is... that is there, regardless of what's being perceived.
+
+93
+00:09:57,215 --> 00:10:04,478
+[SPEAKER_00]: Putujan certainly does not see that his sense of self is undermined by what he perceives, by random perceptions, by any perception.
+
+94
+00:10:05,798 --> 00:10:07,719
+[SPEAKER_00]: It's undermined by the presence of the aggregates.
+
+95
+00:10:09,200 --> 00:10:14,442
+[SPEAKER_00]: So, the sutta continues after it lists all the senses, then it goes to anything that can be known, anything that can be cognized.
+
+96
+00:10:16,733 --> 00:10:17,914
+[SPEAKER_00]: He hasn't fully understood.
+
+97
+00:10:17,954 --> 00:10:23,960
+[SPEAKER_00]: That's why he conceives then oneness, the sense of oneness, the sense of diversity, and then goes to say the all.
+
+98
+00:10:24,400 --> 00:10:33,329
+[SPEAKER_00]: The broader sense of his experience, the widest phenomenon of the all, internal, external, past, future, present, doesn't matter.
+
+99
+00:10:33,990 --> 00:10:35,811
+[SPEAKER_00]: The perception of the all again.
+
+100
+00:10:36,592 --> 00:10:37,573
+[SPEAKER_00]: It was never the problem.
+
+101
+00:10:38,314 --> 00:10:41,417
+[SPEAKER_00]: It was his not understanding the nature of perception of it.
+
+102
+00:10:41,977 --> 00:10:42,918
+[SPEAKER_00]: That's how he conceives.
+
+103
+00:10:43,359 --> 00:10:47,543
+[SPEAKER_00]: So, then, after the the perception, all the way, he says, they perceive nibbāna.
+
+104
+00:10:47,863 --> 00:10:51,406
+[SPEAKER_00]: So, Puthujana can actually perceive the phenomenon of nibbāna.
+
+105
+00:10:52,367 --> 00:11:01,136
+[SPEAKER_00]: Like, as the suttas describe, nibbāna is a dhamma, another phenomenon that has a reason, that is present, and... but it's the only dhamma
+
+106
+00:11:02,809 --> 00:11:07,250
+[SPEAKER_00]: There is asankhata dhamma, which means the dhamma that's undetermined or deactivated.
+
+107
+00:11:07,530 --> 00:11:09,010
+[SPEAKER_00]: Let's put it that way.
+
+108
+00:11:09,110 --> 00:11:15,332
+[SPEAKER_00]: And by that, it's meant that, within the experience, nibbāna is to be found within the experience of the five aggregates.
+
+109
+00:11:16,072 --> 00:11:27,674
+[SPEAKER_00]: So, it's not on the level of a mystical phenomenon that will then be found outside of one's perception, outside of one's five aggregates.
+
+110
+00:11:28,314 --> 00:11:31,775
+[SPEAKER_00]: The fact that it's listed here, and there are other suttas, imagining the Kaiva, the Buddha says, yes,
+
+111
+00:11:32,685 --> 00:11:39,067
+[SPEAKER_00]: When somebody, an outsider, a putugina, he describes nibbāna, he says, I'm attaining this nibbāna, this nibbāna is mine.
+
+112
+00:11:39,908 --> 00:11:42,929
+[SPEAKER_00]: The Buddha said, factually, what he's stating is what nibbāna is.
+
+113
+00:11:44,049 --> 00:11:53,412
+[SPEAKER_00]: But he's not attaining it, he's not being established in it, because he still hasn't uprooted that fundamental wrong view in regard to his five aggregates.
+
+114
+00:11:53,432 --> 00:11:54,713
+[SPEAKER_00]: He hasn't uprooted the attavāda.
+
+115
+00:11:55,393 --> 00:11:57,154
+[SPEAKER_00]: So he's taking the ownership of it.
+
+116
+00:11:58,075 --> 00:11:59,956
+[SPEAKER_00]: So, if you wonder, then, what is that nibbāna?
+
+117
+00:12:00,636 --> 00:12:03,718
+[SPEAKER_00]: Well, as I said, it's nothing mystical outside of the experience.
+
+118
+00:12:03,798 --> 00:12:04,458
+[SPEAKER_00]: It cannot be.
+
+119
+00:12:04,498 --> 00:12:11,522
+[SPEAKER_00]: I mean, saying that there is something outside of experience, on account of this experience, is another phenomenon that you're designating within this experience.
+
+120
+00:12:12,543 --> 00:12:22,028
+[SPEAKER_00]: So, nibbāna within this experience is the phenomenon of complete top-to-bottom dispassion in regard to any phenomenon in the world.
+
+121
+00:12:22,908 --> 00:12:24,629
+[SPEAKER_00]: So, Puthujjana could technically
+
+122
+00:12:26,293 --> 00:12:29,858
+[SPEAKER_00]: Past, present, future, far, near, big or small, divine, sublime, coarse, but...
+
+123
+00:12:44,154 --> 00:12:50,116
+[SPEAKER_00]: What he will not be able to do is to experience complete dispassion towards that phenomenon of dispassion towards anything.
+
+124
+00:12:50,736 --> 00:13:03,441
+[SPEAKER_00]: Obviously, if a person does develop that, say, hypothetically, and then they get to hear the Buddha's teaching, they'll probably need like a half a sentence just for that last thing to fall into place, because obviously the mind is already developed.
+
+125
+00:13:04,001 --> 00:13:06,722
+[SPEAKER_00]: But the point the Buddha illustrates here that even nibbāna
+
+126
+00:13:07,779 --> 00:13:15,503
+[SPEAKER_00]: will be misconceived for somebody who does not understand earth is earth, who is through perceiving it, misconceiving it.
+
+127
+00:13:16,423 --> 00:13:32,732
+[SPEAKER_00]: And another reason, another thing that's important to mention here is that you have to, basically, you have to recognize that when it says he perceives earth is earth, for example, his perception is already affected.
+
+128
+00:13:34,525 --> 00:13:38,229
+[SPEAKER_00]: Otherwise, it would not be simultaneously implying conceivings and delight.
+
+129
+00:13:38,929 --> 00:13:51,962
+[SPEAKER_00]: And the reason why I bring this up is because it should certainly be enough to do away with any contemporary notion of practice that revolves around perceiving and observing impartially
+
+130
+00:13:52,803 --> 00:14:06,191
+[SPEAKER_00]: Sensations, or just any general perceptions, basically, any methodical approach to the practice that implies neutrality of your observation, it's wrong, because your perception is not neutral.
+
+131
+00:14:06,672 --> 00:14:09,353
+[SPEAKER_00]: If it were neutral, it would not lead to conceivings.
+
+132
+00:14:09,593 --> 00:14:15,077
+[SPEAKER_00]: It would not lead, it would not imply conceiving, it will not imply ownership, it will not imply delight.
+
+133
+00:14:15,988 --> 00:14:24,655
+[SPEAKER_00]: But, as the Buddha describes, the root of all for puthujjana is his delight, which implies ownership, which implies conceiving, which implies already misperceiving.
+
+134
+00:14:25,135 --> 00:14:33,763
+[SPEAKER_00]: So, the bare awareness, the pure perception, the pristine seeing of things, it's not pristine for as long as there is no right view.
+
+135
+00:14:34,623 --> 00:14:43,871
+[SPEAKER_00]: So, what puthujjana thinks it's objective perception, it's already his misappropriated sense of ownership, delighting in things that he's perceiving.
+
+136
+00:14:47,429 --> 00:14:50,890
+[SPEAKER_00]: So, then, the sutta continues and talks about the trainee, i.e.
+
+137
+00:14:50,910 --> 00:14:51,751
+[SPEAKER_00]: the noble disciple.
+
+138
+00:14:52,331 --> 00:14:59,114
+[SPEAKER_00]: It says, a monk who is a trainee, who hasn't achieved their goal, but he lives aspiring to the supreme sanctuary from the yoke, he directly knows earth as earth.
+
+139
+00:14:59,134 --> 00:15:00,234
+[SPEAKER_00]: So, it doesn't say he perceives.
+
+140
+00:15:01,134 --> 00:15:06,436
+[SPEAKER_00]: So, he's not perceiving it anymore, because perception is reserved for a puthujjana.
+
+141
+00:15:06,897 --> 00:15:09,998
+[SPEAKER_00]: Puthujjana's perception is perception with avijja, with ignorance.
+
+142
+00:15:11,200 --> 00:15:16,042
+[SPEAKER_00]: A Sotāpanna, or higher, has understood the nature of that perception.
+
+143
+00:15:16,542 --> 00:15:19,803
+[SPEAKER_00]: So, that's why, when he perceives, he directly knows.
+
+144
+00:15:19,823 --> 00:15:20,423
+[SPEAKER_00]: Earth is Earth.
+
+145
+00:15:21,524 --> 00:15:24,885
+[SPEAKER_00]: Having directly known Earth is Earth, let him not conceive Earth.
+
+146
+00:15:25,405 --> 00:15:26,645
+[SPEAKER_00]: Let him not conceive in Earth.
+
+147
+00:15:26,665 --> 00:15:27,846
+[SPEAKER_00]: Let him not conceive from Earth.
+
+148
+00:15:27,886 --> 00:15:29,306
+[SPEAKER_00]: Let him not conceive Earth is mine.
+
+149
+00:15:29,326 --> 00:15:30,387
+[SPEAKER_00]: Let him not delight in Earth.
+
+150
+00:15:31,347 --> 00:15:34,128
+[SPEAKER_00]: So, let's first address directly knowing Earth is Earth.
+
+151
+00:15:34,168 --> 00:15:34,648
+[SPEAKER_00]: What is that?
+
+152
+00:15:35,168 --> 00:15:36,629
+[SPEAKER_00]: Well, that is pretty much the right view.
+
+153
+00:15:36,809 --> 00:15:40,250
+[SPEAKER_00]: That is the Sotāpanna's recognition, through yoniso manasikāra, that
+
+154
+00:15:41,689 --> 00:16:02,210
+[SPEAKER_00]: Perceiving Earth, he knows that that Earth that he's attending, that broad phenomenon of solidity, of one of the the four great elements that he's attending to, he knows that its origin, its manifestation, is its impermanence.
+
+155
+00:16:03,127 --> 00:16:09,668
+[SPEAKER_00]: He knows that because things are manifested, their manifestation is their anicca.
+
+156
+00:16:10,448 --> 00:16:16,349
+[SPEAKER_00]: He doesn't need to wait for those things to last, to persist, to discern them, to see how they end.
+
+157
+00:16:17,030 --> 00:16:27,952
+[SPEAKER_00]: He knows that simply, whatever, doesn't matter how long it lasts, doesn't matter in what direction it goes, what matters is that it is, and because it is, that's why it's impermanent.
+
+158
+00:16:28,152 --> 00:16:30,112
+[SPEAKER_00]: Not because it will later on cease.
+
+159
+00:16:30,772 --> 00:16:40,879
+[SPEAKER_00]: That's why when the insight of Sotāpanna Sutta is described like, or whatever, well, usually translated, whatever has the nature of arising, has the nature of ceasing.
+
+160
+00:16:41,820 --> 00:16:49,065
+[SPEAKER_00]: More accurately, more acutely, it's like whatever has the nature to manifest, its manifestation is its ending.
+
+161
+00:16:50,145 --> 00:16:53,828
+[SPEAKER_00]: Manifestation carries its end, because it came on its own.
+
+162
+00:16:55,078 --> 00:17:02,928
+[SPEAKER_00]: So, that's what it means to directly know Earth is Earth, or water is water, or Brahman is Brahman, or Nibbāna is Nibbāna, for that matter.
+
+163
+00:17:03,668 --> 00:17:10,376
+[SPEAKER_00]: The recognition that manifestation that you're perceiving is already implying its impermanence.
+
+164
+00:17:11,117 --> 00:17:15,460
+[SPEAKER_00]: Having directly known Earth as Earth, the Buddha says, let him not conceive Earth.
+
+165
+00:17:15,540 --> 00:17:17,982
+[SPEAKER_00]: So, how does he then not conceive?
+
+166
+00:17:18,042 --> 00:17:19,043
+[SPEAKER_00]: He should not conceive it.
+
+167
+00:17:19,063 --> 00:17:28,890
+[SPEAKER_00]: Well, he should not conceive it by not elapsing from, by not ignoring that that Earth is impermanent due to its own manifestation.
+
+168
+00:17:29,571 --> 00:17:31,972
+[SPEAKER_00]: Doesn't matter how long it lasts and how permanent it might seem.
+
+169
+00:17:32,273 --> 00:17:37,717
+[SPEAKER_00]: Permanence is seen as something that's manifested and on the level of that manifestation,
+
+170
+00:17:38,477 --> 00:17:41,258
+[SPEAKER_00]: Things are impermanent because they are manifested.
+
+171
+00:17:42,479 --> 00:17:59,487
+[SPEAKER_00]: And so that's the second part, is when he then encourages him to not like psychologize, having understood, let me not do this, and then let me not do that, but more like to encourages him to make the effort to sustain the direct knowledge of phenomena as phenomena,
+
+172
+00:18:01,349 --> 00:18:07,918
+[SPEAKER_00]: As the other suttas described, through keeping the precepts, nekama-sankhapa, the thoughts of renunciation, seclusion and withdrawal.
+
+173
+00:18:08,199 --> 00:18:18,393
+[SPEAKER_00]: So, those secondary efforts, so to speak, would protect that context and bring that knowledge of earth as earth, water as water, fire as fire, to fruition.
+
+174
+00:18:19,568 --> 00:18:24,611
+[SPEAKER_00]: And then, he will not even have to think, oh, this earth or this phenomenon I'm perceiving are not mine.
+
+175
+00:18:25,172 --> 00:18:29,314
+[SPEAKER_00]: They won't be his, because by directly seeing, he's un-conceiving them.
+
+176
+00:18:29,615 --> 00:18:32,296
+[SPEAKER_00]: By un-conceiving them, there is no implicit ownership.
+
+177
+00:18:32,797 --> 00:18:34,778
+[SPEAKER_00]: Without implicit ownership, there is no delight.
+
+178
+00:18:35,759 --> 00:18:38,721
+[SPEAKER_00]: As I said, for the puthujjana, you already start with the delight.
+
+179
+00:18:38,781 --> 00:18:38,981
+[SPEAKER_00]: So,
+
+180
+00:18:40,655 --> 00:18:57,921
+[SPEAKER_00]: For a sotāpanna, although in that broad fundamental sense he has understood the nature of perception, on a more immediate level, he still might, he still will have, for as long as he's not an arahant, delight in this or that, some habits of delight in other inferior things, things that are secondary.
+
+181
+00:18:58,502 --> 00:19:06,645
+[SPEAKER_00]: So, he needs to protect the context, so that even those habits of delight and finding pleasure in things that are fundamentally directly known as unownable,
+
+182
+00:19:07,905 --> 00:19:11,386
+[SPEAKER_00]: He needs to protect this context for a while, until it sort of seeps into everything.
+
+183
+00:19:11,406 --> 00:19:26,231
+[SPEAKER_00]: That's why the encouragement towards the practice of the Noble Eightfold Path and so on, it's more like just the encouragement of a certain lifestyle, that can then bring his understanding, his direct knowledge of Earth as Earth, to fulfillment.
+
+184
+00:19:27,428 --> 00:19:31,451
+[SPEAKER_00]: And the proof for that is when the Buddha describes later on about Arahant and the Buddha.
+
+185
+00:19:31,832 --> 00:19:33,793
+[SPEAKER_00]: They also directly know Earth as Earth.
+
+186
+00:19:33,873 --> 00:19:35,014
+[SPEAKER_00]: So, that's the common thread.
+
+187
+00:19:35,575 --> 00:19:42,200
+[SPEAKER_00]: The insight into Earth as Earth, it's impermanent because it's manifested.
+
+188
+00:19:42,480 --> 00:19:45,263
+[SPEAKER_00]: No other reason required is the insight that's in common
+
+189
+00:19:47,491 --> 00:19:49,313
+[SPEAKER_00]: From a sotāpanna all the way to the Buddha.
+
+190
+00:19:49,333 --> 00:19:50,974
+[SPEAKER_00]: So, it's the same way of perceiving things.
+
+191
+00:19:51,034 --> 00:19:57,961
+[SPEAKER_00]: The difference, at the end of the spectrum, where arahant is, is that that insight has been developed, has been brought to fulfillment.
+
+192
+00:19:58,722 --> 00:20:09,412
+[SPEAKER_00]: So, sotāpanna is encouraged to protect it, nourish it, feed it, so that that insight then takes over in regard to everything and all the habits of delight and ownership are uprooted.
+
+193
+00:20:10,329 --> 00:20:16,374
+[SPEAKER_00]: So, it's not a psychologizing method that he needs to keep telling himself in order to develop it.
+
+194
+00:20:17,795 --> 00:20:19,036
+[SPEAKER_00]: And then it says, like, why is that?
+
+195
+00:20:19,096 --> 00:20:28,823
+[SPEAKER_00]: Why the Buddha encourages him then to protect the context and practice it and grow it, so that he may completely understand what he understood over there.
+
+196
+00:20:29,003 --> 00:20:32,266
+[SPEAKER_00]: So, he understood it, but not to its fulfillment.
+
+197
+00:20:33,228 --> 00:20:35,009
+[SPEAKER_00]: And then he goes, obviously, lists all these factors.
+
+198
+00:20:35,429 --> 00:20:37,429
+[SPEAKER_00]: Sorry, all these other phenomena.
+
+199
+00:20:38,610 --> 00:20:39,570
+[SPEAKER_00]: Nibbāna is nibbāna.
+
+200
+00:20:40,791 --> 00:20:42,151
+[SPEAKER_00]: And so on.
+
+201
+00:20:42,331 --> 00:20:56,836
+[SPEAKER_00]: Arahant, a monk who is perfected, with defilements ended, who has completed the spiritual journey, done what has to be done, laid down the burden, achieved the true goal, utterly exhausted the factor of being, is rightly free through the ultimate knowledge.
+
+202
+00:20:57,276 --> 00:20:59,377
+[SPEAKER_00]: He also directly knows Earth is Earth.
+
+203
+00:21:00,265 --> 00:21:03,427
+[SPEAKER_00]: So, there is nothing that he knows behind that earth.
+
+204
+00:21:03,527 --> 00:21:05,848
+[SPEAKER_00]: It's not like he discovered a transcendental reality.
+
+205
+00:21:07,849 --> 00:21:12,711
+[SPEAKER_00]: He knows earth is earth by seeing the consciousness outside of the aggregates, the pure awareness and so on.
+
+206
+00:21:12,751 --> 00:21:14,833
+[SPEAKER_00]: That's completely a contradiction in terms.
+
+207
+00:21:16,153 --> 00:21:17,074
+[SPEAKER_00]: He knows earth is earth.
+
+208
+00:21:17,454 --> 00:21:18,715
+[SPEAKER_00]: He knows Brahmas is Brahmas.
+
+209
+00:21:18,735 --> 00:21:25,598
+[SPEAKER_00]: He knows neither perception... whatever experience might arise, he knows it in... he knows it in its manifestation.
+
+210
+00:21:26,078 --> 00:21:27,079
+[SPEAKER_00]: Nothing else required.
+
+211
+00:21:28,474 --> 00:21:30,415
+[SPEAKER_00]: Having directly known it, he doesn't conceive it.
+
+212
+00:21:30,455 --> 00:21:33,597
+[SPEAKER_00]: So, the Buddha doesn't need to encourage him or he should not conceive it.
+
+213
+00:21:34,258 --> 00:21:40,982
+[SPEAKER_00]: He should make the effort to prevent conceivings to kind of... take place again and grow further and so on.
+
+214
+00:21:42,022 --> 00:21:49,447
+[SPEAKER_00]: So, having directly known Earth is Earth, he does not conceive it, does not conceive in it, from it, he does not conceive it as his and he does not delight.
+
+215
+00:21:50,347 --> 00:21:50,568
+[SPEAKER_00]: Why?
+
+216
+00:21:50,868 --> 00:21:52,789
+[SPEAKER_00]: Because he has completely understood it.
+
+217
+00:21:54,518 --> 00:21:59,599
+[SPEAKER_00]: So, then, it lists... continues listing a few more instances of an arahant.
+
+218
+00:22:00,940 --> 00:22:05,941
+[SPEAKER_00]: And then, instead of, like, saying because he fully understood it, it's because he's fully free from greed.
+
+219
+00:22:06,081 --> 00:22:09,522
+[SPEAKER_00]: Then, because he's fully free from hatred, he's fully free from delusion.
+
+220
+00:22:10,402 --> 00:22:14,843
+[SPEAKER_00]: In other words, he's fully understood it.
+
+221
+00:22:15,424 --> 00:22:16,944
+[SPEAKER_00]: So, let me just go to the next page.
+
+222
+00:22:20,745 --> 00:22:20,945
+[SPEAKER_00]: Yeah.
+
+223
+00:22:21,585 --> 00:22:23,666
+[SPEAKER_00]: So, free from hate and free from delusion.
+
+224
+00:22:25,132 --> 00:22:26,793
+[SPEAKER_00]: And then he goes about... talks about the Buddha.
+
+225
+00:22:27,133 --> 00:22:31,734
+[SPEAKER_00]: They realize, the perfected one, fully awakened, he also directly knows Earth is Earth.
+
+226
+00:22:32,314 --> 00:22:38,236
+[SPEAKER_00]: Having directly known it, he does not conceive it, does not conceive in it, apart from it, does not conceive it as mine, does not delight in it.
+
+227
+00:22:38,976 --> 00:22:39,236
+[SPEAKER_00]: Why?
+
+228
+00:22:39,316 --> 00:22:42,037
+[SPEAKER_00]: Because the Buddha has completely understood it to the end.
+
+229
+00:22:42,777 --> 00:22:43,477
+[SPEAKER_00]: And then adds
+
+230
+00:22:44,910 --> 00:22:50,492
+[SPEAKER_00]: The sutta has these further knowledges that the Buddha saw.
+
+231
+00:22:50,632 --> 00:22:52,153
+[SPEAKER_00]: He understood it completely to the end.
+
+232
+00:22:52,593 --> 00:22:55,394
+[SPEAKER_00]: Then, the Buddha also understood that delight is the root of suffering.
+
+233
+00:22:57,094 --> 00:23:08,038
+[SPEAKER_00]: So, the presence of delight, as I said, implies the presence of ownership, which implies a-conceiving, one of these, and that is the root of suffering.
+
+234
+00:23:09,635 --> 00:23:14,877
+[SPEAKER_00]: If that delight is prevented from spreading and growing, one's suffering will diminish, even for a puthujjana.
+
+235
+00:23:16,098 --> 00:23:30,984
+[SPEAKER_00]: Now, if one's suffering diminishes in that sense, through not being proliferated, through perpetual delight that's not kept in check, then mind is developed, which means then even puthujjana would be closer to understand that delight is root of suffering.
+
+236
+00:23:32,905 --> 00:23:37,867
+[SPEAKER_00]: That there is no delight that does not imply craving.
+
+237
+00:23:38,288 --> 00:23:38,908
+[SPEAKER_00]: Impossible.
+
+238
+00:23:40,097 --> 00:23:50,042
+[SPEAKER_00]: And, basically, the closer to that simultaneous recognition of presence of delight means presence of suffering, Putujana is getting closer to understanding the Four Noble Truths.
+
+239
+00:23:51,423 --> 00:24:00,347
+[SPEAKER_00]: So, then says, the Buddha has understood delight is the root of suffering, and thus, that with being there is birth, and whatever is born gets old and dies.
+
+240
+00:24:00,828 --> 00:24:08,191
+[SPEAKER_00]: In other words, he's describing here the entire scope of a human life, again, that is present through your delight here and now.
+
+241
+00:24:08,212 --> 00:24:08,972
+[SPEAKER_00]: You're delighting,
+
+242
+00:24:10,120 --> 00:24:15,983
+[SPEAKER_00]: It implies the ownership, which implies your sense of self, which implies your own sense of being, here and now.
+
+243
+00:24:16,824 --> 00:24:34,234
+[SPEAKER_00]: And that which is, born into this plane, like from birth till... basically till the end, when you die, means that anything that happens, anything that exists within that... anything that that whole plane is liable to, you will partake in that liability.
+
+244
+00:24:35,555 --> 00:24:38,837
+[SPEAKER_00]: So, by freeing yourself from the life here and now, you can't undo your birth.
+
+245
+00:24:40,025 --> 00:24:44,527
+[SPEAKER_00]: And you can't prevent the body from breaking apart and aggregates sort of passing away.
+
+246
+00:24:45,307 --> 00:24:47,768
+[SPEAKER_00]: But if you remove the light, you remove the ownership.
+
+247
+00:24:48,028 --> 00:24:54,431
+[SPEAKER_00]: If there is no ownership, means this whole domain destined to the destruction and decomposition does not belong to you.
+
+248
+00:24:55,391 --> 00:24:57,332
+[SPEAKER_00]: Which means whatever it's waiting
+
+249
+00:24:58,517 --> 00:25:02,579
+[SPEAKER_00]: To happen to it won't be your problem, won't be happening to it, to you.
+
+250
+00:25:03,059 --> 00:25:08,921
+[SPEAKER_00]: That's why in the suttas, when the Buddha talks about death of an arahant, when an arahant dies, he doesn't use the word death.
+
+251
+00:25:09,101 --> 00:25:11,563
+[SPEAKER_00]: He refers to it as the breakup of the aggregates.
+
+252
+00:25:12,103 --> 00:25:13,023
+[SPEAKER_00]: But Putujana dies.
+
+253
+00:25:13,844 --> 00:25:18,886
+[SPEAKER_00]: So, death implies the ownership of that which is liable to die at any given moment.
+
+254
+00:25:19,986 --> 00:25:24,088
+[SPEAKER_00]: Freedom from ownership means, oh, it's just these aggregates that came together, they break apart.
+
+255
+00:25:24,943 --> 00:25:27,104
+[SPEAKER_00]: But there is no owner there.
+
+256
+00:25:27,164 --> 00:25:28,044
+[SPEAKER_00]: There is no being.
+
+257
+00:25:28,064 --> 00:25:28,844
+[SPEAKER_00]: He's extinguished.
+
+258
+00:25:29,345 --> 00:25:30,845
+[SPEAKER_00]: So, there is no death applicable.
+
+259
+00:25:38,488 --> 00:25:39,168
+[SPEAKER_00]: So, yeah.
+
+260
+00:25:39,208 --> 00:25:44,870
+[SPEAKER_00]: So, it basically describes the Buddha, describes his understanding, and then it says that the monks did not delight in what the Buddha said.
+
+261
+00:25:46,302 --> 00:25:55,607
+[SPEAKER_00]: And this could possibly mean that it simply went over their heads in its own kind of... not completely over their heads, but to a degree.
+
+262
+00:25:55,627 --> 00:26:02,871
+[SPEAKER_00]: Like, as I said, you know, like we have now these suttas, it's all written down, you can study, you can scroll, you can re-read.
+
+263
+00:26:03,511 --> 00:26:06,012
+[SPEAKER_00]: But back then, imagine you're listening to the Buddha.
+
+264
+00:26:06,032 --> 00:26:10,915
+[SPEAKER_00]: And obviously, these whole records of this are like kind of templates of memories, of instruction.
+
+265
+00:26:11,913 --> 00:26:14,714
+[SPEAKER_00]: Obviously, there are details of speech that are not contained.
+
+266
+00:26:14,814 --> 00:26:37,818
+[SPEAKER_00]: So, imagine you were there, listening to something as incomprehensive as this, pointing to, like, for example, pointing to not just the delight and ownership, but the implicit conceivings of it, in all the directions, in all the permutations, in all the ways, all the things that could be perceived, it's a bit much to take there and then.
+
+267
+00:26:38,825 --> 00:26:42,847
+[SPEAKER_00]: So, the monks that were listening to this were probably already a noble disciple, at least.
+
+268
+00:26:42,887 --> 00:26:46,789
+[SPEAKER_00]: He wouldn't have been teaching these two putrījanas, because it would make no difference to them.
+
+269
+00:26:47,710 --> 00:26:50,952
+[SPEAKER_00]: But they didn't delight, because he just... there was so much to unpack.
+
+270
+00:26:52,152 --> 00:27:03,599
+[SPEAKER_00]: And the point, like, as I said before, see, when he talks about conceivings, he talks about a structural existence of your ownership that implies conceivings, that on top of it has the implicit delight.
+
+271
+00:27:04,359 --> 00:27:07,321
+[SPEAKER_00]: But even for a noble disciple, if it's somebody with the right view,
+
+272
+00:27:08,073 --> 00:27:11,336
+[SPEAKER_00]: That if he were to approach it, he won't see these conceivings.
+
+273
+00:27:11,396 --> 00:27:17,302
+[SPEAKER_00]: Like, he can later distinguish them on account of the instruction, like from the sutta, for example.
+
+274
+00:27:18,043 --> 00:27:20,545
+[SPEAKER_00]: But all he sees is his delight in things.
+
+275
+00:27:20,786 --> 00:27:24,990
+[SPEAKER_00]: And then he can discern the simultaneously present sense of ownership, sense of I am.
+
+276
+00:27:26,267 --> 00:27:31,951
+[SPEAKER_00]: So, when the Buddha talks about what's within that, well, that's like way past their practical recognition.
+
+277
+00:27:32,572 --> 00:27:40,197
+[SPEAKER_00]: So, they didn't delight in the words, but that's not to say that they obviously did not understand the framework of what he was saying here.
+
+278
+00:27:40,217 --> 00:27:45,421
+[SPEAKER_00]: They just couldn't get all the details.
+
+279
+00:27:45,541 --> 00:27:50,204
+[SPEAKER_00]: So, that would conclude the Mūla Pāryāya Sutta.
+
+280
+00:27:53,567 --> 00:27:55,028
+[SPEAKER_00]: Obviously, again,
+
+281
+00:27:56,507 --> 00:28:13,982
+[SPEAKER_00]: If, say, somebody who doesn't have the right view come across this sutta, it doesn't... it doesn't really... it doesn't really have... carries that... like a value of the practical application, but that doesn't mean that you shouldn't be trying to understand it.
+
+282
+00:28:14,821 --> 00:28:25,526
+[SPEAKER_00]: Because even a puthujjana could benefit from understanding that, for example, nibbāna is not the mystical experience outside of these aggregates that you somehow escape into.
+
+283
+00:28:26,087 --> 00:28:38,373
+[SPEAKER_00]: I mean, that's what the Buddha said, like, for as far as the language and the designation goes, for as far as, basically, you can perceive phenomena and call them a name, even if it's the most general, broadest, ambiguous name, it is real as such.
+
+284
+00:28:38,453 --> 00:28:42,655
+[SPEAKER_00]: And as far as the designation and the language go, that's how far Tathāgata has understood.
+
+285
+00:28:43,875 --> 00:28:46,337
+[SPEAKER_00]: So, that's how far he has laid out the teaching.
+
+286
+00:28:47,357 --> 00:28:52,060
+[SPEAKER_00]: In other words, there is no secret reality behind the conventions and concepts, as sometimes it is thought.
+
+287
+00:28:53,181 --> 00:28:56,383
+[SPEAKER_00]: And there is no problem with that.
+
+288
+00:28:56,463 --> 00:29:03,268
+[SPEAKER_00]: You don't need a secret reality, because, again, even if it's a hidden reality that you discover, it's still going to be something you perceive, which means it's not hidden.
+
+289
+00:29:03,708 --> 00:29:04,989
+[SPEAKER_00]: It was only relatively hidden.
+
+290
+00:29:05,409 --> 00:29:08,571
+[SPEAKER_00]: It's still within the five aggregates, within the perception, within...
+
+291
+00:29:08,591 --> 00:29:09,632
+[SPEAKER_00]: So, there's no outside of you.
+
+292
+00:29:10,865 --> 00:29:20,657
+[SPEAKER_00]: And so, simply by studying this sutra, by recognizing what... even if it's the novelty of the perceiving of the gods and streaming radiance,
+
+293
+00:29:21,813 --> 00:29:26,594
+[SPEAKER_00]: Novelty is just generated by what you were like... by your common perception.
+
+294
+00:29:26,654 --> 00:29:35,996
+[SPEAKER_00]: But fundamentally, whether it's a common or uncommon perception, whether it's mundane or sub-mundane, whether it's the novelty of the experience, perception is there.
+
+295
+00:29:36,456 --> 00:29:47,078
+[SPEAKER_00]: And you realize it's not about the specific experience, experiences of... you know, some of these people think the attainments will be these specific energies and new experiences coming over and so on.
+
+296
+00:29:47,983 --> 00:29:49,824
+[SPEAKER_00]: It doesn't matter how new it is.
+
+297
+00:29:49,864 --> 00:29:52,325
+[SPEAKER_00]: That's never where the emphasis was, nor should be.
+
+298
+00:29:52,765 --> 00:30:04,391
+[SPEAKER_00]: The emphasis is, whether it's new or old, personal, impersonal, lofty, the most sublime experience I ever had, experience is there.
+
+299
+00:30:04,531 --> 00:30:05,992
+[SPEAKER_00]: As such, it's manifested.
+
+300
+00:30:06,112 --> 00:30:07,272
+[SPEAKER_00]: As such, it's impermanent.
+
+301
+00:30:07,312 --> 00:30:16,637
+[SPEAKER_00]: So, you stop being concerned about the content of your experience, which means you'll stop looking for nibbāna outside of this content, outside of the mundane.
+
+302
+00:30:18,625 --> 00:30:22,587
+[SPEAKER_00]: And when you stop looking outside of it, outside of the mundane, you get to understand the mundane.
+
+303
+00:30:22,967 --> 00:30:26,209
+[SPEAKER_00]: And you get to understand the nature of perception on account of mundane.
+
+304
+00:30:26,969 --> 00:30:28,010
+[SPEAKER_00]: And that's all that's necessary.
+
+305
+00:30:28,350 --> 00:30:30,271
+[SPEAKER_00]: Then you will directly know earth is earth.
+
+306
+00:30:30,851 --> 00:30:33,452
+[SPEAKER_00]: You will directly know seen is seen, heard is heard.
+
+307
+00:30:33,912 --> 00:30:34,393
+[SPEAKER_00]: Doesn't matter.
+
+308
+00:30:35,693 --> 00:30:38,615
+[SPEAKER_00]: You don't need a special perception to tell you the truth.
+
+309
+00:30:39,457 --> 00:30:41,538
+[SPEAKER_00]: Because that's never where the emphasis was.
+
+310
+00:30:41,558 --> 00:30:42,418
+[SPEAKER_00]: That's never where the problem was.
+
+311
+00:30:42,438 --> 00:30:44,118
+[SPEAKER_00]: That's why that's not the root of all.
+
+312
+00:30:44,779 --> 00:30:50,360
+[SPEAKER_00]: The Buddha didn't say, see, the root of all these things, it's this another thing that you perceive specially underneath it all.
+
+313
+00:30:50,500 --> 00:30:50,600
+[SPEAKER_00]: No.
+
+314
+00:30:50,620 --> 00:31:04,905
+[SPEAKER_00]: He said, even perceiving the all, even perceiving the oneness, the diversity, the unity, the nibbāna, it's the perception of it, affected with ignorance for putujana, or direct knowledge for a noble disciple and an arahant.
+

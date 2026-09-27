@@ -1,0 +1,1264 @@
+1
+00:00:00,702 --> 00:00:07,465
+[SPEAKER_00]: This sutta is from chapter 47 of the Sānyūtanikāya, sutta number 8, called The Cook.
+
+2
+00:00:11,807 --> 00:00:12,347
+[SPEAKER_00]: bhikkhus.
+
+3
+00:00:12,647 --> 00:00:20,310
+[SPEAKER_00]: Suppose a foolish, incompetent, unskillful cook were to present a king or royal minister with various kinds of curries.
+
+4
+00:00:21,011 --> 00:00:26,513
+[SPEAKER_00]: Sour, bitter, pungent, sweet, sharp, mild, salty, bland.
+
+5
+00:00:27,782 --> 00:00:34,364
+[SPEAKER_00]: That foolish, incompetent, unskillful cook does not pick up the sign of his master's own preference.
+
+6
+00:00:35,264 --> 00:00:55,670
+[SPEAKER_00]: Today, this curry pleased my master, or he reached for this one, or he took a lot of this one, or he spoke in praise of this one, or the sour curry pleased my master, or he reached for the sour one, or he took a lot of the sour one, or he spoke in praise of the sour one, or the bitter curry, the pungent curry, so on and so forth.
+
+7
+00:00:56,405 --> 00:00:58,427
+[SPEAKER_00]: Or he spoke in praise of some other curry.
+
+8
+00:00:59,268 --> 00:01:06,435
+[SPEAKER_00]: That foolish, incompetent, unskillful cook does not gain gifts of clothing, wages, and bonuses.
+
+9
+00:01:06,995 --> 00:01:07,736
+[SPEAKER_00]: For what reason?
+
+10
+00:01:08,177 --> 00:01:14,463
+[SPEAKER_00]: Because that foolish, incompetent, unskillful cook does not pick up the sign of his own master's preference.
+
+11
+00:01:16,243 --> 00:01:30,990
+[SPEAKER_00]: So too, bhikkhus, here some foolish, incompetent, unskillful bhikkhu dwells contemplating the body in the body, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in regard to the world.
+
+12
+00:01:31,731 --> 00:01:40,935
+[SPEAKER_00]: While he dwells contemplating the body in the body, his mind does not become concentrated, his corruptions are not abandoned, he does not pick up that sign.
+
+13
+00:01:41,698 --> 00:01:53,403
+[SPEAKER_00]: He dwells contemplating feelings and feelings, mind and mind, phenomena and phenomena, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in regard to the world.
+
+14
+00:01:54,424 --> 00:01:59,666
+[SPEAKER_00]: While he dwells contemplating phenomena and phenomena, his mind does not become concentrated.
+
+15
+00:01:59,906 --> 00:02:01,527
+[SPEAKER_00]: His corruptions are not abandoned.
+
+16
+00:02:01,847 --> 00:02:03,308
+[SPEAKER_00]: He does not pick up that sign.
+
+17
+00:02:04,834 --> 00:02:13,318
+[SPEAKER_00]: That foolish, incompetent, unskillful bhikkhu does not gain pleasant dwellings in this very life, nor does he gain mindfulness and clear comprehension.
+
+18
+00:02:13,778 --> 00:02:14,498
+[SPEAKER_00]: For what reason?
+
+19
+00:02:14,878 --> 00:02:20,941
+[SPEAKER_00]: Because, bhikkhus, that foolish, incompetent, unskillful bhikkhu does not pick up the sign of his own mind.
+
+20
+00:02:22,462 --> 00:02:30,505
+[SPEAKER_00]: Suppose, bhikkhus, a wise, competent, skillful cook were to present a king or royal minister with various kinds of curries.
+
+21
+00:02:31,331 --> 00:02:36,272
+[SPEAKER_00]: That wise, competent, skillful cook picks up the sign of his master's own preference.
+
+22
+00:02:36,752 --> 00:02:42,934
+[SPEAKER_00]: Today, this curry pleased my master, or he spoke in praise of this one, so on and so forth.
+
+23
+00:02:43,894 --> 00:02:48,955
+[SPEAKER_00]: That wise, competent, skillful cook gains gifts of clothing, wages and bonuses.
+
+24
+00:02:49,575 --> 00:02:50,256
+[SPEAKER_00]: For what reason?
+
+25
+00:02:50,456 --> 00:02:55,797
+[SPEAKER_00]: Because that wise, competent, skillful cook picks up the sign of his own master's preference.
+
+26
+00:02:57,055 --> 00:02:57,996
+[SPEAKER_00]: So too bhikkhus.
+
+27
+00:02:58,476 --> 00:03:04,220
+[SPEAKER_00]: Here, some wise, competent, skillful bhikkhu dwells contemplating the body in the body.
+
+28
+00:03:04,840 --> 00:03:10,404
+[SPEAKER_00]: Ardent, clearly comprehending, mindful, having removed covetousness and displeasure in regard to the world.
+
+29
+00:03:11,744 --> 00:03:15,947
+[SPEAKER_00]: While he dwells contemplating the body in the body, his mind becomes concentrated.
+
+30
+00:03:16,267 --> 00:03:17,668
+[SPEAKER_00]: His corruptions are abandoned.
+
+31
+00:03:17,808 --> 00:03:19,009
+[SPEAKER_00]: He picks up that sign.
+
+32
+00:03:20,030 --> 00:03:25,273
+[SPEAKER_00]: He does the same with feelings and feelings, mind and mind, phenomena and phenomena.
+
+33
+00:03:26,273 --> 00:03:34,176
+[SPEAKER_00]: That wise, competent, skillful bhikkhu gains pleasant dwellings in this very life, and he gains mindfulness and clear comprehension.
+
+34
+00:03:34,956 --> 00:03:35,676
+[SPEAKER_00]: For what reason?
+
+35
+00:03:35,876 --> 00:03:41,638
+[SPEAKER_00]: Because bhikkhus, that wise, competent, skillful bhikkhu, picks up the sign of his own mind.
+
+36
+00:03:43,219 --> 00:03:50,281
+[SPEAKER_00]: Some foolish bhikkhu dwells contemplating the body and the body, ardent, clearly comprehending, mindful.
+
+37
+00:03:51,962 --> 00:03:55,083
+[SPEAKER_00]: So, it seems like he is, in a sense, practicing satipaṭṭhāna,
+
+38
+00:04:02,670 --> 00:04:09,492
+[SPEAKER_00]: So, he says, his mind does not become concentrated, his corruptions are not abandoned, he does not pick up that sign.
+
+39
+00:04:10,352 --> 00:04:15,194
+[SPEAKER_01]: And that's how an idea will still, like, remain unfinished, so to speak.
+
+40
+00:04:16,554 --> 00:04:20,055
+[SPEAKER_00]: Like, sign in terms of... Nimitta.
+
+41
+00:04:20,415 --> 00:04:22,956
+[SPEAKER_01]: Signs, characteristics, tokens of a thing.
+
+42
+00:04:23,476 --> 00:04:26,017
+[SPEAKER_01]: Of the body, or the ceiling.
+
+43
+00:04:26,037 --> 00:04:28,558
+[SPEAKER_01]: Or whatever phenomena of the mind, in this case.
+
+44
+00:04:30,387 --> 00:04:36,249
+[SPEAKER_01]: You don't see how your mind sort of wants to turn away from it, doesn't want to be focused really, or whatever.
+
+45
+00:04:36,669 --> 00:04:37,729
+[SPEAKER_00]: If you're not discerning.
+
+46
+00:04:38,189 --> 00:04:39,670
+[SPEAKER_01]: Exactly, not discerning that.
+
+47
+00:04:39,710 --> 00:04:46,492
+[SPEAKER_01]: Not discerning that background of the phenomena that appear as a result of in practicing mindfulness.
+
+48
+00:04:49,313 --> 00:04:55,715
+[SPEAKER_01]: Yes, that's why I think it's in that similar sort of... well, in that principle, I think
+
+49
+00:05:09,042 --> 00:05:10,082
+[SPEAKER_01]: Isn't that supposed to be better?
+
+50
+00:05:10,842 --> 00:05:11,102
+[SPEAKER_01]: Why?
+
+51
+00:05:11,883 --> 00:05:14,623
+[SPEAKER_01]: Or rather, how you can actually benefit from it?
+
+52
+00:05:14,723 --> 00:05:21,784
+[SPEAKER_01]: If you do it, usually there's almost like an exercise, in like, okay, you're not going to go with your will, you go with the senior monk's will.
+
+53
+00:05:22,445 --> 00:05:29,146
+[SPEAKER_01]: Not because of some blind devotion, simply because, well, that's just another point of view to your experience as a whole that has arisen.
+
+54
+00:05:29,726 --> 00:05:34,667
+[SPEAKER_01]: There's a point of view that's the closest to me, my point of view, there's a point of view of another person.
+
+55
+00:05:36,651 --> 00:05:43,974
+[SPEAKER_01]: And, eh... that exercise can sort of train the mind in picking up on things or signs, eh... nimittas.
+
+56
+00:05:45,875 --> 00:06:00,522
+[SPEAKER_01]: In this particular case of what a senior monk might need or require, but, eh... generally, it will actually train the mind to pick on the signs, eh... regardless whether it's internal or external, whether it's your point of view or their point of view.
+
+57
+00:06:00,702 --> 00:06:01,182
+[SPEAKER_00]: Doesn't matter.
+
+58
+00:06:01,522 --> 00:06:03,443
+[SPEAKER_00]: You will start seeing more of the background.
+
+59
+00:06:04,452 --> 00:06:21,460
+[SPEAKER_01]: And when you know, ah, you're not just doing what you want to do, you're actually following, in a way, someone else's will, based on trust, based on confidence, uh, and then you start picking on these things, then the mind just starts doing the same everywhere, uh, against its will, so to speak.
+
+60
+00:06:23,921 --> 00:06:28,963
+[SPEAKER_01]: In that sense, um, even such sort of, um, a task of attending
+
+61
+00:06:34,960 --> 00:06:45,228
+[SPEAKER_01]: That's why that simile is quite close to that, like, you know, he would, you know, he wouldn't have to.
+
+62
+00:06:45,328 --> 00:06:51,233
+[SPEAKER_01]: His job is to cook, but he really kind of makes that extra effort, because that extra effort is not actually effort as much.
+
+63
+00:06:51,333 --> 00:06:53,735
+[SPEAKER_01]: It's more like just learning how to notice things, always.
+
+64
+00:06:54,475 --> 00:06:57,017
+[SPEAKER_01]: It doesn't matter if it's internal or external, or both.
+
+65
+00:06:58,959 --> 00:07:01,080
+[SPEAKER_01]: You start picking on stuff.
+
+66
+00:07:02,181 --> 00:07:04,183
+[SPEAKER_01]: And there is a truth in that, like, when
+
+67
+00:07:05,732 --> 00:07:18,019
+[SPEAKER_01]: When you meet monks throughout the monastery, eh, the ones that sort of pick on little things, like, what, kind of, oh, what needs to be, like, they don't need to be taught, you know, constantly do this or do that, and they're just like a robot.
+
+68
+00:07:18,479 --> 00:07:19,660
+[SPEAKER_01]: They'll be picking on stuff.
+
+69
+00:07:20,320 --> 00:07:23,862
+[SPEAKER_01]: They are generally more aware, because that's the way how you pick on it.
+
+70
+00:07:34,667 --> 00:07:36,188
+[SPEAKER_01]: So, do not neglect that habit.
+
+71
+00:07:37,108 --> 00:07:42,912
+[SPEAKER_01]: So, there is a place for that whole kind of Thai training and stuff, but obviously, you know, some people just kind of take it blindly.
+
+72
+00:07:43,692 --> 00:07:46,413
+[SPEAKER_01]: People don't necessarily benefit from it as much as they could.
+
+73
+00:07:48,274 --> 00:07:49,175
+[SPEAKER_01]: So, eh...
+
+74
+00:07:50,376 --> 00:07:52,657
+[SPEAKER_01]: So, yeah, it's quite a... it's a good practice.
+
+75
+00:07:53,377 --> 00:07:54,078
+[SPEAKER_01]: It's a good practice.
+
+76
+00:07:54,258 --> 00:07:57,800
+[SPEAKER_01]: And... because, you know, those are easy things to pick on.
+
+77
+00:07:58,060 --> 00:07:59,040
+[SPEAKER_01]: Oh, he lies empty.
+
+78
+00:07:59,421 --> 00:08:01,242
+[SPEAKER_01]: He doesn't use this umbrella.
+
+79
+00:08:06,280 --> 00:08:20,104
+[SPEAKER_01]: Then, subtle tokens of your mind, like, how it, like, to what degree turns away from, you know, practicing concentration on a heavy, humid day that doesn't want to do and so on, like, that will take time to discern.
+
+80
+00:08:20,124 --> 00:08:28,366
+[SPEAKER_01]: But if you're constantly just trying to discern only that, it would be like, basically, what's the expression?
+
+81
+00:08:29,787 --> 00:08:31,147
+[SPEAKER_01]: A piece is too big to chew.
+
+82
+00:08:32,135 --> 00:08:34,796
+[SPEAKER_00]: Right away, it all disappears in a big blob.
+
+83
+00:08:35,177 --> 00:08:36,057
+[SPEAKER_01]: Exactly, yeah.
+
+84
+00:08:36,097 --> 00:08:37,998
+[SPEAKER_01]: Then it just gets overwhelming.
+
+85
+00:08:38,759 --> 00:08:46,003
+[SPEAKER_01]: But it's the same principle that you can train in regards to the external circumstances, and then it becomes easier to be seen.
+
+86
+00:08:49,284 --> 00:08:52,786
+[SPEAKER_00]: So, when it's talking about signs and tokens, it's a very kind of general term.
+
+87
+00:08:53,086 --> 00:08:54,647
+[SPEAKER_00]: Very general term.
+
+88
+00:08:54,787 --> 00:08:57,169
+[SPEAKER_00]: Just basically how you know anything is anything.
+
+89
+00:08:57,209 --> 00:08:58,109
+[SPEAKER_01]: Exactly, yeah.
+
+90
+00:08:58,829 --> 00:09:01,391
+[SPEAKER_01]: That's, you know, that's how the whole kind of the
+
+91
+00:09:13,229 --> 00:09:19,653
+[SPEAKER_01]: That's the thing that you have signs of, that defines it as such, that designates it as such.
+
+92
+00:09:20,033 --> 00:09:22,995
+[SPEAKER_01]: So, signs and tokens with the level of intentionality as well.
+
+93
+00:09:23,255 --> 00:09:27,418
+[SPEAKER_01]: That's why it's not, it's not kind of, there's not like a clear distinction.
+
+94
+00:09:27,878 --> 00:09:29,139
+[SPEAKER_00]: It's on the level of the mind.
+
+95
+00:09:29,499 --> 00:09:30,800
+[SPEAKER_01]: Exactly, on that background.
+
+96
+00:09:30,840 --> 00:09:34,782
+[SPEAKER_01]: So, just by picking sign and tokens with your eyes, your ears,
+
+97
+00:09:35,306 --> 00:09:38,768
+[SPEAKER_01]: You're already training your mind in regard to the same principle.
+
+98
+00:09:39,909 --> 00:09:45,932
+[SPEAKER_01]: As opposed to just kind of going straight into the abstract mode and trying to sign it open and then like you have nothing to root it in.
+
+99
+00:09:47,013 --> 00:09:56,259
+[SPEAKER_01]: But once you start seeing it in an obvious course manner, you can start sort of extrapolating the principle out of it and then discerning it elsewhere.
+
+100
+00:09:56,479 --> 00:09:59,861
+[SPEAKER_01]: Even just in the purely, you know, on a level of thoughts.
+
+101
+00:10:01,042 --> 00:10:01,442
+[SPEAKER_00]: And so on.
+
+102
+00:10:02,795 --> 00:10:07,718
+[SPEAKER_00]: I just thought about that at that time with the sign of the mind, which is something you tend to bring up.
+
+103
+00:10:08,679 --> 00:10:09,880
+[SPEAKER_00]: Like, basically, that's the question.
+
+104
+00:10:09,900 --> 00:10:12,261
+[SPEAKER_00]: How do I know my mind is in such a way?
+
+105
+00:10:13,062 --> 00:10:14,623
+[SPEAKER_00]: Like, pick up a token of it.
+
+106
+00:10:15,123 --> 00:10:16,905
+[SPEAKER_01]: Well, what do you mean in such a way?
+
+107
+00:10:16,925 --> 00:10:17,445
+[SPEAKER_00]: In what way?
+
+108
+00:10:17,805 --> 00:10:20,807
+[SPEAKER_00]: Like, oh, I have a sleepy mind.
+
+109
+00:10:20,887 --> 00:10:21,848
+[SPEAKER_00]: But how is that?
+
+110
+00:10:21,928 --> 00:10:23,009
+[SPEAKER_00]: How is it that I know that?
+
+111
+00:10:23,569 --> 00:10:24,250
+[SPEAKER_01]: How do you know that?
+
+112
+00:10:24,310 --> 00:10:25,811
+[SPEAKER_01]: Well, because the sleepiness is there.
+
+113
+00:10:26,971 --> 00:10:29,813
+[SPEAKER_01]: But how can you know that that is the sign of the mind?
+
+114
+00:10:30,254 --> 00:10:32,135
+[SPEAKER_01]: Well, you'll know that when you know it's a sign of the mind.
+
+115
+00:10:37,002 --> 00:10:46,707
+[SPEAKER_01]: I didn't mean to say, like, oh, I need things in front of me.
+
+116
+00:10:46,747 --> 00:10:48,188
+[SPEAKER_00]: There's the sleepiness there.
+
+117
+00:10:48,228 --> 00:10:51,790
+[SPEAKER_00]: I mean, like, just as a rhetorical question I asked myself.
+
+118
+00:10:52,431 --> 00:10:52,991
+[SPEAKER_01]: Oh, I see.
+
+119
+00:10:53,111 --> 00:10:55,192
+[SPEAKER_01]: I thought it was an actual question.
+
+120
+00:10:55,212 --> 00:10:57,793
+[SPEAKER_01]: Well, how do you explain that?
+
+121
+00:10:58,354 --> 00:10:59,354
+[SPEAKER_01]: I see what you mean.
+
+122
+00:10:59,434 --> 00:10:59,915
+[SPEAKER_01]: Yeah.
+
+123
+00:11:00,015 --> 00:11:01,095
+[SPEAKER_01]: Oh, I know exactly.
+
+124
+00:11:01,235 --> 00:11:01,776
+[SPEAKER_01]: Start looking.
+
+125
+00:11:01,936 --> 00:11:02,356
+[SPEAKER_01]: I'll do it.
+
+126
+00:11:04,963 --> 00:11:06,944
+[SPEAKER_01]: Now, I'm restless or I'm sleepy.
+
+127
+00:11:07,905 --> 00:11:08,865
+[SPEAKER_01]: How?
+
+128
+00:11:08,885 --> 00:11:09,666
+[SPEAKER_01]: How do I know that?
+
+129
+00:11:09,726 --> 00:11:16,250
+[SPEAKER_01]: And then you start looking for certain tokens and signs of restlessness or sleepiness that sort of define the state of the mind.
+
+130
+00:11:16,750 --> 00:11:23,154
+[SPEAKER_01]: So, when you become proficient in that, so to speak, in seeing that phenomenon, that peripheral, then that's the sign of the mind.
+
+131
+00:11:23,174 --> 00:11:24,415
+[SPEAKER_01]: You recognize the peripheral.
+
+132
+00:11:25,536 --> 00:11:27,617
+[SPEAKER_01]: The phenomenon of the peripheral is what the mind is.
+
+133
+00:11:28,117 --> 00:11:29,058
+[SPEAKER_01]: It is that peripheral.
+
+134
+00:11:30,059 --> 00:11:31,359
+[SPEAKER_01]: But it's not seen as a phenomenon.
+
+135
+00:11:33,467 --> 00:11:37,688
+[SPEAKER_01]: You might see peripheral in regard to what's actual, but you don't see peripheral as a phenomenon of peripheral.
+
+136
+00:11:38,369 --> 00:11:39,209
+[SPEAKER_01]: On the peripheral.
+
+137
+00:11:40,369 --> 00:11:42,110
+[SPEAKER_01]: Which means you don't see the sign of your mind.
+
+138
+00:11:42,130 --> 00:11:43,650
+[SPEAKER_01]: You don't see your mind as a phenomenon.
+
+139
+00:11:45,791 --> 00:11:46,291
+[SPEAKER_01]: What do you mean?
+
+140
+00:11:46,391 --> 00:11:48,252
+[SPEAKER_01]: The peripheral of the peripheral?
+
+141
+00:11:48,272 --> 00:11:48,612
+[SPEAKER_01]: No.
+
+142
+00:11:48,632 --> 00:11:49,972
+[SPEAKER_01]: Peripheral on the peripheral.
+
+143
+00:11:50,432 --> 00:11:51,213
+[SPEAKER_01]: On the peripheral.
+
+144
+00:11:52,193 --> 00:11:52,393
+[SPEAKER_01]: Yeah.
+
+145
+00:11:52,413 --> 00:11:57,294
+[SPEAKER_01]: You mean peripheral of the peripheral is not necessarily, but you see peripheral as peripheral.
+
+146
+00:11:57,695 --> 00:11:57,875
+[SPEAKER_01]: Oh.
+
+147
+00:11:58,535 --> 00:12:02,296
+[SPEAKER_01]: As a phenomenon that always arises in regard to no matter what actual.
+
+148
+00:12:03,134 --> 00:12:05,015
+[SPEAKER_01]: So, it stops being, kind of, dependent.
+
+149
+00:12:05,615 --> 00:12:12,679
+[SPEAKER_01]: Your inference of it stops being dependent upon the content that you're actual, and then I see the peripheral.
+
+150
+00:12:13,019 --> 00:12:17,421
+[SPEAKER_01]: You start like that, but the point is, basically, discern the nature of peripheral.
+
+151
+00:12:17,801 --> 00:12:19,982
+[SPEAKER_01]: And that's basically discerning the phenomenon of the mind.
+
+152
+00:12:23,064 --> 00:12:32,068
+[SPEAKER_01]: Where, for you, you know, at that stage, you would even stop, kind of, having to think about peripheral or actual, which is always, kind of, a relation there, but you see, that's what the mind is.
+
+153
+00:12:35,874 --> 00:12:49,048
+[SPEAKER_01]: And obviously, learning to see as peripheral, like seeing peripheral on the peripheral, I mean, like, you don't over-attend it and think of it in abstract, actual terms.
+
+154
+00:12:51,231 --> 00:12:52,252
+[SPEAKER_01]: But you see it for what it is.
+
+155
+00:13:10,364 --> 00:13:18,327
+[SPEAKER_00]: And one should also, I guess, see its determinations, this peripheral side of the mind, like what determined it.
+
+156
+00:13:19,628 --> 00:13:23,730
+[SPEAKER_01]: Well, yeah, I mean, you'll be seeing those only once you start seeing the peripheral side.
+
+157
+00:13:23,750 --> 00:13:26,871
+[SPEAKER_01]: You can't be seeing determinations and then reveal what they determine.
+
+158
+00:13:27,431 --> 00:13:30,653
+[SPEAKER_01]: Determinations can only be seen once you have that which is being determined.
+
+159
+00:13:30,713 --> 00:13:32,774
+[SPEAKER_01]: So through that, you see that which determines it.
+
+160
+00:13:34,154 --> 00:13:35,615
+[SPEAKER_01]: Because it's not a linear connection.
+
+161
+00:13:36,973 --> 00:13:40,737
+[SPEAKER_01]: Like the determination left determines this thing far, far right.
+
+162
+00:13:42,038 --> 00:13:50,607
+[SPEAKER_01]: It's by seeing the determinant through there, through it, through its simultaneous presence, you can discern what determines it simultaneously while it's present.
+
+163
+00:13:53,010 --> 00:13:54,391
+[SPEAKER_00]: Which is feeling and perception.
+
+164
+00:13:55,172 --> 00:13:56,794
+[SPEAKER_01]: Yeah, if you're talking about the mind, yeah.
+
+165
+00:14:17,800 --> 00:14:33,571
+[SPEAKER_00]: Is there a difference between just a mind that is, let's say, sleeping, versus being affected by the hindrance of sleepiness, thought, and torpor, however you want to translate it?
+
+166
+00:14:35,413 --> 00:14:35,913
+[SPEAKER_01]: What do you mean?
+
+167
+00:14:36,313 --> 00:14:38,695
+[SPEAKER_01]: You mean, can Adam be sleeping?
+
+168
+00:14:38,735 --> 00:14:40,536
+[SPEAKER_00]: Well, of course, they can become tired.
+
+169
+00:14:40,676 --> 00:14:40,897
+[SPEAKER_00]: Yeah.
+
+170
+00:14:40,917 --> 00:14:42,138
+[SPEAKER_00]: But it's different for them.
+
+171
+00:14:42,678 --> 00:14:46,941
+[SPEAKER_01]: Yeah, because their mind is not bound by any of such hindrances.
+
+172
+00:14:47,918 --> 00:14:48,738
+[SPEAKER_01]: You won't be violent.
+
+173
+00:14:50,039 --> 00:14:53,941
+[SPEAKER_01]: Those hindrances won't be inducing any wrong views or any blurts.
+
+174
+00:14:54,261 --> 00:14:56,562
+[SPEAKER_01]: Put in mind that I'm a robot free from hindrances.
+
+175
+00:14:56,902 --> 00:14:58,623
+[SPEAKER_01]: So then, it's not a hindrance anymore.
+
+176
+00:15:01,124 --> 00:15:04,966
+[SPEAKER_00]: But they'd still be described in a sense as though they could say, I am tired.
+
+177
+00:15:06,026 --> 00:15:07,147
+[SPEAKER_01]: Yeah, yeah, of course, yeah.
+
+178
+00:15:08,067 --> 00:15:14,130
+[SPEAKER_01]: But then it's when they say, I am, it becomes just a hollow shell of expression that we spoke before.
+
+179
+00:15:15,697 --> 00:15:19,699
+[SPEAKER_00]: Whereas, for a patugin who's tired, that just means lack of mindfulness, basically.
+
+180
+00:15:19,719 --> 00:15:20,720
+[SPEAKER_01]: Well, exactly.
+
+181
+00:15:20,900 --> 00:15:35,267
+[SPEAKER_01]: For him, being tired or having any kind of hindrance means obstruction to mindfulness, obstruction to clear discernment, because he has not seen through those thick kind of clouds of hindrances.
+
+182
+00:15:36,628 --> 00:15:42,110
+[SPEAKER_01]: But once that's seen through and understood, then, well, you're not affected by that.
+
+183
+00:15:42,771 --> 00:15:43,371
+[SPEAKER_01]: You're not in the
+
+184
+00:15:44,967 --> 00:15:46,068
+[SPEAKER_01]: So, then, it will be generated.
+
+185
+00:15:46,268 --> 00:15:47,849
+[SPEAKER_01]: Because that's another thing with hindrances.
+
+186
+00:15:47,889 --> 00:15:51,812
+[SPEAKER_01]: They sort of, by not knowing escape from a hindrance, you end up revolving around a hindrance.
+
+187
+00:15:51,912 --> 00:16:05,582
+[SPEAKER_01]: So, by being a little bit sleepy, you end up very sleepy, you end up overdoing the sleepiness, overdoing the restlessness, overdoing the anger, by not knowing escape from it.
+
+188
+00:16:07,564 --> 00:16:09,225
+[SPEAKER_01]: By knowing escape, then,
+
+189
+00:16:12,930 --> 00:16:18,795
+[SPEAKER_01]: It didn't come as a result of you being confused in regard to it, and then losing it, and so on.
+
+190
+00:16:18,815 --> 00:16:19,896
+[SPEAKER_01]: It's just general sleepiness.
+
+191
+00:16:19,936 --> 00:16:23,679
+[SPEAKER_01]: And then you will go, oh, actually, it's just general sleepiness, which means some death.
+
+192
+00:16:24,459 --> 00:16:25,840
+[SPEAKER_01]: I'm not going to sleep here, basically.
+
+193
+00:16:27,041 --> 00:16:29,623
+[SPEAKER_01]: But when it's a hindrance, it's something that you kind of give in to.
+
+194
+00:16:30,684 --> 00:16:31,965
+[SPEAKER_01]: You give in to restlessness.
+
+195
+00:16:31,985 --> 00:16:33,686
+[SPEAKER_01]: You give in to doubt.
+
+196
+00:16:33,826 --> 00:16:35,988
+[SPEAKER_01]: You give in, because you don't know the escape from it.
+
+197
+00:16:37,589 --> 00:16:39,371
+[SPEAKER_01]: And by giving in, you amplify.
+
+198
+00:16:44,022 --> 00:16:50,625
+[SPEAKER_00]: And so, one should begin, then, by having mindfulness in regard to any hindrance.
+
+199
+00:16:50,765 --> 00:16:50,985
+[SPEAKER_00]: Yeah.
+
+200
+00:16:51,925 --> 00:16:53,066
+[SPEAKER_00]: And then, you understand.
+
+201
+00:16:55,547 --> 00:16:59,789
+[SPEAKER_01]: Mindfulness, sure, but comes often down to just enduring it.
+
+202
+00:17:00,909 --> 00:17:05,991
+[SPEAKER_01]: Enduring the kind of sensual cravings of any kind.
+
+203
+00:17:06,071 --> 00:17:07,012
+[SPEAKER_01]: Enduring ill will.
+
+204
+00:17:07,852 --> 00:17:09,453
+[SPEAKER_01]: Enduring the anger that has arisen.
+
+205
+00:17:21,596 --> 00:17:26,022
+[SPEAKER_01]: There is a point where figuring it out sort of ceases to be the motivation.
+
+206
+00:17:26,082 --> 00:17:33,011
+[SPEAKER_01]: It's just kind of indulging the doubt, just fueling the doubt, because the doubt is burning and you don't want to realize it.
+
+207
+00:17:33,491 --> 00:17:37,797
+[SPEAKER_01]: And then you end up, you know, like sometimes monks get so caught up, those three days they can't sleep.
+
+208
+00:17:37,857 --> 00:17:40,220
+[SPEAKER_01]: There's a monk just doubting, doubting, because they are indulging the doubt.
+
+209
+00:17:46,905 --> 00:17:49,186
+[SPEAKER_01]: If you're mindful, you will know where to draw a line.
+
+210
+00:17:49,266 --> 00:17:56,670
+[SPEAKER_01]: If you don't give in to that emotional pressure of the doubt, or like, oh, I just understood that, I just need to sleep.
+
+211
+00:17:56,790 --> 00:18:02,433
+[SPEAKER_00]: And you'll just... over-commit to sleep.
+
+212
+00:18:03,214 --> 00:18:06,275
+[SPEAKER_00]: And that will tire you, because you don't have to be angry to go to sleep.
+
+213
+00:18:06,496 --> 00:18:07,196
+[SPEAKER_00]: Yeah, exactly.
+
+214
+00:18:07,236 --> 00:18:12,379
+[SPEAKER_01]: So, like, okay, I have to sleep, but I have to sleep mindfully, so I can't just overdo sleep.
+
+215
+00:18:12,499 --> 00:18:12,739
+[SPEAKER_01]: But...
+
+216
+00:18:15,487 --> 00:18:18,248
+[SPEAKER_01]: Open up the front gates and you don't go and sleep.
+
+217
+00:18:19,868 --> 00:18:21,048
+[SPEAKER_01]: So, and that's the thing.
+
+218
+00:18:21,088 --> 00:18:28,030
+[SPEAKER_01]: Mindfulness, if done rightly, cannot not be effortless.
+
+219
+00:18:29,250 --> 00:18:31,071
+[SPEAKER_01]: It doesn't require any effort, mindfulness.
+
+220
+00:18:31,611 --> 00:18:32,791
+[SPEAKER_01]: It doesn't require any strain.
+
+221
+00:18:34,872 --> 00:18:36,392
+[SPEAKER_01]: Mindfulness is just the recognition.
+
+222
+00:18:36,792 --> 00:18:39,993
+[SPEAKER_01]: It's the simple discernment of what has arisen.
+
+223
+00:18:41,473 --> 00:18:43,554
+[SPEAKER_01]: And that's why you can't have too much of mindfulness.
+
+224
+00:18:44,495 --> 00:18:47,317
+[SPEAKER_01]: Our mindfulness is not clarified and properly developed then yet.
+
+225
+00:18:48,077 --> 00:18:49,398
+[SPEAKER_01]: Ah, I just need to sleep.
+
+226
+00:18:49,458 --> 00:18:53,320
+[SPEAKER_01]: I can't, like... And then, you throw away mindfulness as well.
+
+227
+00:18:54,080 --> 00:18:56,321
+[SPEAKER_01]: But mindfulness does not need to interfere.
+
+228
+00:18:56,481 --> 00:18:57,902
+[SPEAKER_01]: It downrightly won't interfere.
+
+229
+00:18:58,703 --> 00:19:00,163
+[SPEAKER_01]: Because it looks beyond.
+
+230
+00:19:00,223 --> 00:19:01,704
+[SPEAKER_01]: It goes beyond any of the hindrances.
+
+231
+00:19:03,005 --> 00:19:03,925
+[SPEAKER_01]: So, I need to sleep.
+
+232
+00:19:04,045 --> 00:19:04,746
+[SPEAKER_01]: You go to sleep.
+
+233
+00:19:05,366 --> 00:19:06,967
+[SPEAKER_01]: That does not mean losing mindfulness.
+
+234
+00:19:08,043 --> 00:19:09,383
+[SPEAKER_01]: Well, I have a degree of doubt.
+
+235
+00:19:09,523 --> 00:19:10,744
+[SPEAKER_01]: I need to clarify something.
+
+236
+00:19:10,864 --> 00:19:13,324
+[SPEAKER_01]: You're going to clarify something without losing mindfulness.
+
+237
+00:19:13,344 --> 00:19:17,145
+[SPEAKER_01]: So, you don't get caught in a whirlpool, sort of, of doubt.
+
+238
+00:19:17,925 --> 00:19:21,626
+[SPEAKER_01]: And saying, like, oh, there is a disagreeable feeling here, present.
+
+239
+00:19:21,646 --> 00:19:22,287
+[SPEAKER_01]: There is, there is...
+
+240
+00:19:22,947 --> 00:19:25,287
+[SPEAKER_01]: This, this misguided man in front of me is irritating.
+
+241
+00:19:25,947 --> 00:19:30,769
+[SPEAKER_01]: But you don't get angry, because mindfulness does not need to, kind of, go out a window when you get irritated.
+
+242
+00:19:31,449 --> 00:19:35,990
+[SPEAKER_01]: So, then, none of those things can, sort of, eh...
+
+243
+00:19:42,863 --> 00:19:43,664
+[SPEAKER_01]: Keeps it in check.
+
+244
+00:19:46,306 --> 00:19:47,126
+[SPEAKER_01]: That's what he said.
+
+245
+00:19:47,567 --> 00:19:52,630
+[SPEAKER_01]: For an Arahant, the feelings cannot overwhelm.
+
+246
+00:19:53,311 --> 00:19:56,473
+[SPEAKER_01]: Or maybe not the reference to feelings, something in that term.
+
+247
+00:19:56,774 --> 00:19:58,655
+[SPEAKER_01]: Things don't overwhelm Arahant's mind.
+
+248
+00:19:59,175 --> 00:20:01,257
+[SPEAKER_01]: It's the Arahant's mind that overwhelms things.
+
+249
+00:20:01,637 --> 00:20:03,078
+[SPEAKER_00]: I think that's regards of thought.
+
+250
+00:20:03,579 --> 00:20:04,680
+[SPEAKER_00]: Okay.
+
+251
+00:20:04,740 --> 00:20:07,782
+[SPEAKER_00]: One of those thought suttas from Prajna Manikara, I think.
+
+252
+00:20:15,853 --> 00:20:23,214
+[SPEAKER_01]: It's like a great mountain, immovable rock against the wind and elements.
+
+253
+00:20:23,334 --> 00:20:24,735
+[SPEAKER_00]: It just doesn't budge.
+
+254
+00:20:27,435 --> 00:20:29,235
+[SPEAKER_00]: I mean, it seems to be the same principle as anything.
+
+255
+00:20:29,315 --> 00:20:32,596
+[SPEAKER_00]: The teachings arise just irrelevantly to you.
+
+256
+00:20:33,256 --> 00:20:34,016
+[SPEAKER_00]: Not irrelevantly.
+
+257
+00:20:34,296 --> 00:20:35,116
+[SPEAKER_00]: Indifferently, maybe.
+
+258
+00:20:36,237 --> 00:20:37,677
+[SPEAKER_01]: Indifferently.
+
+259
+00:20:38,137 --> 00:20:38,557
+[SPEAKER_00]: Irrelevant.
+
+260
+00:20:38,577 --> 00:20:43,598
+[SPEAKER_01]: And that's when you can see that the mind is rooted in mindfulness.
+
+261
+00:20:52,294 --> 00:21:02,666
+[SPEAKER_01]: That's when you start seeing that no matter how refined the five interests are, they entirely pertain to body, to the sense aspect, including doubt.
+
+262
+00:21:02,766 --> 00:21:09,073
+[SPEAKER_01]: Doubt always requires you to feel, to look for something more, to read something more, to hear something more, to think something more.
+
+263
+00:21:10,535 --> 00:21:12,417
+[SPEAKER_01]: So, you realize that all the interests are
+
+264
+00:21:18,953 --> 00:21:20,194
+[SPEAKER_01]: Then, you realize it's not a hindrance.
+
+265
+00:21:20,214 --> 00:21:26,416
+[SPEAKER_01]: Then, you recognize, for as long as there is this body, there will be hunger arising, not as a hindrance.
+
+266
+00:21:26,837 --> 00:21:32,959
+[SPEAKER_01]: For as long as there is this body, there will be disagreeable feelings arising, not as a hindrance.
+
+267
+00:21:33,319 --> 00:21:36,701
+[SPEAKER_01]: For as long as there is this body, there will be sleepiness arising, not as a hindrance.
+
+268
+00:21:37,261 --> 00:21:44,264
+[SPEAKER_01]: For as long as there is this body with these senses, there will be certain, like, clarity in regard to certain things that pertain to that domain.
+
+269
+00:21:44,364 --> 00:21:47,026
+[SPEAKER_01]: Not, not, like, clarity in regard to the ultimate wisdom.
+
+270
+00:21:53,391 --> 00:21:59,437
+[SPEAKER_01]: So then, you can go and sleep with clear conscience, mindfully.
+
+271
+00:21:59,457 --> 00:22:01,279
+[SPEAKER_01]: You can wake up with clear conscience, mindfully.
+
+272
+00:22:01,299 --> 00:22:06,084
+[SPEAKER_01]: You would be eating with clear conscience, mindfully, and so on.
+
+273
+00:22:06,104 --> 00:22:06,945
+[SPEAKER_01]: You couldn't do anything wrong.
+
+274
+00:22:23,213 --> 00:22:25,294
+[SPEAKER_00]: Yeah.
+
+275
+00:22:25,314 --> 00:22:27,635
+[SPEAKER_00]: Where I'm at now, it sounds very abstract.
+
+276
+00:22:28,055 --> 00:22:30,897
+[SPEAKER_00]: It's like, oh, yes, it's all, you know, you're tired.
+
+277
+00:22:30,937 --> 00:22:33,878
+[SPEAKER_00]: It feels like it's weighing, pointing at my head.
+
+278
+00:22:33,978 --> 00:22:34,398
+[SPEAKER_00]: It is.
+
+279
+00:22:34,498 --> 00:22:34,779
+[SPEAKER_00]: It is.
+
+280
+00:22:34,839 --> 00:22:36,039
+[SPEAKER_01]: That's exactly what it's weighing.
+
+281
+00:22:36,239 --> 00:22:37,460
+[SPEAKER_01]: But that's not what your mind is.
+
+282
+00:22:39,701 --> 00:22:40,841
+[SPEAKER_01]: Your mind is not in your head.
+
+283
+00:22:41,462 --> 00:22:41,742
+[SPEAKER_00]: Right.
+
+284
+00:22:41,762 --> 00:22:43,603
+[SPEAKER_00]: I didn't mean to say pointing at my head.
+
+285
+00:22:43,763 --> 00:22:44,443
+[SPEAKER_00]: Right, right, right.
+
+286
+00:22:44,463 --> 00:22:45,344
+[SPEAKER_00]: But no, you can.
+
+287
+00:22:45,404 --> 00:22:46,264
+[SPEAKER_01]: Yeah, yeah.
+
+288
+00:22:46,444 --> 00:22:47,345
+[SPEAKER_01]: It's just weighing.
+
+289
+00:22:47,665 --> 00:22:48,225
+[SPEAKER_01]: Yeah, sure.
+
+290
+00:22:48,265 --> 00:22:52,267
+[SPEAKER_01]: But mindfulness in terms of just recognition of whatever has a reason.
+
+291
+00:22:53,196 --> 00:22:57,297
+[SPEAKER_01]: Even if it's weight on you and so on.
+
+292
+00:22:57,797 --> 00:22:58,417
+[SPEAKER_01]: That's effort.
+
+293
+00:22:58,497 --> 00:23:01,838
+[SPEAKER_01]: That just requires only presence of a thing which is present on its own.
+
+294
+00:23:02,718 --> 00:23:05,679
+[SPEAKER_01]: So, you don't have to do it in order to maintain it.
+
+295
+00:23:05,759 --> 00:23:11,380
+[SPEAKER_01]: All you have to do is refrain from doing things that will make you forget about it.
+
+296
+00:23:11,400 --> 00:23:12,920
+[SPEAKER_01]: All you have to do is refrain from giving in.
+
+297
+00:23:13,580 --> 00:23:14,860
+[SPEAKER_01]: Then, you're automatically mindful.
+
+298
+00:23:16,181 --> 00:23:17,881
+[SPEAKER_01]: Refrain from engaging in unwholesome.
+
+299
+00:23:18,561 --> 00:23:19,741
+[SPEAKER_01]: Then, you're automatically mindful.
+
+300
+00:23:20,342 --> 00:23:21,302
+[SPEAKER_00]: What I meant to say was that
+
+301
+00:23:23,337 --> 00:23:31,682
+[SPEAKER_00]: Everything in my experience is saying that the tiredness is affecting, like, is a mental thing as well as a bodily thing.
+
+302
+00:23:32,062 --> 00:23:32,422
+[SPEAKER_01]: Sure.
+
+303
+00:23:34,703 --> 00:23:36,764
+[SPEAKER_01]: Because your mind is not where your mindfulness is.
+
+304
+00:23:36,865 --> 00:23:37,965
+[SPEAKER_01]: Your mind is where your body is.
+
+305
+00:23:38,065 --> 00:23:40,887
+[SPEAKER_01]: So then, mind is affected by all that bodily stuff.
+
+306
+00:23:42,408 --> 00:23:50,572
+[SPEAKER_01]: That's why, you know, if you exercise pressure over you, any bodily cravings, food, anger, meditation,
+
+307
+00:23:51,679 --> 00:23:51,799
+[SPEAKER_01]: Why?
+
+308
+00:23:51,839 --> 00:23:53,120
+[SPEAKER_01]: Because the mind is there already.
+
+309
+00:23:54,200 --> 00:24:04,685
+[SPEAKER_01]: But if the mind is developed through that indifferent presence of mindfulness and discernment of that, through that peripheral, then the mind will be open.
+
+310
+00:24:07,366 --> 00:24:12,228
+[SPEAKER_00]: Like in the sense saying that these are all... have to have the body present.
+
+311
+00:24:12,308 --> 00:24:19,231
+[SPEAKER_01]: Well, you say, well, my body is tired and my mind is tired, but mindfulness in regard to both is not tired, cannot be tired.
+
+312
+00:24:19,591 --> 00:24:19,971
+[SPEAKER_01]: I see.
+
+313
+00:24:20,031 --> 00:24:21,292
+[SPEAKER_01]: Just the discernment of the
+
+314
+00:24:27,941 --> 00:24:32,044
+[SPEAKER_01]: Mindfulness, in a way, precedes that which is mind for you right now.
+
+315
+00:24:32,925 --> 00:24:38,450
+[SPEAKER_01]: When your mind is developed, the mind gets aligned along what mindfulness is.
+
+316
+00:24:38,490 --> 00:24:42,633
+[SPEAKER_01]: And that's why mind development is possible, because the possibility of alignment is there.
+

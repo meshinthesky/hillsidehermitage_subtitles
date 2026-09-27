@@ -1,0 +1,2032 @@
+1
+00:00:14,823 --> 00:00:18,026
+[SPEAKER_02]: So, this is the beginning of the Satipaṭṭhāna Sutta.
+
+2
+00:00:18,326 --> 00:00:20,668
+[SPEAKER_02]: This is Majjhima Nikāya 10.
+
+3
+00:00:21,989 --> 00:00:22,689
+[SPEAKER_02]: So, I have heard.
+
+4
+00:00:23,470 --> 00:00:29,415
+[SPEAKER_02]: At one time, the Buddha was staying in the land of the Kurus, near the Kuru town, named Khamasadamma.
+
+5
+00:00:30,142 --> 00:00:31,743
+[SPEAKER_01]: There, the Buddha addressed the bhikkhus.
+
+6
+00:00:31,983 --> 00:00:34,125
+[SPEAKER_02]: Bhikkhus, Bhante, they replied.
+
+7
+00:00:34,605 --> 00:00:35,466
+[SPEAKER_02]: The Buddha said this.
+
+8
+00:00:36,266 --> 00:00:53,638
+[SPEAKER_02]: Bhikkhus, this is the path that leads squarely to the purification of beings, to getting past sorrow and lamentation, to make an end of suffering and upset, to accomplishing the method, and to realizing nibbāna, namely, the four establishments of recollection.
+
+9
+00:00:54,499 --> 00:01:06,266
+[SPEAKER_02]: Here, Abhiku abides maintaining perspective of the body concurrently with the body, diligent, aware, and recollected, having dispelled longing and upset in regard to the world.
+
+10
+00:01:06,966 --> 00:01:16,072
+[SPEAKER_02]: He abides maintaining perspective of feelings concurrently with feelings, diligent, aware, and recollected, having dispelled longing and upset in regard to the world.
+
+11
+00:01:16,866 --> 00:01:20,487
+[SPEAKER_02]: He abides maintaining perspective of the mind concurrently with the mind.
+
+12
+00:01:20,987 --> 00:01:22,868
+[SPEAKER_02]: Diligent, aware, and recollected.
+
+13
+00:01:23,368 --> 00:01:26,408
+[SPEAKER_02]: Having dispelled longing and upset in regard to the world.
+
+14
+00:01:26,949 --> 00:01:30,650
+[SPEAKER_02]: He abides maintaining perspective of phenomena concurrently with phenomena.
+
+15
+00:01:31,150 --> 00:01:32,830
+[SPEAKER_02]: Diligent, aware, and recollected.
+
+16
+00:01:33,210 --> 00:01:36,011
+[SPEAKER_02]: Having dispelled longing and upset in regard to the world.
+
+17
+00:01:46,252 --> 00:01:49,596
+[SPEAKER_01]: So, how do you practice that?
+
+18
+00:01:50,478 --> 00:01:51,018
+[SPEAKER_01]: Concretely?
+
+19
+00:01:55,604 --> 00:01:56,105
+[SPEAKER_01]: Any ideas?
+
+20
+00:02:20,586 --> 00:02:30,656
+[SPEAKER_03]: Well, you would have to start by understanding the concurrency that is a common thread with all the four establishments of recollection.
+
+21
+00:02:32,458 --> 00:02:40,767
+[SPEAKER_03]: And perhaps we can clear up from the outset that virtue and sensory strength are already prerequisites.
+
+22
+00:02:41,388 --> 00:02:42,649
+[SPEAKER_03]: It doesn't hurt to mention that again.
+
+23
+00:02:43,050 --> 00:02:54,038
+[SPEAKER_03]: So, assuming that that is understood, then one needs to understand that concurrent attention as a principle that all these satipaṭṭhāna have in common.
+
+24
+00:02:56,580 --> 00:03:10,370
+[SPEAKER_01]: Yeah, because I think I mentioned in one of the previous ones that it's easy for people to think of satipaṭṭhāna as absorption or focusing because they overemphasize the body.
+
+25
+00:03:11,690 --> 00:03:26,441
+[SPEAKER_01]: But, it's talking there about these four aspects and feelings, like it says, if you read further, it says, because feelings, then, in the same, along the same lines, feelings are interpreted as sensations.
+
+26
+00:03:27,322 --> 00:03:32,266
+[SPEAKER_01]: But, if you look further in the sutta, it says you have feelings of the flesh, feelings not of the flesh.
+
+27
+00:03:33,226 --> 00:03:34,928
+[SPEAKER_01]: So that, right from the outset,
+
+28
+00:03:36,509 --> 00:03:50,615
+[SPEAKER_01]: This qualifies the interpretation of feelings as sensations, which means, like, if you have something that's not of the flesh, something that's not, like, in your knees, or in your back, or in your belly, by definition, that's not something you'll be able to focus on.
+
+29
+00:03:51,255 --> 00:03:56,657
+[SPEAKER_01]: And, as it says there, it's, well, as I translate it, it's a maintaining perspective.
+
+30
+00:03:58,218 --> 00:04:03,900
+[SPEAKER_01]: So, we could maybe ask, why does it say there that
+
+31
+00:04:05,703 --> 00:04:16,851
+[SPEAKER_01]: These four foundations of recollection would help you to transcend suffering, transcend sorrow, lamentation, and, you know, overcoming upset and longing in regard to the world.
+
+32
+00:04:18,272 --> 00:04:22,035
+[SPEAKER_01]: If it's not focused, of course, you will overcome.
+
+33
+00:04:23,627 --> 00:04:29,091
+[SPEAKER_01]: Longing in all states by just replacing what you perceive with something else.
+
+34
+00:04:30,372 --> 00:04:36,335
+[SPEAKER_01]: Like, you kind of fix the mess that you have in the room by not being there to begin with.
+
+35
+00:04:36,375 --> 00:04:39,878
+[SPEAKER_01]: You just go to another room and then you don't have to see what's there.
+
+36
+00:04:40,358 --> 00:04:43,120
+[SPEAKER_03]: Yeah, but which means that fundamentally you don't really fix it.
+
+37
+00:04:43,180 --> 00:04:43,580
+[SPEAKER_03]: Exactly.
+
+38
+00:04:43,680 --> 00:04:45,081
+[SPEAKER_03]: You're just sticking your head in the sand.
+
+39
+00:04:45,241 --> 00:04:50,485
+[SPEAKER_01]: Yeah, but so if it's not that, then how does this actually
+
+40
+00:04:51,465 --> 00:05:01,736
+[SPEAKER_03]: Yeah, so how does maintaining perspective in these four distinct ways end soul lamentation, pain, grief and despair?
+
+41
+00:05:02,377 --> 00:05:03,238
+[SPEAKER_03]: That's the question, right?
+
+42
+00:05:04,299 --> 00:05:04,439
+[SPEAKER_02]: Yeah.
+
+43
+00:05:04,459 --> 00:05:10,425
+[SPEAKER_02]: So that's that kind of, I mean, I guess, a little insert before we really delve into that question.
+
+44
+00:05:12,222 --> 00:05:32,378
+[SPEAKER_02]: Because it talks about these four establishments, and it says, having put aside longing and despair, so that it kind of... the way I read that is, it kind of says that having... like the putting that aside is almost your gateway into this practice.
+
+45
+00:05:32,838 --> 00:05:40,705
+[SPEAKER_01]: Yeah, because always in the suttas, there's many suttas that say that practice of mindfulness is preceded by sense restraint.
+
+46
+00:05:41,388 --> 00:05:47,990
+[SPEAKER_01]: And sense-restraint, as defined, is exactly the same term in Pali that talks about longing and upset.
+
+47
+00:05:48,130 --> 00:05:55,672
+[SPEAKER_01]: Like, not grasping signs and features means that you won't be overcome with longing and upset regarding the objects of the six senses.
+
+48
+00:05:55,752 --> 00:05:57,873
+[SPEAKER_01]: And that's like the prerequisite for satipaṭṭhāna.
+
+49
+00:05:58,453 --> 00:06:00,013
+[SPEAKER_01]: It's not the result of satipaṭṭhāna.
+
+50
+00:06:00,133 --> 00:06:05,915
+[SPEAKER_01]: So, in other words, you need to already not be doing this as a form of management.
+
+51
+00:06:06,829 --> 00:06:12,971
+[SPEAKER_01]: Because you have dealt with the coarse longing and upset beforehand, through sense restraint.
+
+52
+00:06:13,231 --> 00:06:14,812
+[SPEAKER_01]: So, you're not doing...
+
+53
+00:06:14,832 --> 00:06:22,654
+[SPEAKER_01]: If you skip that aspect, then, automatically, this will just become a way of, like, how do I replace this or get rid of it as quickly as possible.
+
+54
+00:06:22,834 --> 00:06:24,835
+[SPEAKER_01]: And then, you're not really maintaining perspective.
+
+55
+00:06:24,875 --> 00:06:25,595
+[SPEAKER_01]: You're kind of just...
+
+56
+00:06:26,269 --> 00:06:31,133
+[SPEAKER_01]: Replacing one thing with another, but the perspective remains equally muddled.
+
+57
+00:06:31,894 --> 00:06:47,306
+[SPEAKER_02]: So that's a lot of people might go into this practice looking for the way out of longing and upset, but actually overcoming longing and upset to some degree is kind of your... that's the work that needs to be done before you even really think about satipaṭṭhāna properly.
+
+58
+00:06:51,112 --> 00:07:02,099
+[SPEAKER_01]: That's, I think, Samyutta Nikaya 46.6, we can put it in the description, that talks about how, yes, mindfulness is preceded by sensor strength.
+
+59
+00:07:02,159 --> 00:07:06,582
+[SPEAKER_01]: When you're already established in sensor strength, then you can practice the force of nipaṭṭhānas.
+
+60
+00:07:07,162 --> 00:07:19,070
+[SPEAKER_01]: But so, having said that then, how does that cement and fully establish your mind in freedom from any kind of suffering?
+
+61
+00:07:22,520 --> 00:07:23,621
+[SPEAKER_01]: Or you could ask it the other way.
+
+62
+00:07:23,661 --> 00:07:27,363
+[SPEAKER_01]: How does not having mindfulness make you suffer?
+
+63
+00:07:49,776 --> 00:07:51,477
+[SPEAKER_01]: So, what's longing and upset?
+
+64
+00:07:55,053 --> 00:07:55,954
+[SPEAKER_01]: What is sorrow?
+
+65
+00:07:56,214 --> 00:07:58,436
+[SPEAKER_01]: Is it just objects that come to you?
+
+66
+00:08:06,823 --> 00:08:10,206
+[SPEAKER_04]: It's more like my attitude toward this object.
+
+67
+00:08:14,149 --> 00:08:20,474
+[SPEAKER_03]: And more specifically, like, based on what attitude would there be sorrow and despair and so on?
+
+68
+00:08:21,001 --> 00:08:21,561
+[SPEAKER_04]: I'm craving.
+
+69
+00:08:21,821 --> 00:08:23,902
+[SPEAKER_04]: I'm craving for things to be not the way it is.
+
+70
+00:08:24,843 --> 00:08:26,444
+[SPEAKER_04]: Just wanting things to be different.
+
+71
+00:08:28,485 --> 00:08:30,786
+[SPEAKER_02]: And it doesn't say destroying, longing and upset.
+
+72
+00:08:31,586 --> 00:08:43,992
+[SPEAKER_02]: It's more... kind of those... not continually acting out of these tendencies.
+
+73
+00:08:44,872 --> 00:08:47,954
+[SPEAKER_02]: So, that's like... that's not to say there won't still be
+
+74
+00:08:49,385 --> 00:08:51,428
+[SPEAKER_02]: Inclinations towards old habits.
+
+75
+00:08:52,149 --> 00:09:02,144
+[SPEAKER_02]: But it's... it's not just like, oh, you know, I still sometimes, like, have the thought that I should, whatever, smoke a cigarette.
+
+76
+00:09:02,184 --> 00:09:04,567
+[SPEAKER_01]: Like, gosh, that means I haven't kind of...
+
+77
+00:09:05,322 --> 00:09:06,583
+[SPEAKER_02]: I haven't gotten it yet, you know.
+
+78
+00:09:06,763 --> 00:09:09,726
+[SPEAKER_02]: Maybe a few more years, that'll eventually kind of wear out.
+
+79
+00:09:09,806 --> 00:09:13,849
+[SPEAKER_02]: I've noticed over the past few years, you know, you get into that kind of stuff.
+
+80
+00:09:13,929 --> 00:09:17,833
+[SPEAKER_01]: But it's like the the setting it down is something you should be able to do immediately.
+
+81
+00:09:18,633 --> 00:09:23,677
+[SPEAKER_01]: Yeah, and and you look at the description of mindfulness of the mind, and it doesn't say
+
+82
+00:09:24,883 --> 00:09:26,764
+[SPEAKER_01]: He doesn't have passion.
+
+83
+00:09:27,485 --> 00:09:28,505
+[SPEAKER_01]: He doesn't have aversion.
+
+84
+00:09:29,286 --> 00:09:36,030
+[SPEAKER_01]: It says, when it's there, he knows it as such, and in itself, that's an establishment of perspective.
+
+85
+00:09:36,870 --> 00:09:38,151
+[SPEAKER_01]: Because...
+
+86
+00:09:38,191 --> 00:09:43,354
+[SPEAKER_01]: So, what I was trying to get at is... Yeah, so, it's the craving that makes these objects a problem.
+
+87
+00:09:44,295 --> 00:09:45,495
+[SPEAKER_01]: Which means that if you...
+
+88
+00:09:46,636 --> 00:09:50,038
+[SPEAKER_01]: Yes, if you replace the objects, the craving won't be there.
+
+89
+00:09:50,538 --> 00:09:51,259
+[SPEAKER_01]: Because, like...
+
+90
+00:09:52,572 --> 00:09:56,855
+[SPEAKER_01]: The push for the craving is not there anymore, but that doesn't mean you're not liable to the craving.
+
+91
+00:09:57,575 --> 00:10:06,361
+[SPEAKER_01]: So then, if you, instead of going at that route, you realize it's through lack of perspective that craving comes to be.
+
+92
+00:10:07,622 --> 00:10:12,906
+[SPEAKER_01]: It's not through just in itself, kind of, this comes to me or something.
+
+93
+00:10:13,026 --> 00:10:15,968
+[SPEAKER_01]: It's immediately, when you don't have perspective,
+
+94
+00:10:16,955 --> 00:10:18,816
+[SPEAKER_01]: You act out, on some level.
+
+95
+00:10:19,256 --> 00:10:28,621
+[SPEAKER_01]: Even if you're establishing sense restraint and so on, longing and upset, you're not acting out of it anymore.
+
+96
+00:10:29,322 --> 00:10:37,446
+[SPEAKER_01]: But the perversion of perception, you could say, or the perversion of the wrong order of seeing things, is still there.
+
+97
+00:10:37,686 --> 00:10:40,108
+[SPEAKER_01]: So, the feeling that you might be having
+
+98
+00:10:41,243 --> 00:10:52,365
+[SPEAKER_01]: For example, we could take that example as... so as to, sort of, eh... illustrate the principle in a way that people probably not familiar with, because it's usually the body that's... that's emphasized, as I just said.
+
+99
+00:10:52,985 --> 00:10:57,546
+[SPEAKER_01]: So, let's say you have a unpleasant feeling that's enduring right now.
+
+100
+00:10:57,666 --> 00:10:59,766
+[SPEAKER_01]: So, you're established in virtue, you're not acting out of it.
+
+101
+00:11:01,046 --> 00:11:09,468
+[SPEAKER_01]: But, eh... if you're not aware that there is an unpleasant feeling enduring for me right now, as the sutta says,
+
+102
+00:11:10,879 --> 00:11:12,228
+[SPEAKER_01]: Automatically, you will be
+
+103
+00:11:14,017 --> 00:11:27,940
+[SPEAKER_01]: On some level, inclining towards either getting rid of it, or indulging in it, whatever it wants you to do, you should have at least welcomed that direction, even if you're not doing it physically or verbally.
+
+104
+00:11:28,661 --> 00:11:33,382
+[SPEAKER_01]: So, when you see, actually, not just, how do I get rid of this?
+
+105
+00:11:33,482 --> 00:11:33,802
+[SPEAKER_01]: But, no.
+
+106
+00:11:34,402 --> 00:11:41,724
+[SPEAKER_01]: There is a feeling, unpleasant feeling, enduring in this experience, and I maintain perspective of that.
+
+107
+00:11:41,804 --> 00:11:42,644
+[SPEAKER_01]: That perspective
+
+108
+00:11:44,194 --> 00:11:47,461
+[SPEAKER_01]: Faith, in itself, prevents you from acting out of it.
+
+109
+00:11:48,504 --> 00:11:52,693
+[SPEAKER_01]: But you need to, to some extent, that's why they said to say, faith needs to come first.
+
+110
+00:11:54,595 --> 00:11:58,357
+[SPEAKER_01]: As a faculty, it even comes before mindfulness or before recollection.
+
+111
+00:11:58,957 --> 00:12:17,787
+[SPEAKER_01]: Because, eh... if you haven't taken it on faith, that that is the middle way, that it is just this maintaining a perspective that will truly uproot the underlying tendencies you're craving, then your mind will convince you like, no, no, no, I have to deal with it, I have to do something about it.
+
+112
+00:12:17,807 --> 00:12:22,189
+[SPEAKER_03]: Yeah, you will be going with your old habits, which is trying to deal with feelings.
+
+113
+00:12:22,269 --> 00:12:22,530
+[SPEAKER_04]: Yeah.
+
+114
+00:12:23,830 --> 00:12:36,813
+[SPEAKER_04]: Can we say, like, just to see if I understood what you say, like, so the feeling is there, regardless we like it or not, but ignorance in regard to it, it's something that we actively engage with, that direction of ignoring that feeling.
+
+115
+00:12:37,013 --> 00:12:38,093
+[SPEAKER_01]: You have a say in it, yeah.
+
+116
+00:12:38,273 --> 00:12:45,855
+[SPEAKER_04]: Well, we have a say in it, but it's... if we don't see this feeling, it's because we, ourself, engage in that direction of ignorance.
+
+117
+00:12:46,095 --> 00:12:46,916
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+118
+00:12:46,956 --> 00:12:52,957
+[SPEAKER_01]: So, the more you act out, then the harder it becomes to recognize it, the more the ignorance increases.
+
+119
+00:12:53,998 --> 00:13:05,847
+[SPEAKER_01]: But that's why, then, it says in the Parittisana Upāda, the dependent origination formula or series of steps, it says, with ignorance, there is activity.
+
+120
+00:13:06,427 --> 00:13:07,308
+[SPEAKER_01]: There is acting out.
+
+121
+00:13:07,448 --> 00:13:10,270
+[SPEAKER_01]: Obviously, of the wrong kind, not like just anything in general.
+
+122
+00:13:10,831 --> 00:13:18,717
+[SPEAKER_01]: It's... all it takes for these unwholesome things to be there is not seeing and not seeing in this proper sense of this.
+
+123
+00:13:19,438 --> 00:13:21,860
+[SPEAKER_01]: You could say it's like lack of clarity.
+
+124
+00:13:22,760 --> 00:13:30,882
+[SPEAKER_01]: These general aspects of your experience make you descend onto the particulars of the experience.
+
+125
+00:13:31,482 --> 00:13:36,263
+[SPEAKER_01]: Descending onto particulars is what unwholesomeness is, in and of itself.
+
+126
+00:13:36,703 --> 00:13:51,166
+[SPEAKER_01]: Even if it's the right ideas about dhamma, or something like that, the fact that you are just absorbed in that, and you don't see the more general component of that experience then and there, means you will be acting out of craving.
+
+127
+00:13:51,947 --> 00:13:52,127
+[SPEAKER_03]: Yeah.
+
+128
+00:13:52,387 --> 00:14:01,793
+[SPEAKER_03]: And so, since being with the particulars is the problem there, then body, as a satipaṭṭhāna, cannot be a particular.
+
+129
+00:14:02,154 --> 00:14:05,396
+[SPEAKER_03]: Feeling, as a satipaṭṭhāna, cannot be a particular sensation.
+
+130
+00:14:05,996 --> 00:14:10,479
+[SPEAKER_03]: Mind, as a particular, or mood, cannot be random thoughts that you happen to have.
+
+131
+00:14:10,959 --> 00:14:11,700
+[SPEAKER_03]: And dhamma,
+
+132
+00:14:12,240 --> 00:14:15,981
+[SPEAKER_03]: As a general phenomenon cannot be anything particular.
+
+133
+00:14:16,402 --> 00:14:19,943
+[SPEAKER_03]: So, they all come with, let's say, a relative totality.
+
+134
+00:14:20,623 --> 00:14:24,304
+[SPEAKER_03]: And that needs to be discerned, which is the perspective.
+
+135
+00:14:25,025 --> 00:14:36,809
+[SPEAKER_03]: And perhaps we can find out why, when that perspective is established, how, when there is that totality, when one establishes one's mind that way, why there is no room for craving then to interfere.
+
+136
+00:14:37,869 --> 00:14:39,049
+[SPEAKER_03]: How is that?
+
+137
+00:14:39,169 --> 00:14:46,832
+[SPEAKER_03]: Why is it that when that perspective is lost, and you dwell on the particulars, that it by definition means craving, which is the suffering?
+
+138
+00:14:47,432 --> 00:14:56,915
+[SPEAKER_01]: Well, the thing is, you wouldn't be able to explain, like, why, in a sort of external sense, as if you get out of your experience and then examine how it happens.
+
+139
+00:14:56,955 --> 00:14:57,155
+[SPEAKER_01]: No, no.
+
+140
+00:14:57,435 --> 00:15:04,257
+[SPEAKER_01]: It's like, at any given time, you are either absorbed in the particulars, or you are established in the right perspective.
+
+141
+00:15:04,277 --> 00:15:04,437
+[SPEAKER_01]: Sure.
+
+142
+00:15:04,657 --> 00:15:06,098
+[SPEAKER_01]: So, you would get to see that then,
+
+143
+00:15:07,478 --> 00:15:17,441
+[SPEAKER_01]: Again, you will need to have faith in that the Buddha is saying, these things are overcome through perspective, not through directly tackling them head-on.
+
+144
+00:15:17,981 --> 00:15:21,041
+[SPEAKER_01]: Because that's when you get into... well, you fall from the middle way.
+
+145
+00:15:21,202 --> 00:15:26,503
+[SPEAKER_01]: As the sutta says... as the first sutta of the Samyutta Nikaya says, when you push forward,
+
+146
+00:15:28,023 --> 00:15:29,765
+[SPEAKER_01]: You get carried away by the flood.
+
+147
+00:15:30,145 --> 00:15:32,146
+[SPEAKER_01]: When you stand still, you sink.
+
+148
+00:15:32,847 --> 00:15:35,269
+[SPEAKER_01]: So, pushing forward means like I'm trying to get rid of this.
+
+149
+00:15:35,329 --> 00:15:36,930
+[SPEAKER_01]: I'm trying to replace it with something else.
+
+150
+00:15:37,530 --> 00:15:40,592
+[SPEAKER_01]: And then, standing still is like you just give up everything.
+
+151
+00:15:40,632 --> 00:15:41,953
+[SPEAKER_01]: Just that I don't make any effort.
+
+152
+00:15:41,993 --> 00:15:46,557
+[SPEAKER_01]: I just relax in choiceless awareness or something like that.
+
+153
+00:15:46,577 --> 00:15:47,978
+[SPEAKER_01]: But no, it is an effort.
+
+154
+00:15:48,818 --> 00:15:53,779
+[SPEAKER_01]: And there is no right mindfulness without right effort, because that's how the path works.
+
+155
+00:15:53,879 --> 00:15:58,941
+[SPEAKER_01]: But, it's not an effort in the sense of changing the content of what you're experiencing.
+
+156
+00:15:59,521 --> 00:16:03,162
+[SPEAKER_01]: It's seeing that general nature that sits behind that content.
+
+157
+00:16:03,302 --> 00:16:14,684
+[SPEAKER_01]: And as you said, the body has to be understood on that level as well, because the body is like... That's actually the purpose of breathing, for example, which is the very first
+
+158
+00:16:17,038 --> 00:16:26,424
+[SPEAKER_01]: That item that comes up in the mindfulness of the body, it's... breathing is that general thing that's always there, like, regardless of the content of your experience.
+
+159
+00:16:27,262 --> 00:16:36,150
+[SPEAKER_01]: The one thing that you know for sure, if you're still alive, is that breathing will be there, underneath everything else that's happening.
+
+160
+00:16:36,250 --> 00:16:40,514
+[SPEAKER_01]: So then, that unabsorbs you from these particulars of your experience.
+
+161
+00:16:41,214 --> 00:16:47,019
+[SPEAKER_01]: And it's actually, like, precisely the point not to focus on it.
+
+162
+00:16:47,139 --> 00:16:48,440
+[SPEAKER_01]: Because something that's general,
+
+163
+00:16:49,664 --> 00:16:52,967
+[SPEAKER_01]: necessarily is defined by its relation to particulars.
+
+164
+00:16:53,447 --> 00:16:56,269
+[SPEAKER_01]: So, if you focus on it, you turn it into a new particular.
+
+165
+00:16:56,470 --> 00:16:57,871
+[SPEAKER_03]: So, it's not the context anymore.
+
+166
+00:16:57,971 --> 00:17:00,353
+[SPEAKER_03]: And then, something else will be the background for that.
+
+167
+00:17:01,093 --> 00:17:05,397
+[SPEAKER_01]: And the point, as well, is the perspective.
+
+168
+00:17:05,957 --> 00:17:12,863
+[SPEAKER_01]: It's not even something that you can do every second, if it's really a perspective.
+
+169
+00:17:13,363 --> 00:17:15,645
+[SPEAKER_01]: It's, by definition, something that
+
+170
+00:17:16,647 --> 00:17:20,888
+[SPEAKER_01]: You establish it for a moment, and then it will endure for who knows how long.
+
+171
+00:17:21,289 --> 00:17:33,032
+[SPEAKER_01]: So, let's say, yes, I was distracted, I caught myself acting out of unwholesome states, and I remember, oh, there's an unpleasant feeling here, which is sort of that pressure that's directing me to do these things.
+
+172
+00:17:33,613 --> 00:17:40,435
+[SPEAKER_01]: And then, you establish that, and then different things will start to come up in your mind.
+
+173
+00:17:40,475 --> 00:17:43,216
+[SPEAKER_01]: Your mind will start to be thinking about other stuff,
+
+174
+00:17:43,796 --> 00:17:48,097
+[SPEAKER_01]: But you still haven't completely forgotten that that unpleasant feeling is there.
+
+175
+00:17:48,417 --> 00:17:55,820
+[SPEAKER_01]: Which means that those thoughts that are coming up, they are not anymore, well, founded upon that ignorance.
+
+176
+00:17:55,960 --> 00:18:01,141
+[SPEAKER_01]: So, they're not really thoughts of unwholesome nature of trying to act out of that feeling.
+
+177
+00:18:01,561 --> 00:18:05,463
+[SPEAKER_01]: So, even though that feeling is there, you're not acting out of it.
+
+178
+00:18:05,663 --> 00:18:07,803
+[SPEAKER_01]: And to that extent, there is purity.
+
+179
+00:18:07,843 --> 00:18:12,945
+[SPEAKER_01]: Like the other sutta that we read, like even if you have the hindrances present internally,
+
+180
+00:18:13,841 --> 00:18:16,564
+[SPEAKER_01]: But on the level of thought, you're not acting out of them.
+
+181
+00:18:17,445 --> 00:18:19,707
+[SPEAKER_01]: The Buddha defines that as purity, actually.
+
+182
+00:18:19,747 --> 00:18:20,748
+[SPEAKER_01]: That's right, yeah.
+
+183
+00:18:20,868 --> 00:18:23,451
+[SPEAKER_01]: So, that's the principle.
+
+184
+00:18:23,471 --> 00:18:27,555
+[SPEAKER_01]: And then, the same happens with the mind, with the moods.
+
+185
+00:18:28,456 --> 00:18:36,485
+[SPEAKER_01]: Even if you have a mind of passion, mind of aversion, mind of distraction, seeing that and maintaining perspective of that means
+
+186
+00:18:38,107 --> 00:18:47,651
+[SPEAKER_01]: For that period of time, as long as that perspective is there, any thought that comes because of the perspective, not because of its content, in and of itself will be wholesome.
+
+187
+00:18:47,791 --> 00:18:53,633
+[SPEAKER_01]: It will not be proliferating those unwholesome states.
+
+188
+00:18:53,673 --> 00:19:01,135
+[SPEAKER_01]: And then, through not feeding them in that way, not by directly tackling them, as I said, then eventually they will dissipate.
+
+189
+00:19:01,175 --> 00:19:01,516
+[SPEAKER_01]: So then,
+
+190
+00:19:03,139 --> 00:19:07,543
+[SPEAKER_01]: Then you will not even have the lustful mind, or averse mind, or whatever.
+
+191
+00:19:07,824 --> 00:19:17,193
+[SPEAKER_03]: Yeah, so when one maintains perspective in this way, is one automatically not feeling those thoughts, or is there something else that needs to happen there?
+
+192
+00:19:20,711 --> 00:19:28,119
+[SPEAKER_03]: Well, you were just saying, like, when you maintain perspective, then, like, thoughts, their content doesn't matter anymore.
+
+193
+00:19:28,499 --> 00:19:30,822
+[SPEAKER_03]: They will be wholesome because you maintain perspective.
+
+194
+00:19:31,642 --> 00:19:32,784
+[SPEAKER_03]: I'm just making sure.
+
+195
+00:19:33,284 --> 00:19:33,685
+[SPEAKER_03]: Is that it?
+
+196
+00:19:34,025 --> 00:19:36,007
+[SPEAKER_03]: Is it just a question of maintaining perspective?
+
+197
+00:19:36,828 --> 00:19:39,090
+[SPEAKER_01]: Well, practically speaking, it is, but...
+
+198
+00:19:40,031 --> 00:19:50,316
+[SPEAKER_01]: I mean, theoretically speaking, it is, but practically, like, the mind, again, will be trying to, like, scare you or convince you that, no, no, what do I do next, or something like that.
+
+199
+00:19:50,476 --> 00:19:50,596
+[SPEAKER_03]: Yeah.
+
+200
+00:19:50,616 --> 00:19:55,559
+[SPEAKER_03]: So, I wanted to go into that, because that can be, quickly, an obstacle.
+
+201
+00:19:56,099 --> 00:20:03,283
+[SPEAKER_03]: And this is why you mentioned, I think, earlier, that faith comes even before the mindfulness, because it's not...
+
+202
+00:20:03,903 --> 00:20:15,349
+[SPEAKER_03]: There's not going to be a tangible result that one is actually, not immediately at least, that one is wearing away now, let's say, the causes or the origin of suffering, whereas factually one is.
+
+203
+00:20:15,950 --> 00:20:20,592
+[SPEAKER_03]: So, that's where the faith comes in, which is why the understanding is important.
+
+204
+00:20:21,093 --> 00:20:26,516
+[SPEAKER_03]: And perhaps also we should then clear up that faith in the Buddhist teaching is based on the right understanding.
+
+205
+00:20:27,456 --> 00:20:30,058
+[SPEAKER_03]: Not on hoping that there will be some result.
+
+206
+00:20:30,498 --> 00:20:33,280
+[SPEAKER_01]: Yeah, faith needs to come with discernment.
+
+207
+00:20:33,320 --> 00:20:39,124
+[SPEAKER_01]: Like, you have faith because to some extent you have seen that these things are beneficial or wholesome.
+
+208
+00:20:39,804 --> 00:20:47,229
+[SPEAKER_01]: But, yeah, so, when you are... let's say you, as I said before, you have an unpleasant feeling enduring or you have a
+
+209
+00:20:48,269 --> 00:20:51,391
+[SPEAKER_01]: This is the general aspect of my experience that's present now.
+
+210
+00:20:51,451 --> 00:20:54,112
+[SPEAKER_01]: I'm not acting out of it.
+
+211
+00:20:54,152 --> 00:20:55,233
+[SPEAKER_01]: I leave it there.
+
+212
+00:20:55,313 --> 00:20:56,293
+[SPEAKER_01]: And then, five seconds later,
+
+213
+00:21:08,388 --> 00:21:10,310
+[SPEAKER_01]: Oh, but no, no, no, I need to...
+
+214
+00:21:10,330 --> 00:21:10,670
+[SPEAKER_01]: I need to...
+
+215
+00:21:10,770 --> 00:21:11,231
+[SPEAKER_01]: I need to...
+
+216
+00:21:11,891 --> 00:21:16,776
+[SPEAKER_01]: I remember that that sutta said I'm supposed to do this, I'm supposed to replace this thought with that one, and whatnot.
+
+217
+00:21:17,676 --> 00:21:27,245
+[SPEAKER_01]: And then you... you had it for a moment, and then you fall from it, because of your own... well, you couldn't sustain that perspective.
+
+218
+00:21:27,525 --> 00:21:29,946
+[SPEAKER_03]: You were captivated by that very thought, basically.
+
+219
+00:21:30,507 --> 00:21:36,330
+[SPEAKER_01]: You didn't manage to sustain that perspective, even in face of something that was trying to distract you.
+
+220
+00:21:36,350 --> 00:21:37,991
+[SPEAKER_01]: And that's basically how the hindrances work.
+
+221
+00:21:38,191 --> 00:21:42,573
+[SPEAKER_01]: It's like... That's why they say they're weakeners of pañña, weakeners of wisdom.
+
+222
+00:21:42,613 --> 00:21:47,996
+[SPEAKER_01]: It's like they take you away from the right perspective that you might have had for a moment.
+
+223
+00:21:48,617 --> 00:21:49,437
+[SPEAKER_01]: So, it's...
+
+224
+00:21:51,153 --> 00:21:55,757
+[SPEAKER_01]: Learning to see that that's really all that matters.
+
+225
+00:21:56,617 --> 00:22:06,144
+[SPEAKER_01]: What matters is that that perspective is presently established, and then you will not even... it's not possible that you will see yourself
+
+226
+00:22:07,366 --> 00:22:10,990
+[SPEAKER_01]: No, you basically find that you've lost it.
+
+227
+00:22:11,050 --> 00:22:14,754
+[SPEAKER_01]: Yeah, exactly.
+
+228
+00:22:14,914 --> 00:22:18,998
+[SPEAKER_01]: You realize, oh, wait, I was again acting out of that feeling, which means I forgot it.
+
+229
+00:22:19,159 --> 00:22:20,160
+[SPEAKER_01]: I forgot the perspective.
+
+230
+00:22:20,240 --> 00:22:21,121
+[SPEAKER_01]: And then you bring it back.
+
+231
+00:22:21,922 --> 00:22:25,165
+[SPEAKER_01]: And then, what's going to happen is, like, you keep doing that.
+
+232
+00:22:26,162 --> 00:22:33,469
+[SPEAKER_01]: And at some point, like, it becomes impossible for you to even forget the feeling, even with making no effort to think about it.
+
+233
+00:22:33,869 --> 00:22:35,571
+[SPEAKER_03]: Yeah, but that will then be the result.
+
+234
+00:22:35,591 --> 00:22:45,140
+[SPEAKER_03]: So, initially, one needs to recognize that one fell from that perspective, and in a sense, the recognition that one fell away from it,
+
+235
+00:22:45,800 --> 00:22:52,045
+[SPEAKER_03]: If that is the re-establishment of it, it's not that something else needs to happen.
+
+236
+00:22:52,166 --> 00:22:54,688
+[SPEAKER_03]: If that understanding was there before, then you realize it's gone.
+
+237
+00:22:55,008 --> 00:23:01,413
+[SPEAKER_01]: That realization is the... And if you still have, again, the faith to see, no, that's what matters.
+
+238
+00:23:01,774 --> 00:23:08,900
+[SPEAKER_01]: I'm not going to give in to the impulse to do more than this and start replacing and absorbing myself into specifics.
+
+239
+00:23:10,061 --> 00:23:11,122
+[SPEAKER_01]: Then, yes, you bring it back.
+
+240
+00:23:12,382 --> 00:23:15,303
+[SPEAKER_01]: But, practically speaking, it's always going to be a little bit messier than that.
+
+241
+00:23:15,363 --> 00:23:37,411
+[SPEAKER_01]: You will be falling into, no, no, like, rehearsing ideas to kind of... the right ideas, but because now you're, again, attending them at the expense of the perspective, out of, like, the need for that intellectual clarity, which gives you emotional satisfaction as well, you will be forgetting that, no, no, actually what matters is the
+
+242
+00:23:38,668 --> 00:23:45,874
+[SPEAKER_01]: The general aspect, not this content of the right ideas that I read from the suttas or something like that.
+
+243
+00:23:46,515 --> 00:24:02,328
+[SPEAKER_01]: But the reason why I was saying that is because then that's how you get to see when the suttas say the persistent development of the four satipaṭṭhānas is the unification of mind, is samādhi.
+
+244
+00:24:03,008 --> 00:24:06,771
+[SPEAKER_01]: Meaning, like, when you're so clear about this
+
+245
+00:24:07,632 --> 00:24:12,394
+[SPEAKER_01]: Let's say, the nature of the feeling that's enduring in your experience, that you cannot forget it.
+
+246
+00:24:13,015 --> 00:24:24,321
+[SPEAKER_01]: That's why, then, you were free from the five hindrances, because all of them were... they were weakening your perspective, but at the same time, they themselves were rooted in lack of perspective.
+
+247
+00:24:24,341 --> 00:24:25,521
+[SPEAKER_01]: So, it's like a vicious circle.
+
+248
+00:24:26,242 --> 00:24:34,226
+[SPEAKER_01]: And then, when you have that established, as the Buddha said, like, whether you sit, stand, walk, lie down,
+
+249
+00:24:35,182 --> 00:24:40,864
+[SPEAKER_01]: Basically, all that matters is that you keep in mind these phenomena are there.
+
+250
+00:24:41,884 --> 00:24:46,925
+[SPEAKER_01]: As it says in the Madhima 19, the two types of thought.
+
+251
+00:24:47,145 --> 00:24:48,045
+[SPEAKER_01]: These things are there.
+
+252
+00:24:48,926 --> 00:24:53,787
+[SPEAKER_01]: And that's when it's... always in the suttas, when it talks about samādhi, it says
+
+253
+00:24:54,327 --> 00:24:57,330
+[SPEAKER_01]: The mind becomes composed or established internally.
+
+254
+00:24:58,290 --> 00:25:00,572
+[SPEAKER_01]: And that internal aspect is exactly that.
+
+255
+00:25:00,752 --> 00:25:08,459
+[SPEAKER_01]: It's these general aspects of your experience, because what's external is always the six senses, like the objects of the six senses, even your thoughts.
+
+256
+00:25:09,059 --> 00:25:09,280
+[SPEAKER_01]: Yes.
+
+257
+00:25:09,540 --> 00:25:14,164
+[SPEAKER_01]: Even if they're the right thoughts and the right reflections, but you're, again, treating them as objects.
+
+258
+00:25:15,044 --> 00:25:16,045
+[SPEAKER_01]: Those things are external.
+
+259
+00:25:17,046 --> 00:25:20,108
+[SPEAKER_01]: And so, when the mind becomes established internally, means it's this
+
+260
+00:25:21,260 --> 00:25:31,443
+[SPEAKER_01]: underlying basis for everything else, and then the content of your experience doesn't matter anymore, because all of it will be, in and of itself, pure, because the perspective is there.
+
+261
+00:25:33,705 --> 00:25:33,885
+[SPEAKER_03]: Yes.
+
+262
+00:25:34,886 --> 00:25:35,586
+[SPEAKER_03]: That's the shift.
+
+263
+00:25:36,067 --> 00:25:41,010
+[SPEAKER_03]: Rather than trying to sort out the contents, which is all impermanent anyway, so that's going to be endless.
+
+264
+00:25:42,051 --> 00:25:44,733
+[SPEAKER_03]: This practice is about maintaining perspective upon that.
+
+265
+00:25:45,474 --> 00:25:48,696
+[SPEAKER_01]: And that's what it's meant with uprooting things.
+
+266
+00:25:48,956 --> 00:25:55,621
+[SPEAKER_01]: It's not some sort of switch inside of you that you flip and then these things don't arise anymore.
+
+267
+00:25:55,942 --> 00:26:00,245
+[SPEAKER_01]: You uproot them because it's like... it's kind of like a dark
+
+268
+00:26:03,234 --> 00:26:07,116
+[SPEAKER_01]: These things can only happen in the dark, unwholesome states.
+
+269
+00:26:07,216 --> 00:26:12,519
+[SPEAKER_01]: Actually, the Buddha compared wisdom with light and ignorance with darkness.
+
+270
+00:26:12,619 --> 00:26:14,960
+[SPEAKER_01]: These things can only happen when there is darkness.
+
+271
+00:26:15,140 --> 00:26:18,022
+[SPEAKER_01]: When there's light, it just can't.
+
+272
+00:26:18,162 --> 00:26:20,423
+[SPEAKER_03]: Certain things can only grow in the dark.
+
+273
+00:26:20,663 --> 00:26:23,245
+[SPEAKER_03]: When you switch off the light, they wither away.
+
+274
+00:26:24,065 --> 00:26:25,226
+[SPEAKER_01]: So, that's exactly what it is.
+
+275
+00:26:25,306 --> 00:26:30,809
+[SPEAKER_01]: Light, not in the sense of new objects that sort of pop into your experience, which
+
+276
+00:26:31,764 --> 00:26:34,588
+[SPEAKER_01]: In itself, it doesn't mean anything, because you don't have perspective over that.
+
+277
+00:26:34,849 --> 00:26:38,294
+[SPEAKER_01]: And you can very much still be having craving towards these new objects.
+
+278
+00:26:38,314 --> 00:26:41,359
+[SPEAKER_01]: It doesn't matter how special or extraordinary they are.
+
+279
+00:26:42,140 --> 00:26:46,026
+[SPEAKER_01]: But in this sense, like these things that that are already there,
+
+280
+00:26:46,905 --> 00:26:57,793
+[SPEAKER_01]: Even in your most ignorant days, when you were fully captivated by sense objects and sensuality, the fact remained that the body was the background of your experience.
+
+281
+00:26:58,193 --> 00:26:59,814
+[SPEAKER_01]: You had a feeling present at that time.
+
+282
+00:27:00,194 --> 00:27:02,956
+[SPEAKER_01]: The mood was there, and there were phenomena there as well.
+
+283
+00:27:03,497 --> 00:27:08,400
+[SPEAKER_01]: So, in that sense, it's like the dhamma, the path that the Buddha didn't create.
+
+284
+00:27:09,885 --> 00:27:11,247
+[SPEAKER_01]: Not even internally.
+
+285
+00:27:11,267 --> 00:27:13,549
+[SPEAKER_01]: Like, it's just a path that... it was already there.
+
+286
+00:27:13,730 --> 00:27:21,478
+[SPEAKER_01]: That freedom was already accessible and possible, simply because there are things in your experience that
+
+287
+00:27:23,025 --> 00:27:24,206
+[SPEAKER_01]: Don't depend on your choice.
+
+288
+00:27:24,266 --> 00:27:25,267
+[SPEAKER_01]: Like, they're there anyway.
+
+289
+00:27:26,087 --> 00:27:27,908
+[SPEAKER_01]: And it's these four foundations of mindfulness.
+
+290
+00:27:27,948 --> 00:27:37,734
+[SPEAKER_01]: So, of course, as we mentioned in the last few talks as well, there can only be right mindfulness with the right view.
+
+291
+00:27:37,994 --> 00:27:45,898
+[SPEAKER_01]: So, you can't just take up these things and just start doing them, but at the same time, you can take it as an exercise in developing right view.
+
+292
+00:27:46,639 --> 00:27:50,461
+[SPEAKER_01]: If you take it as an exercise of, okay, not just how do I do this,
+
+293
+00:27:52,428 --> 00:27:56,952
+[SPEAKER_01]: Not just like, let me do this, but asking yourself, how?
+
+294
+00:27:57,092 --> 00:27:59,234
+[SPEAKER_01]: How am I supposed to practice satipaṭṭhāna?
+
+295
+00:27:59,975 --> 00:28:10,485
+[SPEAKER_01]: And continuously clarifying and upgrading your conception of that practice, then that can be a way to approach the right view, which is understanding the Noble Eightfold Path.
+
+296
+00:28:10,980 --> 00:28:11,180
+[SPEAKER_03]: Yeah.
+
+297
+00:28:11,400 --> 00:28:21,963
+[SPEAKER_03]: So, by making an effort to understand what these four satipaṭṭhāna are and how they will bring about the destruction of craving, one might actually come to see for oneself.
+
+298
+00:28:22,443 --> 00:28:22,623
+[SPEAKER_03]: Yeah.
+
+299
+00:28:22,923 --> 00:28:24,063
+[SPEAKER_03]: You would see the Four Noble Truths.
+
+300
+00:28:24,083 --> 00:28:25,643
+[SPEAKER_01]: You would see the cessation of craving.
+
+301
+00:28:25,683 --> 00:28:27,464
+[SPEAKER_01]: As a result of that, yes.
+
+302
+00:28:27,744 --> 00:28:29,324
+[SPEAKER_01]: So, that's why it's useful.
+
+303
+00:28:29,604 --> 00:28:37,926
+[SPEAKER_01]: But it's that shift in attitude where most of us, when we hear about Buddhism, it's just like, okay, I heard this instruction, now let me do this.
+
+304
+00:28:38,066 --> 00:28:40,327
+[SPEAKER_01]: But you never question yourself as to the fact that
+
+305
+00:28:41,320 --> 00:29:00,014
+[SPEAKER_01]: Even though, like, no matter how good the instruction from the person is, you yourself will have assumptions regarding how to practice this, which will make it wrong for you, because of the attitude that gets introducing craving where there shouldn't be, and so on.
+
+306
+00:29:00,515 --> 00:29:06,399
+[SPEAKER_01]: So, if you don't make an effort to rectify that first, and you just start doing it with whichever
+
+307
+00:29:08,669 --> 00:29:20,625
+[SPEAKER_03]: Yeah, so you cannot be... just take a pragmatist approach and from the beginning just, you know, put some muscle on it and do it.
+
+308
+00:29:20,705 --> 00:29:21,827
+[SPEAKER_03]: That's gonna be too easy.
+
+309
+00:29:22,344 --> 00:29:34,812
+[SPEAKER_01]: Yeah, and it's not even what works for you at the moment, because, as the Buddha said, it's like what will naturally happen if you just emphasize what makes me more calm, what makes me more peaceful.
+
+310
+00:29:35,632 --> 00:29:37,494
+[SPEAKER_01]: It's just going to be the way it makes you feel.
+
+311
+00:29:37,634 --> 00:29:40,896
+[SPEAKER_01]: So, it was just going to be an endeavor of how do I never feel displeasure.
+
+312
+00:29:41,932 --> 00:29:48,213
+[SPEAKER_01]: And, as the Buddha said, there's pleasure that should be cultivated, pleasure that should not be cultivated.
+
+313
+00:29:48,593 --> 00:29:53,034
+[SPEAKER_01]: There's pleasure that should be cultivated, there's pleasure that shouldn't be cultivated.
+
+314
+00:29:53,114 --> 00:29:57,595
+[SPEAKER_01]: So, in other words, it's not that all displeasure you immediately get rid of.
+
+315
+00:29:57,935 --> 00:30:05,397
+[SPEAKER_01]: But, if you take, like you said, a pragmatist approach, what that's going to result in is, it's just like, how do I not feel displeasure ever?
+
+316
+00:30:05,750 --> 00:30:05,930
+[SPEAKER_03]: Yeah.
+
+317
+00:30:06,851 --> 00:30:09,332
+[SPEAKER_03]: Which means that you're already reacting to feeling, basically.
+
+318
+00:30:09,352 --> 00:30:09,993
+[SPEAKER_01]: Yeah.
+
+319
+00:30:10,093 --> 00:30:14,235
+[SPEAKER_01]: And you're not establishing that background of like... No, no.
+
+320
+00:30:14,255 --> 00:30:17,517
+[SPEAKER_01]: It's not like what I feel, which is content.
+
+321
+00:30:17,897 --> 00:30:24,381
+[SPEAKER_01]: It's the fact that I know feeling as the background of all of my actions, which prevents those actions from being rooted in craving.
+
+322
+00:30:25,389 --> 00:30:31,493
+[SPEAKER_03]: Yeah, perhaps you can speak a bit more about understanding these backgrounds, rightly, which is just synonymous with context and perspective.
+
+323
+00:30:32,334 --> 00:30:47,063
+[SPEAKER_03]: And now, personally, there's this one discourse where Sariputta was talking about this, and he says, I just decide in the morning to put on a coat or a jacket, and then in the midday, I put on another coat, and then in the evening, I can put on yet another jacket or another coat.
+
+324
+00:30:47,083 --> 00:30:52,527
+[SPEAKER_03]: And that was a simile for how he was practicing these establishments of mindfulness.
+
+325
+00:30:53,147 --> 00:30:56,189
+[SPEAKER_03]: So, he just decides to dwell in one of these satipaṭṭhāna.
+
+326
+00:30:56,729 --> 00:30:58,350
+[SPEAKER_03]: And I think that simile is quite accurate.
+
+327
+00:30:58,370 --> 00:31:01,512
+[SPEAKER_03]: Like, a coat is something wider, right?
+
+328
+00:31:01,692 --> 00:31:06,795
+[SPEAKER_03]: It's something that sort of envelops you and that you find yourself within.
+
+329
+00:31:06,915 --> 00:31:09,176
+[SPEAKER_03]: And you can put on different coats, right?
+
+330
+00:31:09,196 --> 00:31:11,877
+[SPEAKER_03]: So, now you have body, feeling, mind phenomena.
+
+331
+00:31:11,957 --> 00:31:13,958
+[SPEAKER_03]: They're like four different backgrounds.
+
+332
+00:31:13,998 --> 00:31:18,261
+[SPEAKER_03]: But you do need to sort of have the intention, oh, okay, I'm not going to stick with this one now.
+
+333
+00:31:18,741 --> 00:31:20,202
+[SPEAKER_03]: And establish that as a perspective.
+
+334
+00:31:20,882 --> 00:31:26,946
+[SPEAKER_03]: And then, in a sense, it doesn't really matter which of the four if you do it right, because it's the principle that matters.
+
+335
+00:31:26,966 --> 00:31:33,329
+[SPEAKER_03]: The principle being that they all offer a perspective upon the content which is present.
+
+336
+00:31:33,789 --> 00:31:36,071
+[SPEAKER_03]: And they cannot be independent of that, right?
+
+337
+00:31:36,131 --> 00:31:42,935
+[SPEAKER_03]: The background is not independent of the content which is present, but dwelling on that background knowledge
+
+338
+00:31:43,795 --> 00:31:47,838
+[SPEAKER_03]: Is the perspective that then prevents the craving from further proliferating?
+
+339
+00:31:48,018 --> 00:31:50,579
+[SPEAKER_01]: It's the principle of concurrency, as was said before.
+
+340
+00:31:50,679 --> 00:31:50,880
+[SPEAKER_01]: Yeah.
+
+341
+00:31:51,040 --> 00:32:00,946
+[SPEAKER_01]: And that's why then, yes, the four satipaṭṭhānas are the kind of most, you could say, standard or formulaic description of right mindfulness.
+
+342
+00:32:01,046 --> 00:32:02,627
+[SPEAKER_01]: But the suttas are full of other ways.
+
+343
+00:32:03,267 --> 00:32:10,392
+[SPEAKER_01]: Like the Brahma-vihāras, you have the perception of
+
+344
+00:32:12,213 --> 00:32:15,436
+[SPEAKER_01]: Dispassion, perception of non-delight.
+
+345
+00:32:16,056 --> 00:32:19,999
+[SPEAKER_01]: It says, like, perspective of dissatisfaction with food.
+
+346
+00:32:22,121 --> 00:32:26,584
+[SPEAKER_01]: You have these perceptions of the forest.
+
+347
+00:32:27,705 --> 00:32:29,006
+[SPEAKER_01]: Sometimes it would even say,
+
+348
+00:32:30,953 --> 00:32:35,295
+[SPEAKER_01]: Like, oh, you just contemplate the root of a tree.
+
+349
+00:32:35,995 --> 00:32:39,516
+[SPEAKER_01]: You expand your mind using the perception of the root of a tree.
+
+350
+00:32:40,516 --> 00:32:41,697
+[SPEAKER_01]: See, that's also wider.
+
+351
+00:32:42,097 --> 00:32:46,239
+[SPEAKER_01]: Then, from the root of a tree, you expand it to the forest.
+
+352
+00:32:46,819 --> 00:32:48,799
+[SPEAKER_01]: Then, from the forest, you expand it to the village.
+
+353
+00:32:49,280 --> 00:32:51,340
+[SPEAKER_01]: From the village, you expand it to the country.
+
+354
+00:32:52,101 --> 00:32:54,422
+[SPEAKER_01]: And all of these are essentially the same thing.
+
+355
+00:32:54,542 --> 00:32:54,942
+[SPEAKER_01]: It's just...
+
+356
+00:32:55,880 --> 00:33:01,841
+[SPEAKER_01]: Contextualizing whatever's happening in your mind with that broader thing that's already there.
+
+357
+00:33:01,981 --> 00:33:04,122
+[SPEAKER_01]: It doesn't depend on you maintaining it.
+
+358
+00:33:04,582 --> 00:33:04,722
+[SPEAKER_01]: No.
+
+359
+00:33:04,802 --> 00:33:11,504
+[SPEAKER_01]: And that's actually why it's peaceful, because that perspective then, it's not like I'm doing this every moment.
+
+360
+00:33:11,684 --> 00:33:11,744
+[SPEAKER_01]: No.
+
+361
+00:33:11,764 --> 00:33:12,864
+[SPEAKER_01]: You are recollecting.
+
+362
+00:33:13,004 --> 00:33:14,564
+[SPEAKER_03]: You're ceasing to ignore it.
+
+363
+00:33:14,604 --> 00:33:25,667
+[SPEAKER_03]: That there's always a possibility of establishing a step back, quote-unquote, which is this context, which is what puts the perspective upon what's happening right now.
+
+364
+00:33:25,947 --> 00:33:31,251
+[SPEAKER_01]: It shuts light on it, without you needing to put it there.
+
+365
+00:33:31,271 --> 00:33:33,172
+[SPEAKER_01]: Something that was already there, you just recognize it.
+
+366
+00:33:33,932 --> 00:33:34,793
+[SPEAKER_01]: So, that's the principle.
+
+367
+00:33:35,053 --> 00:33:41,558
+[SPEAKER_01]: If it feels like I'm just doing this and maintaining this, that's not the right way.
+
+368
+00:33:41,578 --> 00:33:49,223
+[SPEAKER_01]: Even if the idea about it is right, but it means you're not seeing it really as something that's in your experience, you're sort of fabricating it.
+
+369
+00:33:49,708 --> 00:33:56,034
+[SPEAKER_03]: Yeah, so you're not fabricating it, but the effort has to be in recollecting that it is already there.
+
+370
+00:33:56,735 --> 00:34:04,862
+[SPEAKER_03]: So, perhaps, we can discuss now some, let's say, ways that will help
+
+371
+00:34:05,543 --> 00:34:06,704
+[SPEAKER_03]: To not fall away from this.
+
+372
+00:34:07,424 --> 00:34:11,205
+[SPEAKER_03]: Which, practically speaking, will mean, like, how is one going to recollect this?
+
+373
+00:34:11,606 --> 00:34:11,846
+[SPEAKER_03]: Right?
+
+374
+00:34:12,686 --> 00:34:19,929
+[SPEAKER_03]: So, we have cleared up to some degree this concurrency and the perspective, but one will be falling away from it.
+
+375
+00:34:20,469 --> 00:34:24,351
+[SPEAKER_03]: So, how to practically not fall away from that?
+
+376
+00:34:25,131 --> 00:34:25,892
+[SPEAKER_01]: That's the first thing.
+
+377
+00:34:26,232 --> 00:34:26,452
+[SPEAKER_03]: Yeah.
+
+378
+00:34:35,105 --> 00:34:35,846
+[SPEAKER_02]: Keep your virtue.
+
+379
+00:34:38,007 --> 00:34:41,709
+[SPEAKER_02]: Don't act out in the, like, super coarse obvious ways.
+
+380
+00:34:43,170 --> 00:34:46,412
+[SPEAKER_02]: Also, don't act out in the less obvious ways either.
+
+381
+00:34:52,655 --> 00:34:52,976
+[SPEAKER_03]: And then?
+
+382
+00:34:54,216 --> 00:34:55,197
+[SPEAKER_03]: How do you come off to that?
+
+383
+00:34:58,579 --> 00:35:00,520
+[SPEAKER_02]: Also, don't act out of the question.
+
+384
+00:35:00,540 --> 00:35:01,541
+[SPEAKER_02]: All right, what now?
+
+385
+00:35:05,115 --> 00:35:13,457
+[SPEAKER_04]: I would say that one will, like, fall out from this middle way, like, many times.
+
+386
+00:35:13,737 --> 00:35:14,557
+[SPEAKER_04]: Like, many, many times.
+
+387
+00:35:15,337 --> 00:35:19,759
+[SPEAKER_04]: And, at some point, he might feel like, oh, I'm not going to fall away anymore.
+
+388
+00:35:20,339 --> 00:35:21,219
+[SPEAKER_04]: And then I can relax.
+
+389
+00:35:21,859 --> 00:35:23,539
+[SPEAKER_04]: But that is already falling away.
+
+390
+00:35:23,840 --> 00:35:25,540
+[SPEAKER_04]: So, instead of trying to, like,
+
+391
+00:35:28,800 --> 00:35:30,441
+[SPEAKER_04]: I think it's like the Buddha used an image.
+
+392
+00:35:30,521 --> 00:35:34,623
+[SPEAKER_04]: It's like the guy who guards the cow.
+
+393
+00:35:34,843 --> 00:35:36,784
+[SPEAKER_04]: He's kind of feeding them to not go into the crops.
+
+394
+00:35:37,284 --> 00:35:41,386
+[SPEAKER_04]: And when they don't go into the crops, they don't just lie down and fall asleep.
+
+395
+00:35:41,726 --> 00:35:45,528
+[SPEAKER_04]: It's like he lies down, he can relax, but he keeps an eye on them.
+
+396
+00:35:47,109 --> 00:35:55,593
+[SPEAKER_04]: He can, to some degree, relax, but he still has to have in mind that as long as he's not free from the liability from these things to happen,
+
+397
+00:35:56,553 --> 00:35:58,234
+[SPEAKER_04]: That can still, to some degree, happen.
+
+398
+00:35:58,254 --> 00:36:04,998
+[SPEAKER_04]: So, I'm still sitting there, watching my cow, and... but it's still much more peaceful than before.
+
+399
+00:36:06,019 --> 00:36:08,220
+[SPEAKER_04]: So, being vigilant, I would say, is a good kind of...
+
+400
+00:36:08,800 --> 00:36:23,048
+[SPEAKER_04]: When one, like, kind of, manages to understand, like, this kind of recollection of this kind of direction between content and context, is to, kind of, every time he falls, to come back, but when he's not falling back,
+
+401
+00:36:25,930 --> 00:36:31,071
+[SPEAKER_01]: Because if you understood it rightly, you will realize that it's... again, these things are already in your experience.
+
+402
+00:36:31,572 --> 00:36:40,475
+[SPEAKER_01]: So, if it feels like being vigilant or maintaining it is like painful or like it's a burden, then you haven't understood it properly, because it's like...
+
+403
+00:36:41,545 --> 00:36:47,828
+[SPEAKER_01]: Actually, your act of forgetting about these things comes second to these things already being there.
+
+404
+00:36:48,088 --> 00:36:56,412
+[SPEAKER_01]: So, in that sense, it's... even your forgetting is kind of like irrelevant, because it's fundamentally still there.
+
+405
+00:36:57,513 --> 00:37:00,795
+[SPEAKER_01]: Irrelevant in the sense that... Yeah, yeah, of course.
+
+406
+00:37:00,955 --> 00:37:05,237
+[SPEAKER_01]: Of course, it doesn't mean like you're justified in forgetting, but what it means is like...
+
+407
+00:37:06,487 --> 00:37:15,669
+[SPEAKER_01]: If you emphasize, again, the aspect of, no, no, it's only there when I am thinking about it, then, even if you're thinking about it, it won't be on the right level.
+
+408
+00:37:17,549 --> 00:37:25,271
+[SPEAKER_01]: So, you need to basically see, like, yes, if I... even if I were to completely forget it, it would still be there.
+
+409
+00:37:25,911 --> 00:37:27,612
+[SPEAKER_01]: It doesn't mean that you allow yourself to forget.
+
+410
+00:37:27,632 --> 00:37:27,892
+[SPEAKER_02]: Yeah.
+
+411
+00:37:28,312 --> 00:37:30,092
+[SPEAKER_02]: It doesn't mean you're already enlightened.
+
+412
+00:37:30,172 --> 00:37:30,792
+[SPEAKER_01]: Yeah, exactly.
+
+413
+00:37:33,773 --> 00:37:35,494
+[SPEAKER_03]: And now there's this other sutra which occurs to me.
+
+414
+00:37:35,734 --> 00:37:47,300
+[SPEAKER_03]: Like, there's this simile where somebody walks around with a bowl of water on his head, which is like filled to the brim, and then there's a big market square, and then there's a lot of people there,
+
+415
+00:37:47,925 --> 00:38:03,003
+[SPEAKER_03]: And then there are some enticing women performing some show, and then there's somebody walking behind you with a raised sword, and if there's only one drop of water that spills from that bowl, then that assassin will just chop your head off on the spot.
+
+416
+00:38:04,004 --> 00:38:06,267
+[SPEAKER_03]: And so, this bowl being full of water,
+
+417
+00:38:07,088 --> 00:38:16,516
+[SPEAKER_03]: It can be interpreted as like, you know, you want to keep your mindfulness and not lose it even for one drop, but that assassin is again behind you, right?
+
+418
+00:38:16,796 --> 00:38:21,980
+[SPEAKER_03]: So, mindfulness of death, in that sense, is also a context that you can establish.
+
+419
+00:38:23,181 --> 00:38:31,206
+[SPEAKER_03]: So, that's also something that you find yourself within, which, when similarly is widely understood, can... is basically on that same level.
+
+420
+00:38:31,506 --> 00:38:33,627
+[SPEAKER_03]: It's not that you're creating your own death.
+
+421
+00:38:34,067 --> 00:38:36,348
+[SPEAKER_03]: You can't die, because you're also already liable to it.
+
+422
+00:38:36,428 --> 00:38:48,955
+[SPEAKER_01]: Yeah, and also, as I said, those who are not mindful are as if dead, in the sense that anything that comes then, it's like... it's... it's like a floodgate that's open.
+
+423
+00:38:49,075 --> 00:38:50,256
+[SPEAKER_01]: So, then, anything that comes in,
+
+424
+00:38:51,040 --> 00:38:55,582
+[SPEAKER_01]: is going to overwhelm you, including, most importantly, death.
+
+425
+00:38:58,063 --> 00:39:11,808
+[SPEAKER_01]: But see, it is something that, because it doesn't depend on the content of your experience, it is actually realistic to live with that attitude of like, I must not forget this, even for a moment.
+
+426
+00:39:12,945 --> 00:39:30,499
+[SPEAKER_01]: Whereas, if it were about focusing, you kind of can't do that, because you won't be able to have this object... like, first of all, sit with your eyes closed every moment, which is most of the time required in order to focus on something.
+
+427
+00:39:31,440 --> 00:39:34,343
+[SPEAKER_01]: But if it's this context that stands below everything,
+
+428
+00:39:35,003 --> 00:39:38,544
+[SPEAKER_01]: You have no justification for losing it, because you don't need to...
+
+429
+00:39:38,564 --> 00:39:41,645
+[SPEAKER_03]: It's much more stable, actually, in its nature, compared to the other direction.
+
+430
+00:39:41,665 --> 00:39:41,925
+[SPEAKER_01]: Yeah, yeah.
+
+431
+00:39:42,025 --> 00:39:47,687
+[SPEAKER_01]: And you don't need to... you don't need to forget about what you're feeling in order to do physical work.
+
+432
+00:39:47,907 --> 00:39:50,548
+[SPEAKER_01]: You don't need to forget about what you're feeling in order to talk.
+
+433
+00:39:50,708 --> 00:39:53,169
+[SPEAKER_01]: You don't need to forget about what you're feeling in order to do anything.
+
+434
+00:39:53,829 --> 00:40:01,072
+[SPEAKER_01]: So, there isn't a justification for ever losing that context, and you can actually then live in that way of perfect vigilance.
+
+435
+00:40:01,952 --> 00:40:02,412
+[SPEAKER_01]: And, eh...
+
+436
+00:40:03,884 --> 00:40:08,622
+[SPEAKER_01]: Yeah, it's... the other thing I wanted to clear up regarding that simile is...
+
+437
+00:40:10,858 --> 00:40:33,835
+[SPEAKER_01]: In the context of the practice, let's say, when you actually sit down and dedicate yourself to these reflections, as it would say in seclusion, of course, in an empty hut, in a forest or something, you then have to not take the simile literally, in the sense of, okay, let me now have this
+
+438
+00:40:34,877 --> 00:40:42,405
+[SPEAKER_01]: It's that particular thought of these satipaṭṭhānas present every second, because otherwise my head will be cut off.
+
+439
+00:40:43,206 --> 00:40:44,687
+[SPEAKER_01]: It's that perspective.
+
+440
+00:40:45,508 --> 00:40:50,593
+[SPEAKER_01]: So, yes, you have to think about it for a moment, because it's not like it's going to be magically there, but on its own.
+
+441
+00:40:52,317 --> 00:40:55,359
+[SPEAKER_01]: You have to think about it, bring it to your mind, attend to it, let's say.
+
+442
+00:40:56,200 --> 00:41:08,391
+[SPEAKER_01]: And then, if you saw it properly, because it is actually already there in your experience, sort of the memory becomes like embedded into your experience then and then.
+
+443
+00:41:08,531 --> 00:41:14,356
+[SPEAKER_01]: And then, your goal is now, okay, how do I not lose the perspective
+
+444
+00:41:15,741 --> 00:41:20,364
+[SPEAKER_01]: Instead of, how do I just keep this thought about the perspective every second?
+
+445
+00:41:20,385 --> 00:41:23,587
+[SPEAKER_03]: Yeah, because then you're controlling again, which is maintenance.
+
+446
+00:41:23,647 --> 00:41:33,474
+[SPEAKER_01]: And it's going to lose... like, if you're doing it that way, that kind of already implies that you didn't see the perspective to begin with, because it would become obvious that that's not where it is.
+
+447
+00:41:33,794 --> 00:41:36,416
+[SPEAKER_01]: It's not in me thinking about the feeling.
+
+448
+00:41:37,457 --> 00:41:41,060
+[SPEAKER_01]: Like, the feeling is not in me, every second, attending to the feeling.
+
+449
+00:41:41,521 --> 00:41:45,825
+[SPEAKER_01]: The feeling is the foundation for my experience, and I just need to recognize it.
+
+450
+00:41:46,225 --> 00:41:55,133
+[SPEAKER_01]: So then, in that sense, mindfulness, once established, has to become independent of your doing, until it goes away, and then you bring it back.
+
+451
+00:41:55,823 --> 00:41:58,104
+[SPEAKER_01]: And then it goes away again, and then you bring it back, and so on.
+
+452
+00:41:58,464 --> 00:41:59,745
+[SPEAKER_03]: Now, how does it go away?
+
+453
+00:42:00,545 --> 00:42:06,448
+[SPEAKER_03]: Because understanding how it goes away might practically prevent it from going away.
+
+454
+00:42:06,608 --> 00:42:09,610
+[SPEAKER_01]: Well, what... yeah, you could say, what's the measure for it going away?
+
+455
+00:42:09,710 --> 00:42:09,890
+[SPEAKER_01]: Yeah.
+
+456
+00:42:09,950 --> 00:42:16,673
+[SPEAKER_01]: Because if it doesn't depend on on you thinking about it, then how do we define when the mindfulness went away?
+
+457
+00:42:17,093 --> 00:42:18,374
+[SPEAKER_01]: Yeah, that's exactly the question.
+
+458
+00:42:18,634 --> 00:42:18,814
+[SPEAKER_01]: Yes.
+
+459
+00:42:35,145 --> 00:42:48,777
+[SPEAKER_02]: Because sometimes it can go away for, like, a few weeks, even, just, like, losing perspective and just kind of like... Well, relatively speaking, like, the more subtle aspects you might have lost.
+
+460
+00:42:49,995 --> 00:42:50,916
+[SPEAKER_01]: But that's the good news.
+
+461
+00:42:51,316 --> 00:42:55,379
+[SPEAKER_01]: If you're established in virtue, some degree of perspective will never leave you.
+
+462
+00:42:56,099 --> 00:42:57,560
+[SPEAKER_01]: That's the thing.
+
+463
+00:42:57,620 --> 00:43:13,472
+[SPEAKER_01]: So, yeah, the more subtle things that you're still sort of trying to understand, you might lose those for a while, but the... virtue is already a form of mindfulness in that sense, because not doing those things, in and of itself, involves greater perspective.
+
+464
+00:43:17,972 --> 00:43:20,234
+[SPEAKER_01]: Actually, we could take the example of virtue.
+
+465
+00:43:21,275 --> 00:43:26,979
+[SPEAKER_01]: When do you lose the mindfulness of virtue, let's say?
+
+466
+00:43:27,640 --> 00:43:35,726
+[SPEAKER_01]: Is it when you forget that you stop repeating the mantra of the precepts in your mind?
+
+467
+00:43:36,507 --> 00:43:36,987
+[SPEAKER_01]: No, it's not.
+
+468
+00:43:41,823 --> 00:43:43,223
+[SPEAKER_04]: Yeah, yeah, exactly.
+
+469
+00:43:43,283 --> 00:43:56,587
+[SPEAKER_01]: So, when you find yourself acting out, mentally, intentionally, out of greed, aversion or delusion, like, let's say, five hindrances, that's when you know.
+
+470
+00:43:57,307 --> 00:43:58,668
+[SPEAKER_01]: Indirectly, pretty much.
+
+471
+00:43:58,748 --> 00:44:02,689
+[SPEAKER_01]: You know indirectly, sort of by inference, oh, the context went away.
+
+472
+00:44:02,949 --> 00:44:04,010
+[SPEAKER_01]: Now, it's time to bring it back.
+
+473
+00:44:04,730 --> 00:44:06,590
+[SPEAKER_01]: But, for a while, you will have that there.
+
+474
+00:44:06,970 --> 00:44:08,251
+[SPEAKER_01]: And, yes, you will have, like, the
+
+475
+00:44:09,446 --> 00:44:11,627
+[SPEAKER_01]: The attempts of the hindrances, let's say.
+
+476
+00:44:12,128 --> 00:44:16,830
+[SPEAKER_01]: But for as long as that light of the context is there, they won't be able to find footing.
+
+477
+00:44:16,970 --> 00:44:20,873
+[SPEAKER_01]: But, at some point, it will happen that you lost it, and they will come back.
+
+478
+00:44:20,993 --> 00:44:23,434
+[SPEAKER_01]: And then, you know, oh, I had to switch on the light again.
+
+479
+00:44:23,614 --> 00:44:23,834
+[SPEAKER_01]: Yeah.
+
+480
+00:44:24,495 --> 00:44:24,815
+[SPEAKER_01]: And...
+
+481
+00:44:25,315 --> 00:44:34,664
+[SPEAKER_04]: So, we lose them by... we lose this perspective by... not directly, but like by engaging in certain things that require us to forget about it.
+
+482
+00:44:34,684 --> 00:44:34,924
+[SPEAKER_04]: Yeah.
+
+483
+00:44:35,245 --> 00:44:44,994
+[SPEAKER_01]: You will... you will find yourself in like a... some establishment of perspective, and then something will come that feels like it's justified.
+
+484
+00:44:45,832 --> 00:44:49,793
+[SPEAKER_01]: Might even be like an idea about, oh, let me clarify this idea of dhamma now.
+
+485
+00:44:49,873 --> 00:44:53,915
+[SPEAKER_01]: Like, I know that this is the practice right here, this perspective.
+
+486
+00:44:54,075 --> 00:45:06,679
+[SPEAKER_01]: I know that this is actually the dhamma, but my mind convinces me like, no, no, it's these, you know, abstract scholarly connections that I need to make between also how does
+
+487
+00:45:07,539 --> 00:45:14,484
+[SPEAKER_01]: The third satipaṭṭhāna relates to the, you know, the right livelihood or something.
+
+488
+00:45:14,844 --> 00:45:18,166
+[SPEAKER_03]: Yeah, but why is that problematic?
+
+489
+00:45:18,246 --> 00:45:22,289
+[SPEAKER_03]: Because in order to make those connections or comparisons, you are...
+
+490
+00:45:22,329 --> 00:45:23,650
+[SPEAKER_01]: Descending to the content again.
+
+491
+00:45:24,110 --> 00:45:26,413
+[SPEAKER_03]: That's exactly what I would say in those words.
+
+492
+00:45:27,814 --> 00:45:32,358
+[SPEAKER_03]: There cannot be a comparison between backgrounds and foregrounds, from that point of view.
+
+493
+00:45:32,959 --> 00:45:33,960
+[SPEAKER_03]: They depend on one another.
+
+494
+00:45:33,980 --> 00:45:39,104
+[SPEAKER_03]: But the comparison that we are talking about, that makes you fall away from the establishment, will always be
+
+495
+00:45:39,905 --> 00:45:41,907
+[SPEAKER_03]: That way, and then start making comparisons there.
+
+496
+00:45:42,708 --> 00:45:49,554
+[SPEAKER_03]: So that... so you... so you want to go from that horizontal view over there, to re-establish a perspective which is that way, basically.
+
+497
+00:45:50,815 --> 00:46:05,128
+[SPEAKER_03]: So, to get into the habit of these... of... well, to get into the habit of recognizing this tendency to compare, is useful, because when you recognize that, it can help to re-establish that perspective.
+
+498
+00:46:05,228 --> 00:46:16,290
+[SPEAKER_01]: Yeah, when you're established in it, you kind of have a sense, if you're self-honest, you have a sense of what will take you away and what will not take you away.
+
+499
+00:46:17,470 --> 00:46:29,393
+[SPEAKER_01]: And the last thing I wanted to mention is, that's why the virtue is necessary beforehand, because even though you might have, as the suttas would say, like a finger snap of the right perspective,
+
+500
+00:46:30,389 --> 00:46:48,035
+[SPEAKER_01]: Realistically speaking, if you're not established in virtue, all these other things that will sort of distract you from it, will be so convincing for you, like, you're just not used to not being trapped by those baits, that, realistically speaking, that perspective is going to last very little.
+
+501
+00:46:48,055 --> 00:46:51,096
+[SPEAKER_01]: And then, even if you're repeating the same ideas and the same concepts,
+
+502
+00:46:52,842 --> 00:47:04,077
+[SPEAKER_01]: You don't see the difference, because again, you will be approaching it through the angle of ideas, or the same concept of establishing the context, but it's not in the right level now, because...
+
+503
+00:47:04,601 --> 00:47:11,146
+[SPEAKER_03]: Yeah, so the idea of the context doesn't necessarily mean that you are now attending, with the right context, to the idea of the context.
+
+504
+00:47:11,186 --> 00:47:11,506
+[SPEAKER_01]: Yeah, yeah.
+
+505
+00:47:11,566 --> 00:47:24,915
+[SPEAKER_01]: So, virtue and sensory training and all these things, they just get you used to, even if you're not explicitly thinking about it that way, they get, they make you get used to not operating as much on the level of content anymore.
+
+506
+00:47:25,116 --> 00:47:25,316
+[SPEAKER_03]: Yeah.
+
+507
+00:47:25,336 --> 00:47:29,859
+[SPEAKER_01]: That basically, like, that's the most direct way that you can guarantee
+
+508
+00:47:30,552 --> 00:47:38,412
+[SPEAKER_01]: That when you try to practice these recollections, that you won't go in the wrong direction of clarifying ideas.
+

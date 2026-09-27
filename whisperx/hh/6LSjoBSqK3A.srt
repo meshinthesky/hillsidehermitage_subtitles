@@ -1,0 +1,1312 @@
+1
+00:00:05,130 --> 00:00:08,213
+[SPEAKER_00]: So, this is Bhūmīja Sutta.
+
+2
+00:00:09,654 --> 00:00:16,960
+[SPEAKER_00]: It's the Sanghūtanikāya 12, the Nidāna Sanghūta, number 25.
+
+3
+00:00:20,303 --> 00:00:21,343
+[SPEAKER_00]: So, add sarvati.
+
+4
+00:00:22,704 --> 00:00:29,190
+[SPEAKER_00]: Then, in the evening, the Venerable Bhūmīja, having emerged from seclusion, approached the Venerable Sariputta.
+
+5
+00:00:30,432 --> 00:00:33,633
+[SPEAKER_00]: Having approached, he exchanged greetings together with the Venerable Sariputta.
+
+6
+00:00:34,433 --> 00:00:39,755
+[SPEAKER_00]: Having exchanged polite greetings of friendliness, the Venerable Bhūmija said this to Venerable Sariputta.
+
+7
+00:00:40,995 --> 00:00:51,919
+[SPEAKER_00]: Friend Sariputta, there are some ascetics and brāhmins with the doctrine of action who declare that pleasure and pain is made by oneself.
+
+8
+00:00:54,559 --> 00:01:08,304
+[SPEAKER_00]: And, friend Sariputta, there are some ascetics and brahmins with a doctrine of action who declare that pleasure and pain is made by something else.
+
+9
+00:01:11,005 --> 00:01:12,305
+[SPEAKER_00]: Something apart from oneself.
+
+10
+00:01:13,545 --> 00:01:17,227
+[SPEAKER_00]: So, that's what I... Yeah, it's usually...
+
+11
+00:01:17,247 --> 00:01:20,548
+[SPEAKER_00]: I've seen two of the main translations and it's normally
+
+12
+00:01:21,962 --> 00:01:27,246
+[SPEAKER_00]: Pleasure and pain is made by oneself, or pleasure and pain is made by others.
+
+13
+00:01:29,488 --> 00:01:32,190
+[SPEAKER_00]: But I wonder if it... perhaps it'd be more accurate.
+
+14
+00:01:32,530 --> 00:01:44,999
+[SPEAKER_00]: Parasankhatang, parang... sorry, parangkatang, made by para, is not other people, but just anything other than me.
+
+15
+00:01:45,219 --> 00:01:45,439
+[SPEAKER_01]: Yeah.
+
+16
+00:01:47,161 --> 00:01:48,962
+[SPEAKER_01]: Well, that's... that's more comprehensive.
+
+17
+00:01:50,235 --> 00:02:01,379
+[SPEAKER_01]: Anything other than me includes other people, but also includes other things that are not necessarily people, but can still be the reason for me being pushed into action.
+
+18
+00:02:02,320 --> 00:02:15,725
+[SPEAKER_00]: So, like, eh... Yeah, so, the things around you, the, eh...
+
+19
+00:02:17,737 --> 00:02:28,681
+[SPEAKER_01]: Well, to a degree, the environment, the accidents, random elements...
+
+20
+00:02:28,741 --> 00:02:30,522
+[SPEAKER_00]: So, you've got...
+
+21
+00:02:30,782 --> 00:02:42,906
+[SPEAKER_01]: So, but the point there, that needs to be highlighted is, whether the action is done as initiated by you, or initiated by other things apart from you,
+
+22
+00:02:44,349 --> 00:02:47,476
+[SPEAKER_00]: If you're not free from ignorance, you're responsible for your action.
+
+23
+00:02:47,637 --> 00:02:47,857
+[SPEAKER_00]: Yeah.
+
+24
+00:02:48,378 --> 00:02:48,539
+[SPEAKER_01]: Yeah.
+
+25
+00:02:48,639 --> 00:02:51,886
+[SPEAKER_01]: And that's why the the saṃsāra is so perilous.
+
+26
+00:02:51,926 --> 00:02:53,209
+[SPEAKER_00]: Things that are not in your control
+
+27
+00:02:54,221 --> 00:02:55,242
+[SPEAKER_00]: You are responsible for.
+
+28
+00:02:55,262 --> 00:02:55,802
+[SPEAKER_00]: Yeah.
+
+29
+00:02:56,362 --> 00:03:01,886
+[SPEAKER_00]: I think that'll come up again in a bit later, because that's something that seems to get overlooked in the normal translations of this.
+
+30
+00:03:02,026 --> 00:03:02,227
+[SPEAKER_00]: Uh-huh.
+
+31
+00:03:02,247 --> 00:03:02,387
+[SPEAKER_00]: Okay.
+
+32
+00:03:02,427 --> 00:03:02,887
+[SPEAKER_00]: Go for it.
+
+33
+00:03:02,967 --> 00:03:04,068
+[SPEAKER_00]: So, eh...
+
+34
+00:03:05,169 --> 00:03:14,535
+[SPEAKER_00]: So, you've got pleasure and pain is made by oneself, pleasure and pain... or there's some ascetics and brahmins who... who declare that pleasure and pain is made by something else.
+
+35
+00:03:14,995 --> 00:03:21,480
+[SPEAKER_00]: There are some ascetic and brahmins who, with the doctrine of action, who declare that pleasure and pain is made by oneself and made by something else.
+
+36
+00:03:22,261 --> 00:03:23,382
+[SPEAKER_00]: Here, friend Sariputta,
+
+37
+00:03:36,304 --> 00:03:37,525
+[SPEAKER_00]: The Buddha's one who says what.
+
+38
+00:03:37,945 --> 00:03:39,146
+[SPEAKER_00]: He's one who declares what.
+
+39
+00:03:39,546 --> 00:03:48,091
+[SPEAKER_00]: Describing in what way would we be speakers of what was said by the Buddha, so that we could not be accused of describing the Buddha falsely, but in accordance with the dhamma.
+
+40
+00:03:48,871 --> 00:03:52,413
+[SPEAKER_00]: And no reasonable verbal attack could give ground for criticism.
+
+41
+00:03:54,955 --> 00:03:58,737
+[SPEAKER_00]: Friend, it was said by the Buddha that pleasure and pain are dependently arisen.
+
+42
+00:03:59,757 --> 00:04:00,398
+[SPEAKER_00]: Because of what?
+
+43
+00:04:01,298 --> 00:04:03,800
+[SPEAKER_00]: Because of... contact.
+
+44
+00:04:03,860 --> 00:04:04,260
+[SPEAKER_01]: That's it.
+
+45
+00:04:07,228 --> 00:04:09,230
+[SPEAKER_00]: Well, you've used the word pressure.
+
+46
+00:04:10,531 --> 00:04:10,831
+[SPEAKER_00]: Sure.
+
+47
+00:04:13,373 --> 00:04:25,442
+[SPEAKER_00]: Speaking thus, one would be a speaker of what was said by the Buddha, and one could not be accused of describing the Buddha falsely, but in accordance with the dhamma, and no reasonable verbal attack could give ground for criticism.
+
+48
+00:04:28,064 --> 00:04:34,770
+[SPEAKER_00]: In the case, friend, of those ascetics and brahmins with a doctrine of action, who declare that pleasure and pain is made by oneself,
+
+49
+00:04:35,908 --> 00:04:38,009
+[SPEAKER_00]: Even that is with the support of pressure.
+
+50
+00:04:40,290 --> 00:04:46,913
+[SPEAKER_00]: In the case, friend, of those ascetics and brahmins with adoption have actually declared that pleasure and pain are made by something else, made by oneself and made by something else.
+
+51
+00:04:47,354 --> 00:04:50,815
+[SPEAKER_00]: It's not made by oneself and not made by something else.
+
+52
+00:04:50,835 --> 00:04:52,056
+[SPEAKER_00]: That is determined by the pressure.
+
+53
+00:04:52,216 --> 00:04:52,436
+[SPEAKER_00]: Yeah.
+
+54
+00:04:54,437 --> 00:04:59,900
+[SPEAKER_01]: I mean, their view is secondary, yet it presents as a representative of what's first.
+
+55
+00:05:01,371 --> 00:05:07,034
+[SPEAKER_01]: They say the action is because of this, but they fail to see that they arrived at the conclusion because they're already acting out of the pressure.
+
+56
+00:05:10,335 --> 00:05:11,436
+[SPEAKER_00]: They're trying to explain the same thing.
+
+57
+00:05:11,456 --> 00:05:12,597
+[SPEAKER_00]: They're trying to explain the pressure.
+
+58
+00:05:12,697 --> 00:05:14,498
+[SPEAKER_00]: Which is responsible for that.
+
+59
+00:05:14,518 --> 00:05:19,600
+[SPEAKER_01]: Which in itself then implies that, look, this is how things are, although it's a result of the pressure.
+
+60
+00:05:21,001 --> 00:05:24,783
+[SPEAKER_01]: My explanation of the pressure is the reason for the pressure, pretty much.
+
+61
+00:05:27,144 --> 00:05:29,365
+[SPEAKER_01]: And that's, that's in its nature, every wrong view.
+
+62
+00:05:30,605 --> 00:05:31,306
+[SPEAKER_01]: When it's secondary.
+
+63
+00:05:33,307 --> 00:05:41,614
+[SPEAKER_01]: That's why the only way to deal with the wrong view is to see the dependent, simultaneous presence of two things, or patitsaṁpāda.
+
+64
+00:05:42,795 --> 00:05:44,417
+[SPEAKER_01]: Because you can't explain it.
+
+65
+00:05:45,278 --> 00:05:47,459
+[SPEAKER_01]: Or rather, you can explain it, but then it's not patitsaṁpāda.
+
+66
+00:05:47,479 --> 00:05:48,600
+[SPEAKER_01]: You can either see directly.
+
+67
+00:05:49,301 --> 00:05:52,083
+[SPEAKER_01]: If it falls on the level of explanation, it means it's not seen directly.
+
+68
+00:05:53,124 --> 00:05:53,885
+[SPEAKER_01]: You're explaining it.
+
+69
+00:05:55,026 --> 00:05:58,129
+[SPEAKER_01]: That's why every patitsaṁpāda starts with the principle with this, this is.
+
+70
+00:05:59,660 --> 00:06:01,381
+[SPEAKER_01]: Not after this, this comes to be.
+
+71
+00:06:02,242 --> 00:06:02,382
+[SPEAKER_01]: No.
+
+72
+00:06:02,662 --> 00:06:04,343
+[SPEAKER_01]: With the presence of this, this is present.
+
+73
+00:06:05,083 --> 00:06:08,805
+[SPEAKER_01]: So, with the presence of pressure, acting out of being pressured is present.
+
+74
+00:06:11,567 --> 00:06:18,351
+[SPEAKER_01]: And if your action out of being pressured is the explanation of how the pressure came to be, it's going to be incorrect.
+
+75
+00:06:19,887 --> 00:06:29,189
+[SPEAKER_01]: Because if you were truly unaffected by that pressure, which is a position of being able to understand it and not act out of it, you wouldn't be pressured in the first place, you wouldn't be acting out of it.
+
+76
+00:06:29,770 --> 00:06:31,330
+[SPEAKER_01]: And then you would be describing that.
+
+77
+00:06:34,651 --> 00:06:36,891
+[SPEAKER_01]: And you can see that even, like, on a practical basis.
+
+78
+00:06:38,692 --> 00:06:42,933
+[SPEAKER_01]: Like, even intentions, in a way, are a form of a pressure.
+
+79
+00:06:44,494 --> 00:06:45,874
+[SPEAKER_01]: They're bound, they're inseparable.
+
+80
+00:06:46,134 --> 00:06:53,096
+[SPEAKER_01]: You can't have intention to do something by body, speech or mind if there is no simultaneous presence of some form of pressure.
+
+81
+00:07:02,439 --> 00:07:03,979
+[SPEAKER_01]: So, even if your intentions are good,
+
+82
+00:07:05,372 --> 00:07:08,213
+[SPEAKER_01]: If you're still acting out of pressure, you're still acting out of ignorance.
+
+83
+00:07:08,753 --> 00:07:12,134
+[SPEAKER_01]: That's why no amount of good action will result in freedom from ignorance.
+
+84
+00:07:12,454 --> 00:07:17,456
+[SPEAKER_01]: Arahant is free from good and bad.
+
+85
+00:07:19,397 --> 00:07:23,418
+[SPEAKER_01]: That's why the only way to start dealing with the pressure is to start taking responsibility for your intentions.
+
+86
+00:07:24,118 --> 00:07:26,919
+[SPEAKER_01]: And, of course, actions, and then take responsibility for intentions.
+
+87
+00:07:27,740 --> 00:07:32,241
+[SPEAKER_01]: Then you get to see that you're actually acting out of pressure, and that's what's wrong in itself.
+
+88
+00:07:33,362 --> 00:07:34,362
+[SPEAKER_00]: So that... so...
+
+89
+00:07:38,784 --> 00:07:48,891
+[SPEAKER_00]: So, taking responsibility for one's actions, but recognizing that that is... there simultaneously with... With the pressure.
+
+90
+00:07:48,991 --> 00:07:49,411
+[SPEAKER_00]: The pressure.
+
+91
+00:07:49,811 --> 00:07:49,991
+[SPEAKER_01]: Yeah.
+
+92
+00:07:50,011 --> 00:07:51,092
+[SPEAKER_01]: Which is always already there.
+
+93
+00:07:51,112 --> 00:08:04,981
+[SPEAKER_01]: So, you're not... By taking responsibility for your intentions, that are there simultaneously with the pressure, and which is how you basically end up allowing the pressure to manifest, by acting out of it, you get to see that your...
+
+94
+00:08:06,327 --> 00:08:08,132
+[SPEAKER_01]: Your responsibility, that's where the line is.
+
+95
+00:08:08,573 --> 00:08:09,916
+[SPEAKER_01]: It's your intentions and your actions.
+
+96
+00:08:10,437 --> 00:08:15,470
+[SPEAKER_01]: You're not responsible for the pressure being there, but you're responsible for being pressured.
+
+97
+00:08:16,517 --> 00:08:17,357
+[SPEAKER_01]: And that's a different thing.
+
+98
+00:08:17,597 --> 00:08:21,578
+[SPEAKER_01]: That's something that you induce and maintain through acting out of pressure.
+
+99
+00:08:22,018 --> 00:08:24,879
+[SPEAKER_01]: In other words, you give the pressure, the power over you to pressure you.
+
+100
+00:08:25,319 --> 00:08:26,679
+[SPEAKER_01]: And that's why the Buddha said that.
+
+101
+00:08:27,159 --> 00:08:31,440
+[SPEAKER_01]: It's because the monks go and take what belongs to Mara, not to them.
+
+102
+00:08:31,520 --> 00:08:32,881
+[SPEAKER_01]: Mara does with them what he wants.
+
+103
+00:08:32,901 --> 00:08:33,901
+[SPEAKER_01]: So you let him in.
+
+104
+00:08:34,301 --> 00:08:37,582
+[SPEAKER_01]: He can't come in, unless you open the door and pull him by the hand.
+
+105
+00:08:37,662 --> 00:08:37,942
+[SPEAKER_01]: Come in.
+
+106
+00:08:39,302 --> 00:08:40,422
+[SPEAKER_01]: Or go and take his bait.
+
+107
+00:08:42,083 --> 00:08:44,043
+[SPEAKER_01]: But not knowing that that's where the line is,
+
+108
+00:08:44,799 --> 00:08:49,562
+[SPEAKER_01]: Then, you would be trying to deny the pressure, or get rid of the pressure, because of that pressure.
+
+109
+00:08:50,323 --> 00:08:56,347
+[SPEAKER_01]: So, then, your practice becomes practice of denying the arisen phenomena, because you're affected by the same arisen phenomena in the first place.
+
+110
+00:08:57,228 --> 00:08:58,749
+[SPEAKER_00]: And that's the practice of frustration.
+
+111
+00:09:04,172 --> 00:09:13,839
+[SPEAKER_01]: Or, go the other way, of don't take responsibility for the pressure, because it's there on its own, and then, avoid responsibility for your intentions and actions that come out of it, because they're there on their own as well.
+
+112
+00:09:15,272 --> 00:09:15,832
+[SPEAKER_01]: But there are not.
+
+113
+00:09:17,153 --> 00:09:21,457
+[SPEAKER_01]: That's why you need to find the middle way, as in where the line is, where your responsibility is, and then not abandon it.
+
+114
+00:09:22,558 --> 00:09:39,391
+[SPEAKER_01]: That's why the Buddha would say, whenever there is a... like an unwholesome thought would arise in his mind, he would not welcome it, not delight in it, not entertain it, not act out of it, and get rid of it, basically, by not feeding it to stay longer.
+
+115
+00:09:40,172 --> 00:09:42,734
+[SPEAKER_01]: He wouldn't say he would prevent it from arising in the first place.
+
+116
+00:09:42,994 --> 00:09:43,154
+[SPEAKER_01]: No.
+
+117
+00:09:44,357 --> 00:09:54,879
+[SPEAKER_01]: Even the Buddha had the mārā, the thoughts of mārā coming to him, certainly for the first few years, and then eventually mārā gave up, because he realized there's absolutely no entry.
+
+118
+00:09:55,300 --> 00:10:01,941
+[SPEAKER_01]: But for as long as there is a possibility of entry, he'll keep trying to get in, as in there will be a pressure manifested to an extent.
+
+119
+00:10:01,981 --> 00:10:05,742
+[SPEAKER_01]: But whether you're pressured by it or not, that's a completely different thing.
+
+120
+00:10:08,482 --> 00:10:10,543
+[SPEAKER_01]: So equating pressure with being pressured,
+
+121
+00:10:11,297 --> 00:10:14,578
+[SPEAKER_01]: That means, basically, acting automatically out of it.
+
+122
+00:10:18,139 --> 00:10:22,360
+[SPEAKER_00]: So, you stop... You don't see the possibility of there being pressure, but not acting out.
+
+123
+00:10:22,440 --> 00:10:22,880
+[SPEAKER_00]: Exactly.
+
+124
+00:10:23,460 --> 00:10:26,281
+[SPEAKER_01]: And that's where you, like, either overshoot or undershoot.
+
+125
+00:10:26,381 --> 00:10:27,541
+[SPEAKER_01]: You can't see the middle ground.
+
+126
+00:10:33,203 --> 00:10:34,083
+[SPEAKER_00]: Okay.
+
+127
+00:10:37,644 --> 00:10:38,864
+[SPEAKER_00]: It says, in this case, friend,
+
+128
+00:10:40,247 --> 00:10:50,577
+[SPEAKER_00]: Of those ascetics and brahmins with the doctrine of action who declare that pleasure and pain is made by oneself, that they will feel without pressure, that is not possible.
+
+129
+00:10:51,518 --> 00:11:05,031
+[SPEAKER_00]: In the case, friends, of those ascetics and brahmins who declare pleasure and pain is made by something else, by both, by neither, that they will feel without pressure, that is not possible.
+
+130
+00:11:08,487 --> 00:11:13,388
+[SPEAKER_00]: The Venerable Ānanda heard the Venerable Sariputta's conversation with the Venerable Bhūmijā.
+
+131
+00:11:14,068 --> 00:11:15,988
+[SPEAKER_00]: Then, the Venerable Ānanda approached the Buddha.
+
+132
+00:11:16,588 --> 00:11:19,589
+[SPEAKER_00]: Having approached, having paid respect to the Buddha, he sat down at one side.
+
+133
+00:11:20,289 --> 00:11:26,950
+[SPEAKER_00]: Sitting down at one side, the Venerable Ānanda told the Buddha about the entire conversation between Sariputta and Bhūmijā.
+
+134
+00:11:28,650 --> 00:11:29,431
+[SPEAKER_00]: Good, good, Ānanda.
+
+135
+00:11:30,171 --> 00:11:32,831
+[SPEAKER_00]: Answering rightly, one would answer like this, Sariputta.
+
+136
+00:11:34,091 --> 00:11:37,572
+[SPEAKER_00]: Ānanda, it was said by me that pleasure and pain are dependently arisen.
+
+137
+00:11:39,213 --> 00:11:39,753
+[SPEAKER_00]: Because of what?
+
+138
+00:11:39,834 --> 00:11:40,694
+[SPEAKER_00]: Because of pressure.
+
+139
+00:11:41,675 --> 00:11:44,218
+[SPEAKER_00]: Speaking thus, one would be a speaker of what's said by me.
+
+140
+00:11:46,720 --> 00:11:49,402
+[SPEAKER_00]: No reasonable verbal attack would give ground for criticism.
+
+141
+00:11:50,183 --> 00:11:59,171
+[SPEAKER_01]: So, then, you can ask there, see, because it says, pressure, presence of pressure, depending on the arising, presence of pressure means presence of pleasure and pain.
+
+142
+00:12:01,454 --> 00:12:01,674
+[SPEAKER_01]: But,
+
+143
+00:12:02,425 --> 00:12:07,067
+[SPEAKER_01]: Again, you're either putujana or an ārya that results in ārahanca.
+
+144
+00:12:07,328 --> 00:12:10,949
+[SPEAKER_01]: There is nothing... there is no third option for a human being to be.
+
+145
+00:12:12,050 --> 00:12:15,932
+[SPEAKER_01]: So, you're either with the grain of ignorance or you're against the grain of ignorance.
+
+146
+00:12:17,833 --> 00:12:24,196
+[SPEAKER_01]: In other words, there is your responsibility in that pressure, not for the presence of the pressure, but for ignoring the pressure.
+
+147
+00:12:25,677 --> 00:12:27,858
+[SPEAKER_01]: So, for putujana, pressure
+
+148
+00:12:28,752 --> 00:12:32,675
+[SPEAKER_01]: Is the simultaneously present cause for feeling pain and feeling pleasure?
+
+149
+00:12:33,116 --> 00:12:35,057
+[SPEAKER_01]: Because he's ignorant of the pressure.
+
+150
+00:12:36,959 --> 00:12:43,984
+[SPEAKER_01]: So, again, his doing is on the level of his own ignorance of the pressure, not on the level of that which pressured him.
+
+151
+00:12:44,525 --> 00:12:45,505
+[SPEAKER_01]: That's just a bait.
+
+152
+00:12:48,167 --> 00:12:51,070
+[SPEAKER_01]: And you have no say over the bait, because that's what Mara's domain is.
+
+153
+00:12:52,845 --> 00:12:55,146
+[SPEAKER_01]: And that's what people don't understand when it comes to paticampāna.
+
+154
+00:12:55,166 --> 00:12:57,447
+[SPEAKER_01]: You can't understand it theoretically.
+
+155
+00:12:57,467 --> 00:12:59,427
+[SPEAKER_01]: You're either with it or against it.
+
+156
+00:12:59,587 --> 00:13:03,109
+[SPEAKER_01]: You're either with the grain or against the grain, which means you either don't understand it or you understand it.
+
+157
+00:13:04,029 --> 00:13:07,790
+[SPEAKER_01]: You can't have an accurate representation of it in theory and still be a bhutujana.
+
+158
+00:13:08,410 --> 00:13:10,131
+[SPEAKER_01]: Because if you understand it, you're a sotāpanna.
+
+159
+00:13:10,391 --> 00:13:16,613
+[SPEAKER_01]: If you understand that pleasure and pain are independently arisen upon the pressure that's being ignored, that's being not understood.
+
+160
+00:13:18,734 --> 00:13:21,515
+[SPEAKER_01]: You understand it by seeing it as such.
+
+161
+00:13:23,712 --> 00:13:34,396
+[SPEAKER_01]: And for as long as people don't see that that's the only... those are the only possible situations you can either be affected by it or not, they will then use paticcaṁpāda and all this as a form of explanation.
+
+162
+00:13:34,716 --> 00:13:36,957
+[SPEAKER_01]: It's like, see, pleasure and pain arise because of contact.
+
+163
+00:13:36,977 --> 00:13:39,758
+[SPEAKER_01]: And contact is this mechanical presence of the eye which... No, it's not.
+
+164
+00:13:40,658 --> 00:13:41,679
+[SPEAKER_01]: Contact is the pleasure.
+
+165
+00:13:41,799 --> 00:13:42,879
+[SPEAKER_01]: Or a kind of technique.
+
+166
+00:13:43,379 --> 00:13:47,401
+[SPEAKER_01]: Yeah, because you don't need to be ignorant to have your eyes looking, don't you?
+
+167
+00:13:47,681 --> 00:13:49,802
+[SPEAKER_01]: So arahant has eyes... has sights, doesn't he?
+
+168
+00:13:51,499 --> 00:14:01,568
+[SPEAKER_01]: But if truly that's like based on some sort of mechanical setup of paticca-upāda, means uprooting ignorance, would then uproot all the senses.
+
+169
+00:14:01,608 --> 00:14:02,528
+[SPEAKER_01]: They wouldn't be there.
+
+170
+00:14:03,589 --> 00:14:04,110
+[SPEAKER_01]: But it isn't.
+
+171
+00:14:05,071 --> 00:14:11,956
+[SPEAKER_01]: So the pressure is the cause for pleasure and pain, when ignorance is the cause for the pressure.
+
+172
+00:14:15,720 --> 00:14:16,841
+[SPEAKER_00]: Whereas the other way?
+
+173
+00:14:17,857 --> 00:14:20,659
+[SPEAKER_01]: Absence of ignorance means absence of you being pressured.
+
+174
+00:14:20,799 --> 00:14:24,322
+[SPEAKER_01]: You being pressured means you won't feel anything on account of the pressure.
+
+175
+00:14:25,303 --> 00:14:25,843
+[SPEAKER_01]: Good or bad?
+
+176
+00:14:26,083 --> 00:14:27,364
+[SPEAKER_01]: Pleasant or unpleasant?
+
+177
+00:14:27,384 --> 00:14:28,645
+[SPEAKER_01]: You'll be beyond the feeling.
+
+178
+00:14:28,825 --> 00:14:29,005
+[SPEAKER_01]: Yeah.
+
+179
+00:14:33,388 --> 00:14:37,932
+[SPEAKER_01]: So, you can't be understanding the pressure correctly while you're being pressured by it.
+
+180
+00:14:38,432 --> 00:14:38,592
+[SPEAKER_00]: Yeah.
+
+181
+00:14:38,932 --> 00:14:43,396
+[SPEAKER_01]: Or, you cannot be certainly conveying the pressure correctly while you're pressured by it.
+
+182
+00:14:43,436 --> 00:14:45,557
+[SPEAKER_01]: And that's exactly what it says in the beginning of that sutta.
+
+183
+00:14:46,078 --> 00:14:48,840
+[SPEAKER_01]: Whatever statement they make, it's because they're pressured.
+
+184
+00:14:48,980 --> 00:14:50,301
+[SPEAKER_01]: And that's why that statement is wrong.
+
+185
+00:14:50,321 --> 00:14:50,821
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+186
+00:14:52,262 --> 00:14:55,665
+[SPEAKER_00]: So, you can only understand it when you aren't being pressured.
+
+187
+00:14:56,005 --> 00:14:56,225
+[SPEAKER_01]: Yes.
+
+188
+00:14:56,666 --> 00:14:59,068
+[SPEAKER_01]: And you won't be pressured by it when you understand it.
+
+189
+00:14:59,448 --> 00:14:59,668
+[SPEAKER_00]: Yeah.
+
+190
+00:15:02,790 --> 00:15:06,113
+[SPEAKER_01]: And again, I mean, how many times the Buddha would say... Yeah.
+
+191
+00:15:06,636 --> 00:15:08,557
+[SPEAKER_01]: Knowledge has arisen, understanding has arisen.
+
+192
+00:15:09,157 --> 00:15:15,161
+[SPEAKER_01]: I'm free from, basically, pressure and pain and any suffering, based on the understanding.
+
+193
+00:15:15,201 --> 00:15:17,642
+[SPEAKER_01]: Not based on a theoretical explanation that pleases my view.
+
+194
+00:15:27,648 --> 00:15:28,648
+[SPEAKER_00]: Is there more to sutta?
+
+195
+00:15:28,848 --> 00:15:33,091
+[SPEAKER_00]: Yeah, there's this big... this important bit, which, eh...
+
+196
+00:15:34,252 --> 00:15:34,872
+[SPEAKER_00]: I don't think it's...
+
+197
+00:15:36,863 --> 00:15:41,686
+[SPEAKER_00]: I've talked about it enough, because I think people just don't understand it, so they just ignore it.
+
+198
+00:15:47,830 --> 00:15:48,830
+[SPEAKER_00]: I'll just go forward to that.
+
+199
+00:15:48,930 --> 00:16:04,240
+[SPEAKER_00]: So, he says... For Ananda, when there is body, on account of bodily intention, pleasure and pain arise internally.
+
+200
+00:16:05,134 --> 00:16:10,097
+[SPEAKER_00]: Or, Ananda, when there is speech on account of verbal intention, pleasure and pain arise internally.
+
+201
+00:16:10,798 --> 00:16:15,321
+[SPEAKER_00]: Or, Ananda, when there is mind on account of mental intention, pleasure and pain arise internally.
+
+202
+00:16:16,602 --> 00:16:18,183
+[SPEAKER_00]: And with the support of ignorance.
+
+203
+00:16:18,643 --> 00:16:18,803
+[SPEAKER_01]: Hmm.
+
+204
+00:16:20,344 --> 00:16:29,350
+[SPEAKER_00]: Ananda, either he himself intends that bodily intention because of which pleasure and pain arises internally.
+
+205
+00:16:30,698 --> 00:16:39,243
+[SPEAKER_00]: Or, Ananda, things other than him intend that bodily intention because of which pleasure and pain arises internally.
+
+206
+00:16:39,423 --> 00:16:41,844
+[SPEAKER_01]: So, what does that say?
+
+207
+00:16:41,984 --> 00:16:47,047
+[SPEAKER_01]: Whether it's intended by you or by anything else, it's because you're pressured in the first place.
+
+208
+00:16:50,329 --> 00:16:57,613
+[SPEAKER_00]: And the thing that the usual translations of this seem to be saying is that
+
+209
+00:17:01,823 --> 00:17:04,166
+[SPEAKER_00]: Pick another point you said earlier.
+
+210
+00:17:04,186 --> 00:17:15,456
+[SPEAKER_00]: The usual translation is either one intends a bodily intention for oneself or out of one's own initiative.
+
+211
+00:17:17,853 --> 00:17:27,486
+[SPEAKER_00]: Or, other people instigate, or other people encourage you to... to... to intend that bodily intention.
+
+212
+00:17:27,506 --> 00:17:27,807
+[SPEAKER_00]: Sure.
+
+213
+00:17:27,867 --> 00:17:30,911
+[SPEAKER_00]: In both cases, you are doing the intending.
+
+214
+00:17:30,951 --> 00:17:31,712
+[SPEAKER_01]: Yeah, that's the point.
+
+215
+00:17:31,732 --> 00:17:33,794
+[SPEAKER_01]: It's me, or anything else apart from me.
+
+216
+00:17:33,915 --> 00:17:34,135
+[SPEAKER_01]: Yeah.
+
+217
+00:17:34,415 --> 00:17:36,996
+[SPEAKER_01]: Either way, it's done because of the ignorance of the pressure.
+
+218
+00:17:37,356 --> 00:17:37,536
+[SPEAKER_00]: Right.
+
+219
+00:17:37,636 --> 00:17:40,017
+[SPEAKER_00]: Either way, I'm responsible for it.
+
+220
+00:17:40,297 --> 00:17:41,838
+[SPEAKER_01]: Or, I've done this because of this or that.
+
+221
+00:17:41,978 --> 00:17:45,399
+[SPEAKER_01]: You've done that because you're responsible for what you chose to do.
+
+222
+00:17:45,579 --> 00:17:47,300
+[SPEAKER_01]: Even if the other thing sort of did it for you.
+
+223
+00:17:47,360 --> 00:17:48,340
+[SPEAKER_00]: Exactly, exactly.
+
+224
+00:17:48,720 --> 00:17:52,222
+[SPEAKER_01]: You were responsible for being affected by the other thing that resulted in this action.
+
+225
+00:17:56,575 --> 00:17:57,875
+[SPEAKER_01]: Because that's exactly what it says.
+
+226
+00:17:58,476 --> 00:18:04,197
+[SPEAKER_01]: What is done by himself or by anything apart from himself, it's when there is ignorance in regard to it.
+
+227
+00:18:05,498 --> 00:18:09,679
+[SPEAKER_01]: Yes.
+
+228
+00:18:09,699 --> 00:18:09,859
+[SPEAKER_01]: Yeah.
+
+229
+00:18:09,919 --> 00:18:14,800
+[SPEAKER_01]: See, as we just said five minutes ago, if there is no ignorance in regard to pressure, you won't be pressured.
+
+230
+00:18:15,521 --> 00:18:19,702
+[SPEAKER_01]: If you're not pressured, no action will be rooted in the pressure, internally or externally.
+
+231
+00:18:30,820 --> 00:18:44,410
+[SPEAKER_00]: So, either oneself, either he himself intends that bodily intention because of which pleasure and pain arises internally, or things other than him intend that bodily intention because of which pleasure and pain arises internally.
+
+232
+00:18:45,210 --> 00:18:51,575
+[SPEAKER_00]: Like, things that ordinarily you would think, well, if it's not me, it's something else, then that's not my responsibility.
+
+233
+00:18:53,895 --> 00:18:54,195
+[SPEAKER_00]: Sure.
+
+234
+00:18:54,295 --> 00:18:54,535
+[SPEAKER_00]: Exactly.
+
+235
+00:18:54,555 --> 00:18:54,855
+[SPEAKER_00]: Yeah.
+
+236
+00:18:54,875 --> 00:18:56,596
+[SPEAKER_00]: That's what people think.
+
+237
+00:18:56,616 --> 00:18:56,796
+[SPEAKER_00]: Yeah.
+
+238
+00:18:56,836 --> 00:18:57,937
+[SPEAKER_00]: But that's the whole point.
+
+239
+00:18:57,957 --> 00:19:00,078
+[SPEAKER_00]: So, whether it's done internally or externally,
+
+240
+00:19:15,415 --> 00:19:17,656
+[SPEAKER_01]: It's done on the basis of the pressure.
+
+241
+00:19:17,737 --> 00:19:18,477
+[SPEAKER_01]: And that's what matters.
+
+242
+00:19:18,938 --> 00:19:21,240
+[SPEAKER_01]: Whether it's done internally with awareness or without awareness.
+
+243
+00:19:21,620 --> 00:19:23,101
+[SPEAKER_01]: Whether it's done externally with awareness or without.
+
+244
+00:19:23,121 --> 00:19:23,842
+[SPEAKER_01]: Whether it's done with both.
+
+245
+00:19:23,882 --> 00:19:24,863
+[SPEAKER_01]: Whether it's done with neither.
+
+246
+00:19:25,403 --> 00:19:29,727
+[SPEAKER_01]: Any possible permutation of doing it is secondary to the reason why you're doing it.
+
+247
+00:19:37,928 --> 00:19:40,610
+[SPEAKER_01]: So, for putujana, you can just say pressure.
+
+248
+00:19:41,370 --> 00:19:48,955
+[SPEAKER_01]: But the problem is, for putujana, they will say, okay, so this pressure that has arisen on account of, whatever, physical things, that's why these acts happen.
+
+249
+00:19:49,055 --> 00:19:49,195
+[SPEAKER_01]: No.
+
+250
+00:19:50,216 --> 00:19:56,020
+[SPEAKER_01]: The pressure that has arisen on account of physical things does not automatically mean you need to be emotionally pressured by it.
+
+251
+00:19:56,100 --> 00:19:57,801
+[SPEAKER_01]: That's your ignorance of that pressure.
+
+252
+00:20:00,082 --> 00:20:03,965
+[SPEAKER_01]: And it doesn't matter why, how, to what extent, to what permutation actions are done,
+
+253
+00:20:04,989 --> 00:20:10,294
+[SPEAKER_01]: If it's rooted in you feeling on account of being pressured, that's the problem.
+
+254
+00:20:10,414 --> 00:20:12,876
+[SPEAKER_01]: That's where the issue is and the freedom from it is.
+
+255
+00:20:18,221 --> 00:20:18,962
+[SPEAKER_00]: So then it repeats.
+
+256
+00:20:19,042 --> 00:20:21,184
+[SPEAKER_01]: And that's what we keep saying in all the other talks as well.
+
+257
+00:20:22,005 --> 00:20:23,987
+[SPEAKER_01]: The difference between the management of suffering
+
+258
+00:20:24,797 --> 00:20:34,228
+[SPEAKER_01]: As in doing things on account of it, in order to prevent it and deal... And the difference between that and the difference between not being affected by it in the first place, whereby you don't have to do anything.
+
+259
+00:20:34,789 --> 00:20:36,911
+[SPEAKER_01]: No burden, no duty, no requirement.
+
+260
+00:20:37,032 --> 00:20:39,354
+[SPEAKER_01]: You're free in the beginning, the middle and in the end.
+
+261
+00:20:41,136 --> 00:20:43,940
+[SPEAKER_01]: And that's when you have removed the ignorance in regard to the persisting pressure.
+
+262
+00:20:56,313 --> 00:21:18,885
+[SPEAKER_00]: So, then, repeats Ananda, either he himself intends that mental, then verbal and mental intention, or things other than him intends, or either with awareness, verbal, mental, or without awareness, he intends that mental intention because of which passion, pain arises.
+
+263
+00:21:18,965 --> 00:21:21,607
+[SPEAKER_01]: So, well, that also says that fundamentally,
+
+264
+00:21:23,597 --> 00:21:26,898
+[SPEAKER_01]: Puthujjana's intentions cannot be his own either.
+
+265
+00:21:27,598 --> 00:21:27,838
+[SPEAKER_00]: Yeah.
+
+266
+00:21:28,079 --> 00:21:31,680
+[SPEAKER_01]: In other words, Puthujjana cannot own even his own will.
+
+267
+00:21:33,220 --> 00:21:34,301
+[SPEAKER_01]: Structurally speaking.
+
+268
+00:21:34,721 --> 00:21:36,701
+[SPEAKER_01]: That's where possibility of arahantship is possible.
+
+269
+00:21:37,662 --> 00:21:38,262
+[SPEAKER_01]: It's manifest.
+
+270
+00:21:38,602 --> 00:21:41,283
+[SPEAKER_01]: That's where you can become, like, free from any appropriation.
+
+271
+00:21:44,590 --> 00:21:51,353
+[SPEAKER_01]: But for as long as there is ignorance in regard to the pressure that makes him feel, that would be the reason for his action.
+
+272
+00:21:51,414 --> 00:21:57,056
+[SPEAKER_01]: And, yeah, that ignorance is gratuitous, because intentions would be operating on their own, as they do in an arahant.
+
+273
+00:21:57,537 --> 00:22:00,498
+[SPEAKER_01]: But as the Buddha said, although gratuitous, ignorance is beginningless.
+
+274
+00:22:01,519 --> 00:22:05,701
+[SPEAKER_01]: Although it's a parasite, it shouldn't be there, it's beginningless as such.
+
+275
+00:22:06,121 --> 00:22:11,604
+[SPEAKER_01]: That's why once you remove it, it cannot come back, because it was never there to begin with in the same sense.
+
+276
+00:22:12,144 --> 00:22:13,765
+[SPEAKER_01]: Not knowing that it can never be there,
+
+277
+00:22:14,323 --> 00:22:15,083
+[SPEAKER_01]: That's why it was there.
+
+278
+00:22:16,344 --> 00:22:24,028
+[SPEAKER_01]: Because the knowledge of not knowing that ignorance cannot penetrate the intention and aggregates, is what makes you ignorant of the aggregates.
+
+279
+00:22:25,389 --> 00:22:30,012
+[SPEAKER_01]: That's why it was all said upādāna is not the five aggregates, but it's not found anywhere apart from it.
+
+280
+00:22:31,572 --> 00:22:33,714
+[SPEAKER_01]: Ignorance in regard to the five aggregates, upādāna is there.
+
+281
+00:22:34,454 --> 00:22:38,296
+[SPEAKER_01]: Desire and lust in regard to the five aggregates, upādāna is there.
+
+282
+00:22:38,316 --> 00:22:39,717
+[SPEAKER_01]: Removal of those, removal of upādāna.
+
+283
+00:22:40,217 --> 00:22:41,438
+[SPEAKER_01]: You cannot reintroduce it then.
+
+284
+00:22:47,857 --> 00:23:00,583
+[SPEAKER_01]: So, the only way that Kutujana will be able to overcome actions that come out of intentions caused by him, or everything else apart from him, is to start taking responsibility for how he feels.
+
+285
+00:23:01,681 --> 00:23:03,942
+[SPEAKER_01]: And how he feels is how he's pressured.
+
+286
+00:23:04,102 --> 00:23:06,623
+[SPEAKER_01]: And how he's pressured is how much he's ignorant of the pressure.
+
+287
+00:23:06,783 --> 00:23:08,803
+[SPEAKER_00]: So, not what you choose, basically.
+
+288
+00:23:08,823 --> 00:23:09,164
+[SPEAKER_00]: Exactly.
+
+289
+00:23:09,184 --> 00:23:10,244
+[SPEAKER_00]: It's not a matter of choice.
+
+290
+00:23:10,544 --> 00:23:12,265
+[SPEAKER_00]: It's not a matter of...
+
+291
+00:23:12,385 --> 00:23:17,106
+[SPEAKER_01]: Choice is already secondary to you being pressured, which is why Arahant still has a choice.
+
+292
+00:23:17,446 --> 00:23:24,329
+[SPEAKER_01]: If choice were the true reason for the ignorance and the pressure, it would disappear in an Arahant.
+
+293
+00:23:24,469 --> 00:23:25,049
+[SPEAKER_01]: But it doesn't.
+
+294
+00:23:29,788 --> 00:23:33,811
+[SPEAKER_01]: So, the choice, sure, can maintain your state of ignorance.
+
+295
+00:23:33,851 --> 00:23:39,715
+[SPEAKER_01]: As in, more ignoring will result in your ignorant choices, choices of sensuality, ill-will, distraction.
+
+296
+00:23:39,856 --> 00:23:40,096
+[SPEAKER_01]: Sure.
+
+297
+00:23:40,856 --> 00:23:42,257
+[SPEAKER_01]: But even in that sense, it's secondary.
+
+298
+00:23:42,277 --> 00:23:47,461
+[SPEAKER_01]: That's why the sense restraint is necessary as a basis for practice, but it's not directly related to dhamma.
+
+299
+00:23:47,541 --> 00:23:49,603
+[SPEAKER_01]: It doesn't automatically result in arahantship.
+
+300
+00:23:51,104 --> 00:23:53,246
+[SPEAKER_01]: But there is no arahantship without a sense restraint.
+
+301
+00:23:53,806 --> 00:23:58,810
+[SPEAKER_01]: So, there is no arahantship without restraining your choice, but you can't become an arahant by choice.
+
+302
+00:24:01,965 --> 00:24:08,110
+[SPEAKER_01]: It's by uprooting that which... That which, basically, choice is rooted in.
+
+303
+00:24:08,130 --> 00:24:09,291
+[SPEAKER_01]: Yeah, exactly, yeah.
+
+304
+00:24:17,297 --> 00:24:19,439
+[SPEAKER_00]: So, the sutta finishes with...
+
+305
+00:24:21,320 --> 00:24:30,708
+[SPEAKER_00]: So, it's talked about these various ways in which intentions are made.
+
+306
+00:24:32,567 --> 00:24:34,768
+[SPEAKER_00]: Because of which, pleasure and pain arises internally.
+
+307
+00:24:35,248 --> 00:24:38,649
+[SPEAKER_00]: And it says, Ananda, in these things, ignorance is involved.
+
+308
+00:24:38,669 --> 00:24:38,909
+[SPEAKER_01]: Hmm.
+
+309
+00:24:42,591 --> 00:24:46,052
+[SPEAKER_00]: With the remainderless fading away and cessation of this very ignorance,
+
+310
+00:24:47,262 --> 00:24:52,143
+[SPEAKER_00]: There isn't the body because of which that pleasure and pain arises internally.
+
+311
+00:24:52,964 --> 00:24:56,365
+[SPEAKER_00]: There isn't the speech because of which that pleasure and pain arises internally.
+
+312
+00:24:56,865 --> 00:25:00,086
+[SPEAKER_00]: There isn't the mind because of which that pleasure and pain arises internally.
+
+313
+00:25:00,466 --> 00:25:01,566
+[SPEAKER_00]: That field isn't there.
+
+314
+00:25:01,986 --> 00:25:03,166
+[SPEAKER_00]: That ground isn't there.
+
+315
+00:25:03,286 --> 00:25:04,407
+[SPEAKER_00]: That domain isn't there.
+
+316
+00:25:04,527 --> 00:25:09,708
+[SPEAKER_00]: That cause because of which that pleasure and pain arises internally isn't there.
+
+317
+00:25:10,168 --> 00:25:12,589
+[SPEAKER_01]: There is no action out of being pressured.
+
+318
+00:25:13,978 --> 00:25:15,099
+[SPEAKER_00]: When you're not pressured anymore.
+
+319
+00:25:15,899 --> 00:25:18,621
+[SPEAKER_01]: How can you act out of pressure, when there is no pressure?
+
+320
+00:25:19,141 --> 00:25:26,385
+[SPEAKER_01]: Even if you go through the motion of those actions, that's still not action out of... the domain of acting out of pressure has ceased.
+
+321
+00:25:27,846 --> 00:25:28,907
+[SPEAKER_01]: Irreversibly ceased.
+
+322
+00:25:33,529 --> 00:25:36,151
+[SPEAKER_01]: That's why arahant can still act and do things.
+
+323
+00:25:37,282 --> 00:25:40,125
+[SPEAKER_01]: But not out of being contacted in the first place.
+
+324
+00:25:40,926 --> 00:25:46,533
+[SPEAKER_01]: So, from Putujan's point of view, who can only act out of pressure, yeah, there is no action in an arahant.
+
+325
+00:25:48,936 --> 00:25:52,860
+[SPEAKER_01]: But going through the motions of those which used to be pressured actions, yeah, they're still there.
+
+326
+00:25:54,903 --> 00:25:56,885
+[SPEAKER_01]: That's why an arahant can move, talk and think.
+
+327
+00:26:20,388 --> 00:26:20,795
+[SPEAKER_01]: Yeah, cool.
+
+328
+00:26:20,816 --> 00:26:21,162
+[SPEAKER_01]: That was...
+

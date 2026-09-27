@@ -1,0 +1,4740 @@
+1
+00:00:14,649 --> 00:00:17,371
+[SPEAKER_02]: They have many different questions.
+
+2
+00:00:17,391 --> 00:00:19,132
+[SPEAKER_02]: I don't know if we'll get to them all today.
+
+3
+00:00:19,152 --> 00:00:31,100
+[SPEAKER_02]: I don't know how much time you have, but one question which I had asked on YouTube, maybe we could start with that, was about the term peripheral awareness.
+
+4
+00:00:31,280 --> 00:00:42,007
+[SPEAKER_02]: So, basically, I read your essay about it and I listened to a couple of videos, but
+
+5
+00:00:43,237 --> 00:00:55,021
+[SPEAKER_02]: Basically, whenever you whenever you start talking about peripheral awareness, I would get a little bit confused, because the word is not like... the word can be interpreted different ways.
+
+6
+00:00:55,381 --> 00:01:01,283
+[SPEAKER_02]: So, I was trying to understand exactly what it means, the peripheral awareness.
+
+7
+00:01:02,563 --> 00:01:11,086
+[SPEAKER_02]: And what I had asked, when I wrote on YouTube, I basically kind of tried to describe how I was understanding it, so that you could
+
+8
+00:01:11,807 --> 00:01:15,429
+[SPEAKER_02]: Tell me if it was correct or not.
+
+9
+00:01:16,269 --> 00:01:25,753
+[SPEAKER_02]: And how I... how I kind of... what I had gathered from it was that it's basically like... let's say if I'm sitting here talking to you on the chair.
+
+10
+00:01:26,633 --> 00:01:31,396
+[SPEAKER_02]: Example, you talk about being... having peripheral awareness with the reference point of sitting.
+
+11
+00:01:31,996 --> 00:01:38,319
+[SPEAKER_02]: So, example, I'm sitting here talking to you on the chair, formulating my question and figuring out how to put it well.
+
+12
+00:01:38,859 --> 00:01:41,260
+[SPEAKER_02]: And I should have like a kind of
+
+13
+00:01:42,472 --> 00:01:49,115
+[SPEAKER_02]: Background awareness of the fact that I'm sitting, for example.
+
+14
+00:01:51,416 --> 00:02:02,841
+[SPEAKER_00]: Well, sort of, in a way, just maybe before we get too far into it, it's not necessarily like you must have it in a sense of I must make this effort and maintain this background.
+
+15
+00:02:03,041 --> 00:02:06,242
+[SPEAKER_00]: You just need to recognize it as that which is already there.
+
+16
+00:02:07,697 --> 00:02:08,558
+[SPEAKER_00]: That's in those talks.
+
+17
+00:02:08,618 --> 00:02:09,460
+[SPEAKER_00]: I think I was...
+
+18
+00:02:09,480 --> 00:02:10,582
+[SPEAKER_00]: I was...
+
+19
+00:02:10,622 --> 00:02:15,569
+[SPEAKER_00]: When I was describing peripheral awareness, I ended up talking about the knowledge, which is already peripheral in its nature.
+
+20
+00:02:16,536 --> 00:02:22,418
+[SPEAKER_00]: So, you already know you're seated, you already know the door is closed, you already know you're talking to me.
+
+21
+00:02:22,438 --> 00:02:23,978
+[SPEAKER_00]: So, all these things are already there.
+
+22
+00:02:24,679 --> 00:02:26,519
+[SPEAKER_00]: So, that's why... and you're not attending them.
+
+23
+00:02:27,200 --> 00:02:31,721
+[SPEAKER_00]: You don't need to keep telling to yourself while you're talking to me that you are seated, you are seated.
+
+24
+00:02:31,741 --> 00:02:35,922
+[SPEAKER_00]: But if I were to ask in the middle of your sentence about something different, are you seated?
+
+25
+00:02:35,962 --> 00:02:37,363
+[SPEAKER_00]: You would immediately have the answer.
+
+26
+00:02:37,443 --> 00:02:37,643
+[SPEAKER_00]: Yeah.
+
+27
+00:02:38,363 --> 00:02:45,946
+[SPEAKER_00]: Which means that knowledge is already there without... not being required to be directly attended.
+
+28
+00:02:46,830 --> 00:02:47,631
+[SPEAKER_00]: So, it's peripheral.
+
+29
+00:02:48,331 --> 00:02:48,571
+[SPEAKER_01]: Yeah.
+
+30
+00:02:48,852 --> 00:02:55,697
+[SPEAKER_00]: So, peripheral awareness will be basically the recognition of that which you already know there, which is a basis of your situation.
+
+31
+00:02:56,017 --> 00:03:06,065
+[SPEAKER_00]: So, it's it's subtler, because often, yes, people would kind of hear it and then immediately mean, ah, peripheral awareness is something I must do in this peripheral manner.
+
+32
+00:03:06,505 --> 00:03:10,508
+[SPEAKER_00]: But then they end up still, in the same sense, trying to attend to it.
+
+33
+00:03:13,590 --> 00:03:14,170
+[SPEAKER_00]: But as I said...
+
+34
+00:03:14,631 --> 00:03:16,712
+[SPEAKER_00]: So then, what's... Go on.
+
+35
+00:03:16,932 --> 00:03:17,192
+[SPEAKER_01]: I'll go on.
+
+36
+00:03:17,232 --> 00:03:33,081
+[SPEAKER_00]: No, no, I was just going to say, so instead of attending to, oh, I'm seated, I'm seated, you just want to recognize the level of that knowledge and not keep having to answer it to yourself because you already know the answer.
+
+37
+00:03:33,902 --> 00:03:36,984
+[SPEAKER_02]: Okay, so then, but like, what would be the difference between
+
+38
+00:03:37,964 --> 00:03:46,466
+[SPEAKER_02]: Like, somebody who is practicing peripheral awareness, or kind of working on it, is something you still have to work on, if I understand well.
+
+39
+00:03:46,486 --> 00:03:48,826
+[SPEAKER_02]: It's like not, because otherwise... Sure.
+
+40
+00:03:48,866 --> 00:04:05,210
+[SPEAKER_02]: What I'm trying to understand is the difference between somebody practicing mindfulness, as you explain, and somebody who's like a normal person, just going about their daily life, who also knows that the door is closed, who also knows that they're seated, who also knows that they're talking.
+
+41
+00:04:05,230 --> 00:04:06,830
+[SPEAKER_00]: Yeah, but they're not aware of it.
+
+42
+00:04:07,593 --> 00:04:13,136
+[SPEAKER_00]: They know if they ask the question, but they don't have the awareness of their knowledge persisting as a base of their situation.
+
+43
+00:04:13,496 --> 00:04:15,897
+[SPEAKER_00]: Because if they did, they would experience dispassion.
+
+44
+00:04:16,417 --> 00:04:19,058
+[SPEAKER_00]: They would not be able to engage with sensual desires and ill will.
+
+45
+00:04:19,158 --> 00:04:19,779
+[SPEAKER_00]: Yet, they do.
+
+46
+00:04:20,659 --> 00:04:22,520
+[SPEAKER_00]: Which means they don't have the right knowledge.
+
+47
+00:04:23,368 --> 00:04:25,770
+[SPEAKER_00]: Like, yes, if they stop and ask themselves, they will know it.
+
+48
+00:04:26,211 --> 00:04:35,819
+[SPEAKER_00]: So, it's not knowing that the door is closed and you're seated, but it's being aware of the knowledge that the door is closed and you're seated while you're engaged with other things.
+
+49
+00:04:35,839 --> 00:04:40,203
+[SPEAKER_00]: So, it's really the relationship between the peripheral and what you're choosing to attend to.
+
+50
+00:04:41,684 --> 00:04:44,667
+[SPEAKER_00]: And that's exactly why the mindfulness is that framework, the container.
+
+51
+00:04:46,953 --> 00:04:48,514
+[SPEAKER_00]: And that's exactly what is developing.
+
+52
+00:04:48,974 --> 00:04:51,015
+[SPEAKER_00]: Not just, yeah, I know I'm seated.
+
+53
+00:04:51,135 --> 00:04:51,655
+[SPEAKER_00]: Full stop.
+
+54
+00:04:51,715 --> 00:04:52,956
+[SPEAKER_00]: I completed the mindfulness.
+
+55
+00:04:53,016 --> 00:04:53,176
+[SPEAKER_00]: No.
+
+56
+00:04:54,276 --> 00:05:01,319
+[SPEAKER_00]: It's the relationship between your knowledge that you are seated and what you choose to do, intend, speak, think, while you're seated.
+
+57
+00:05:01,939 --> 00:05:08,022
+[SPEAKER_00]: On the basis of that situation.
+
+58
+00:05:08,042 --> 00:05:08,362
+[SPEAKER_02]: Okay.
+
+59
+00:05:08,802 --> 00:05:09,442
+[SPEAKER_02]: So, you say it's okay.
+
+60
+00:05:09,462 --> 00:05:13,504
+[SPEAKER_02]: It's the relationship between the knowledge that you are seated and
+
+61
+00:05:15,543 --> 00:05:17,704
+[SPEAKER_02]: And what you choose to do on the basis of that situation.
+
+62
+00:05:17,764 --> 00:05:29,428
+[SPEAKER_02]: So now...
+
+63
+00:05:29,468 --> 00:05:33,389
+[SPEAKER_02]: Okay, so you're aware that you're seated.
+
+64
+00:05:33,729 --> 00:05:36,050
+[SPEAKER_02]: You know that you are seated, in the sense.
+
+65
+00:05:36,190 --> 00:05:42,912
+[SPEAKER_02]: And, like, so what my other kind of question was, so this, like this, like knowing, being aware of being seated,
+
+66
+00:05:43,855 --> 00:05:46,416
+[SPEAKER_02]: It's basically... you're basically aware of a sensation, right?
+
+67
+00:05:46,696 --> 00:05:48,917
+[SPEAKER_00]: Like, being aware that the... No, no, no.
+
+68
+00:05:48,937 --> 00:05:51,558
+[SPEAKER_00]: ...of your body, of your position.
+
+69
+00:05:51,958 --> 00:05:55,719
+[SPEAKER_00]: Like, you don't need sensations for the knowledge of your seated position.
+
+70
+00:05:55,959 --> 00:05:58,840
+[SPEAKER_00]: You have the knowledge, which is why you know what sensations to look for.
+
+71
+00:05:59,742 --> 00:06:01,844
+[SPEAKER_00]: So, the knowledge comes first, not the sensations.
+
+72
+00:06:02,785 --> 00:06:11,633
+[SPEAKER_00]: It's usually that expectation of your attention to find something more substantial, that needs to discern these sensations, they would then be representation of the seated body.
+
+73
+00:06:11,693 --> 00:06:12,994
+[SPEAKER_00]: But you already know you're seated.
+
+74
+00:06:13,715 --> 00:06:15,496
+[SPEAKER_00]: You can answer to me, are you seated?
+
+75
+00:06:15,536 --> 00:06:22,843
+[SPEAKER_00]: You could give me immediate answer, before you tap into your sensations of seated body, which is always secondary to the knowledge that you are already seated.
+
+76
+00:06:24,733 --> 00:06:25,213
+[SPEAKER_00]: So, that's what I mean.
+
+77
+00:06:25,233 --> 00:06:31,477
+[SPEAKER_00]: It's actually subtler than just attending to the sensations of, I don't know, touching the chair or something like that.
+
+78
+00:06:33,319 --> 00:06:34,339
+[SPEAKER_00]: It's the knowledge of it.
+
+79
+00:06:38,522 --> 00:06:42,845
+[SPEAKER_02]: But I know that I'm seated because I chose to sit down.
+
+80
+00:06:43,165 --> 00:06:46,247
+[SPEAKER_02]: Like, I chose to sit down and now I am seated.
+
+81
+00:06:46,407 --> 00:06:46,707
+[SPEAKER_00]: Yeah.
+
+82
+00:06:48,168 --> 00:06:51,871
+[SPEAKER_00]: And you don't need sensations to confirm to you that what you already know that you're seated.
+
+83
+00:06:54,248 --> 00:06:55,709
+[SPEAKER_00]: They're completely redundant, actually.
+
+84
+00:06:55,970 --> 00:07:00,994
+[SPEAKER_00]: How your body feels and how the chair, where it presses you and stuff, it's completely redundant.
+
+85
+00:07:01,715 --> 00:07:02,275
+[SPEAKER_00]: You're seated.
+
+86
+00:07:02,736 --> 00:07:03,556
+[SPEAKER_00]: And you said it yourself.
+
+87
+00:07:04,037 --> 00:07:06,179
+[SPEAKER_00]: You know you're seated because you chose to sit down.
+
+88
+00:07:06,699 --> 00:07:09,281
+[SPEAKER_00]: There were no sensations involved in your choice of sitting down.
+
+89
+00:07:09,762 --> 00:07:10,883
+[SPEAKER_00]: It was like, oh, I want to sit down.
+
+90
+00:07:10,943 --> 00:07:11,664
+[SPEAKER_00]: I need to sit down.
+
+91
+00:07:11,704 --> 00:07:12,584
+[SPEAKER_00]: It's better to sit down.
+
+92
+00:07:13,125 --> 00:07:14,306
+[SPEAKER_00]: All these other intentions.
+
+93
+00:07:15,307 --> 00:07:20,431
+[SPEAKER_00]: Yet, when we speak about it, people think, oh, why would you bring the sensations into it then?
+
+94
+00:07:21,265 --> 00:07:25,574
+[SPEAKER_00]: When you realize, it had nothing to do with neither your decision, nor the knowledge of being seated.
+
+95
+00:07:27,272 --> 00:07:29,253
+[SPEAKER_00]: I mean, I know why, because everybody does that.
+
+96
+00:07:29,273 --> 00:07:36,458
+[SPEAKER_00]: That's like the natural kind of, I must look closer at these sensations or something, as if somehow that analyzes more of you.
+
+97
+00:07:36,518 --> 00:07:36,658
+[SPEAKER_00]: No.
+
+98
+00:07:37,638 --> 00:07:45,083
+[SPEAKER_00]: If you want to analyze the nature of being seated, exactly as you did kind of spontaneously, ah, intention to sit down brought me here.
+
+99
+00:07:45,503 --> 00:07:49,366
+[SPEAKER_00]: Which means, your intention to sit down is still present there with you.
+
+100
+00:07:49,466 --> 00:07:51,347
+[SPEAKER_00]: It wasn't half an hour ago when you sat.
+
+101
+00:07:52,107 --> 00:07:54,369
+[SPEAKER_00]: It remains enduring while you're seated.
+
+102
+00:07:55,130 --> 00:07:59,213
+[SPEAKER_00]: Because if your intention to be seated changes, you will stand up or lay down.
+
+103
+00:08:00,854 --> 00:08:17,987
+[SPEAKER_00]: So, and that's another thing that I talk often, yeah, in the relationship with those other, in the same peripheral awareness talks, is that knowing the intention why you want to, like, oh, I'm doing this, and then knowing that while you're doing it, your intention is persistently kind of, it's enduring there as a binding factor.
+
+104
+00:08:19,480 --> 00:08:21,821
+[SPEAKER_00]: You're not like going to moment-to-moment awareness.
+
+105
+00:08:21,861 --> 00:08:22,001
+[SPEAKER_00]: No.
+
+106
+00:08:22,041 --> 00:08:26,924
+[SPEAKER_00]: The knowledge of what you want to do is the unifying factor of all of your particular little actions.
+
+107
+00:08:27,724 --> 00:08:34,308
+[SPEAKER_00]: So, the knowledge of what you're going to do is basically the framework of your current action, if you want to be mindful of it.
+
+108
+00:08:37,985 --> 00:08:54,250
+[SPEAKER_02]: Okay, so, eh... if I try to kind of put it in language for under six years old, it would be like... yeah, basically, I know that I'm sitting down based on the fact that I had the intention to sit down and it's like... and that I still choose to keep sitting down.
+
+109
+00:08:54,770 --> 00:08:57,190
+[SPEAKER_02]: This is like the main... this is the first thing that comes.
+
+110
+00:08:57,711 --> 00:08:57,951
+[SPEAKER_00]: Sure.
+
+111
+00:08:58,751 --> 00:08:59,371
+[SPEAKER_02]: Like, or the...
+
+112
+00:09:02,274 --> 00:09:03,454
+[SPEAKER_02]: So, yeah, because I agree.
+
+113
+00:09:03,494 --> 00:09:05,715
+[SPEAKER_02]: I agree that sensation, like, just paying attention to, like, the...
+
+114
+00:09:05,735 --> 00:09:11,177
+[SPEAKER_00]: So, now, you don't need to... you don't need to take that further, in a sense, what do I do now, like, with this knowledge of being seated.
+
+115
+00:09:11,517 --> 00:09:23,200
+[SPEAKER_00]: You just need to start using it as a basis that will take away from being self-centered with your point of view towards what you attend to and see whatever you choose to attend to on a basis of this seated situation.
+
+116
+00:09:24,033 --> 00:09:41,075
+[SPEAKER_00]: That's why the Buddha would say, like, when he was still the bodhisattva in the forest, walking, doing a walking meditation or something, and he would say, if there is like an unwholesome state would arise in my mind, fear or something, I would not change my position until I first dispel the fear.
+
+117
+00:09:42,140 --> 00:09:48,845
+[SPEAKER_00]: Then, if I happen to be seated and then there was lust or fear, again, I wouldn't stand up until I dispel the fear.
+
+118
+00:09:49,746 --> 00:09:56,812
+[SPEAKER_00]: So, he wouldn't change the basis of his situation because it would mean he acted out of lust or fear or anything unwholesome.
+
+119
+00:09:57,432 --> 00:10:04,818
+[SPEAKER_00]: So, he used the base of situation as an enduring framework, container, for whatever present phenomenon has been kind of besetting his mind.
+
+120
+00:10:05,765 --> 00:10:18,933
+[SPEAKER_00]: But without the base... without the factual basis of your situation, such as your body, your body posture, your current enduring feeling, anything from satipaṭṭhāna, you will be engaged with the current state of mind through your point of view.
+
+121
+00:10:19,073 --> 00:10:22,075
+[SPEAKER_00]: And that's exactly where that self-centeredness and conceit get... it involves.
+
+122
+00:10:22,895 --> 00:10:26,137
+[SPEAKER_00]: It's not like the people are... choose to be conceited.
+
+123
+00:10:26,317 --> 00:10:27,118
+[SPEAKER_00]: They just don't know.
+
+124
+00:10:27,158 --> 00:10:30,460
+[SPEAKER_00]: They have no other reference point between them and what they attend to.
+
+125
+00:10:31,618 --> 00:10:40,043
+[SPEAKER_00]: So, the knowledge I'm describing, it's not like I need to clarify this knowledge more in a sense of get more details about it, although that can be helpful for somebody.
+
+126
+00:10:40,663 --> 00:10:47,547
+[SPEAKER_00]: It's more like, now that I'm clear, now that I know it, I need to stop attending that and use it as a basis for what I'm attending.
+
+127
+00:10:48,560 --> 00:11:02,729
+[SPEAKER_00]: And that's what I mean, the relationship between the two, that then, eventually, you develop that sufficiently enough, your sense of self, the self-centered point of view that chooses to attend and thinks it's the receptor of these things that come through your senses, will be made redundant.
+
+128
+00:11:04,030 --> 00:11:10,094
+[SPEAKER_00]: And then it's just, as the Buddha would say in Satipaṭṭhāna, oh, he knows there is the presence of the lustful mind, there's the lustful mind.
+
+129
+00:11:10,134 --> 00:11:12,075
+[SPEAKER_00]: There is a non-lustful mind, there's a non-lustful mind.
+
+130
+00:11:12,115 --> 00:11:13,876
+[SPEAKER_00]: A latent mind, depressed mind, doesn't matter.
+
+131
+00:11:13,896 --> 00:11:14,977
+[SPEAKER_00]: It's not like, I am
+
+132
+00:11:20,464 --> 00:11:21,125
+[SPEAKER_02]: Yeah.
+
+133
+00:11:21,345 --> 00:11:21,586
+[SPEAKER_02]: Yeah.
+
+134
+00:11:22,066 --> 00:11:22,747
+[SPEAKER_02]: This I understand.
+
+135
+00:11:22,767 --> 00:11:22,968
+[SPEAKER_02]: I agree.
+
+136
+00:11:25,837 --> 00:11:28,318
+[SPEAKER_00]: Yeah, I think many people get this part.
+
+137
+00:11:28,518 --> 00:11:30,498
+[SPEAKER_00]: Many people get this part from satipaṭṭhāna.
+
+138
+00:11:31,079 --> 00:11:49,004
+[SPEAKER_00]: But what I'm trying to describe is the only way to get it is to establish the proper base of mindfulness on the level of the knowledge, not on the level of kind of sensations or something that I choose to attend as representative of the seated position, which means still puts you in the center, the driving seat.
+
+139
+00:11:51,605 --> 00:11:53,726
+[SPEAKER_02]: Yeah, and yeah, this I agree to.
+
+140
+00:11:55,476 --> 00:12:13,256
+[SPEAKER_02]: But, like, I agree if, like, always, because always the mind, like, always people are just, like, looking at what they see, what they hear, what you, what you think, what you are, like, what I, what I want, what I don't want, what I feel, what I...
+
+141
+00:12:13,436 --> 00:12:16,440
+[SPEAKER_02]: So, this, like, if you look always outside, this I see,
+
+142
+00:12:16,847 --> 00:12:26,656
+[SPEAKER_02]: But if you're just looking outside at the objects of my... my senses or object of my... like outside of my attention, then this is no good, because it's just...
+
+143
+00:12:26,996 --> 00:12:27,276
+[SPEAKER_02]: I am...
+
+144
+00:12:27,716 --> 00:12:31,059
+[SPEAKER_02]: I am seeing this, I am hearing this, I am automatically... it's this.
+
+145
+00:12:31,420 --> 00:12:31,600
+[SPEAKER_00]: Sure.
+
+146
+00:12:31,920 --> 00:12:37,245
+[SPEAKER_00]: What I would add there is that even the notion of sensations is also another thing that's outside.
+
+147
+00:12:38,386 --> 00:12:39,807
+[SPEAKER_00]: Outside to your self-centeredness.
+
+148
+00:12:39,827 --> 00:12:40,107
+[SPEAKER_00]: Yes, I agree.
+
+149
+00:12:40,348 --> 00:12:40,548
+[SPEAKER_00]: Yeah.
+
+150
+00:12:41,353 --> 00:12:54,056
+[SPEAKER_00]: So, the only thing that's behind, the only thing that's not outside of your point of view, not like the... where your attention can land, is what's peripheral to it, which is the level of the knowledge.
+
+151
+00:12:55,777 --> 00:13:00,738
+[SPEAKER_00]: You cannot make that into physical sense, like, because that becomes something you can attend.
+
+152
+00:13:01,583 --> 00:13:12,028
+[SPEAKER_00]: So, even your body posture is to be known as such, not attended and felt, as often described in contemporary, sort of, you know, Buddhist teachings and so on.
+
+153
+00:13:12,068 --> 00:13:12,308
+[SPEAKER_01]: Yeah.
+
+154
+00:13:13,309 --> 00:13:15,169
+[SPEAKER_00]: So, that's the... that's the difference, I'm saying.
+
+155
+00:13:15,190 --> 00:13:24,394
+[SPEAKER_02]: Yeah, I mean... Yeah, like, I understand, I agree with you about sensations, and that was why I was, like, kind of doubtful about this, eh...
+
+156
+00:13:25,292 --> 00:13:27,393
+[SPEAKER_02]: Yeah, there's no wisdom that can arise from there.
+
+157
+00:13:27,533 --> 00:13:30,674
+[SPEAKER_02]: And wisdom is, like, as you say, it has to be on the level of what knows.
+
+158
+00:13:30,714 --> 00:13:31,354
+[SPEAKER_02]: The thing that
+
+159
+00:13:48,106 --> 00:13:55,929
+[SPEAKER_00]: The wisdom comes from basically completely bypassing and extinguishing that self-centered point of view.
+
+160
+00:13:57,570 --> 00:14:00,711
+[SPEAKER_00]: When, as I said, your sense of self is made redundant.
+
+161
+00:14:01,951 --> 00:14:08,674
+[SPEAKER_00]: Like, you just know the body is as such, feelings are as such, thoughts are as such, and so on.
+
+162
+00:14:08,794 --> 00:14:11,175
+[SPEAKER_00]: So, there is no like, oh, I am choosing this or that.
+
+163
+00:14:11,195 --> 00:14:12,395
+[SPEAKER_00]: There is choice present.
+
+164
+00:14:12,996 --> 00:14:16,817
+[SPEAKER_00]: And then, you choose whether to attend to it further or not, based on the wisdom you developed.
+
+165
+00:14:19,175 --> 00:14:27,263
+[SPEAKER_00]: So, that's when somebody who's not free from that self-centeredness, they cannot choose to cease to be self-centered, because that will be a self-centered choice they make.
+
+166
+00:14:28,825 --> 00:14:29,946
+[SPEAKER_00]: So, they need to undermine it.
+
+167
+00:14:30,446 --> 00:14:31,347
+[SPEAKER_00]: And how do you undermine it?
+
+168
+00:14:31,407 --> 00:14:32,148
+[SPEAKER_00]: By digging under.
+
+169
+00:14:32,348 --> 00:14:37,193
+[SPEAKER_00]: And what's basically under from where you're standing, it can be called peripheral, not direct in front of you.
+
+170
+00:14:38,314 --> 00:14:41,177
+[SPEAKER_00]: So, that's why I use that word, basically, just to give the idea to people.
+
+171
+00:14:43,318 --> 00:14:44,459
+[SPEAKER_02]: Yeah, yeah, okay.
+
+172
+00:14:44,479 --> 00:14:49,262
+[SPEAKER_02]: So, if I... just to back up a bit, like now, yeah, you... now you kind of came back to it anyway.
+
+173
+00:14:50,963 --> 00:14:58,889
+[SPEAKER_02]: When you use the word peripheral, if I understand well, you can correct me, it's basically... is it meaning that
+
+174
+00:15:00,922 --> 00:15:03,945
+[SPEAKER_02]: It's not something, it's not an object of your senses.
+
+175
+00:15:04,005 --> 00:15:10,170
+[SPEAKER_02]: It's not an object, like, what is not the direct object of your attention.
+
+176
+00:15:10,330 --> 00:15:10,871
+[SPEAKER_00]: Yeah, exactly.
+
+177
+00:15:10,891 --> 00:15:15,095
+[SPEAKER_00]: Because if it becomes a direct object of your attention, then something else is peripheral.
+
+178
+00:15:15,235 --> 00:15:20,940
+[SPEAKER_00]: Because now what you're attending can only be direct, as opposed to peripheral.
+
+179
+00:15:24,183 --> 00:15:24,383
+[SPEAKER_02]: Yeah.
+
+180
+00:15:26,900 --> 00:15:29,841
+[SPEAKER_02]: So, it's not an object of your senses.
+
+181
+00:15:29,981 --> 00:15:31,862
+[SPEAKER_02]: So, it's not a sensation.
+
+182
+00:15:31,902 --> 00:15:38,165
+[SPEAKER_02]: You can't be just paying attention to sensations or sounds or whatever.
+
+183
+00:15:39,085 --> 00:15:53,612
+[SPEAKER_02]: And when you said, example, that you have to be, kind of, develop the awareness on the level of knowledge, then this is on the level of, like, being aware of the... almost being aware of the attention itself, like being, kind of,
+
+184
+00:15:54,400 --> 00:15:57,823
+[SPEAKER_00]: Well, being aware of the peripheral of your attention.
+
+185
+00:15:57,903 --> 00:15:59,624
+[SPEAKER_00]: What's peripheral to that which you're attending?
+
+186
+00:16:00,465 --> 00:16:03,087
+[SPEAKER_00]: And that's exactly the definition of yoniso manasikāra.
+
+187
+00:16:03,588 --> 00:16:06,871
+[SPEAKER_00]: Yoniso meaning the womb of your attention, not the attention.
+
+188
+00:16:08,432 --> 00:16:10,614
+[SPEAKER_00]: So, in the same sense, an eye cannot see itself.
+
+189
+00:16:11,414 --> 00:16:14,817
+[SPEAKER_00]: But you know that there is an eye present for as long as there is a sight present.
+
+190
+00:16:16,158 --> 00:16:21,543
+[SPEAKER_00]: So, it's already a peripheral relationship even within your own senses, sense organs and sense objects.
+
+191
+00:16:23,090 --> 00:16:25,012
+[SPEAKER_00]: So, that's the definition of yoniso manasikāra.
+
+192
+00:16:25,032 --> 00:16:31,657
+[SPEAKER_00]: It's basically not like knowing where my attention came from in the past or something, analyzing the roots of my attention.
+
+193
+00:16:31,697 --> 00:16:31,797
+[SPEAKER_00]: No.
+
+194
+00:16:32,218 --> 00:16:36,361
+[SPEAKER_00]: It's knowing presently the basis for my current attention.
+
+195
+00:16:36,822 --> 00:16:38,183
+[SPEAKER_00]: A basis that cannot be attended.
+
+196
+00:16:38,343 --> 00:16:43,748
+[SPEAKER_00]: Because if I attend to it, something else is the basis for my current attending of that which I thought was the basis.
+
+197
+00:16:44,929 --> 00:16:49,853
+[SPEAKER_00]: So, if you keep trying to kind of attend it, it's like a dog chasing its own tail.
+
+198
+00:16:50,776 --> 00:17:01,186
+[SPEAKER_00]: To the extent you try to reach it, to that extent the tail escapes you.
+
+199
+00:17:01,426 --> 00:17:01,786
+Okay.
+
+200
+00:17:01,806 --> 00:17:01,986
+So...
+
+201
+00:17:17,175 --> 00:17:33,739
+[SPEAKER_02]: So, you were saying about... you mentioned about actions as well, about, like, the intention of your actions, how you can be... like, have the peripheral... like, yeah, keep this as... have the base... have this as the basis of mindfulness, essentially.
+
+202
+00:17:34,099 --> 00:17:43,961
+[SPEAKER_02]: And this I found is interesting, because I... because it's, sort of, easier for... it's easier to understand than... than, like, a body posture.
+
+203
+00:17:46,534 --> 00:18:09,964
+[SPEAKER_02]: Because, this is like, if you intend, like, if you intend to do something, if you have an intention of even just moving or speaking or something, then, like, to be, to keep the awareness of the intention, I can understand this easier as a, as a base of mindfulness, because
+
+204
+00:18:11,538 --> 00:18:27,988
+[SPEAKER_02]: Also, because it's something that is really directly linked to removing kalesa, because your intentions are driven either... driven usually by greed, by aversion, or by moha, by not knowing, if I understand well.
+
+205
+00:18:29,929 --> 00:18:32,011
+[SPEAKER_02]: So then, being aware of the intention...
+
+206
+00:18:33,171 --> 00:18:37,074
+[SPEAKER_02]: But what I was less clear about was how you were kind of talking of it as a sort of...
+
+207
+00:18:38,681 --> 00:18:47,646
+[SPEAKER_02]: Like a general background of your... like general background of your experience or something.
+
+208
+00:18:48,866 --> 00:18:50,447
+[SPEAKER_02]: Maybe I'm not remembering it well.
+
+209
+00:18:51,748 --> 00:19:00,132
+[SPEAKER_02]: But as I... from what I can observe, an intention is always something quite... it's more like particular, it's quite specific, like you... Oh, right, I see, I see.
+
+210
+00:19:00,512 --> 00:19:01,473
+[SPEAKER_02]: Like right now...
+
+211
+00:19:01,493 --> 00:19:01,813
+[SPEAKER_02]: Right, right.
+
+212
+00:19:01,933 --> 00:19:04,214
+[SPEAKER_02]: Right now, I have the intention of speaking...
+
+213
+00:19:05,296 --> 00:19:05,856
+[SPEAKER_00]: Yeah, yeah.
+
+214
+00:19:06,316 --> 00:19:09,978
+[SPEAKER_00]: No, that is a choice what you're talking about, which is more particular.
+
+215
+00:19:10,418 --> 00:19:13,039
+[SPEAKER_00]: But choice is basically intentional intention.
+
+216
+00:19:14,660 --> 00:19:21,043
+[SPEAKER_00]: But the only reason you can make the choice is because you have general intentions as possibilities that you can choose.
+
+217
+00:19:22,144 --> 00:19:24,084
+[SPEAKER_00]: Because you can choose to speak or be silent.
+
+218
+00:19:24,805 --> 00:19:29,587
+[SPEAKER_00]: You can choose to say one thing or the other and then it becomes particular making of the choice.
+
+219
+00:19:30,990 --> 00:19:35,955
+[SPEAKER_00]: But that choice can only be made because these intentions are already given as possibilities.
+
+220
+00:19:37,457 --> 00:19:46,447
+[SPEAKER_00]: So that's the difference between, like, intention and intentional intention, which is what we commonly call a choice.
+
+221
+00:19:47,376 --> 00:20:00,167
+[SPEAKER_00]: That's the difference between, like, the relationship between, like, the intentional mind, the citta, and then cetanā, which is the actual intention of the choice that you make on account of the mind that gave you these options.
+
+222
+00:20:00,227 --> 00:20:04,791
+[SPEAKER_00]: So, the lustful mind will lean your choices towards choices of lust, and so on.
+
+223
+00:20:05,372 --> 00:20:14,260
+[SPEAKER_00]: Now, if you have wisdom on account towards the whole situation, that's how you can then choose to say no, which is your first step, basically, sense restraint, and so on.
+
+224
+00:20:15,439 --> 00:20:21,060
+[SPEAKER_00]: But the intention I'm talking about, it's not on the level of when you intentionally intend to it and then make a choice.
+
+225
+00:20:21,340 --> 00:20:22,201
+[SPEAKER_00]: That is particular.
+
+226
+00:20:22,561 --> 00:20:28,922
+[SPEAKER_00]: And the only reason it can be particular is because, generally, the intentions are given and waiting to... Because you can also change your choice as well.
+
+227
+00:20:30,242 --> 00:20:32,183
+[SPEAKER_00]: You make a choice to do something, then you change your mind.
+
+228
+00:20:33,463 --> 00:20:35,043
+[SPEAKER_00]: You still have the other options there.
+
+229
+00:20:37,724 --> 00:20:37,964
+[SPEAKER_01]: Yeah.
+
+230
+00:20:39,144 --> 00:20:40,705
+[SPEAKER_00]: And those options are not particular.
+
+231
+00:20:40,725 --> 00:20:41,885
+[SPEAKER_00]: They don't sit in front of you.
+
+232
+00:20:47,029 --> 00:20:52,810
+[SPEAKER_01]: So, when you say intention, you mean, like, basically the... all the possibilities of what you can do?
+
+233
+00:20:52,830 --> 00:20:53,291
+[SPEAKER_00]: Pretty much.
+
+234
+00:20:53,371 --> 00:20:53,751
+[SPEAKER_00]: Exactly.
+
+235
+00:20:54,011 --> 00:20:54,171
+[SPEAKER_00]: Yeah.
+
+236
+00:20:54,291 --> 00:20:57,091
+[SPEAKER_00]: Thoughts, images, dhammas on the level of possibilities.
+
+237
+00:20:57,231 --> 00:21:00,312
+[SPEAKER_00]: That's exactly what... what intentions are, in that sense.
+
+238
+00:21:01,432 --> 00:21:06,414
+[SPEAKER_00]: And that's why you then can choose to intend with a certain leaning of your mind and so on.
+
+239
+00:21:06,454 --> 00:21:07,714
+[SPEAKER_00]: And that's when it becomes a choice.
+
+240
+00:21:09,543 --> 00:21:20,311
+[SPEAKER_00]: So, that's... you... you are not responsible for the intentions, for their arising, but you're responsible for intentionally intending them on the basis of the lust, aversion or delusion.
+
+241
+00:21:21,472 --> 00:21:26,396
+[SPEAKER_00]: And it's those choices that then will make those intentions arise more or less for you.
+
+242
+00:21:26,876 --> 00:21:30,939
+[SPEAKER_00]: So, a person who keeps acting out of lust will have more options of lust presented to him.
+
+243
+00:21:31,399 --> 00:21:38,525
+[SPEAKER_00]: That's like even for the first six, seven years, Mara was harassing the Buddha, hoping he will take a bite.
+
+244
+00:21:39,472 --> 00:21:43,053
+[SPEAKER_00]: Until he realized, no, his mind will never turn to this, and then he left him alone.
+
+245
+00:21:43,953 --> 00:21:46,914
+[SPEAKER_00]: And in many other similes, that was described the experience of an arahant.
+
+246
+00:21:47,854 --> 00:21:53,595
+[SPEAKER_00]: Not that these intentions, suddenly the recognitions of lust, aversion, will kind of poof, just disappear in a second.
+
+247
+00:21:54,635 --> 00:22:01,277
+[SPEAKER_00]: But arahant's intentional intention of those things, he's incapable of, so eventually these things will completely cool down.
+
+248
+00:22:02,247 --> 00:22:07,348
+[SPEAKER_00]: And then, even as these options that he's not responsible for, it will cease to appear.
+
+249
+00:22:07,568 --> 00:22:14,750
+[SPEAKER_00]: Like, the flies will cease to come to the, basically, I don't know, rotting meat, if there is no more rotting meat left lying around.
+
+250
+00:22:15,590 --> 00:22:18,071
+[SPEAKER_00]: The flies will fly around a bit longer, hoping for it.
+
+251
+00:22:18,431 --> 00:22:18,991
+[SPEAKER_00]: Or crows.
+
+252
+00:22:19,351 --> 00:22:20,552
+[SPEAKER_00]: Oh, yeah, there was a simile in the suttas.
+
+253
+00:22:20,632 --> 00:22:21,212
+[SPEAKER_00]: It was the crow.
+
+254
+00:22:22,112 --> 00:22:29,294
+[SPEAKER_00]: Like, Māra was like a crow, seeking what can it bite, what can it pick on, but the Buddha provided nothing, and then the crow just left him.
+
+255
+00:22:31,674 --> 00:22:42,932
+[SPEAKER_00]: So, these intentionalities have just evaporated eventually, because they haven't been maintained and fed through these intentional intentions of lust, aversion, distraction, and so on.
+
+256
+00:22:47,425 --> 00:23:13,984
+[SPEAKER_01]: Okay, so there's a point here I'm struggling to get a hold of, because, now, okay, so, in the beginning, you, okay, so, we have the level of, like, all the possibilities of what you can do, so, but this is, like, for everybody, at any time, there's always the possibility of, let's say, like, of, eh, I don't know, let's just say you have an itch, everybody can decide whether to scratch the itch or not to scratch the itch.
+
+257
+00:23:14,244 --> 00:23:14,404
+[SPEAKER_00]: Okay.
+
+258
+00:23:14,424 --> 00:23:16,446
+[SPEAKER_01]: Like, there's the both, both possibilities there.
+
+259
+00:23:17,220 --> 00:23:23,562
+[SPEAKER_01]: Then you have the... then you have the, like, automatic decision or choice.
+
+260
+00:23:23,702 --> 00:23:25,122
+[SPEAKER_01]: It's not really... it's automatic.
+
+261
+00:23:25,142 --> 00:23:36,885
+[SPEAKER_01]: You decide to scratch the itch mostly, for most people, unless you are aware enough of the itch, like, unless you're aware enough beforehand to decide not to, or to have the choice that you see is there.
+
+262
+00:23:38,206 --> 00:23:43,267
+[SPEAKER_01]: And... oh, you can continue.
+
+263
+00:23:43,882 --> 00:23:46,143
+[SPEAKER_00]: Well, yeah, no, that's exactly it.
+
+264
+00:23:46,203 --> 00:23:49,625
+[SPEAKER_00]: You have the two choices, because you don't have any other knowledge.
+
+265
+00:23:50,105 --> 00:23:52,627
+[SPEAKER_00]: That's exactly why knowledge results in liberation.
+
+266
+00:23:53,287 --> 00:24:03,793
+[SPEAKER_00]: But if you say, to gain knowledge, that you shouldn't scratch, now you have an option to not scratch, and you have a reason as an option to choose to, which you didn't have before.
+
+267
+00:24:06,454 --> 00:24:10,857
+[SPEAKER_00]: But if you develop that knowledge sufficiently enough, and stop scratching, you will heal.
+
+268
+00:24:11,810 --> 00:24:13,691
+[SPEAKER_00]: So, knowledge resulted in liberation.
+
+269
+00:24:14,292 --> 00:24:17,854
+[SPEAKER_00]: So, it's not that these choices are universally present for everyone.
+
+270
+00:24:17,894 --> 00:24:20,536
+[SPEAKER_00]: I mean, of course, scratching it or not scratching it, sure.
+
+271
+00:24:20,836 --> 00:24:30,282
+[SPEAKER_00]: But what we are talking about is the choices on the level of your mind for greed or non-greed, aversion or non-aversion, delusion, non-delusion.
+
+272
+00:24:31,273 --> 00:24:41,817
+[SPEAKER_00]: And now, choices of greed have like myriad ways of manifesting itself and so on, but all of them share the common nature of being rooted in greed, which is what you keep persistently choosing.
+
+273
+00:24:42,337 --> 00:24:49,720
+[SPEAKER_00]: So then, if you start abstaining from that and learn that maybe greed is not good, suddenly you do recognize the choice of sense restraint.
+
+274
+00:24:49,780 --> 00:24:55,123
+[SPEAKER_00]: Like sense restraint, for example, an average man today in the world, he doesn't even have that as an option.
+
+275
+00:24:55,283 --> 00:24:56,163
+[SPEAKER_00]: It's inconceivable.
+
+276
+00:24:58,086 --> 00:25:05,641
+[SPEAKER_00]: It needs to be some sort of religious practice, some sort of faith-based determination in their mind.
+
+277
+00:25:05,741 --> 00:25:07,204
+[SPEAKER_00]: They cannot fathom it in any other way.
+
+278
+00:25:08,220 --> 00:25:16,808
+[SPEAKER_00]: But say you start actually understanding the nature of your condition and start seeing for yourself that scratching the itch is fundamentally making things worse.
+
+279
+00:25:17,529 --> 00:25:22,713
+[SPEAKER_00]: Now you have an option that you directly see as valuable, which you did not have before.
+
+280
+00:25:22,974 --> 00:25:33,023
+[SPEAKER_00]: So, intentions change on the basis of your knowledge and basis of your other intent, because you chose to learn this, you chose to listen to the dhamma, you chose to read the suttas.
+
+281
+00:25:34,107 --> 00:25:38,111
+[SPEAKER_00]: So, you are responsible now for cultivation of new intentions later on.
+
+282
+00:25:38,871 --> 00:25:40,253
+[SPEAKER_00]: And that's exactly what was said.
+
+283
+00:25:40,293 --> 00:25:44,997
+[SPEAKER_00]: Even nibbāna, being asankhāta, being undetermined, it's actually determined.
+
+284
+00:25:45,057 --> 00:25:45,797
+[SPEAKER_00]: Determined by what?
+
+285
+00:25:46,158 --> 00:25:49,801
+[SPEAKER_00]: By one's decision to practice and develop it back in the day.
+
+286
+00:25:50,201 --> 00:25:53,384
+[SPEAKER_00]: Not immediately, but, you know, when he left the household life and so on.
+
+287
+00:25:54,645 --> 00:25:58,809
+[SPEAKER_00]: So, the choices he made towards nibbāna determined the nibbāna eventually.
+
+288
+00:25:58,889 --> 00:25:59,590
+[SPEAKER_00]: Resulted in it.
+
+289
+00:26:06,596 --> 00:26:18,724
+[SPEAKER_01]: Yeah, so now, yeah, this I, like, this I, this I understand.
+
+290
+00:26:23,867 --> 00:26:29,231
+[SPEAKER_01]: So what I was trying to, I was, yeah, just I was trying to become clear on the...
+
+291
+00:26:29,351 --> 00:26:31,292
+[SPEAKER_01]: Okay, so, so now you say,
+
+292
+00:26:31,960 --> 00:26:55,654
+[SPEAKER_01]: Like, for, yeah, for everybody, they don't even realize, example, they don't, I would not say, yeah, most people, you don't, they don't think about, or you don't realize that you have a choice in regard to, like, in regard to what you do, because most of the time, eh, you're, like, you're just automatically, like, by, by default, you're driven by greed, aversion, delusion, from what I
+
+293
+00:26:57,217 --> 00:27:03,976
+[SPEAKER_00]: Well, it becomes by default, because people choose to avoid responsibility.
+
+294
+00:27:04,810 --> 00:27:06,451
+[SPEAKER_00]: for their own choices and their own actions.
+
+295
+00:27:06,491 --> 00:27:08,212
+[SPEAKER_00]: That's why we always go back to that as well.
+
+296
+00:27:08,613 --> 00:27:22,122
+[SPEAKER_00]: As a prerequisite for the right view, for the right mindfulness, like a pre-prerequisite, is accepting responsibility for basically your choices, your intentions, your actions, for everything you feel, even if it's not your fault.
+
+297
+00:27:22,462 --> 00:27:32,930
+[SPEAKER_00]: You need to accept responsibility first, because that will prevent you then from fueling ignoring the nature of, yeah, of your own choice that you do choose to make as such.
+
+298
+00:27:33,824 --> 00:27:44,106
+[SPEAKER_00]: So, eh... acting out of greed, aversion, delusion becomes automatic because you are choosing oblivion of... towards your responsibility.
+
+299
+00:27:44,146 --> 00:27:44,966
+[SPEAKER_00]: You are ignoring it.
+
+300
+00:27:45,766 --> 00:27:51,328
+[SPEAKER_00]: You're turning a blind eye that then results in automatically following desires or scratching.
+
+301
+00:27:51,368 --> 00:27:53,548
+[SPEAKER_00]: And that's why then people say, oh, it's not my fault.
+
+302
+00:27:53,568 --> 00:27:54,468
+[SPEAKER_00]: I just have this desire.
+
+303
+00:27:54,808 --> 00:27:55,208
+[SPEAKER_00]: It's true.
+
+304
+00:27:55,388 --> 00:27:57,389
+[SPEAKER_00]: It's not your fault that your desire is automatic.
+
+305
+00:27:57,849 --> 00:28:03,510
+[SPEAKER_00]: But it is your fault that you ignore responsibility in regard to that, which is what makes that desire look automatic.
+
+306
+00:28:05,620 --> 00:28:08,282
+[SPEAKER_00]: And the reason people ignore that responsibility is it's unpleasant.
+
+307
+00:28:08,663 --> 00:28:10,604
+[SPEAKER_00]: And they don't have enough knowledge, wisdom.
+
+308
+00:28:10,985 --> 00:28:12,186
+[SPEAKER_00]: They haven't been told enough.
+
+309
+00:28:12,226 --> 00:28:19,392
+[SPEAKER_00]: They haven't understood sufficiently that actually, despite being unpleasant, accepting responsibility is beneficial for me.
+
+310
+00:28:22,314 --> 00:28:23,075
+[SPEAKER_00]: So, they need to learn.
+
+311
+00:28:23,655 --> 00:28:25,137
+[SPEAKER_00]: Without knowledge, they will not do it.
+
+312
+00:28:27,298 --> 00:28:32,683
+[SPEAKER_00]: So, it's a vicious circle of automatically perpetuating that which makes their desire automatic.
+
+313
+00:28:43,484 --> 00:28:56,707
+[SPEAKER_01]: I mean, what I was referring to as well, like, the fact that, let's say somebody is in a conversation and now the... like, one of the people starts...
+
+314
+00:28:56,727 --> 00:28:57,988
+[SPEAKER_01]: I'm just giving an example.
+
+315
+00:28:58,028 --> 00:29:04,969
+[SPEAKER_01]: One of the people, like, sort of, eh... points out to something, the other one has done wrong.
+
+316
+00:29:05,209 --> 00:29:09,850
+[SPEAKER_01]: Like, let's say, like, you have acted irresponsibly or something like that.
+
+317
+00:29:10,791 --> 00:29:11,991
+[SPEAKER_01]: And now, like,
+
+318
+00:29:13,022 --> 00:29:17,587
+[SPEAKER_01]: What happens for most people in this kind of situation, because speaking is especially difficult, like...
+
+319
+00:29:18,317 --> 00:29:20,839
+[SPEAKER_01]: They will automatically just want to defend themselves.
+
+320
+00:29:20,959 --> 00:29:27,343
+[SPEAKER_01]: Like, automatically, you just will reply without any... without considering or without thinking about it, without... Sure.
+
+321
+00:29:27,363 --> 00:29:34,428
+[SPEAKER_01]: Like, even if... even if you know... like, even if you want to practice or you know that, like, I am not supposed to...
+
+322
+00:29:34,528 --> 00:29:36,309
+[SPEAKER_01]: I don't want to react in this way.
+
+323
+00:29:36,329 --> 00:29:41,152
+[SPEAKER_01]: I don't want to, like, act defensively or I don't want to... like, I don't want to behave in this way.
+
+324
+00:29:41,212 --> 00:29:43,374
+[SPEAKER_01]: I don't want to behave, like, in this sort of angry,
+
+325
+00:29:45,693 --> 00:29:52,319
+[SPEAKER_01]: The reaction, like, the mind makes the reaction before you are able to, like, practice restraint in it.
+
+326
+00:29:52,339 --> 00:29:54,281
+[SPEAKER_01]: And then, people only realize afterwards.
+
+327
+00:29:54,321 --> 00:29:55,482
+[SPEAKER_01]: Like, you become... Sure.
+
+328
+00:29:55,502 --> 00:29:56,283
+[SPEAKER_01]: Then, you have regret.
+
+329
+00:29:56,343 --> 00:29:57,184
+[SPEAKER_01]: Oh, no, I said that.
+
+330
+00:29:57,224 --> 00:29:58,145
+[SPEAKER_01]: I shouldn't have said that.
+
+331
+00:29:58,305 --> 00:29:59,986
+[SPEAKER_01]: Sure.
+
+332
+00:30:00,787 --> 00:30:11,157
+[SPEAKER_01]: So, so, like, in this, in this sense, the, like, the choice of react... the choice of replying in a defensive way or in a kind of angry way,
+
+333
+00:30:11,943 --> 00:30:21,490
+[SPEAKER_01]: This is something that, because at that, at that moment, there was no awareness there, there was no, like, block, there was nothing to, like, to, to stop it from arising.
+
+334
+00:30:21,730 --> 00:30:25,653
+[SPEAKER_01]: Like, the mind makes business by, by itself, and then you realize afterwards.
+
+335
+00:30:26,113 --> 00:30:33,058
+[SPEAKER_01]: So, so what I was kind of wondering is, is, like, is this what you...
+
+336
+00:30:33,418 --> 00:30:36,801
+[SPEAKER_01]: I was wondering if this, if this is part of what you were referring to in the
+
+337
+00:30:37,903 --> 00:30:45,344
+[SPEAKER_01]: In the sense, like, the difference between... like, you have all the... you have the option of not replying in that way, of not reacting defensively.
+
+338
+00:30:45,704 --> 00:30:59,927
+[SPEAKER_02]: You do have the... like, you do have the choice, but because the... because the mind is sort of... like, it just reacts automatically without you... without you being aware, without you knowing, and then, afterwards, you realize... Well, yeah, not quite, not quite.
+
+339
+00:30:59,947 --> 00:31:01,027
+[SPEAKER_02]: Then, at that point, you did...
+
+340
+00:31:01,227 --> 00:31:06,908
+[SPEAKER_00]: It's automatic at a time, and, as I said, the reason why it's automatic is because you maintain the basis for that.
+
+341
+00:31:07,945 --> 00:31:09,666
+[SPEAKER_00]: So, you want to see where the problem is.
+
+342
+00:31:10,026 --> 00:31:14,850
+[SPEAKER_00]: In the same sense, you know, having a fever, when you catch a virus, it's automatic.
+
+343
+00:31:15,510 --> 00:31:18,032
+[SPEAKER_00]: But, what if you learn how to prevent catching a virus?
+
+344
+00:31:18,292 --> 00:31:19,293
+[SPEAKER_00]: You won't get a fever.
+
+345
+00:31:19,813 --> 00:31:31,441
+[SPEAKER_00]: So, having a mind move and respond, even if you don't want to and you can't catch it in time, means you are doing something or maintaining something, on some level, that then makes that mind overwhelmed.
+
+346
+00:31:32,042 --> 00:31:36,225
+[SPEAKER_00]: And the very first thing, it's in the last talk we posted now, it comes down to that.
+
+347
+00:31:37,243 --> 00:31:40,424
+[SPEAKER_00]: Whether your value is towards management or towards uprooting.
+
+348
+00:31:41,944 --> 00:31:49,126
+[SPEAKER_00]: So, if you think you shouldn't be saying this, you shouldn't be doing that, that's on the level of management, which, as I said, everybody starts like that.
+
+349
+00:31:49,746 --> 00:31:51,066
+[SPEAKER_00]: But really, you want to see...
+
+350
+00:31:51,086 --> 00:31:52,166
+[SPEAKER_00]: I don't want to be affected.
+
+351
+00:31:52,206 --> 00:31:58,168
+[SPEAKER_00]: Whether I choose to speak or not, I should not be affected emotionally by what was said to me.
+
+352
+00:31:59,240 --> 00:32:00,821
+[SPEAKER_00]: And for that, you are responsible.
+
+353
+00:32:00,961 --> 00:32:06,483
+[SPEAKER_00]: And then, you realize, that is the basis for my mind automatically blurting things out that I shouldn't have said.
+
+354
+00:32:07,183 --> 00:32:08,163
+[SPEAKER_00]: I was affected.
+
+355
+00:32:08,943 --> 00:32:10,924
+[SPEAKER_00]: So, how can then I not be affected?
+
+356
+00:32:11,044 --> 00:32:13,005
+[SPEAKER_00]: Then, I don't have to worry what mind will say.
+
+357
+00:32:14,533 --> 00:32:19,199
+[SPEAKER_00]: Because it won't be rooted in self-defense, gratuitously, or something like that.
+
+358
+00:32:19,880 --> 00:32:21,262
+[SPEAKER_00]: Which means it won't be unwholesome.
+
+359
+00:32:21,742 --> 00:32:30,354
+[SPEAKER_00]: That's why Arahant doesn't need to worry about his actions, in a sense, because he knows whatever he chooses to do, will not be rooted in greed, aversion, or distraction, or delusion.
+
+360
+00:32:31,324 --> 00:32:33,085
+[SPEAKER_00]: So, in that sense, it's not automatic.
+
+361
+00:32:33,125 --> 00:32:34,365
+[SPEAKER_00]: That's what I mean.
+
+362
+00:32:34,425 --> 00:32:36,185
+[SPEAKER_00]: Mind blurting stuff, it's automatic.
+
+363
+00:32:36,305 --> 00:32:44,788
+[SPEAKER_00]: But you, through your other choices, when you're not affected, are maintaining the basis which then makes the mind blurt things out verbally.
+
+364
+00:32:45,648 --> 00:32:47,249
+[SPEAKER_00]: Or, for some people, physically as well.
+
+365
+00:32:51,530 --> 00:32:52,770
+[SPEAKER_02]: Okay.
+
+366
+00:32:57,432 --> 00:32:58,092
+[SPEAKER_02]: So...
+
+367
+00:32:59,650 --> 00:33:03,632
+[SPEAKER_02]: Now, I'm kind of jumping many subjects.
+
+368
+00:33:06,393 --> 00:33:12,355
+[SPEAKER_02]: But, yeah, no, I actually listened to your last talk yesterday.
+
+369
+00:33:13,856 --> 00:33:27,821
+[SPEAKER_02]: And, yeah, I agree with the point that it's not enough to just become angry, let's say, when somebody says something that
+
+370
+00:33:28,560 --> 00:33:29,841
+[SPEAKER_02]: And that's another thing, by the way.
+
+371
+00:33:29,861 --> 00:33:33,643
+[SPEAKER_02]: If the mind automatically blurs stuff out, means you haven't developed restraint sufficiently.
+
+372
+00:33:53,151 --> 00:34:02,317
+[SPEAKER_00]: Doesn't matter how pressing, whatever you want to defend yourself against, the choice of not acting out by body, by speech, by mind, always remains there.
+
+373
+00:34:02,357 --> 00:34:07,181
+[SPEAKER_00]: The fact that you acted out, the mind said something or thought something, means you need to develop more.
+
+374
+00:34:08,308 --> 00:34:17,112
+[SPEAKER_00]: You need to be able to hold it more without actually letting... and the more you become aware of that lack, so to speak, the more you'll be able to develop it.
+
+375
+00:34:17,152 --> 00:34:29,279
+[SPEAKER_00]: But if you think, not you specifically, but if a person might think, oh, the speech happened automatically, means you will not look for an upgrade there, because you don't feel responsible for it now.
+
+376
+00:34:29,379 --> 00:34:29,559
+[SPEAKER_00]: See?
+
+377
+00:34:29,679 --> 00:34:30,919
+[SPEAKER_00]: You said, oh, it's automatic.
+
+378
+00:34:31,280 --> 00:34:31,940
+[SPEAKER_00]: Wasn't my fault.
+
+379
+00:34:32,240 --> 00:34:35,322
+[SPEAKER_00]: My fault is later, or avoiding my fault is later what I do.
+
+380
+00:34:35,682 --> 00:34:35,842
+[SPEAKER_00]: No.
+
+381
+00:34:36,948 --> 00:34:41,754
+[SPEAKER_00]: It was automatic, but there is a certain basis for mind acting automatically.
+
+382
+00:34:42,395 --> 00:34:43,816
+[SPEAKER_00]: Basis that lacks the restraint.
+
+383
+00:34:44,297 --> 00:34:48,963
+[SPEAKER_00]: So, you can even... doesn't matter how automatic it is, you can always choose no.
+
+384
+00:34:49,904 --> 00:34:52,327
+[SPEAKER_00]: And that's the restraint, and then the wisdom can come out of it.
+
+385
+00:34:53,462 --> 00:34:57,906
+[SPEAKER_00]: So, even in a common sense of sense restraint, there is still something to be done there.
+
+386
+00:34:58,566 --> 00:35:01,969
+[SPEAKER_00]: Not necessarily, I must discern this basis and why am I affected in the first place.
+
+387
+00:35:02,009 --> 00:35:04,771
+[SPEAKER_00]: Yeah, that's all on the level of vipassana and developing wisdom.
+
+388
+00:35:05,412 --> 00:35:09,355
+[SPEAKER_00]: But even if you don't get any of them, you can still keep your mouth shut, literally.
+
+389
+00:35:10,556 --> 00:35:14,859
+[SPEAKER_00]: So, if you blurt out, means your verbal restraint hasn't been strengthened enough.
+
+390
+00:35:18,482 --> 00:35:19,523
+[SPEAKER_02]: Yeah, eh...
+
+391
+00:35:23,282 --> 00:35:25,624
+[SPEAKER_02]: Yes, I mean, like, it's still, I agree, it's still your fault.
+
+392
+00:35:25,664 --> 00:35:35,210
+[SPEAKER_02]: Like, if you still, if you kind of blurt out words automatically, then it's still your fault, but it's your fault kind of in the sense that you were not...
+
+393
+00:35:36,568 --> 00:35:40,170
+[SPEAKER_02]: You were not mindful enough and you were not restrained enough at that point.
+
+394
+00:35:40,210 --> 00:35:43,091
+[SPEAKER_00]: Yeah, and from the point of view of one who practices, that's a big fault.
+
+395
+00:35:43,711 --> 00:35:45,792
+[SPEAKER_00]: Without fixing that fault, there is no progress.
+
+396
+00:35:46,372 --> 00:35:47,713
+[SPEAKER_00]: So, it's not like...
+
+397
+00:35:47,733 --> 00:35:53,315
+[SPEAKER_00]: Okay, I mean, sure, it's not as bad as somebody who has no interest in practicing dhamma, but you don't want to be comparing to that side of things.
+
+398
+00:35:54,215 --> 00:35:56,497
+[SPEAKER_00]: So, restraint has not been developed.
+
+399
+00:35:56,537 --> 00:36:02,382
+[SPEAKER_00]: Thus, wisdom cannot arise in regard to speech, in regard to being affected by what other people say.
+
+400
+00:36:03,162 --> 00:36:09,047
+[SPEAKER_00]: I cannot uproot my emotional kind of vulnerability, so to speak, until I fix this first.
+
+401
+00:36:09,908 --> 00:36:10,868
+[SPEAKER_00]: So, that's what I mean.
+
+402
+00:36:10,969 --> 00:36:13,731
+[SPEAKER_00]: It's not automatic at all, in a sense.
+
+403
+00:36:13,751 --> 00:36:22,578
+[SPEAKER_00]: Like, it's just a symptom for which you're not directly responsible, in the sense of you are not generating the symptom, but you're fully responsible for the reason of that symptom.
+
+404
+00:36:24,857 --> 00:36:25,577
+[SPEAKER_02]: Yeah, yeah.
+
+405
+00:36:25,717 --> 00:36:42,745
+[SPEAKER_02]: I mean, yeah, when I say automatic, I kind of... it's a way of saying that, like, even though, like, you don't... yeah, it's the way of saying that you kind of don't deliberately sort of decide, now I will speak these words, because you know that you're not supposed to say them.
+
+406
+00:36:43,666 --> 00:36:44,486
+[SPEAKER_00]: That's what I mean.
+
+407
+00:36:44,506 --> 00:36:54,311
+[SPEAKER_00]: You need to actually start kind of fabricating and investing effort to develop responsibility for things that don't necessarily feel they are your fault.
+
+408
+00:36:55,533 --> 00:36:58,135
+[SPEAKER_00]: Because that's the only way to then actually approve things correctly.
+
+409
+00:37:03,639 --> 00:37:19,752
+[SPEAKER_02]: And, especially in regard to speech, it's a... like, it's an interesting point, because... like, this... because we have said and we both agree that you...
+
+410
+00:37:20,425 --> 00:37:28,791
+[SPEAKER_02]: If you are... if you are speaking things without considering, and then you then have regret later, then it's... it means that you're doing something wrong.
+
+411
+00:37:28,811 --> 00:37:34,815
+[SPEAKER_02]: It means that you haven't developed enough... enough restraint in regard to your speech, and you don't have enough mindfulness.
+
+412
+00:37:35,495 --> 00:37:48,744
+[SPEAKER_02]: But, like, the kind of mindfulness that needs... this is the point I'm trying to come to, actually, is the... the type of mindfulness that needs to be there in order to be able to practice restraint in regards to the words that you're saying.
+
+413
+00:37:49,174 --> 00:38:00,862
+[SPEAKER_02]: Obviously, it can't be just about being aware of, like, the sensation of sitting on the chair, or being, like, mindful of the... like, something outside object of your senses.
+
+414
+00:38:02,583 --> 00:38:15,032
+[SPEAKER_02]: But, like, so from... from my understanding, like, you need to be aware... basically, you need to be aware of your own mind, like, the... of how, like, the... of the fact that
+
+415
+00:38:16,488 --> 00:38:20,451
+[SPEAKER_02]: You're hearing these words, and now, what happens in your mind as you hear them?
+
+416
+00:38:21,852 --> 00:38:25,976
+[SPEAKER_02]: Does the mind react with anger or not?
+
+417
+00:38:27,898 --> 00:38:33,964
+[SPEAKER_02]: And now, even if it's reacting in anger, then if you are aware at that point, then you're able to stop it.
+
+418
+00:38:34,584 --> 00:38:36,646
+[SPEAKER_02]: But if you are not aware, then you're not able to stop it.
+
+419
+00:38:36,666 --> 00:38:38,027
+[SPEAKER_02]: Or, if you're more aware, then you can
+
+420
+00:38:41,239 --> 00:38:51,571
+[SPEAKER_00]: So, how would you then go about being aware of your mind?
+
+421
+00:38:51,731 --> 00:38:52,672
+[SPEAKER_00]: How would you do that then?
+
+422
+00:38:53,854 --> 00:38:58,980
+[SPEAKER_00]: How would you then not lose awareness of your mind, so then you don't say something out of carelessness?
+
+423
+00:39:01,815 --> 00:39:06,680
+[SPEAKER_02]: Well, if somebody is... but you need to just maintain awareness of your mind, essentially.
+
+424
+00:39:06,700 --> 00:39:07,981
+[SPEAKER_02]: It's something that you need to practice.
+
+425
+00:39:08,381 --> 00:39:10,764
+[SPEAKER_00]: No, but say I don't know what awareness of the mind is.
+
+426
+00:39:11,384 --> 00:39:14,387
+[SPEAKER_00]: Or, in other words, it might mean one thing for me, another thing for you.
+
+427
+00:39:15,268 --> 00:39:19,272
+[SPEAKER_00]: So, how can I understand what awareness of the mind is for you?
+
+428
+00:39:19,332 --> 00:39:20,653
+[SPEAKER_00]: How can I practically do it?
+
+429
+00:39:21,554 --> 00:39:23,656
+[SPEAKER_00]: I want to be aware of the mind the way you're describing.
+
+430
+00:39:23,756 --> 00:39:25,138
+[SPEAKER_00]: How can I go about and do that?
+
+431
+00:39:27,920 --> 00:39:38,406
+[SPEAKER_02]: Well, it's like not to look at what you see and what you hear, not that somebody is saying these words, but at that point, you have to maintain awareness of who hears.
+
+432
+00:39:38,586 --> 00:39:40,047
+[SPEAKER_02]: Like, what is hearing?
+
+433
+00:39:40,067 --> 00:39:48,192
+[SPEAKER_02]: At that place or at that point, who is hearing?
+
+434
+00:39:48,252 --> 00:39:49,012
+[SPEAKER_02]: Who is speaking?
+
+435
+00:39:49,072 --> 00:39:49,633
+[SPEAKER_02]: Who is acting?
+
+436
+00:39:49,733 --> 00:39:51,574
+[SPEAKER_02]: Or who is listening?
+
+437
+00:39:53,857 --> 00:40:03,163
+[SPEAKER_02]: Like, to be a... like, if you were aware at that point, now you know... like, to know... to know at the point where the words are... where the sound, example, is meeting the mind.
+
+438
+00:40:03,583 --> 00:40:05,505
+[SPEAKER_02]: Like, because when somebody is saying words...
+
+439
+00:40:05,665 --> 00:40:06,465
+[SPEAKER_02]: So, it is about...
+
+440
+00:40:06,646 --> 00:40:08,126
+[SPEAKER_00]: So, hold on, hold on, hold on.
+
+441
+00:40:08,607 --> 00:40:14,130
+[SPEAKER_00]: So, if it's about the point where the sound meets the mind, it is about things you see and hear.
+
+442
+00:40:14,331 --> 00:40:16,872
+[SPEAKER_00]: Because you started by saying it's not about things you see and hear.
+
+443
+00:40:17,953 --> 00:40:20,695
+[SPEAKER_00]: But if that's what you're paying attention, then it is about what you're hearing.
+
+444
+00:40:22,925 --> 00:40:32,089
+[SPEAKER_02]: No, but what I mean is not to the... not paying attention to the sound itself, but paying attention to how it is formed in the mind, like, how it is heard.
+
+445
+00:40:32,609 --> 00:40:35,690
+[SPEAKER_02]: The... like, for example, because I have...
+
+446
+00:40:35,710 --> 00:40:38,471
+[SPEAKER_02]: I mean, I cannot give many examples from my... from myself.
+
+447
+00:40:38,491 --> 00:40:43,453
+[SPEAKER_00]: Like, there is... Well, it's heard as an insult.
+
+448
+00:40:43,493 --> 00:40:45,394
+[SPEAKER_00]: For example, I heard an insult.
+
+449
+00:40:47,989 --> 00:40:53,471
+[SPEAKER_00]: So, I was aware of hearing the sound entering my ears and everything else, but it was an insult.
+
+450
+00:40:56,092 --> 00:41:01,614
+[SPEAKER_00]: So, how do I be aware of that, so I'm not insulted to begin with?
+
+451
+00:41:02,194 --> 00:41:09,197
+[SPEAKER_02]: But the point is that it's an insult only if you're... like, it's your mind that takes it as an insult.
+
+452
+00:41:09,277 --> 00:41:10,297
+[SPEAKER_02]: Like, I am insulted.
+
+453
+00:41:10,635 --> 00:41:12,196
+[SPEAKER_00]: Well, the mind took it already.
+
+454
+00:41:12,556 --> 00:41:14,938
+[SPEAKER_00]: So, how do I... how do I not be affected by that?
+
+455
+00:41:15,078 --> 00:41:19,981
+[SPEAKER_00]: Because everybody starts by already being insulted, affected, greedy, averse and so on.
+
+456
+00:41:22,123 --> 00:41:25,165
+[SPEAKER_00]: So, how do I then not be affected by the insulted mind?
+
+457
+00:41:26,746 --> 00:41:28,007
+[SPEAKER_00]: Do I analyze what I heard?
+
+458
+00:41:29,388 --> 00:41:29,908
+[SPEAKER_00]: What do I do?
+
+459
+00:41:30,368 --> 00:41:30,569
+[SPEAKER_01]: No.
+
+460
+00:41:30,689 --> 00:41:32,990
+[SPEAKER_00]: How do I be aware of it, so I'm not affected of it?
+
+461
+00:41:34,131 --> 00:41:35,192
+[SPEAKER_00]: With... by it, sorry.
+
+462
+00:41:37,273 --> 00:41:37,894
+[SPEAKER_02]: Affected by it.
+
+463
+00:41:37,914 --> 00:41:39,455
+[SPEAKER_02]: It doesn't matter.
+
+464
+00:41:42,637 --> 00:41:44,618
+[SPEAKER_02]: So, let me just get your question straight.
+
+465
+00:41:44,638 --> 00:41:49,540
+[SPEAKER_02]: So, how do you be aware of this in the way that you're not affected by it?
+
+466
+00:41:49,700 --> 00:41:52,281
+[SPEAKER_00]: Yeah, by the mind that is insulted.
+
+467
+00:41:55,902 --> 00:41:59,083
+[SPEAKER_00]: Because what you are describing to me sounds like I'm hoping...
+
+468
+00:42:00,960 --> 00:42:02,501
+[SPEAKER_00]: Well, that's what I'm trying to get to.
+
+469
+00:42:02,681 --> 00:42:15,129
+[SPEAKER_00]: Like, what you described to, it's like, I'm basically trying to set up this practice whereby I will hopefully not get insulted by analyzing sounds or paying attention to who hears or introducing these other questions.
+
+470
+00:42:15,169 --> 00:42:17,611
+[SPEAKER_00]: They will sort of, maybe, deflate the insult.
+
+471
+00:42:17,671 --> 00:42:25,156
+[SPEAKER_00]: But the fact is, the people start with an unenlightened mind, with a mind that's not free from greed, aversion, delusion, which means insult will be first.
+
+472
+00:42:25,636 --> 00:42:26,817
+[SPEAKER_00]: Lust will be first.
+
+473
+00:42:27,157 --> 00:42:28,678
+[SPEAKER_00]: Aversion will be first.
+
+474
+00:42:30,525 --> 00:42:32,627
+[SPEAKER_00]: So, how am I not affected in the first place?
+
+475
+00:42:32,707 --> 00:42:34,829
+[SPEAKER_00]: Not, how will I manage once I'm affected?
+
+476
+00:42:37,071 --> 00:42:41,074
+[SPEAKER_00]: How will I, whoever affected now, learn to not be affected by this?
+
+477
+00:42:44,016 --> 00:42:44,257
+[SPEAKER_02]: Yeah.
+
+478
+00:42:44,597 --> 00:42:50,101
+[SPEAKER_02]: So, first of all, I mean, I'm not really talking about analyzing the sound or something like that.
+
+479
+00:42:50,522 --> 00:42:54,305
+[SPEAKER_02]: It's just on the level of, like, awareness.
+
+480
+00:42:56,206 --> 00:42:56,447
+[SPEAKER_02]: But,
+
+481
+00:42:58,887 --> 00:43:24,633
+[SPEAKER_02]: But if you're... what you're asking is... so, like, if you're already affected, then... first of all, if you're... even if you're already affected, then at least if you have the... if you are aware enough at the... at the point of that, like, if you're aware of, like, being insulted, that the mind... that you're insulted, or that you've... that, like, this... this feeling of... of being insulted is there,
+
+482
+00:43:25,757 --> 00:43:31,440
+[SPEAKER_02]: Then, at least, you can decide not to speak based on that.
+
+483
+00:43:31,480 --> 00:43:31,700
+[SPEAKER_02]: Sure.
+
+484
+00:43:31,940 --> 00:43:32,580
+[SPEAKER_00]: Sense restraint.
+
+485
+00:43:32,640 --> 00:43:33,020
+[SPEAKER_02]: Okay.
+
+486
+00:43:34,321 --> 00:43:41,764
+[SPEAKER_02]: So, like, at least, then, if you are aware of that point of being being insulted, then you can decide not to speak based on that.
+
+487
+00:43:42,725 --> 00:43:53,669
+[SPEAKER_02]: But you have to be aware of, like, of what's going on in your mind, of the, like, feeling of being insulted that is there, in order to then practice restraint or not.
+
+488
+00:43:54,730 --> 00:43:55,050
+[SPEAKER_00]: Okay.
+
+489
+00:43:55,541 --> 00:44:02,344
+[SPEAKER_02]: But you can also, like, I mean, but if you, like, if you understand, first of all, there's many, there's different points.
+
+490
+00:44:02,384 --> 00:44:05,065
+[SPEAKER_02]: How do you not become affected in the first place?
+
+491
+00:44:05,806 --> 00:44:11,689
+[SPEAKER_02]: Like, I would say, partly, partly, it's based on, kind of, developing understanding.
+
+492
+00:44:13,289 --> 00:44:16,831
+[SPEAKER_02]: Like, understanding of the...
+
+493
+00:44:20,713 --> 00:44:22,954
+[SPEAKER_02]: I mean, this is more specific, but...
+
+494
+00:44:26,051 --> 00:44:37,096
+[SPEAKER_00]: So, why then would I need to ask myself... Why then would I need to ask myself who hears, and who's offended, and what did I hear, and what sound... Why is that relevant?
+
+495
+00:44:40,257 --> 00:44:50,882
+[SPEAKER_02]: No, but when I say, like, ask who hears, it's not as a kind of question that you kind of ask yourself or something to analyze.
+
+496
+00:44:51,322 --> 00:44:53,903
+[SPEAKER_02]: It's just as a way of sort of pointing to the place to be aware.
+
+497
+00:44:56,649 --> 00:44:59,271
+[SPEAKER_02]: But what's the question?
+
+498
+00:45:01,993 --> 00:45:03,214
+[SPEAKER_00]: Why would that be relevant?
+
+499
+00:45:03,254 --> 00:45:04,895
+[SPEAKER_00]: So, the sound did offend me.
+
+500
+00:45:04,995 --> 00:45:06,196
+[SPEAKER_00]: The sound was the problem.
+
+501
+00:45:09,176 --> 00:45:10,456
+[SPEAKER_02]: No, the sound is not the problem.
+
+502
+00:45:10,476 --> 00:45:11,497
+[SPEAKER_02]: The sound is a sound.
+
+503
+00:45:11,537 --> 00:45:12,797
+[SPEAKER_02]: This is the point, like, if you...
+
+504
+00:45:12,877 --> 00:45:16,478
+[SPEAKER_00]: So, then, it doesn't really matter, like, what I heard and who heard.
+
+505
+00:45:16,718 --> 00:45:17,898
+[SPEAKER_00]: It doesn't really... it's irrelevant.
+
+506
+00:45:18,038 --> 00:45:21,559
+[SPEAKER_00]: What matters is I'm affected, here and now.
+
+507
+00:45:21,579 --> 00:45:24,080
+[SPEAKER_00]: Doesn't matter why and who said what and to what extent.
+
+508
+00:45:24,280 --> 00:45:27,701
+[SPEAKER_00]: I don't need to pay attention to the words, even, in that sense.
+
+509
+00:45:29,121 --> 00:45:31,182
+[SPEAKER_00]: So, the problem is not in those things.
+
+510
+00:45:35,071 --> 00:45:36,632
+[SPEAKER_02]: No, it's not.
+
+511
+00:45:36,852 --> 00:45:39,373
+[SPEAKER_00]: So then, how am I aware of where the problem is?
+
+512
+00:45:39,693 --> 00:45:42,895
+[SPEAKER_00]: Because when I asked you, you described the sound and the question and so on.
+
+513
+00:45:43,235 --> 00:45:44,576
+[SPEAKER_00]: I'm sure it meant different, but it doesn't matter.
+
+514
+00:45:44,596 --> 00:45:49,878
+[SPEAKER_00]: The point is, even if you say, oh, you don't really ask a question, you just look for the place.
+
+515
+00:45:50,939 --> 00:45:51,259
+[SPEAKER_00]: Why?
+
+516
+00:45:51,939 --> 00:45:52,479
+[SPEAKER_00]: What place?
+
+517
+00:45:53,000 --> 00:45:54,380
+[SPEAKER_00]: Is it the place that I'm affected?
+
+518
+00:45:54,400 --> 00:45:55,981
+[SPEAKER_00]: It means, well, I am already affected.
+
+519
+00:45:56,001 --> 00:45:56,761
+[SPEAKER_00]: I already know that.
+
+520
+00:45:56,821 --> 00:45:58,002
+[SPEAKER_00]: I don't need to look for the place.
+
+521
+00:45:59,147 --> 00:46:00,267
+[SPEAKER_00]: So, what is the problem?
+
+522
+00:46:00,648 --> 00:46:01,468
+[SPEAKER_00]: Let me put it like that.
+
+523
+00:46:01,588 --> 00:46:03,169
+[SPEAKER_00]: What is the problem in being affected?
+
+524
+00:46:03,629 --> 00:46:05,710
+[SPEAKER_00]: What is the problem in an insult?
+
+525
+00:46:06,410 --> 00:46:07,090
+[SPEAKER_00]: Is it the words?
+
+526
+00:46:07,210 --> 00:46:07,891
+[SPEAKER_00]: Is it the person?
+
+527
+00:46:07,931 --> 00:46:08,731
+[SPEAKER_00]: Is it the attitude?
+
+528
+00:46:09,771 --> 00:46:11,232
+[SPEAKER_00]: Even is it my conceit?
+
+529
+00:46:11,452 --> 00:46:11,592
+[SPEAKER_00]: No.
+
+530
+00:46:11,712 --> 00:46:14,913
+[SPEAKER_00]: What is the problem there and then, while I'm insulted?
+
+531
+00:46:19,535 --> 00:46:21,396
+[SPEAKER_02]: What is the problem by being insulted?
+
+532
+00:46:21,536 --> 00:46:23,477
+[SPEAKER_02]: The fact is that you feel insulted already.
+
+533
+00:46:24,766 --> 00:46:28,587
+[SPEAKER_00]: Yeah, but what is the problem of an insult?
+
+534
+00:46:28,647 --> 00:46:32,468
+[SPEAKER_00]: Like, sometimes a person can say something to you and you're not insulted.
+
+535
+00:46:32,608 --> 00:46:35,189
+[SPEAKER_00]: Sometimes they say the same thing and now you're insulted.
+
+536
+00:46:35,289 --> 00:46:36,829
+[SPEAKER_00]: What's the difference between the two?
+
+537
+00:46:40,530 --> 00:46:46,671
+[SPEAKER_02]: The difference is because, example, like, you can hear the same insulting words from in a movie, example.
+
+538
+00:46:48,772 --> 00:46:49,232
+[SPEAKER_02]: Or, like,
+
+539
+00:46:50,232 --> 00:46:57,556
+[SPEAKER_02]: In another context, and now you will not get insulted, because it's not... because I'm not... Yeah, the same context.
+
+540
+00:46:57,636 --> 00:47:01,177
+[SPEAKER_00]: I'm not relating two different contexts, which would be two different experiences.
+
+541
+00:47:01,237 --> 00:47:05,719
+[SPEAKER_00]: The same experience, same context, same person, same occasion, same habit.
+
+542
+00:47:06,940 --> 00:47:10,902
+[SPEAKER_00]: Once I feel insulted, another occasion I don't, which is quite possible.
+
+543
+00:47:11,282 --> 00:47:12,983
+[SPEAKER_00]: What would be the difference between the two?
+
+544
+00:47:13,003 --> 00:47:14,183
+[SPEAKER_00]: It's not the words I hear.
+
+545
+00:47:15,244 --> 00:47:16,345
+[SPEAKER_00]: It's not even the mindset.
+
+546
+00:47:16,365 --> 00:47:19,346
+[SPEAKER_00]: I do recognize, look, he wants to insult me like yesterday.
+
+547
+00:47:21,078 --> 00:47:23,300
+[SPEAKER_00]: So, what would be the difference then, between the two?
+
+548
+00:47:26,824 --> 00:47:29,186
+[SPEAKER_00]: The one constitutes an insult... That you get affected by it or not?
+
+549
+00:47:29,447 --> 00:47:29,867
+[SPEAKER_00]: Exactly.
+
+550
+00:47:30,067 --> 00:47:35,533
+[SPEAKER_00]: Pain, suffering, unpleasantness, that you want to get rid of.
+
+551
+00:47:36,603 --> 00:47:39,025
+[SPEAKER_00]: So, you want to be mindful, you want to be aware.
+
+552
+00:47:39,705 --> 00:47:45,369
+[SPEAKER_00]: No need for sensations, no sound, nor self-questioning of the psychological nature.
+
+553
+00:47:45,610 --> 00:47:47,911
+[SPEAKER_00]: All of that will be done inevitably in the beginning.
+
+554
+00:47:47,971 --> 00:47:52,615
+[SPEAKER_00]: But you need to maintain the sight, like the eyes on the prize, which is... No.
+
+555
+00:47:52,895 --> 00:48:02,282
+[SPEAKER_00]: Fundamentally, the only reason insult, torture, anything is a problem, is because emotionally it's uncomfortable and I'm habitually resisting it.
+
+556
+00:48:02,996 --> 00:48:04,078
+[SPEAKER_00]: That's why I suffer.
+
+557
+00:48:04,559 --> 00:48:05,440
+[SPEAKER_00]: Not because of the words.
+
+558
+00:48:05,520 --> 00:48:08,245
+[SPEAKER_00]: Not because who hear the words, who is offended.
+
+559
+00:48:08,265 --> 00:48:15,457
+[SPEAKER_00]: It's because when the experience of disagreeable arises, endures in these five aggregates, there is craving against it.
+
+560
+00:48:16,432 --> 00:48:19,553
+[SPEAKER_00]: And, without a knowledge of that, it would be impossible.
+
+561
+00:48:19,653 --> 00:48:21,513
+[SPEAKER_00]: You... a person will never arrive at it.
+
+562
+00:48:22,253 --> 00:48:32,755
+[SPEAKER_00]: Doesn't matter how much management, how much meditation techniques, and vipassanas in the colloquial sense of the word, they do, because it all revolves around being affected already, and missing the point.
+
+563
+00:48:33,095 --> 00:48:39,797
+[SPEAKER_00]: Which means, for... even to the slightest degree, you miss that the point of insult is being unpleasant, and you resist that.
+
+564
+00:48:40,417 --> 00:48:41,637
+[SPEAKER_00]: To that extent, you will.
+
+565
+00:48:42,425 --> 00:48:53,738
+[SPEAKER_00]: At least implicitly assume it's the words, it's the person, it's something I've done, I wasn't mindful enough, I didn't do this, I didn't have my meditation, I made all these mistakes, I will not do those mistakes.
+
+566
+00:48:53,958 --> 00:49:02,008
+[SPEAKER_00]: All of that is secondary to the fact that, no, presence of craving means presence of suffering, not presence of unpleasant words, unpleasant actions, unpleasant thoughts.
+
+567
+00:49:03,594 --> 00:49:05,395
+[SPEAKER_00]: So, how would you be aware of that?
+
+568
+00:49:05,455 --> 00:49:07,975
+[SPEAKER_00]: You realize, ah, by recognizing where the problem is.
+
+569
+00:49:08,736 --> 00:49:11,256
+[SPEAKER_00]: So, mindfulness, knowledge go hand in hand.
+
+570
+00:49:11,636 --> 00:49:15,277
+[SPEAKER_00]: You will not be able to be mindful of these things, unless you start discerning them.
+
+571
+00:49:15,938 --> 00:49:19,839
+[SPEAKER_00]: And you will not be able to discern them, unless you actually hear about them, in that sense.
+
+572
+00:49:19,939 --> 00:49:20,479
+[SPEAKER_00]: That's why the...
+
+573
+00:49:21,732 --> 00:49:31,157
+[SPEAKER_00]: Two factors for the arising of the right view is the right instruction and the right yoniso manasikāra, the proper type of, like, knowing what the attention is, so to speak.
+
+574
+00:49:31,698 --> 00:49:40,523
+[SPEAKER_00]: Because if you just hear my actual words without a peripheral context of your own experience to which these words apply, you have no yoniso basis.
+
+575
+00:49:41,948 --> 00:49:47,152
+[SPEAKER_00]: So, you're just attending, literally, taking word for word, and mantras, and so on, like what people commonly do.
+
+576
+00:49:47,712 --> 00:49:49,693
+[SPEAKER_00]: Oh, this agent said that, that agent said this, and so on.
+
+577
+00:49:50,214 --> 00:49:57,699
+[SPEAKER_00]: I read the suttas, I study suttas, but, peripherally, you want to discern the context where this applies to you, here and now, this very moment.
+
+578
+00:49:58,239 --> 00:50:02,122
+[SPEAKER_00]: Which is why, this very moment, the roots of suffering are being maintained by you.
+
+579
+00:50:03,585 --> 00:50:05,726
+[SPEAKER_00]: And that's exactly how you get even the confidence.
+
+580
+00:50:05,746 --> 00:50:09,889
+[SPEAKER_00]: Then, you're not even afraid of what you will hear in the future.
+
+581
+00:50:10,550 --> 00:50:12,411
+[SPEAKER_00]: What people will do to you in the future.
+
+582
+00:50:13,071 --> 00:50:17,094
+[SPEAKER_00]: Because the place where the pain is, has been uprooted.
+
+583
+00:50:17,835 --> 00:50:18,735
+[SPEAKER_00]: Which is the craving.
+
+584
+00:50:19,456 --> 00:50:21,877
+[SPEAKER_00]: So, it doesn't really matter what comes this way.
+
+585
+00:50:22,878 --> 00:50:24,199
+[SPEAKER_00]: The basis of suffering is gone.
+
+586
+00:50:24,419 --> 00:50:28,242
+[SPEAKER_00]: Because suffering was never in things that were coming through your ears, eyes and so on.
+
+587
+00:50:28,622 --> 00:50:30,283
+[SPEAKER_00]: Not even through your thoughts, so to speak.
+
+588
+00:50:31,688 --> 00:50:41,832
+[SPEAKER_00]: It was in your own ignorance of, basically, your own attitude towards your own presently enduring feeling, here and now.
+
+589
+00:50:42,352 --> 00:50:43,253
+[SPEAKER_02]: Yeah.
+
+590
+00:50:43,493 --> 00:50:56,538
+[SPEAKER_02]: This point of, if I can paraphrase, generally, yeah, that you suffer, but mainly what makes it suffering, what makes something suffering, is because
+
+591
+00:50:57,129 --> 00:50:58,330
+[SPEAKER_02]: You... because of craving.
+
+592
+00:50:58,350 --> 00:51:05,175
+[SPEAKER_02]: Like, what makes anything suffering is because that you, like, want to get rid of it or you want... or want something.
+
+593
+00:51:05,876 --> 00:51:07,157
+[SPEAKER_00]: No, you're already doing it.
+
+594
+00:51:07,177 --> 00:51:07,637
+[SPEAKER_00]: So that...
+
+595
+00:51:08,098 --> 00:51:09,699
+[SPEAKER_00]: It's not, I want to get rid of it.
+
+596
+00:51:09,899 --> 00:51:11,481
+[SPEAKER_00]: I am already trying to get rid of it.
+
+597
+00:51:11,661 --> 00:51:14,723
+[SPEAKER_00]: That's why I already suffer.
+
+598
+00:51:14,783 --> 00:51:16,825
+[SPEAKER_00]: It's not on the level of choosing or not choosing.
+
+599
+00:51:17,125 --> 00:51:20,688
+[SPEAKER_00]: You're already... if you're already suffering, if you're already affected, you're already getting rid of it.
+
+600
+00:51:23,971 --> 00:51:24,191
+[SPEAKER_02]: Yeah.
+
+601
+00:51:25,322 --> 00:51:52,183
+[SPEAKER_02]: And the point where... there was one point that you mentioned, thus... like again... just again in regard to the same example, like hearing... hearing insulting words, thus there is a... because there is... now you mentioned unpleasant feeling arises, has arisen, that you were trying to get rid of, and this is what makes this painful or suffering, if I got it right.
+
+602
+00:51:56,304 --> 00:52:12,797
+[SPEAKER_02]: But for somebody who's got rid of craving, and got rid of their self-centered point of view, let's say, how does the unpleasant feeling of being insulted arise?
+
+603
+00:52:14,839 --> 00:52:16,000
+[SPEAKER_02]: How can that be possible?
+
+604
+00:52:17,921 --> 00:52:19,843
+[SPEAKER_00]: The insult, the disagreeability of it.
+
+605
+00:52:21,386 --> 00:52:22,367
+[SPEAKER_00]: But they're not resisting it.
+
+606
+00:52:22,388 --> 00:52:23,970
+[SPEAKER_01]: So it's not... What's disagreeable about this?
+
+607
+00:52:24,631 --> 00:52:28,236
+[SPEAKER_00]: Well, the offensive attitude, the threatening attitude of the person.
+
+608
+00:52:28,356 --> 00:52:29,178
+[SPEAKER_00]: Perception of that.
+
+609
+00:52:29,258 --> 00:52:30,680
+[SPEAKER_00]: Perception is disagreeable of it.
+
+610
+00:52:32,082 --> 00:52:37,704
+[SPEAKER_00]: Like, same when the Buddha said, sometimes a monk asks him for instruction, he gives him the instruction, then he goes and does the opposite.
+
+611
+00:52:38,204 --> 00:52:40,924
+[SPEAKER_00]: Buddha sees him doing the opposite, not being restrained.
+
+612
+00:52:41,425 --> 00:52:43,365
+[SPEAKER_00]: And he said, the Tathāgata is disagreed with that.
+
+613
+00:52:43,765 --> 00:52:48,366
+[SPEAKER_00]: He experienced the disagreeable feeling, but that disagreeable feeling cannot overwhelm his mind.
+
+614
+00:52:48,426 --> 00:52:52,328
+[SPEAKER_00]: In other words, there is no craving in regard to disagreeability of that perception.
+
+615
+00:52:53,248 --> 00:52:53,788
+[SPEAKER_00]: It's not that...
+
+616
+00:52:54,792 --> 00:53:03,700
+[SPEAKER_00]: This person who is free from craving and arahant has no concept anymore of people's behavior or this is threatening, this is agreeable, this is disagreeable.
+
+617
+00:53:04,120 --> 00:53:04,240
+[SPEAKER_00]: No.
+
+618
+00:53:04,460 --> 00:53:05,961
+[SPEAKER_00]: He cannot be affected by it.
+
+619
+00:53:06,782 --> 00:53:10,005
+[SPEAKER_00]: But agreeability and disagreeability is still there and that's the difference.
+
+620
+00:53:13,667 --> 00:53:19,970
+[SPEAKER_02]: But in the sense that, yes, like the... like something is, okay, it's a... Now, I'm shouting at you.
+
+621
+00:53:20,130 --> 00:53:24,331
+[SPEAKER_00]: I'm shouting, I'm clenching my fists, I'm threatening to hit you, I'm calling you names.
+
+622
+00:53:24,371 --> 00:53:25,632
+[SPEAKER_00]: All of that is significant.
+
+623
+00:53:25,672 --> 00:53:26,412
+[SPEAKER_00]: You perceive that.
+
+624
+00:53:26,492 --> 00:53:28,573
+[SPEAKER_00]: You know what that means.
+
+625
+00:53:28,593 --> 00:53:31,034
+[SPEAKER_00]: Arahant does not lose the meaning of all these things.
+
+626
+00:53:31,554 --> 00:53:33,675
+[SPEAKER_00]: But he loses being emotionally overwhelmed by it.
+
+627
+00:53:36,159 --> 00:53:37,880
+[SPEAKER_02]: Then, you can judge, for example, the behavior.
+
+628
+00:53:38,080 --> 00:53:55,672
+[SPEAKER_02]: You can see, okay, if you start to shout at me and to threaten me and everything, okay, I can see, okay, he's acting out of anger, it's wrong, like, it's immoral, sort of, like, it's immoral behavior, but why would it be disagreeable for me?
+
+629
+00:53:56,292 --> 00:54:01,976
+[SPEAKER_02]: Like, the example, or hearing insulting words is, there's no reason for it to be disagreeable for me.
+
+630
+00:54:02,211 --> 00:54:04,833
+[SPEAKER_00]: Well, there is no reason to not be disagreeable either.
+
+631
+00:54:05,553 --> 00:54:08,975
+[SPEAKER_00]: You are not in a choice of how things arise for you.
+
+632
+00:54:09,595 --> 00:54:11,676
+[SPEAKER_00]: You just find things agreeing or disagreeing.
+
+633
+00:54:12,277 --> 00:54:22,463
+[SPEAKER_00]: Cold, hot... That's why the Buddha compared the words and abuse of others to should be endured like the way you endure the elements, you endure insects biting you.
+
+634
+00:54:22,523 --> 00:54:22,763
+[SPEAKER_01]: Yeah.
+
+635
+00:54:22,943 --> 00:54:30,827
+[SPEAKER_00]: So, you trying, why is it that disagreeable, is basically overstepping into the domain of natural perception and trying to say why is it like that.
+
+636
+00:54:30,847 --> 00:54:31,628
+[SPEAKER_00]: Doesn't matter why.
+
+637
+00:54:32,975 --> 00:54:37,958
+[SPEAKER_00]: The only thing you can know, and you are responsible for, is are you resisting the disagreeable?
+
+638
+00:54:39,119 --> 00:54:40,019
+[SPEAKER_00]: Are you fearing it?
+
+639
+00:54:40,039 --> 00:54:40,980
+[SPEAKER_00]: Are you trying to get rid of it?
+
+640
+00:54:41,020 --> 00:54:42,721
+[SPEAKER_00]: Are you trying to prevent it out of fear and so on?
+
+641
+00:54:43,401 --> 00:54:45,222
+[SPEAKER_00]: And are you trying to prolong the agreeable?
+
+642
+00:54:45,262 --> 00:54:47,203
+[SPEAKER_00]: Are you existentially dependent upon agreeable?
+
+643
+00:54:47,883 --> 00:54:50,745
+[SPEAKER_00]: Why is there disagreeable and agreeable?
+
+644
+00:54:50,805 --> 00:54:54,787
+[SPEAKER_00]: It's basically like asking why the aggregate of saṅkhara is there?
+
+645
+00:54:54,987 --> 00:54:56,748
+[SPEAKER_00]: Why the aggregate of perception is there?
+
+646
+00:54:57,729 --> 00:55:01,451
+[SPEAKER_00]: That's kind of a meaningless question, because the question is the result of the aggregates being there.
+
+647
+00:55:05,758 --> 00:55:14,725
+[SPEAKER_02]: I'm not sure because in regard to the like disagreeable things that arise from... because, let's say, as... let's talk about...
+
+648
+00:55:14,765 --> 00:55:29,036
+[SPEAKER_02]: I mean, a sound can be... or like a... yeah, a sound can be something that like physically is... yeah, hearing a sound can be sort of physically painful for the ear, like I say, a really loud sound.
+
+649
+00:55:29,296 --> 00:55:29,516
+[SPEAKER_00]: Sure, sure.
+
+650
+00:55:29,536 --> 00:55:30,237
+[SPEAKER_02]: This is sort of a...
+
+651
+00:55:30,457 --> 00:55:31,358
+[SPEAKER_00]: So, it's disagreeable.
+
+652
+00:55:32,549 --> 00:55:37,852
+[SPEAKER_00]: You don't suffer, you don't fear it, but it's disagreeable in itself.
+
+653
+00:55:37,872 --> 00:55:38,132
+[SPEAKER_02]: Yeah.
+
+654
+00:55:38,952 --> 00:55:40,453
+[SPEAKER_02]: It's felt as disagreeable.
+
+655
+00:55:40,533 --> 00:55:44,335
+[SPEAKER_00]: So, asking why is it disagreeable, it's like asking why is there a sound.
+
+656
+00:55:44,775 --> 00:55:46,436
+[SPEAKER_00]: It's on the same footing.
+
+657
+00:55:47,977 --> 00:55:56,241
+[SPEAKER_02]: But what I was going to say is that the... like, disagreeable from hearing words is a bit different, because that's not something physical.
+
+658
+00:55:57,142 --> 00:55:59,723
+[SPEAKER_02]: It's only on the level of how the mind
+
+659
+00:56:00,602 --> 00:56:10,351
+[SPEAKER_02]: Well, there would be no...
+
+660
+00:56:10,691 --> 00:56:10,931
+[SPEAKER_00]: Right.
+
+661
+00:56:11,712 --> 00:56:13,294
+[SPEAKER_00]: Well, see, it's not the words.
+
+662
+00:56:13,594 --> 00:56:15,716
+[SPEAKER_00]: So, it's the context that you're still hearing.
+
+663
+00:56:15,816 --> 00:56:20,920
+[SPEAKER_00]: If you don't hear the movie, the mind will have no context of impersonal insult.
+
+664
+00:56:21,661 --> 00:56:26,826
+[SPEAKER_00]: So, whichever way your mind takes it, it did... it boils down to the sound you heard.
+
+665
+00:56:27,947 --> 00:56:29,048
+[SPEAKER_00]: Again, that's what the Buddha said.
+
+666
+00:56:29,108 --> 00:56:35,090
+[SPEAKER_00]: He... a skillful monk can use heat, cold, insect bites, abuse of others, and so on.
+
+667
+00:56:35,190 --> 00:56:37,251
+[SPEAKER_00]: It's on the level of elements besetting you.
+
+668
+00:56:38,412 --> 00:56:41,333
+[SPEAKER_00]: Because there is meaning even in meaningless sounds, so to speak.
+
+669
+00:56:41,433 --> 00:56:43,514
+[SPEAKER_00]: Meaning to the point of disagreeability.
+
+670
+00:56:44,174 --> 00:56:45,755
+[SPEAKER_00]: That's what it means, screeching sound.
+
+671
+00:56:46,815 --> 00:56:47,496
+[SPEAKER_00]: Agreeability.
+
+672
+00:56:47,516 --> 00:56:48,876
+[SPEAKER_00]: I don't... it's nothing specific.
+
+673
+00:56:48,936 --> 00:56:50,097
+[SPEAKER_00]: There are no words to it.
+
+674
+00:56:51,032 --> 00:56:55,034
+[SPEAKER_00]: But it's still, in its very essence, it suits or it disturbs.
+
+675
+00:56:55,454 --> 00:56:55,834
+[SPEAKER_00]: That's it.
+
+676
+00:56:56,575 --> 00:56:57,615
+[SPEAKER_00]: And same with the speech.
+
+677
+00:56:58,096 --> 00:57:03,458
+[SPEAKER_00]: Obviously, speech gets more elaborate because now there's all layers of meaning of the words and the language and designations.
+
+678
+00:57:04,199 --> 00:57:07,900
+[SPEAKER_00]: But fundamentally, none of that would exist if somebody didn't actually say it.
+
+679
+00:57:08,701 --> 00:57:09,841
+[SPEAKER_00]: If you didn't hear it.
+
+680
+00:57:11,102 --> 00:57:13,103
+[SPEAKER_00]: So, the sound is there still as a basis.
+
+681
+00:57:14,828 --> 00:57:20,291
+[SPEAKER_00]: And fundamentally, it doesn't matter how much it means, positively or negatively, what the person said.
+
+682
+00:57:20,831 --> 00:57:24,614
+[SPEAKER_00]: Fundamentally, it all remains bound with the sound that you heard, the words.
+
+683
+00:57:24,734 --> 00:57:27,275
+[SPEAKER_00]: So, it's agreeable or disagreeable, fundamentally.
+
+684
+00:57:29,116 --> 00:57:30,377
+[SPEAKER_00]: Pleasing or displeasing?
+
+685
+00:57:34,819 --> 00:57:41,403
+[SPEAKER_02]: Just the point I was trying to make, maybe it doesn't matter, but that the disagreeable is not in the sound.
+
+686
+00:57:41,443 --> 00:57:44,425
+[SPEAKER_02]: It's not because of the nature of the sound.
+
+687
+00:57:45,139 --> 00:57:50,483
+[SPEAKER_02]: It's only because of the nature of the meaning, if it's about words... That's where you're suffering.
+
+688
+00:57:50,523 --> 00:57:55,107
+[SPEAKER_00]: That's the difference between suffering on account of disagreeable and disagreeable I'm talking about.
+
+689
+00:57:56,207 --> 00:58:00,070
+[SPEAKER_00]: And the disagreeable I'm talking about is in the sound that you heard.
+
+690
+00:58:00,130 --> 00:58:02,432
+[SPEAKER_00]: That's as far as basically your responsibility goes.
+
+691
+00:58:03,953 --> 00:58:12,880
+[SPEAKER_00]: You can now overanalyze and say it's because they meant this or they meant that, but fundamentally none of that would be even there if you haven't heard it.
+
+692
+00:58:15,821 --> 00:58:16,701
+[SPEAKER_00]: It would not be relevant.
+
+693
+00:58:17,162 --> 00:58:18,542
+[SPEAKER_00]: It would be like a movie you didn't watch.
+
+694
+00:58:30,567 --> 00:58:43,493
+[SPEAKER_00]: And it's quite important what I'm saying is because if you do divorce agreeability and disagreeability from the perception through your senses, it enables you then to go through the analysis of the sound
+
+695
+00:58:44,587 --> 00:58:53,095
+[SPEAKER_00]: Not in an abstract sense, but like, who, where it came from, separate the meaning, which kind of basically feels almost as if you are dealing with a problem of it.
+
+696
+00:58:54,276 --> 00:58:54,696
+[SPEAKER_00]: But you're not.
+
+697
+00:58:55,196 --> 00:58:59,620
+[SPEAKER_00]: The problem is not that sound is agreeable or disagreeable or neither, maybe it's a neutral sound.
+
+698
+00:59:00,241 --> 00:59:07,047
+[SPEAKER_00]: The problem is that agreeability, disagreeability, neutrality, means basis for craving for you within you.
+
+699
+00:59:09,825 --> 00:59:19,739
+[SPEAKER_00]: But if you if you're focusing on the relationship between the sound and disagreeability, and why is it disagreeable, or why it shouldn't be, and the meaning and so on, means you're not dealing where the problem is.
+
+700
+00:59:20,339 --> 00:59:21,841
+[SPEAKER_00]: So, it doesn't matter why it's disagreeable.
+
+701
+00:59:22,322 --> 00:59:25,146
+[SPEAKER_00]: What matters is, is there craving against the disagreeable?
+
+702
+00:59:26,257 --> 00:59:29,979
+[SPEAKER_00]: Experience as a whole of somebody saying mean words to me.
+
+703
+00:59:29,999 --> 00:59:34,142
+[SPEAKER_00]: Doesn't matter the individual syllables, the words, the accent, none of that is relevant.
+
+704
+00:59:34,522 --> 00:59:35,783
+[SPEAKER_00]: Who they are is irrelevant.
+
+705
+00:59:36,003 --> 00:59:37,044
+[SPEAKER_00]: Why did they say this?
+
+706
+00:59:37,124 --> 00:59:38,104
+[SPEAKER_00]: Why do they want to hurt me?
+
+707
+00:59:39,065 --> 00:59:39,765
+[SPEAKER_00]: Absolutely irrelevant.
+
+708
+00:59:39,845 --> 00:59:44,028
+[SPEAKER_00]: What relevant is, the experience as a whole is disagreeable, and that's what I'm resisting.
+
+709
+00:59:44,108 --> 00:59:48,771
+[SPEAKER_00]: If I stop resisting the disagreeability, the actual violence cannot harm me anymore.
+
+710
+00:59:51,047 --> 00:59:57,829
+[SPEAKER_02]: So, how do you stop... what... like, what do you mean by resist... stopping to resist the disagreeable of it?
+
+711
+00:59:57,929 --> 00:59:58,429
+[SPEAKER_00]: How do you do that?
+
+712
+00:59:58,449 --> 00:59:59,669
+[SPEAKER_00]: Well, first see... first you need to see.
+
+713
+00:59:59,789 --> 01:00:00,069
+[SPEAKER_00]: Exactly.
+
+714
+01:00:00,109 --> 01:00:04,571
+[SPEAKER_00]: So, if you think disagreeability is not in the perception, you have misconceived it.
+
+715
+01:00:05,671 --> 01:00:09,872
+[SPEAKER_00]: If you think disagreeability is... equals your suffering, you have misconceived it.
+
+716
+01:00:10,896 --> 01:00:20,584
+[SPEAKER_00]: So, you need to see disagreeability of the experience as a whole, as a risen phenomena, that you did not necessarily create, and you have no say in it directly, but you are subjected to it.
+
+717
+01:00:21,365 --> 01:00:24,888
+[SPEAKER_00]: And that's why sense restraint needs to be done beforehand.
+
+718
+01:00:24,968 --> 01:00:34,576
+[SPEAKER_00]: Sense restraint that prevents one's mind from blaming the sound, or the person they said, or something, or attacking them, implying they are the cause for my suffering.
+
+719
+01:00:35,197 --> 01:00:38,519
+[SPEAKER_00]: So, you stop, you start restraining, then you still
+
+720
+01:00:39,360 --> 01:00:40,821
+[SPEAKER_00]: Try to analyze the disagreeable.
+
+721
+01:00:41,001 --> 01:00:41,841
+[SPEAKER_00]: Why did I say this?
+
+722
+01:00:41,941 --> 01:00:43,001
+[SPEAKER_00]: Why did I react like that?
+
+723
+01:00:43,081 --> 01:00:43,802
+[SPEAKER_00]: Maybe I shouldn't do it.
+
+724
+01:00:44,122 --> 01:00:45,002
+[SPEAKER_00]: Was I mindful enough?
+
+725
+01:00:45,162 --> 01:00:49,463
+[SPEAKER_00]: All of that revolves around the fact that you are resisting the disagreeable, which means you're not seeing it.
+
+726
+01:00:50,224 --> 01:00:52,585
+[SPEAKER_00]: You're not seeing it for what it is enduring there.
+
+727
+01:00:54,345 --> 01:01:01,267
+[SPEAKER_00]: But if you'd start, actually, if you stop investing effort in managing the disagreeable, it's like, no, disagreeability is present.
+
+728
+01:01:01,688 --> 01:01:02,848
+[SPEAKER_00]: Doesn't matter on account of what.
+
+729
+01:01:03,248 --> 01:01:05,309
+[SPEAKER_00]: And then refrain for as long as it takes.
+
+730
+01:01:06,607 --> 01:01:15,893
+[SPEAKER_00]: From jumping into the management of the disagreeable, then you get to see that all you have is disagreeability or agreeability and your attitude towards it.
+
+731
+01:01:16,154 --> 01:01:17,214
+[SPEAKER_00]: That's basically the core.
+
+732
+01:01:17,234 --> 01:01:18,435
+[SPEAKER_00]: That's the only relevance here.
+
+733
+01:01:19,116 --> 01:01:23,439
+[SPEAKER_00]: That's the gateway for any suffering, for any lust, for any aversion that will then be manifested.
+
+734
+01:01:25,340 --> 01:01:27,041
+[SPEAKER_00]: Are you welcoming the agreeable?
+
+735
+01:01:27,982 --> 01:01:32,365
+[SPEAKER_00]: Are you resisting the disagreeable as a pre-emptive attitude, pretty much, as a view?
+
+736
+01:01:33,567 --> 01:01:40,388
+[SPEAKER_00]: And the only way you can see the view in regard to agreeability or disagreeability is to first start seeing agreeability or disagreeability correctly.
+
+737
+01:01:41,229 --> 01:01:45,750
+[SPEAKER_00]: That's why the Buddha himself said, all I'm teaching is suffering, like, correctly.
+
+738
+01:01:45,890 --> 01:01:47,970
+[SPEAKER_00]: People don't even know what suffering is.
+
+739
+01:01:48,010 --> 01:01:50,290
+[SPEAKER_00]: All I'm teaching is dukkha and freedom from...
+
+740
+01:01:50,330 --> 01:01:53,751
+[SPEAKER_00]: So, I'm actually teaching you dukkha, like the Buddha would say.
+
+741
+01:01:54,871 --> 01:02:02,193
+[SPEAKER_00]: Means people, like, can suffer the utmost, the greatest misfortune and still completely have no idea what the actual dukkha is.
+
+742
+01:02:03,557 --> 01:02:05,098
+[SPEAKER_00]: So, dukkha and freedom from dukkha.
+
+743
+01:02:05,538 --> 01:02:07,439
+[SPEAKER_00]: Agreeability and freedom from agreeability.
+
+744
+01:02:07,579 --> 01:02:09,720
+[SPEAKER_00]: Disagreeability, freedom from disagreeability.
+
+745
+01:02:10,440 --> 01:02:14,081
+[SPEAKER_00]: But it needs to be seen for what it is.
+
+746
+01:02:23,565 --> 01:02:28,747
+[SPEAKER_00]: Because even when you have the view that... but disagreeability doesn't feel like it's in the words.
+
+747
+01:02:29,168 --> 01:02:29,668
+[SPEAKER_00]: All of that
+
+748
+01:02:30,725 --> 01:02:37,311
+[SPEAKER_00]: You have pretty much developed, inferred, maintained, on account of experiencing the disagreeable words first.
+
+749
+01:02:38,392 --> 01:02:46,399
+[SPEAKER_00]: And then, your mind, your thinking, took you into explaining that it's not in the words and so on, because it was first, and it remained first.
+
+750
+01:02:46,419 --> 01:02:47,540
+[SPEAKER_00]: So, you realize, it doesn't matter.
+
+751
+01:02:48,427 --> 01:02:50,168
+[SPEAKER_00]: As I said, whether it's in this...
+
+752
+01:02:50,188 --> 01:02:57,073
+[SPEAKER_00]: So, this point is, experience as a whole of certain words, in this particular instance, felt disagreeable and it was a problem for me.
+
+753
+01:02:57,734 --> 01:03:04,118
+[SPEAKER_00]: And that's why you gave in to all these reflections, basically revolving around trying to... to get rid of it, trying to free yourself from it.
+
+754
+01:03:06,280 --> 01:03:14,966
+[SPEAKER_02]: Yeah, but I agree, like, this is not... this is useless, like, to kind of analyze after the event is... like, you're too late, like, that you've already... you've already
+
+755
+01:03:15,815 --> 01:03:23,277
+[SPEAKER_02]: It was disagreeable, it was already a problem, and now you say, ah, it was only because of the... it was only... it was only because of the meaning, it was not because of the words.
+
+756
+01:03:23,297 --> 01:03:25,958
+[SPEAKER_02]: Yeah, well, that is useless.
+
+757
+01:03:28,239 --> 01:03:30,199
+[SPEAKER_02]: Yeah, this, eh... say agreed.
+
+758
+01:03:30,780 --> 01:03:43,843
+[SPEAKER_02]: And then, eh...
+
+759
+01:03:50,322 --> 01:04:11,088
+[SPEAKER_02]: Like, a bit of a related point, what if... because now we're talking about agreeable and disagreeable, but in... and, like, feeling, feeling suffering on account of that, but what I... like, I would say that also, like, you know, you can talk about it on that level, but I mean...
+
+760
+01:04:13,457 --> 01:04:18,082
+[SPEAKER_02]: There is the kind of additional problem, let's say, in getting angry about something.
+
+761
+01:04:19,163 --> 01:04:33,937
+[SPEAKER_02]: One is that it's disagreeable, but I think most people, like as a normal person, when you get angry, you don't even kind of notice that it's disagreeable, because you're so focusing on the object of it, the anger itself, you don't see it as disagreeable.
+
+762
+01:04:35,577 --> 01:04:44,585
+[SPEAKER_02]: The problem with anger is more that it's unwholesome, that it's wrong, that it's not good.
+
+763
+01:04:45,325 --> 01:04:58,436
+[SPEAKER_02]: So, from that point of view, you need to learn to not get angry in the first place.
+
+764
+01:05:15,088 --> 01:05:38,915
+[SPEAKER_02]: Like, if you kind of... if you are getting... if you are getting angry already, then... like, if you're getting angry and then kind of saying it's not... if you... if you allow yourself to get angry and to continue to get angry and to speak out of anger, like, and your aim... yeah, your aim can be to not get angry in the first place, but I would say you kind of have to start by first not allowing yourself to... not allowing the anger to continue.
+
+765
+01:05:39,656 --> 01:05:40,816
+[SPEAKER_00]: Well, that's... yeah, sure.
+
+766
+01:05:40,836 --> 01:05:43,717
+[SPEAKER_00]: That's why I say you need to start restraining yourself first.
+
+767
+01:05:45,831 --> 01:05:51,155
+[SPEAKER_00]: You're not going to see things on the level of your mind if your physical and verbal actions are not restrained beforehand.
+
+768
+01:05:51,195 --> 01:05:58,960
+[SPEAKER_00]: So, you have to stop acting out of anger, you have to stop acting out of lust, with a goal of not being affected by it in the first place.
+
+769
+01:06:00,882 --> 01:06:09,408
+[SPEAKER_00]: So, if you're still affected by it in the first place, not acting, well restrained, but affected in the first place, you still have a massive problem there.
+
+770
+01:06:11,129 --> 01:06:11,810
+[SPEAKER_00]: That's the root.
+
+771
+01:06:17,070 --> 01:06:21,834
+[SPEAKER_00]: And it doesn't matter if you're getting affected as much or I'm not getting affected as much.
+
+772
+01:06:21,974 --> 01:06:22,554
+[SPEAKER_00]: No.
+
+773
+01:06:22,594 --> 01:06:25,717
+[SPEAKER_00]: Nature of being affected is something I'm still susceptible to.
+
+774
+01:06:26,237 --> 01:06:28,039
+[SPEAKER_00]: Thus, it's still the massive problem.
+
+775
+01:06:28,359 --> 01:06:34,144
+[SPEAKER_00]: Because often, what happens when people get into practice, they start cultivating the environment that suits them, which is fine.
+
+776
+01:06:34,624 --> 01:06:37,687
+[SPEAKER_00]: But then, they start to depend on that environment.
+
+777
+01:06:38,207 --> 01:06:40,368
+[SPEAKER_00]: Whereby, you will have a protected environment.
+
+778
+01:06:40,388 --> 01:06:42,108
+[SPEAKER_00]: Well, you might be the senior monk.
+
+779
+01:06:42,208 --> 01:06:45,649
+[SPEAKER_00]: Nobody will be challenging you, offending you, questioning you.
+
+780
+01:06:46,110 --> 01:06:47,790
+[SPEAKER_00]: Nothing really to poke you around.
+
+781
+01:06:48,190 --> 01:06:52,912
+[SPEAKER_00]: So, you don't really have this anger arising anymore, because now you're basically the lord of the land.
+
+782
+01:06:53,732 --> 01:06:55,533
+[SPEAKER_00]: Everybody is your servant, so to speak.
+
+783
+01:06:55,613 --> 01:06:57,293
+[SPEAKER_00]: So, but that doesn't mean you dealt with it.
+
+784
+01:06:57,873 --> 01:06:59,154
+[SPEAKER_00]: So, that's why the Buddha would say...
+
+785
+01:06:59,174 --> 01:07:05,356
+[SPEAKER_00]: So, you then ask yourself, okay, I'm not experiencing any current anger, but can the unarisen anger arise for me?
+
+786
+01:07:06,365 --> 01:07:09,287
+[SPEAKER_00]: If you have no idea, means yes, you got your answer.
+
+787
+01:07:10,028 --> 01:07:17,494
+[SPEAKER_00]: So, and that should be regarded as the root of the problem, not the fact that most of my time I'm not lustful, most of my time I'm not angry.
+
+788
+01:07:17,914 --> 01:07:20,616
+[SPEAKER_00]: That's because of the circumstances or because you're an arahant.
+
+789
+01:07:20,696 --> 01:07:21,377
+[SPEAKER_00]: Which one is it?
+
+790
+01:07:23,258 --> 01:07:25,000
+[SPEAKER_00]: So, if a person is honest, they'll know the answer.
+
+791
+01:07:26,541 --> 01:07:26,821
+[SPEAKER_00]: But no.
+
+792
+01:07:26,901 --> 01:07:29,664
+[SPEAKER_00]: Often, often it's regarded as, oh, dhamma helps me.
+
+793
+01:07:29,764 --> 01:07:31,165
+[SPEAKER_00]: I don't get angry as much.
+
+794
+01:07:32,065 --> 01:07:33,347
+[SPEAKER_00]: Are you still liable to anger?
+
+795
+01:07:33,407 --> 01:07:33,647
+[SPEAKER_00]: Yes.
+
+796
+01:07:34,027 --> 01:07:34,828
+[SPEAKER_00]: That's not the dhamma.
+
+797
+01:07:34,868 --> 01:07:38,471
+[SPEAKER_00]: That's just your management on account of how you took dhamma to be.
+
+798
+01:07:38,711 --> 01:07:40,172
+[SPEAKER_00]: But dhamma actually will uproot it.
+
+799
+01:07:41,893 --> 01:07:43,695
+[SPEAKER_00]: Means you will be incapable of anger.
+
+800
+01:07:49,022 --> 01:07:55,545
+[SPEAKER_02]: It reminded me of that story with the mistress Veda Hika, I think, and the one, the maid servant.
+
+801
+01:07:55,565 --> 01:08:00,827
+[SPEAKER_02]: The mistress was supposed to be so patient and so kind and so calm.
+
+802
+01:08:00,867 --> 01:08:01,827
+[SPEAKER_00]: She was testing her, yeah.
+
+803
+01:08:01,847 --> 01:08:02,867
+[SPEAKER_02]: Maid servant, yeah.
+
+804
+01:08:03,127 --> 01:08:04,208
+[SPEAKER_02]: I'm a tester.
+
+805
+01:08:05,088 --> 01:08:10,070
+[SPEAKER_00]: Yeah.
+
+806
+01:08:14,372 --> 01:08:14,912
+[SPEAKER_02]: So...
+
+807
+01:08:19,727 --> 01:08:21,067
+[SPEAKER_02]: It's a good point.
+
+808
+01:08:21,107 --> 01:08:21,928
+[SPEAKER_02]: It's true like this.
+
+809
+01:08:22,028 --> 01:08:30,512
+[SPEAKER_02]: I mean, I was wondering even... because I'm not a monk and I don't... or a nun and we don't live like that.
+
+810
+01:08:32,133 --> 01:08:43,619
+[SPEAKER_02]: So, it's kind of interesting way of practicing here that you have kind of plenty of opportunity to see that, like,
+
+811
+01:08:45,802 --> 01:08:49,966
+[SPEAKER_02]: Anger can arise, or like the... that these... that these things can arise.
+
+812
+01:08:49,986 --> 01:08:55,230
+[SPEAKER_02]: You're not in sort of a position where you... when you're never being confronted by anybody.
+
+813
+01:08:55,310 --> 01:09:02,336
+[SPEAKER_02]: So, in one sense, I would say, that's almost a useful thing, because you have to kind of be confronted by the... by the fact that...
+
+814
+01:09:02,416 --> 01:09:03,317
+[SPEAKER_00]: In a way, exactly.
+
+815
+01:09:03,657 --> 01:09:06,319
+[SPEAKER_00]: I think if... it can be... it can be beneficial for people.
+
+816
+01:09:06,359 --> 01:09:13,125
+[SPEAKER_00]: But that's... again, that's another place for peripheral awareness, whichever... whichever way we want to call it, would be handy, would... would actually
+
+817
+01:09:14,210 --> 01:09:15,612
+[SPEAKER_00]: Like, result in knowledge.
+
+818
+01:09:16,092 --> 01:09:20,938
+[SPEAKER_00]: If people's practice is about current sensations and present moment, present moment, present moment...
+
+819
+01:09:21,198 --> 01:09:22,279
+[SPEAKER_00]: Presently, I have no lust.
+
+820
+01:09:22,359 --> 01:09:23,421
+[SPEAKER_00]: Presently, I have no ill will.
+
+821
+01:09:23,761 --> 01:09:24,141
+[SPEAKER_00]: That's it.
+
+822
+01:09:24,302 --> 01:09:25,183
+[SPEAKER_00]: That's my concern.
+
+823
+01:09:25,263 --> 01:09:25,963
+[SPEAKER_00]: Present moment.
+
+824
+01:09:26,564 --> 01:09:26,784
+[SPEAKER_00]: No.
+
+825
+01:09:27,165 --> 01:09:29,047
+[SPEAKER_00]: Future present moment should be your concern.
+
+826
+01:09:29,708 --> 01:09:31,450
+[SPEAKER_00]: Unarisen lust, can it arise?
+
+827
+01:09:32,410 --> 01:09:45,636
+[SPEAKER_00]: Oh, yeah, that's another present moment that I'm obviously ignoring because I'm so absorbed in present sensations and present breathing and presently being here and now, you know, judgment-free or whatever else, you know, people psychologize.
+
+828
+01:09:46,656 --> 01:09:47,476
+[SPEAKER_00]: Okay, that's fine.
+
+829
+01:09:47,556 --> 01:09:47,797
+[SPEAKER_00]: Great.
+
+830
+01:09:47,897 --> 01:09:49,497
+[SPEAKER_00]: So, the environment is suitable.
+
+831
+01:09:49,817 --> 01:09:50,878
+[SPEAKER_00]: You made some effort.
+
+832
+01:09:51,438 --> 01:09:52,999
+[SPEAKER_00]: Are you liable to lust?
+
+833
+01:09:53,339 --> 01:09:54,820
+[SPEAKER_00]: Are you liable to aversion?
+
+834
+01:09:55,520 --> 01:09:55,620
+[SPEAKER_00]: Oh,
+
+835
+01:09:56,583 --> 01:09:59,810
+[SPEAKER_00]: And if you are, you are presently liable, ironically enough.
+
+836
+01:10:00,231 --> 01:10:07,166
+[SPEAKER_00]: You're so absorbed in the present moment, that you don't see your present liability to the very things you think you're overcoming.
+
+837
+01:10:10,686 --> 01:10:15,570
+[SPEAKER_00]: See, the possibility of future lust, it's not present there, so you cannot attend to it.
+
+838
+01:10:15,590 --> 01:10:24,337
+[SPEAKER_00]: That's exactly why people have... people who are used to this kind of practice of just... just what's in front, have problem understanding what yoniso manasikāra is, the way we describe it.
+
+839
+01:10:24,377 --> 01:10:29,421
+[SPEAKER_00]: Have... cannot grasp peripheral, because if the moment they think it, they make it in the front.
+
+840
+01:10:30,041 --> 01:10:30,642
+[SPEAKER_00]: But it is there.
+
+841
+01:10:30,802 --> 01:10:32,383
+[SPEAKER_00]: A possibility of future lust.
+
+842
+01:10:32,463 --> 01:10:33,124
+[SPEAKER_00]: It's exactly that.
+
+843
+01:10:33,644 --> 01:10:37,627
+[SPEAKER_00]: See, it's an intention that persists there, because you're not free from lust.
+
+844
+01:10:38,488 --> 01:10:49,437
+[SPEAKER_00]: Arahant has no possibility of future lust, no intentions of lust, gone, uprooted, because he has made the effort on that right level, understood it.
+
+845
+01:10:54,040 --> 01:10:59,264
+[SPEAKER_02]: Okay, but yeah, this was a point in the video yesterday that I wanted to ask about anyway.
+
+846
+01:10:59,284 --> 01:11:07,051
+[SPEAKER_02]: So, like, when you say the possibility of future, like, the possibility of future
+
+847
+01:11:08,193 --> 01:11:16,621
+[SPEAKER_02]: A possibility of future lust means its current liability.
+
+848
+01:11:16,721 --> 01:11:17,742
+[SPEAKER_02]: And that's a problem.
+
+849
+01:11:30,040 --> 01:11:31,841
+[SPEAKER_02]: It basically means that you haven't uprooted it.
+
+850
+01:11:31,961 --> 01:11:35,643
+[SPEAKER_02]: Like, as long as it's there because you have not uprooted it.
+
+851
+01:11:35,923 --> 01:11:36,323
+[SPEAKER_00]: Yeah.
+
+852
+01:11:36,343 --> 01:11:39,104
+[SPEAKER_00]: It means you haven't actually, yeah, you haven't fixed the problem.
+
+853
+01:11:39,184 --> 01:11:48,288
+[SPEAKER_00]: So, everything else that's around you, like, oh, most of the time I'm not angry, most of the time I'm not lustful, that's all circumstantial and should be regarded as such for as long as you don't uproot it.
+
+854
+01:11:48,808 --> 01:11:49,809
+[SPEAKER_00]: That's the true freedom.
+
+855
+01:11:51,149 --> 01:11:57,032
+[SPEAKER_00]: But many people, by just focusing on what's in front, what's in front is that I don't get lustful, don't get angry.
+
+856
+01:11:57,612 --> 01:11:57,772
+[SPEAKER_00]: Oh, I
+
+857
+01:11:59,983 --> 01:12:04,967
+[SPEAKER_00]: But until you get lustful or angry, then you quickly deal with it, and then you say, well, most of the time I'm fine.
+
+858
+01:12:07,289 --> 01:12:11,792
+[SPEAKER_00]: But if you're honest, you would see, being liable to it, that's where the problem is rooted.
+
+859
+01:12:11,852 --> 01:12:13,173
+[SPEAKER_00]: So, am I free from that or not?
+
+860
+01:12:13,633 --> 01:12:17,777
+[SPEAKER_00]: If not, means most of the time circumstances suit me and they don't challenge me.
+
+861
+01:12:17,917 --> 01:12:23,461
+[SPEAKER_00]: If that were to change, my mind would be overwhelmed by those things that I basically think I uprooted.
+
+862
+01:12:27,473 --> 01:12:31,614
+[SPEAKER_00]: And you don't want to wait for that to tell you, to happen, because it would be too late to deal with it.
+
+863
+01:12:33,855 --> 01:12:34,095
+[SPEAKER_02]: Yeah.
+
+864
+01:12:34,815 --> 01:12:49,558
+[SPEAKER_02]: I mean, like, yeah, I see that it's, like, it's, it's a useful, it can be, like, it's a useful thing to, like, ask yourself or to put this kind of pressure on yourself to, eh... say, okay, even if I'm not getting angry right now, I can get angry or could I...
+
+865
+01:12:49,599 --> 01:12:50,299
+[SPEAKER_02]: It's necessary.
+
+866
+01:12:50,339 --> 01:12:51,419
+[SPEAKER_00]: It's not, it's not optional.
+
+867
+01:12:51,459 --> 01:12:52,819
+[SPEAKER_00]: It's completely, it's absolutely...
+
+868
+01:12:52,859 --> 01:12:55,140
+[SPEAKER_00]: It's the only gateway towards right uprooting.
+
+869
+01:12:55,950 --> 01:12:57,051
+[SPEAKER_00]: Everything else is management.
+
+870
+01:12:57,811 --> 01:13:11,380
+[SPEAKER_00]: Even if all you do is read the suttas and practice, unless it's done through this gateway of liability to dukkha, one way or the other, it's going to be on the level of management.
+
+871
+01:13:12,381 --> 01:13:23,348
+[SPEAKER_02]: Okay, but the question I had was about, like, why do you... because, I mean, is dukkha not present anyway
+
+872
+01:13:23,938 --> 01:13:31,862
+[SPEAKER_02]: Now, in your current experience, if you are like... because it's present... is it not present anyway?
+
+873
+01:13:32,742 --> 01:13:35,844
+[SPEAKER_02]: Like, why do you need to think about the liability for it in the future?
+
+874
+01:13:35,924 --> 01:13:38,885
+[SPEAKER_00]: Because that's what dukkha is.
+
+875
+01:13:38,905 --> 01:13:41,106
+[SPEAKER_00]: Dukkha, uneasiness, dis-ease.
+
+876
+01:13:41,506 --> 01:13:42,106
+[SPEAKER_00]: That's what it is.
+
+877
+01:13:42,287 --> 01:13:42,887
+[SPEAKER_00]: Liability.
+
+878
+01:13:43,907 --> 01:13:48,349
+[SPEAKER_00]: I mean, the divine messenger, the Buddha, wasn't sick, wasn't old and wasn't dead.
+
+879
+01:13:49,610 --> 01:13:51,291
+[SPEAKER_00]: But he recognizes inevitability.
+
+880
+01:13:51,983 --> 01:13:56,245
+[SPEAKER_00]: So, if he just focused on whether it was present, he wouldn't have seen those things as divine messages.
+
+881
+01:13:56,626 --> 01:14:00,648
+[SPEAKER_00]: So, you need even wisdom to recognize where the problem is, let alone to begin dealing with it.
+
+882
+01:14:04,818 --> 01:14:15,128
+[SPEAKER_00]: The fact that you're liable to suffering, if you recognize the liability currently, it's currently unpleasant.
+
+883
+01:14:15,648 --> 01:14:20,272
+[SPEAKER_00]: So, actually, dukkha is present for everyone who is not free from it, from that liability.
+
+884
+01:14:20,392 --> 01:14:21,433
+[SPEAKER_00]: It's just that it's not seen.
+
+885
+01:14:21,934 --> 01:14:25,537
+[SPEAKER_00]: Hence, the Buddha teaches dukkha first and then freedom from it.
+
+886
+01:14:26,758 --> 01:14:28,920
+[SPEAKER_00]: Most people won't even see that liability as a problem.
+
+887
+01:14:32,273 --> 01:14:43,960
+[SPEAKER_02]: I mean, yeah, like pay... when you pay attention to the idea that you are... that you're subject to suffering, this is unpleasant, or this can be... this can be unpleasant.
+
+888
+01:14:44,881 --> 01:14:47,463
+[SPEAKER_02]: That is... it is unpleasant.
+
+889
+01:14:49,604 --> 01:15:01,832
+[SPEAKER_02]: But if you don't pay attention to the idea of the fact that you can... that you will suffer, that you will get old, that you will get sick, that you will die, you don't pay attention to that, then you don't feel that is suffering.
+
+890
+01:15:02,375 --> 01:15:04,436
+[SPEAKER_00]: Yeah, that's where you need to start paying attention to it.
+
+891
+01:15:05,137 --> 01:15:06,338
+[SPEAKER_00]: Because it is your reality.
+
+892
+01:15:06,438 --> 01:15:07,158
+[SPEAKER_00]: It's unavoidable.
+
+893
+01:15:07,678 --> 01:15:14,583
+[SPEAKER_00]: You can choose to not pay attention to things that are avoidable, but it's an unwise thing to not pay attention to things that are unavoidable.
+
+894
+01:15:15,343 --> 01:15:16,324
+[SPEAKER_00]: The divine messengers.
+
+895
+01:15:16,944 --> 01:15:22,127
+[SPEAKER_00]: I mean, yeah, if you don't pay attention to sight, sound, smell, taste, touches that bother you, they'll stop bothering you.
+
+896
+01:15:22,488 --> 01:15:25,609
+[SPEAKER_00]: The fact is, you can be bothered and you will be bothered first.
+
+897
+01:15:26,350 --> 01:15:29,492
+[SPEAKER_00]: So, you choosing to not pay attention is you choosing to ignore the problem.
+
+898
+01:15:31,076 --> 01:15:34,618
+[SPEAKER_00]: I mean, if you if you don't accept that you are ill, you'll think you're healthy.
+
+899
+01:15:36,580 --> 01:15:36,840
+[SPEAKER_02]: Yeah.
+
+900
+01:15:38,881 --> 01:15:43,004
+[SPEAKER_00]: And that is pretty much the common world's sort of way of dealing with the problem.
+
+901
+01:15:43,825 --> 01:15:44,485
+[SPEAKER_00]: Just ignore it.
+
+902
+01:15:44,705 --> 01:15:45,506
+[SPEAKER_00]: Just ignore the problem.
+
+903
+01:15:45,886 --> 01:15:46,387
+[SPEAKER_00]: It's not there.
+
+904
+01:15:46,687 --> 01:15:47,607
+[SPEAKER_00]: Don't pay attention to it.
+
+905
+01:15:48,628 --> 01:15:52,891
+[SPEAKER_00]: Absorb yourself with your nostrils or soles of feet or where the chair touches you or something.
+
+906
+01:15:53,411 --> 01:15:58,615
+[SPEAKER_00]: Don't pay attention to your current liability of your existence, because it's just too overwhelming.
+
+907
+01:16:03,320 --> 01:16:06,643
+[SPEAKER_02]: And what do you mean exactly by, like, paying attention...
+
+908
+01:16:06,663 --> 01:16:10,327
+[SPEAKER_02]: I mean, you have the... you can have the idea that I will suffer in the future.
+
+909
+01:16:10,347 --> 01:16:21,557
+[SPEAKER_02]: Okay, so, like, then... and, like, I remember you, eh... and said in the video yesterday, like, you don't need to keep... you don't need to keep paying attention to the idea and keep paying attention to the idea that you will suffer in the future.
+
+910
+01:16:21,577 --> 01:16:27,943
+[SPEAKER_00]: Well, you need to pay... keep paying attention to that idea if... if the mind is liable to, like, just ignore the problem.
+
+911
+01:16:28,752 --> 01:16:40,041
+[SPEAKER_00]: But once you become aware of the problem, you start feeling that concern, that dukkha, then you don't have to keep paying attention to it in the same sense of, oh, am I li... because now you feel it that you are liable and you already know.
+
+912
+01:16:40,161 --> 01:16:45,705
+[SPEAKER_00]: So, what you feel becomes pretty much the exemplification of your knowledge of your situation.
+
+913
+01:16:46,746 --> 01:16:47,726
+[SPEAKER_00]: And that's exactly what I said.
+
+914
+01:16:47,746 --> 01:16:52,030
+[SPEAKER_00]: If a person does feel dukkha correctly, there are only two possible outcomes.
+
+915
+01:16:53,151 --> 01:16:54,772
+[SPEAKER_00]: Madness or noble search.
+
+916
+01:16:55,853 --> 01:16:57,333
+[SPEAKER_00]: There is no third possibility.
+
+917
+01:16:57,954 --> 01:17:06,016
+[SPEAKER_00]: If dukkha is seen correctly, mind will either go mad if it cannot deal with it, or if it has enough composure, it will seek, how do I uproot this?
+
+918
+01:17:07,577 --> 01:17:13,038
+[SPEAKER_00]: And most people never even allow that choice to manifest, even the ones that commit to the practice of dhamma and so on.
+
+919
+01:17:13,999 --> 01:17:23,062
+[SPEAKER_00]: It's all done on the level of management of the current disturbances, not on the level of uprooting my fundamental liability.
+
+920
+01:17:23,082 --> 01:17:24,422
+[SPEAKER_00]: Sickness, aging, death.
+
+921
+01:17:52,280 --> 01:17:59,565
+[SPEAKER_02]: So, I'm just trying to... Like, yeah.
+
+922
+01:17:59,585 --> 01:18:05,630
+[SPEAKER_02]: So, in the beginning, you... from the beginning, you need to recognize that you're... that... that, yeah, that you...
+
+923
+01:18:07,138 --> 01:18:15,620
+[SPEAKER_02]: You need to recognize, yeah, this is like to get the... to start practicing from the beginning with the right attitude.
+
+924
+01:18:16,140 --> 01:18:16,660
+[SPEAKER_02]: It should be this.
+
+925
+01:18:16,680 --> 01:18:19,801
+[SPEAKER_02]: Like, you have to know that you are sick in order to go see the doctor.
+
+926
+01:18:20,481 --> 01:18:27,883
+[SPEAKER_02]: Otherwise, yeah, if you don't know that you are sick, if you don't feel that you are sick, you don't go to see the doctor.
+
+927
+01:18:30,944 --> 01:18:35,085
+[SPEAKER_02]: But, like, what is still not that clear for me is, like, the...
+
+928
+01:18:45,237 --> 01:18:48,858
+[SPEAKER_02]: Because then, I mean, then you start to... then you have to start to practice, right?
+
+929
+01:18:48,878 --> 01:18:52,779
+[SPEAKER_02]: So, like, what I'm trying to understand is what... What the practice is.
+
+930
+01:18:52,799 --> 01:18:55,739
+[SPEAKER_02]: Like, what is the... what the practice is.
+
+931
+01:18:56,379 --> 01:18:57,560
+[SPEAKER_02]: It's... yeah.
+
+932
+01:18:57,700 --> 01:18:58,300
+[SPEAKER_02]: Well, that's the thing.
+
+933
+01:18:58,360 --> 01:18:59,520
+[SPEAKER_00]: If you start living...
+
+934
+01:18:59,900 --> 01:19:13,563
+[SPEAKER_00]: If you start living within the recognition of your pretty much perpetual liability to dukkha, pray to suffering, as we would say, and not give in to, like, psychologizing, managing, trying to explain it to yourself so you don't suffer as much,
+
+935
+01:19:15,058 --> 01:19:19,662
+[SPEAKER_00]: You will then abandon that which is basically liable to that suffering.
+
+936
+01:19:19,762 --> 01:19:27,428
+[SPEAKER_00]: So, you would then... and that's where this... all the other talks we did on the sense of ownership, anicca seen correctly, that's where it applies.
+
+937
+01:19:28,271 --> 01:19:33,395
+[SPEAKER_00]: Not on the level of explanation of the world as of, oh, yes, the modern science has said everything is impermanent.
+
+938
+01:19:33,415 --> 01:19:36,257
+[SPEAKER_00]: The Buddha has said, see, modern science and dhamma, it's the same.
+
+939
+01:19:36,337 --> 01:19:36,517
+[SPEAKER_00]: No.
+
+940
+01:19:37,277 --> 01:19:44,823
+[SPEAKER_00]: First, you need to feel that existential liability and then recognize that anicca and then give up that because of which you suffer.
+
+941
+01:19:45,623 --> 01:19:50,647
+[SPEAKER_00]: Give up your self-centeredness, give up the dependence on pleasure, all the upādānas the Buddha talked about.
+
+942
+01:19:51,548 --> 01:19:57,532
+[SPEAKER_00]: But only on the basis of that framework of I am liable and this needs to be uprooted.
+
+943
+01:19:59,760 --> 01:20:10,286
+[SPEAKER_00]: Because otherwise, if you take it, if you don't take it on that basis, sorry, if you don't take it on that basis, it will be taken through the attitude of management of the disturbance of suffering, not the uprooting of the liability to it.
+
+944
+01:20:24,273 --> 01:20:27,655
+[SPEAKER_02]: Yeah, I mean, like, what I was talking about was more about the
+
+945
+01:20:30,606 --> 01:20:31,106
+[SPEAKER_02]: I agree.
+
+946
+01:20:31,166 --> 01:20:37,788
+[SPEAKER_02]: You're trying to just managing and not have things that are disagreeable to you.
+
+947
+01:20:38,208 --> 01:20:42,449
+[SPEAKER_02]: Not to suffer so much.
+
+948
+01:20:43,169 --> 01:20:43,750
+[SPEAKER_02]: It's no use.
+
+949
+01:20:43,770 --> 01:20:51,332
+[SPEAKER_02]: For example, you will always just try to get away from the things that are disagreeable, but you won't try to remove the things that are agreeable.
+
+950
+01:20:52,012 --> 01:20:58,054
+[SPEAKER_00]: So, the management I'm referring to, it's not necessarily... it's not like a choice or people choose, I will manage.
+
+951
+01:20:58,758 --> 01:21:08,440
+[SPEAKER_00]: It's basically the default result if you're not operating within the recognition of liability to suffering.
+
+952
+01:21:09,601 --> 01:21:16,442
+[SPEAKER_00]: If you're not operating within the framework of that existential anxiety, you are managing your suffering, even unknowingly.
+
+953
+01:21:16,522 --> 01:21:27,445
+[SPEAKER_00]: Things you do will be on the level of management, not uprooting it, because you have, well, either have no recognition or have fallen from the recognition of that general anxious nature of your situation.
+
+954
+01:21:28,795 --> 01:21:30,300
+[SPEAKER_00]: dukkha, unease, disease.
+
+955
+01:21:32,206 --> 01:21:33,891
+[SPEAKER_00]: Not dukkha, oh, this is bothering me.
+
+956
+01:21:34,413 --> 01:21:35,577
+[SPEAKER_00]: That's all secondary to it.
+
+957
+01:21:47,436 --> 01:21:51,818
+[SPEAKER_02]: Yeah, because, I mean, dukkha is... if it's only when something is bothering you, then it's very easy.
+
+958
+01:21:51,858 --> 01:21:56,919
+[SPEAKER_02]: You can just try to find people to put yourself in a place where it doesn't bother you.
+
+959
+01:21:57,039 --> 01:22:02,121
+[SPEAKER_00]: The problem is not that people haven't heard enough of dhamma or haven't read enough of the suttas.
+
+960
+01:22:02,541 --> 01:22:11,585
+[SPEAKER_00]: The problem is that pretty much none of them, like all the people that practice, but without actually becoming arahants and so on, means something's wrong there.
+
+961
+01:22:12,385 --> 01:22:17,248
+[SPEAKER_00]: And it's not that there was lack of teachings or lack of suttas or Buddhist instruction or that it's not clear enough.
+
+962
+01:22:18,109 --> 01:22:25,893
+[SPEAKER_00]: It's that they never ever heard or learned on what level it needs to be applied and it was always stayed within the framework of management, unknowingly.
+
+963
+01:22:26,914 --> 01:22:27,695
+[SPEAKER_00]: So, that's what I mean.
+
+964
+01:22:27,955 --> 01:22:36,480
+[SPEAKER_00]: You have to stay within that recognition of that liability, prey to suffering, which is pretty much the framework of anxiety.
+
+965
+01:22:38,753 --> 01:22:45,778
+[SPEAKER_00]: So, that's why people would go mad if they stay on that level and often would, like, or quickly manage it because, yeah, they don't know any other way.
+
+966
+01:22:46,158 --> 01:22:56,206
+[SPEAKER_00]: So, you need to... Sense-restraint virtue is what will prevent you from going mental.
+
+967
+01:22:56,286 --> 01:22:57,186
+[SPEAKER_02]: Okay, so there's two things.
+
+968
+01:22:57,306 --> 01:23:03,551
+[SPEAKER_02]: Now, you said here... you said that sense-restraint and, like, morality is what prevents you from going mental.
+
+969
+01:23:03,571 --> 01:23:04,592
+[SPEAKER_02]: Yeah.
+
+970
+01:23:04,612 --> 01:23:07,434
+[SPEAKER_02]: And you said that...
+
+971
+01:23:12,455 --> 01:23:14,817
+[SPEAKER_00]: It will prevent you going mad on account of anxiety.
+
+972
+01:23:14,997 --> 01:23:16,558
+[SPEAKER_00]: It will not uproot the anxiety.
+
+973
+01:23:18,680 --> 01:23:18,900
+[SPEAKER_01]: Yeah.
+
+974
+01:23:19,560 --> 01:23:20,881
+[SPEAKER_00]: Then you can uproot it eventually.
+
+975
+01:23:24,864 --> 01:23:25,105
+[SPEAKER_02]: Yeah.
+
+976
+01:23:25,285 --> 01:23:32,070
+[SPEAKER_02]: And to put in, like, basically, from, from, if I, if I understand well, like, if you, if you, to practice correctly,
+
+977
+01:23:32,560 --> 01:23:39,001
+[SPEAKER_02]: If you want... if you practice rightly, and then you have to be always practicing with a view, basically, to the aim of... Uploading.
+
+978
+01:23:39,021 --> 01:23:41,542
+[SPEAKER_02]: ...of getting out of suffering.
+
+979
+01:23:42,002 --> 01:23:42,222
+[SPEAKER_02]: Yeah.
+
+980
+01:23:42,422 --> 01:23:45,303
+[SPEAKER_02]: Like, this has to be the aim constantly.
+
+981
+01:23:45,323 --> 01:23:46,003
+[SPEAKER_00]: Uploading the liability, yeah.
+
+982
+01:23:46,023 --> 01:23:48,264
+[SPEAKER_02]: Like, then everything should drive you towards this aim.
+
+983
+01:23:48,464 --> 01:23:49,104
+[SPEAKER_00]: Yeah, yeah.
+
+984
+01:23:50,784 --> 01:23:53,545
+[SPEAKER_02]: Like, this... this is what I... this is what I understand.
+
+985
+01:23:53,645 --> 01:23:54,825
+[SPEAKER_02]: Like, that you have to...
+
+986
+01:23:56,520 --> 01:24:01,206
+[SPEAKER_02]: The aim should be, always, at every moment, not to get out of the hurt.
+
+987
+01:24:01,447 --> 01:24:01,807
+[SPEAKER_00]: Exactly.
+
+988
+01:24:01,927 --> 01:24:04,411
+[SPEAKER_00]: But it's not an abstract aim, in a sense.
+
+989
+01:24:04,551 --> 01:24:07,515
+[SPEAKER_00]: It's not like, oh, I must keep this thought in my mind.
+
+990
+01:24:07,875 --> 01:24:08,817
+[SPEAKER_00]: It's the anxious aim.
+
+991
+01:24:09,357 --> 01:24:10,459
+[SPEAKER_00]: It's the aim you feel.
+
+992
+01:24:10,519 --> 01:24:12,201
+[SPEAKER_00]: Anxiety remains there.
+
+993
+01:24:12,978 --> 01:24:13,779
+[SPEAKER_00]: Liable to it.
+
+994
+01:24:14,340 --> 01:24:15,861
+[SPEAKER_00]: The aim is there, outlined.
+
+995
+01:24:16,262 --> 01:24:18,364
+[SPEAKER_00]: You don't need to think it anymore in that sense.
+
+996
+01:24:18,685 --> 01:24:19,265
+[SPEAKER_00]: What is my aim?
+
+997
+01:24:19,285 --> 01:24:19,846
+[SPEAKER_00]: What is my aim?
+
+998
+01:24:20,187 --> 01:24:28,196
+[SPEAKER_00]: But unless you have uncovered that liability of... that's anxious in its nature, then you have to drill and drill until you learn what dukkha is first.
+
+999
+01:24:35,463 --> 01:24:35,803
+[SPEAKER_02]: Yeah.
+
+1000
+01:24:35,823 --> 01:24:46,752
+[SPEAKER_02]: So, may I first, like, well, about, like, making this aim clear and then taking your actions in order to bring, taking every action or taking every practice in order to bring you closer to this aim?
+
+1001
+01:24:48,294 --> 01:24:49,034
+[SPEAKER_02]: This is correct.
+
+1002
+01:24:49,054 --> 01:24:50,415
+[SPEAKER_02]: This is aim clear above.
+
+1003
+01:24:54,158 --> 01:25:01,004
+[SPEAKER_02]: Then, feeling, like, do you mean that you should have to feel anxious constantly in practicing or no?
+
+1004
+01:25:01,893 --> 01:25:05,155
+[SPEAKER_00]: Well, you don't have to be, like, sort of trying to contrive anxiety.
+
+1005
+01:25:05,435 --> 01:25:07,836
+[SPEAKER_00]: But if you're thinking correctly, you will feel uneasy.
+
+1006
+01:25:07,896 --> 01:25:15,400
+[SPEAKER_00]: To what extent that uneasiness will be a threatening anxiety and fear or not, depends to what extent you basically developed your sīla and are able to hold it.
+
+1007
+01:25:15,980 --> 01:25:18,862
+[SPEAKER_00]: But the recognition of the peril is...
+
+1008
+01:25:18,902 --> 01:25:27,446
+[SPEAKER_00]: I mean, part of understanding the danger is part of freeing yourself from sensuality, from the world, from the aggregates, from everything.
+
+1009
+01:25:27,486 --> 01:25:28,626
+[SPEAKER_00]: So, the danger is still there.
+
+1010
+01:25:28,686 --> 01:25:29,447
+[SPEAKER_00]: Arahant sees it.
+
+1011
+01:25:30,203 --> 01:25:37,146
+[SPEAKER_00]: But yes, how dangerous that danger is for you, it's basically how much you have understood it or not.
+
+1012
+01:25:37,546 --> 01:25:38,707
+[SPEAKER_00]: But it's still the same danger.
+
+1013
+01:25:39,527 --> 01:25:43,188
+[SPEAKER_00]: So, initially, it's probably going to be very frightening and very anxious.
+
+1014
+01:25:44,309 --> 01:25:54,273
+[SPEAKER_00]: But if you don't act out of it, don't break the sīla, sensory strength and that strength that you've accumulated through basically controlling your output, your behavior,
+
+1015
+01:25:59,386 --> 01:26:04,107
+[SPEAKER_00]: Anxiety is a problem when it's threatening, when there is a risk of being overwhelmed by it.
+
+1016
+01:26:06,847 --> 01:26:12,228
+[SPEAKER_00]: If you have sustained it long enough, there is less and less risk for that danger to overwhelm you.
+
+1017
+01:26:12,588 --> 01:26:13,928
+[SPEAKER_00]: And then you get to see it even clearer.
+
+1018
+01:26:14,548 --> 01:26:17,269
+[SPEAKER_00]: Ah, the peril, the danger becomes apparent.
+
+1019
+01:26:18,229 --> 01:26:22,670
+[SPEAKER_00]: And when the danger is apparent, you have abandoned any passion towards that which is dangerous.
+
+1020
+01:26:24,844 --> 01:26:28,767
+[SPEAKER_00]: So, that to me, it's completely not abstract or on the level of theories of figuring it out.
+
+1021
+01:26:28,867 --> 01:26:29,868
+[SPEAKER_00]: It's actually felt.
+
+1022
+01:26:30,008 --> 01:26:41,497
+[SPEAKER_00]: The danger is felt first, and then you, not being liable to that same danger, is also felt, which is when, ah, the danger becomes apparent, thus the freedom becomes apparent from it.
+
+1023
+01:26:45,480 --> 01:26:50,344
+[SPEAKER_00]: So, how much you're gonna feel anxiety, and when, in what process, depends pretty much on
+
+1024
+01:26:51,591 --> 01:27:04,736
+[SPEAKER_00]: How much samādhi you have developed, how well your virtue has been established, and how intense is your current recognition of samādhi... of, sorry, of anxiety, of liability to suffering.
+
+1025
+01:27:04,757 --> 01:27:06,057
+[SPEAKER_00]: Sometimes will be more, sometimes...
+
+1026
+01:27:06,077 --> 01:27:07,458
+[SPEAKER_00]: So, you have good days, bad days.
+
+1027
+01:27:07,898 --> 01:27:10,879
+[SPEAKER_00]: But that is... that is the field where you have to do the work.
+
+1028
+01:27:11,639 --> 01:27:12,260
+[SPEAKER_00]: It's not optional.
+
+1029
+01:27:12,420 --> 01:27:13,000
+[SPEAKER_00]: That's what I'm saying.
+
+1030
+01:27:14,777 --> 01:27:16,399
+[SPEAKER_00]: How much you're gonna suffer on account of this option?
+
+1031
+01:27:16,419 --> 01:27:17,039
+[SPEAKER_00]: That's what Buddha said.
+
+1032
+01:27:17,059 --> 01:27:23,947
+[SPEAKER_00]: Sometimes, for some monks, practice is pleasant, with pleasant results, painful, with pleasant results, and so on.
+
+1033
+01:27:25,008 --> 01:27:25,929
+[SPEAKER_00]: But it's the same thing.
+
+1034
+01:27:26,930 --> 01:27:28,852
+[SPEAKER_00]: It's not like, oh, I have this approach or that approach.
+
+1035
+01:27:28,912 --> 01:27:33,357
+[SPEAKER_00]: It's just, some minds are stronger, they will suffer less on account of the threat.
+
+1036
+01:27:34,318 --> 01:27:35,579
+[SPEAKER_00]: Because they have more composure.
+
+1037
+01:27:36,701 --> 01:27:37,121
+[SPEAKER_00]: Samādhi.
+
+1038
+01:27:37,841 --> 01:27:40,662
+[SPEAKER_00]: Some minds are not that strong, so they'll suffer more.
+
+1039
+01:27:40,702 --> 01:27:45,344
+[SPEAKER_00]: That's like Sariputta, who practiced through vipassana, not samādhi as much.
+
+1040
+01:27:46,104 --> 01:27:48,024
+[SPEAKER_00]: His way was unpleasant and long.
+
+1041
+01:27:49,885 --> 01:27:53,486
+[SPEAKER_00]: But then, yeah, he was the second to the Buddha, in terms of the foremost wisdom.
+
+1042
+01:27:55,827 --> 01:28:02,109
+[SPEAKER_00]: But if you start actually practicing rightly, even the unpleasant way, you will recognize the liberating aspect of it.
+
+1043
+01:28:02,189 --> 01:28:03,329
+[SPEAKER_00]: So you will have no problem.
+
+1044
+01:28:05,310 --> 01:28:09,254
+[SPEAKER_00]: In basically enduring that anxiety, it doesn't matter how big it gets and how threatening it is.
+
+1045
+01:28:11,916 --> 01:28:14,458
+[SPEAKER_00]: But in order to get there, you need to start rightly.
+
+1046
+01:28:14,939 --> 01:28:19,102
+[SPEAKER_00]: And that will be hard for somebody who hasn't been practicing on that level.
+
+1047
+01:28:27,370 --> 01:28:30,532
+[SPEAKER_02]: So, Bejas, if I... so I don't understand well what you're saying.
+
+1048
+01:28:30,552 --> 01:28:32,494
+[SPEAKER_02]: You say that you have two, like,
+
+1049
+01:28:33,027 --> 01:28:50,993
+[SPEAKER_02]: You have to feel anxious, feel anxiety, feel suffering, in the sense that you are... that you have no control over your life, and that you will get old, and that you will get sick, and that you will die no matter what you do, and all of this.
+
+1050
+01:28:52,594 --> 01:28:56,135
+[SPEAKER_02]: So, you have to start from this point, in order to have...
+
+1051
+01:28:59,304 --> 01:29:06,992
+[SPEAKER_00]: Keep the... have the aim and then keep the aim of... Keep the right context as a basis, yeah, for the correct direction of your practice, yeah.
+
+1052
+01:29:09,534 --> 01:29:10,375
+[SPEAKER_00]: And that's what I mean.
+
+1053
+01:29:10,395 --> 01:29:12,637
+[SPEAKER_00]: That's why people don't keep that right context.
+
+1054
+01:29:12,697 --> 01:29:14,539
+[SPEAKER_00]: Not because they choose something.
+
+1055
+01:29:14,599 --> 01:29:17,082
+[SPEAKER_00]: It's because they don't want to feel that discomfort.
+
+1056
+01:29:23,739 --> 01:29:28,563
+[SPEAKER_00]: It's not an abstract choice that they make, or some like a little mistake because they didn't have enough information.
+
+1057
+01:29:28,603 --> 01:29:36,450
+[SPEAKER_00]: No, it's existentially avoiding the recognition that you are within the perilous situation, without any means of escape.
+
+1058
+01:29:37,310 --> 01:29:38,271
+[SPEAKER_00]: And that's very frightening.
+
+1059
+01:29:39,412 --> 01:29:42,074
+[SPEAKER_00]: That's essentially fear of death, in a nutshell.
+
+1060
+01:29:42,755 --> 01:29:46,198
+[SPEAKER_00]: All the people who are not necessarily even... might call it that way or be aware of it.
+
+1061
+01:30:01,564 --> 01:30:05,026
+[SPEAKER_02]: It cut out there for a moment.
+
+1062
+01:30:07,767 --> 01:30:08,467
+[SPEAKER_02]: Can you hear me now?
+
+1063
+01:30:08,707 --> 01:30:08,967
+[SPEAKER_00]: Sure.
+
+1064
+01:30:09,728 --> 01:30:09,968
+[SPEAKER_02]: Oops.
+
+1065
+01:30:11,048 --> 01:30:11,308
+[SPEAKER_02]: Okay.
+
+1066
+01:30:11,748 --> 01:30:13,369
+[SPEAKER_02]: Okay.
+
+1067
+01:30:14,990 --> 01:30:15,290
+[SPEAKER_02]: So, yeah.
+
+1068
+01:30:15,310 --> 01:30:16,471
+[SPEAKER_02]: So, it just cut there a little bit.
+
+1069
+01:30:16,491 --> 01:30:28,816
+[SPEAKER_02]: The last part I heard was that you were saying how when people, like, start on the wrong footing, essentially, or they don't practice rightly, it's because of
+
+1070
+01:30:34,762 --> 01:30:38,704
+[SPEAKER_00]: Which means you can always fix... you can always fix your footing at any given time.
+
+1071
+01:30:39,284 --> 01:30:40,224
+[SPEAKER_00]: You can always fix that.
+
+1072
+01:30:40,264 --> 01:30:42,866
+[SPEAKER_00]: You can always restart and re-establish the right framework.
+
+1073
+01:30:43,526 --> 01:30:54,050
+[SPEAKER_00]: But the thing is, the more you give in to ignoring it because it's fundamentally frightening and unpleasant, the more you drift away and more incapable of accepting it, you are.
+
+1074
+01:30:54,170 --> 01:30:57,392
+[SPEAKER_00]: Because the more effort in trying to outrun it, you invest it.
+
+1075
+01:30:58,107 --> 01:31:04,925
+[SPEAKER_00]: So, theoretically, anybody can become an Arahant at any stage of life, but practically, if you spend 20-30 years more...
+
+1076
+01:31:05,808 --> 01:31:21,300
+[SPEAKER_00]: Avoiding this, and even practicing while avoiding it, it would be virtually impossible for you, after all that invested effort, to basically just wipe your slate clean and re-accept that fundamental liability that will fill you with anxiety and make you, like, back onto the day one.
+
+1077
+01:31:22,100 --> 01:31:32,608
+[SPEAKER_00]: I mean, people won't do that in... for mundane things, let alone for something so profound and hard to uproot, such as, you know, existential anxiety, dukkha, fear.
+
+1078
+01:31:38,398 --> 01:31:47,650
+[SPEAKER_02]: Yeah, I mean, that's why I think most people, they don't really practice for the aim of the goal, really.
+
+1079
+01:31:47,670 --> 01:31:55,520
+[SPEAKER_02]: They don't practice for another reason or for, like, basically wanting to feel better or...
+
+1080
+01:31:57,098 --> 01:32:03,960
+[SPEAKER_00]: And there is no... if they don't practice with that as a basis, the right basis, they don't practice dhamma, even if it's the dhamma they're doing.
+
+1081
+01:32:04,620 --> 01:32:05,680
+[SPEAKER_00]: I mean, the Buddha said it himself.
+
+1082
+01:32:06,140 --> 01:32:11,782
+[SPEAKER_00]: Only, like, his teaching has only one taste, like the ocean has only one taste of salt.
+
+1083
+01:32:12,342 --> 01:32:13,502
+[SPEAKER_00]: Taste, freedom from suffering.
+
+1084
+01:32:13,562 --> 01:32:14,082
+[SPEAKER_00]: Nothing else.
+
+1085
+01:32:15,123 --> 01:32:20,544
+[SPEAKER_00]: So, suffering, freedom from it, is the only place where dhamma can be.
+
+1086
+01:32:20,564 --> 01:32:21,684
+[SPEAKER_00]: So, I mean, it's not optional.
+
+1087
+01:32:21,704 --> 01:32:23,865
+[SPEAKER_00]: It's not, oh, let me choose this or choose that.
+
+1088
+01:32:27,852 --> 01:32:28,592
+[SPEAKER_00]: It's the only way.
+
+1089
+01:32:28,672 --> 01:32:34,795
+[SPEAKER_01]: Yeah.
+
+1090
+01:32:38,537 --> 01:32:40,278
+[SPEAKER_02]: There was maybe just one more.
+
+1091
+01:32:40,358 --> 01:32:44,120
+[SPEAKER_02]: I'm aware I've taken up a lot of your time already.
+
+1092
+01:32:45,501 --> 01:32:53,945
+[SPEAKER_02]: And I would just like to maybe to ask on one more, one more point.
+
+1093
+01:33:01,086 --> 01:33:01,706
+[SPEAKER_02]: A bit or two.
+
+1094
+01:33:04,567 --> 01:33:11,029
+[SPEAKER_02]: So, like, if I can kind of summarize basically the, like, overall the different points that are mentioned.
+
+1095
+01:33:14,810 --> 01:33:19,711
+[SPEAKER_02]: So, from the beginning, you have to start, like, with recognizing that you're sick.
+
+1096
+01:33:20,192 --> 01:33:26,518
+[SPEAKER_02]: Like, the recognizing that you... that you're... what the nature of your problem is, and then you have to, like, make the aim clear.
+
+1097
+01:33:28,199 --> 01:33:34,725
+[SPEAKER_02]: Like, if you're not practicing with the realization that you're sick and, like, we're needing to be healed, then you're not practicing right.
+
+1098
+01:33:34,905 --> 01:33:43,392
+[SPEAKER_00]: You have to resist the temptation to manage the symptoms at the expense of the recognition of your illness that's still there, even if you remove the symptoms.
+
+1099
+01:33:43,913 --> 01:33:45,054
+[SPEAKER_00]: Yeah, but am I still alive?
+
+1100
+01:33:45,094 --> 01:33:45,374
+[SPEAKER_00]: Yeah.
+
+1101
+01:33:45,614 --> 01:33:46,455
+[SPEAKER_00]: Thus, I'm still ill.
+
+1102
+01:33:48,238 --> 01:33:51,040
+[SPEAKER_00]: So, don't get complacent, even when things don't bother you.
+
+1103
+01:33:52,080 --> 01:33:56,522
+[SPEAKER_00]: And certainly, don't make your practice revolve around dealing with things that bother you only.
+
+1104
+01:33:59,284 --> 01:33:59,524
+[SPEAKER_02]: Yeah.
+
+1105
+01:34:00,384 --> 01:34:00,565
+[SPEAKER_02]: Yeah.
+
+1106
+01:34:00,585 --> 01:34:02,566
+[SPEAKER_02]: So, I mean, don't look just for a painkiller, basically.
+
+1107
+01:34:02,586 --> 01:34:04,187
+[SPEAKER_02]: Like, you want to go to the...
+
+1108
+01:34:05,450 --> 01:34:07,691
+[SPEAKER_02]: You want to go to see... go to a doctor...
+
+1109
+01:34:07,971 --> 01:34:10,532
+[SPEAKER_00]: If the pain is too much, take the painkiller.
+
+1110
+01:34:10,793 --> 01:34:16,235
+[SPEAKER_00]: But don't forget that fundamentally the only reason you needed to take the painkiller and had pain is because you're still sick.
+
+1111
+01:34:16,455 --> 01:34:18,276
+[SPEAKER_00]: There's still the underlying illness.
+
+1112
+01:34:18,296 --> 01:34:20,837
+[SPEAKER_02]: Yeah.
+
+1113
+01:34:20,937 --> 01:34:29,041
+[SPEAKER_02]: And as long as you haven't cured the underlying illness, then you can continue to take painkillers, but the illness is still there and it's getting worse.
+
+1114
+01:34:29,461 --> 01:34:29,802
+[SPEAKER_00]: Exactly.
+
+1115
+01:34:29,962 --> 01:34:32,403
+[SPEAKER_00]: And now you don't even have the symptoms to tell you how worse it is.
+
+1116
+01:34:33,918 --> 01:34:35,339
+[SPEAKER_02]: Yeah, yeah, exactly.
+
+1117
+01:34:35,419 --> 01:34:37,740
+[SPEAKER_02]: So, it's a big problem.
+
+1118
+01:34:39,301 --> 01:34:39,862
+[SPEAKER_02]: I agree.
+
+1119
+01:34:42,203 --> 01:34:43,444
+[SPEAKER_02]: Because you can feel so calm.
+
+1120
+01:34:43,844 --> 01:34:48,427
+[SPEAKER_02]: You can make yourself feel very calm by just concentrating on the breath or something like that.
+
+1121
+01:34:48,447 --> 01:34:52,550
+[SPEAKER_02]: And you can spend hours a day just concentrating on the sensation of breathing.
+
+1122
+01:34:52,910 --> 01:34:54,171
+[SPEAKER_02]: And now you feel so much better.
+
+1123
+01:34:54,191 --> 01:34:55,812
+[SPEAKER_02]: And you think everything's going so much better.
+
+1124
+01:34:55,852 --> 01:34:56,512
+[SPEAKER_02]: You think you're fine.
+
+1125
+01:34:57,533 --> 01:35:01,095
+[SPEAKER_02]: Now you stop searching for a way out because you think you're fine.
+
+1126
+01:35:01,720 --> 01:35:17,625
+[SPEAKER_00]: That's why we said in other talks, most of today's meditation, Buddhist meditation practice, is just calming techniques, which is fine if you need to calm down, but don't confuse that for samādhi, that will result in pañña and complete wisdom and liberation.
+
+1127
+01:35:17,645 --> 01:35:19,646
+[SPEAKER_02]: Yeah.
+
+1128
+01:35:21,667 --> 01:35:30,470
+[SPEAKER_02]: And then, the other point is then about, once you know what you're doing, then what does the practice consist of?
+
+1129
+01:35:30,490 --> 01:35:31,150
+[SPEAKER_02]: At one point you said
+
+1130
+01:35:31,715 --> 01:35:33,937
+[SPEAKER_02]: Morality is to stop yourself from going mad.
+
+1131
+01:35:37,520 --> 01:35:43,565
+[SPEAKER_02]: I don't know if I have seen this...
+
+1132
+01:35:43,826 --> 01:35:45,687
+[SPEAKER_02]: I think morality is essential.
+
+1133
+01:35:45,967 --> 01:35:48,670
+[SPEAKER_02]: It's an essential base of practicing.
+
+1134
+01:35:48,710 --> 01:35:55,516
+[SPEAKER_02]: Morality is in the sense of not having any wrongdoing in thoughts, words or actions.
+
+1135
+01:36:06,973 --> 01:36:27,592
+[SPEAKER_02]: And then, what you were talking about, what you were saying, is that basically you need to kind of realize that the problem, like understand where the problem is, in the sense that you can become affected by anger, or that you can become greedy, or that you are
+
+1136
+01:36:30,655 --> 01:36:38,682
+[SPEAKER_02]: or having desire for things in the first place, and not to just, like, want to kind of manage these things when they arise.
+
+1137
+01:36:38,762 --> 01:36:40,403
+[SPEAKER_02]: So, this point is okay.
+
+1138
+01:36:47,329 --> 01:36:58,598
+[SPEAKER_02]: And... yeah, so then the... and then the correct practice, like, to... what... yeah, what kind of still is, like, kind of trying to figure it out, is the...
+
+1139
+01:37:00,720 --> 01:37:12,826
+[SPEAKER_02]: If you're practicing rightly, like, if you practice correctly, then you should see that you're practicing correctly, right?
+
+1140
+01:37:12,846 --> 01:37:19,970
+[SPEAKER_02]: So, there's no need to have the same anxiety that was there in the beginning, if you know that you're practicing rightly.
+
+1141
+01:37:20,130 --> 01:37:20,410
+[SPEAKER_00]: Yeah.
+
+1142
+01:37:20,430 --> 01:37:23,652
+[SPEAKER_00]: If you're not... See, you're not ignoring your liability to suffer.
+
+1143
+01:37:23,732 --> 01:37:25,913
+[SPEAKER_00]: You're not ignoring the peril.
+
+1144
+01:37:26,611 --> 01:37:30,553
+[SPEAKER_00]: You're not turning a blind eye, you're not distracting yourself from it, and it doesn't bother you as much.
+
+1145
+01:37:31,774 --> 01:37:36,116
+[SPEAKER_00]: Not because you pretend it's not there, because it... you get used to it.
+
+1146
+01:37:37,997 --> 01:37:39,858
+[SPEAKER_00]: Anxiety will stop bothering you when you get used to it.
+
+1147
+01:37:39,878 --> 01:37:44,520
+[SPEAKER_00]: I mean, you are able to maintain composure in the face of it.
+
+1148
+01:37:45,140 --> 01:37:48,142
+[SPEAKER_00]: And the only way to do that is to train composure in the face of anxiety.
+
+1149
+01:37:59,531 --> 01:38:20,102
+[SPEAKER_02]: And to come back, just to just come back to the beginning about the... because you were telling the base of, like, the base of being able to practice mindfulness correctly is to have the the right kind of awareness, to be able to have awareness correctly, which is not about just, like,
+
+1150
+01:38:20,499 --> 01:38:32,887
+[SPEAKER_02]: paying attention to sensation, or paying attention to sound, or paying attention to something else, nor is it about, like, analyzing your thoughts, or analyzing your, like, experience.
+
+1151
+01:38:34,968 --> 01:38:41,732
+[SPEAKER_02]: And so now you were... so now you said the periphery, meaning the...
+
+1152
+01:38:43,972 --> 01:38:49,017
+[SPEAKER_02]: Like what you said was the basis for that for on which you're paying attention in the first place.
+
+1153
+01:38:49,037 --> 01:38:50,078
+[SPEAKER_00]: Periphery means the background.
+
+1154
+01:38:50,178 --> 01:38:52,580
+[SPEAKER_00]: The background of whatever is currently attended in there.
+
+1155
+01:38:52,640 --> 01:38:55,383
+[SPEAKER_00]: So, the mind is the background in itself.
+
+1156
+01:38:56,124 --> 01:39:01,068
+[SPEAKER_00]: The intentionality, the possibilities, as we described, that's already the background in itself.
+
+1157
+01:39:01,249 --> 01:39:03,511
+[SPEAKER_00]: So, that's what peripheral is.
+
+1158
+01:39:06,022 --> 01:39:06,983
+[SPEAKER_00]: Okay.
+
+1159
+01:39:07,143 --> 01:39:25,093
+[SPEAKER_00]: It can sound tactical and I think in those videos we use it for the sake of the context, but it's really the background of your currently engaged experience that you don't want to make into a foreground, because then, again, the point is not what is the foreground or what is the background.
+
+1160
+01:39:25,113 --> 01:39:32,658
+[SPEAKER_00]: The point is to be aware of the background while there is whatever action, intention, presently enduring feeling and so on in the foreground.
+
+1161
+01:39:34,327 --> 01:39:37,329
+[SPEAKER_00]: And that background is literally the knowledge of that situation, nothing else.
+
+1162
+01:39:38,069 --> 01:39:40,431
+[SPEAKER_00]: No sensations, nothing specific.
+
+1163
+01:39:40,911 --> 01:39:43,092
+[SPEAKER_00]: That's why it's so hard to see, because it's non-specific.
+
+1164
+01:39:44,193 --> 01:39:45,874
+[SPEAKER_00]: And what else is non-specific?
+
+1165
+01:39:45,994 --> 01:39:48,435
+[SPEAKER_00]: Well, the nature of things is non-specific.
+
+1166
+01:39:50,256 --> 01:40:01,983
+[SPEAKER_00]: The nature of this specific cup, the nature of this specific object, is non-specific from the point of view of the specific object to which that object kind of pertains to.
+
+1167
+01:40:03,440 --> 01:40:05,842
+[SPEAKER_00]: And that's, in essence, dhamma, the nature of things.
+
+1168
+01:40:06,462 --> 01:40:09,304
+[SPEAKER_00]: So, it's always found in that background where the knowledge is.
+
+1169
+01:40:17,329 --> 01:40:18,310
+[SPEAKER_00]: So, that's what I mean.
+
+1170
+01:40:18,330 --> 01:40:19,550
+[SPEAKER_00]: Specifically, there is...
+
+1171
+01:40:19,570 --> 01:40:20,811
+[SPEAKER_02]: Specifically, there is an insult.
+
+1172
+01:40:27,695 --> 01:40:30,897
+[SPEAKER_00]: Angry voice, everything, all of that is quite specific.
+
+1173
+01:40:31,637 --> 01:40:35,539
+[SPEAKER_00]: Non-specifically, there is a presence of suffering that I'm resisting.
+
+1174
+01:40:36,160 --> 01:40:38,341
+[SPEAKER_00]: Non-specifically, there is discomfort.
+
+1175
+01:40:38,861 --> 01:40:44,004
+[SPEAKER_00]: There are many different non-specific ways you can take, but it will be the same nature of this experience.
+
+1176
+01:40:44,124 --> 01:40:50,527
+[SPEAKER_00]: So, fundamentally, the problem here is not what's being said, what's being heard, not even what's being felt.
+
+1177
+01:40:50,727 --> 01:40:51,748
+[SPEAKER_00]: The problem is that
+
+1178
+01:40:52,508 --> 01:40:58,312
+[SPEAKER_00]: Within this, basically, experience as a whole, I'm resisting it and I have a view that I should not suffer.
+
+1179
+01:40:59,172 --> 01:41:01,354
+[SPEAKER_00]: That I'm in control and I should not suffer.
+
+1180
+01:41:01,394 --> 01:41:02,255
+[SPEAKER_00]: That's all implicit.
+
+1181
+01:41:04,036 --> 01:41:05,617
+[SPEAKER_00]: So, that's the nature of that experience.
+
+1182
+01:41:06,097 --> 01:41:07,058
+[SPEAKER_00]: That is the background.
+
+1183
+01:41:07,098 --> 01:41:11,861
+[SPEAKER_00]: That is the the vessel in which you... and that's where you get... you get insulted.
+
+1184
+01:41:12,948 --> 01:41:18,676
+[SPEAKER_00]: When you hear something immediately, because the framework ready for insult is already there.
+
+1185
+01:41:18,696 --> 01:41:26,907
+[SPEAKER_00]: In other words, framework ready to resist any form of discomfort that comes through the senses is already there, currently maintained by you.
+

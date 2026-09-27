@@ -1,0 +1,1844 @@
+1
+00:00:15,515 --> 00:00:21,639
+[SPEAKER_02]: This is from Samyuttinikāya, 56, 30, with Gavampati.
+
+2
+00:00:22,880 --> 00:00:27,543
+[SPEAKER_02]: At one time, several bhikkhus were staying in the land of the Chettis at Sahajati.
+
+3
+00:00:28,292 --> 00:00:37,095
+[SPEAKER_02]: Now, at that time, after the meal, on return from alms round, several senior bhikkhus sat together in the pavilion, and this discussion came up among them.
+
+4
+00:00:37,816 --> 00:00:46,959
+[SPEAKER_02]: Friends, does someone who sees suffering also see the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering?
+
+5
+00:00:47,698 --> 00:00:56,021
+[SPEAKER_02]: When they said this, Venerable Gavampati said to those senior bhikkhus, Friends, I have heard and learned this in the presence of the Buddha.
+
+6
+00:00:56,801 --> 00:01:04,764
+[SPEAKER_02]: Someone who sees suffering also sees the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering.
+
+7
+00:01:05,445 --> 00:01:13,287
+[SPEAKER_02]: Someone who sees the origin of suffering also sees suffering, the cessation of suffering, and the practice that leads to the cessation of suffering.
+
+8
+00:01:13,948 --> 00:01:17,269
+[SPEAKER_02]: Someone who sees the cessation of suffering also sees suffering,
+
+9
+00:01:17,713 --> 00:01:21,875
+[SPEAKER_02]: The origin of suffering and the practice that leads to the cessation of suffering.
+
+10
+00:01:22,495 --> 00:01:30,940
+[SPEAKER_02]: Someone who sees the practice that leads to the cessation of suffering, also sees suffering, the origin of suffering, and the cessation of suffering.
+
+11
+00:01:40,805 --> 00:01:45,207
+[SPEAKER_00]: So, it's not something that's commonly known, is it?
+
+12
+00:01:45,467 --> 00:01:47,328
+[SPEAKER_00]: Because usually there's a
+
+13
+00:01:48,689 --> 00:01:54,278
+[SPEAKER_00]: It's sort of a... we naturally begin with this assumption that we all know what suffering is, kind of thing.
+
+14
+00:01:54,999 --> 00:02:00,448
+[SPEAKER_00]: Or, maybe some people also assume they already know the practice that leads to the decision
+
+15
+00:02:03,539 --> 00:02:05,959
+[SPEAKER_00]: There's a cessation for themselves, or something like that.
+
+16
+00:02:06,880 --> 00:02:14,541
+[SPEAKER_00]: After a period of doing the practice, you get this experience where you see the other truths that you didn't see before.
+
+17
+00:02:15,581 --> 00:02:16,682
+[SPEAKER_00]: But it's actually more...
+
+18
+00:02:17,642 --> 00:02:25,243
+[SPEAKER_00]: These things are so inextricably tied together, that if you see one, you automatically see the other one.
+
+19
+00:02:26,063 --> 00:02:28,064
+[SPEAKER_00]: So, first off, with suffering,
+
+20
+00:02:31,115 --> 00:02:34,196
+[SPEAKER_00]: It doesn't define it there, but you see it in other places in the suttas.
+
+21
+00:02:34,236 --> 00:02:40,919
+[SPEAKER_00]: It defines it as basically any kind of displeasure out of...
+
+22
+00:02:41,479 --> 00:02:47,521
+[SPEAKER_00]: It says not getting what you want, getting what you don't want, birth, aging, death, sickness.
+
+23
+00:02:49,462 --> 00:02:56,705
+[SPEAKER_00]: And finally, it says, in short, the five assumed aggregates are suffering.
+
+24
+00:02:57,565 --> 00:02:57,845
+[SPEAKER_00]: So,
+
+25
+00:02:59,509 --> 00:03:20,183
+[SPEAKER_00]: You can, to some extent, know... like everybody experiences aging, everybody experiences loss, everybody experiences these things, but seeing... to the... seeing suffering to the full extent, meaning seeing the five assumed aggregates as sort of a phenomenon, that's already quite a...
+
+26
+00:03:21,323 --> 00:03:27,748
+[SPEAKER_00]: Quite an achievement that would put you in the same position where you're able to see all the other ones as well.
+
+27
+00:03:28,689 --> 00:03:31,251
+[SPEAKER_00]: So, eh... and, eh...
+
+28
+00:03:32,031 --> 00:03:39,457
+[SPEAKER_00]: I think we discussed that in one of the previous talks where we said that, eh... there's a quote-unquote right type of suffering or suffering
+
+29
+00:03:41,784 --> 00:03:55,769
+[SPEAKER_00]: This is what we're trying to get rid of, just out of habit, because we basically start with the default assumption that unpleasant feeling is what suffering is.
+
+30
+00:03:57,310 --> 00:04:05,053
+[SPEAKER_04]: As a result of that, then, anything that manages or ameliorates your unpleasant feelings,
+
+31
+00:04:05,933 --> 00:04:15,396
+[SPEAKER_00]: It might seem like it's an escape from suffering, but that's because the definition of what you're taking as suffering is already quite limited.
+
+32
+00:04:16,516 --> 00:04:21,538
+[SPEAKER_00]: So, you can already see how that's a good example of how these things are tied together.
+
+33
+00:04:23,178 --> 00:04:34,082
+[SPEAKER_00]: So, in the case of craving, it has been clarified that if suffering is not a pleasant feeling, then what would craving be?
+
+34
+00:04:53,277 --> 00:04:58,206
+[SPEAKER_03]: Yes, so what is the standard definition of the origin of suffering, right?
+
+35
+00:04:58,747 --> 00:05:02,914
+[SPEAKER_03]: Which is dhamma, which a patient should ask quite frequently.
+
+36
+00:05:03,515 --> 00:05:04,617
+[SPEAKER_03]: What would you say about that?
+
+37
+00:05:16,413 --> 00:05:27,850
+[SPEAKER_03]: Well, remember, it talks about craving for sensuality, craving for being or existence, and also craving for non-being or non-existence.
+
+38
+00:05:28,130 --> 00:05:31,756
+[SPEAKER_03]: That is the, let's say, standard definition by the Buddha of what
+
+39
+00:05:39,073 --> 00:05:43,075
+[SPEAKER_00]: So, how would you define, experientially, what craving is?
+
+40
+00:05:43,115 --> 00:05:49,519
+[SPEAKER_00]: Because, usually, you, yeah, you read this, and it makes sense to everyone, to some extent, that, yeah, what craving is.
+
+41
+00:05:49,559 --> 00:05:55,182
+[SPEAKER_00]: But, as it says there, if you haven't seen the cessation, merely on account of knowing what craving is,
+
+42
+00:06:04,611 --> 00:06:07,933
+[SPEAKER_02]: negative feeling not being what suffering is.
+
+43
+00:06:08,593 --> 00:06:18,839
+[SPEAKER_02]: So, in that kind of approaching it from that angle, I would say craving is kind of what creates friction with negative feeling, you could say.
+
+44
+00:06:22,141 --> 00:06:27,424
+[SPEAKER_02]: Craving is what kind of de facto turns negative feeling into suffering, I guess.
+
+45
+00:06:29,945 --> 00:06:31,706
+[SPEAKER_02]: It makes it seem like suffering.
+
+46
+00:06:32,727 --> 00:06:35,189
+[SPEAKER_02]: And is it just in relation to negative feeling?
+
+47
+00:06:35,950 --> 00:06:36,470
+[SPEAKER_02]: Well, no.
+
+48
+00:06:37,151 --> 00:06:42,095
+[SPEAKER_02]: It would be in relation to the others, though.
+
+49
+00:06:47,299 --> 00:06:52,983
+[SPEAKER_02]: So, I run the risk of walking into the same trap that Samādhi and the suttas walked into.
+
+50
+00:06:53,724 --> 00:06:57,567
+[SPEAKER_02]: Because I was going to say, even when there is the pleasant feeling,
+
+51
+00:06:58,540 --> 00:07:06,242
+[SPEAKER_02]: The craving will still be in relation to a negative feeling, but that seems a bit dubious.
+
+52
+00:07:07,703 --> 00:07:21,987
+[SPEAKER_02]: Kind of a more general negative feeling of, like, the undercutting, like, anxiety of, like, oh, I feel good now, but the anxiety of, will I be able to kind of maintain
+
+53
+00:07:24,812 --> 00:07:30,118
+[SPEAKER_03]: Yeah, so even when there's pleasant feeling, there can still be the recognition that that's impermanent.
+
+54
+00:07:31,159 --> 00:07:32,120
+[SPEAKER_03]: It's not going to last.
+
+55
+00:07:32,480 --> 00:07:38,106
+[SPEAKER_03]: And even though that pleasant feeling endures, you still suffer on account of it not being permanent.
+
+56
+00:07:38,667 --> 00:07:42,871
+[SPEAKER_03]: Which means that there is still suffering, even in the presence of pleasant feeling.
+
+57
+00:07:43,592 --> 00:08:00,031
+[SPEAKER_03]: So then, the goal of the practice is not to artificially or through effort bring about pleasant feeling, but rather to know and to learn how to dwell disconnected from all feeling, including the pleasurable
+
+58
+00:08:03,452 --> 00:08:06,373
+[SPEAKER_00]: It's the five assumed aggregates, in general, that are suffering.
+
+59
+00:08:06,993 --> 00:08:11,034
+[SPEAKER_00]: And it doesn't matter whether that setup happens to be a pleasant setup.
+
+60
+00:08:11,834 --> 00:08:14,054
+[SPEAKER_00]: It's the fact that it's the five aggregates.
+
+61
+00:08:16,475 --> 00:08:29,117
+[SPEAKER_00]: The fact that, even when you tell yourself, you might sort of develop the attitude that it's not yours, but fundamentally, unless you're an arahant, there is ownership there.
+
+62
+00:08:29,217 --> 00:08:32,998
+[SPEAKER_00]: So, you can't just sort of deny it.
+
+63
+00:08:34,134 --> 00:08:44,521
+[SPEAKER_00]: Through a view, you have to actually go the opposite direction and acknowledge that for as long as these things are there, you're liable to suffering.
+
+64
+00:08:44,561 --> 00:08:49,044
+[SPEAKER_00]: For as long as the five aggregates are assumed, which is the starting position.
+
+65
+00:08:49,184 --> 00:08:59,170
+[SPEAKER_00]: You don't have like a on and off switch, where sometimes you have like the purified five aggregates and sometimes not.
+
+66
+00:09:00,791 --> 00:09:03,013
+[SPEAKER_04]: So, yeah, from that point of view, you could say that
+
+67
+00:09:05,555 --> 00:09:11,639
+[SPEAKER_00]: Again, that's not necessarily something that's very profound or deep.
+
+68
+00:09:12,219 --> 00:09:16,362
+[SPEAKER_00]: Almost every Buddhist would say, yes, I understand that craving is suffering.
+
+69
+00:09:16,642 --> 00:09:25,727
+[SPEAKER_00]: But the trick lies there in, basically, whatever you take from the suttas, it's always going to be an interpretation.
+
+70
+00:09:26,748 --> 00:09:26,888
+[SPEAKER_04]: But
+
+71
+00:09:28,268 --> 00:09:39,033
+[SPEAKER_04]: What makes you really understand the Four Noble Truths is not when you have the same information that the suttas describe, because anybody can have that.
+
+72
+00:09:39,573 --> 00:09:44,915
+[SPEAKER_00]: It's when that interpretation that you have aligns with what the interpretation of the Buddha
+
+73
+00:09:47,263 --> 00:09:53,646
+[SPEAKER_03]: In other words, that your understanding of suffering is actually the suffering the Buddha talks about, fully and completely.
+
+74
+00:09:53,866 --> 00:09:54,426
+[SPEAKER_03]: Yeah, exactly.
+
+75
+00:09:54,446 --> 00:09:56,907
+[SPEAKER_03]: So that... For each and every noble truth, basically.
+
+76
+00:09:56,987 --> 00:10:06,511
+[SPEAKER_00]: That's why, that's why it's... it shouldn't be... practice shouldn't be done with the assumption that... that yes, okay, I already understood these things.
+
+77
+00:10:06,751 --> 00:10:10,072
+[SPEAKER_00]: Now it's time to just do them and then I'll get to this result.
+
+78
+00:10:10,652 --> 00:10:17,015
+[SPEAKER_00]: Actually, it's by refining, revising and correcting your interpretation of what craving, if it be,
+
+79
+00:10:17,035 --> 00:10:20,718
+[SPEAKER_00]: There even is, for example, that you would arrive at stream-entry.
+
+80
+00:10:26,839 --> 00:10:47,018
+[SPEAKER_00]: That's why I put the definition that I already have, not question it, and then I just do this practice on top of it, because that's really just operating kind of within the same understanding, within the same... even if you get some results out of it, you haven't, like, left the wrong view that you started with.
+
+81
+00:10:47,058 --> 00:10:49,500
+[SPEAKER_00]: So, that's why the Buddha said, there is wrong view,
+
+82
+00:10:50,901 --> 00:10:53,003
+[SPEAKER_00]: Are you not understanding Four Noble Truths?
+
+83
+00:10:53,644 --> 00:11:01,490
+[SPEAKER_04]: That results in wrong intention, that results in wrong speech, that results in wrong action, and it goes all the way even to wrong liberation.
+
+84
+00:11:02,311 --> 00:11:12,319
+[SPEAKER_04]: In other words, you can liberate yourself from a limited, ultimately inaccurate, craving.
+
+85
+00:11:13,220 --> 00:11:14,841
+[SPEAKER_04]: Because your understanding of a craving was
+
+86
+00:11:19,621 --> 00:11:26,946
+[SPEAKER_04]: When it comes to craving, as the Buddha said, defilements cannot be abandoned without knowing and seeing what those defilements are first.
+
+87
+00:11:27,627 --> 00:11:39,035
+[SPEAKER_00]: He said if you don't see craving clearly, it's not like you can expect that just doing the practice will somehow address that thing that you don't clearly know.
+
+88
+00:11:39,775 --> 00:11:41,677
+[SPEAKER_00]: Because it's addressed by knowing what it is.
+
+89
+00:11:46,133 --> 00:11:50,098
+[SPEAKER_03]: But when one sees one of these Noble Truths, you basically see them all.
+
+90
+00:11:50,799 --> 00:11:53,763
+[SPEAKER_03]: But there's still an order to these Four Noble Truths.
+
+91
+00:11:54,685 --> 00:11:54,865
+[SPEAKER_03]: And...
+
+92
+00:11:55,523 --> 00:12:01,044
+[SPEAKER_03]: The Noble Eightfold Path, which is what people generally take to be the practice, is actually the last one.
+
+93
+00:12:01,464 --> 00:12:02,945
+[SPEAKER_03]: It's the fourth one.
+
+94
+00:12:03,685 --> 00:12:12,867
+[SPEAKER_03]: So it's not that, oh, I'm practicing the Noble Eightfold Path in order to come and understand those other Noble Truths and find out what craving is and what the cessation of suffering is.
+
+95
+00:12:13,687 --> 00:12:15,208
+[SPEAKER_01]: No, no.
+
+96
+00:12:16,348 --> 00:12:23,970
+[SPEAKER_01]: Until the four Noble Truths are seen, one basically doesn't know what the practice is, which means that you cannot mechanically settle
+
+97
+00:12:25,450 --> 00:12:31,633
+[SPEAKER_01]: And continue doing what you think is right, because otherwise you would have seen all those Four Noble Truths already.
+
+98
+00:12:32,553 --> 00:12:51,322
+[SPEAKER_01]: So, rather than accumulating more information, or thinking that the Four Noble Truths are the answer to a problem, it's actually more a question of, as you just said, like inquiry, and learning how to question, and be with the problem, even if it is unpleasant,
+
+99
+00:12:51,822 --> 00:13:03,486
+[SPEAKER_01]: And basically learning how to not move away from it, because the mental movement away from it, will inevitably involve craving for or against the present situation that you find yourself in.
+
+100
+00:13:04,206 --> 00:13:07,907
+[SPEAKER_01]: And so, it's only by learning how to stay with that,
+
+101
+00:13:08,797 --> 00:13:29,712
+[SPEAKER_01]: But if you think, this is the problem, and now we need to run around trying to find an answer, which I'm going to apply to the problem, which also involves time, then... and then you assume that that is the noble evil path, then that's already completely
+
+102
+00:13:32,207 --> 00:13:36,609
+[SPEAKER_00]: Yeah, it's... as others say as well, the dhamma has to be timeless.
+
+103
+00:13:37,150 --> 00:13:45,314
+[SPEAKER_00]: So, it's not like you can just... yeah, like, I understand the problem first, and then I do all this, and then the problem is solved.
+
+104
+00:13:45,474 --> 00:13:48,835
+[SPEAKER_04]: Actually, that's a great exemplification of how it's timeless.
+
+105
+00:13:48,875 --> 00:13:52,037
+[SPEAKER_04]: Like, if you see the problem, you already saw the cessation.
+
+106
+00:13:52,117 --> 00:13:52,657
+[SPEAKER_04]: That's it, yeah.
+
+107
+00:13:59,647 --> 00:14:07,594
+[SPEAKER_04]: If you have seen the cessation of craving, understood the Four Noble Truths, then you get access to this path.
+
+108
+00:14:10,401 --> 00:14:15,164
+[SPEAKER_04]: Fully cement that cessation of craving, so that you never go back to it.
+
+109
+00:14:16,165 --> 00:14:23,649
+[SPEAKER_04]: And that's why it says the the the suttas define like the the stream enterer, and then the the Buddha defines what it what is that stream.
+
+110
+00:14:24,509 --> 00:14:26,531
+[SPEAKER_00]: And it says it's the no waitful path.
+
+111
+00:14:26,651 --> 00:14:29,172
+[SPEAKER_00]: Yeah, so that's the stream that they enter.
+
+112
+00:14:29,392 --> 00:14:32,094
+[SPEAKER_00]: And then, on account of having understood what
+
+113
+00:14:33,262 --> 00:14:41,995
+[SPEAKER_04]: So, the reality is, they're able to practice this path, such that, while they're walking that path, craving is not there.
+
+114
+00:14:42,276 --> 00:14:47,965
+[SPEAKER_04]: And then, if they keep walking that path, keep developing those factors, then craving will never come back.
+
+115
+00:14:48,911 --> 00:14:50,692
+[SPEAKER_04]: So, it's not a time-bound thing.
+
+116
+00:14:51,213 --> 00:14:56,036
+[SPEAKER_04]: Like, the craving is 90%, and by doing these things, I'm decreasing it.
+
+117
+00:14:56,496 --> 00:15:04,621
+[SPEAKER_04]: It's more like, while they are there, walking through that path, craving is not there, but that's why it talks about the underlying tendencies.
+
+118
+00:15:05,302 --> 00:15:05,722
+[SPEAKER_04]: So, like...
+
+119
+00:15:06,302 --> 00:15:13,689
+[SPEAKER_04]: During that time that there's right view, right resolve, or right intention, craving is not there, but it can come back.
+
+120
+00:15:14,689 --> 00:15:23,617
+[SPEAKER_04]: So, as a matter of, like, practicing these things, so to say, for seven years, or five years, or six months, or... by sticking to
+
+121
+00:15:26,944 --> 00:15:33,291
+[SPEAKER_04]: Satipaṭṭhāna gets to the point where they're so familiar with that cessation of craving, that it doesn't come back.
+
+122
+00:15:33,331 --> 00:15:35,234
+[SPEAKER_04]: Cessation of suffering, that it doesn't come back.
+
+123
+00:15:36,235 --> 00:15:40,019
+[SPEAKER_04]: So, eh... that's an important thing to realize, because
+
+124
+00:15:42,490 --> 00:15:55,033
+[SPEAKER_04]: We should understand that it's not... we shouldn't be mistaken for specific states of anger, or aversion, or sensuality, or desire.
+
+125
+00:15:55,673 --> 00:16:00,294
+[SPEAKER_00]: Because these are more like the results of you not seeing your craving and acting out of it.
+
+126
+00:16:00,354 --> 00:16:04,475
+[SPEAKER_00]: Then you get these very coarse sort of manifestations.
+
+127
+00:16:04,555 --> 00:16:10,297
+[SPEAKER_00]: But really, even when your mind is calm and nothing's going on, craving is still there.
+
+128
+00:16:10,377 --> 00:16:11,877
+[SPEAKER_04]: Because craving is
+
+129
+00:16:12,557 --> 00:16:15,659
+[SPEAKER_04]: You could almost equate it with ignorance.
+
+130
+00:16:15,699 --> 00:16:18,160
+[SPEAKER_04]: Craving just means not understanding.
+
+131
+00:16:19,561 --> 00:16:21,562
+[SPEAKER_00]: Feelings means craving is there.
+
+132
+00:16:22,082 --> 00:16:36,490
+[SPEAKER_04]: So, even when it's just a neutral feeling, that nothing's really happening, nothing's really bothering you, the fact that you don't see, that you don't understand, as the Buddha said, the gratification, the danger and the escape from these feelings, means that there is craving.
+
+133
+00:16:37,951 --> 00:16:41,234
+[SPEAKER_04]: And again, that's timeless.
+
+134
+00:16:41,274 --> 00:16:43,756
+[SPEAKER_04]: It's a timeless relationship.
+
+135
+00:16:45,378 --> 00:16:47,219
+[SPEAKER_04]: So, yeah, that should be the practice.
+
+136
+00:16:48,140 --> 00:16:54,726
+[SPEAKER_04]: And, of course, all of this becomes apparent through the graduate training that comes before.
+
+137
+00:16:54,746 --> 00:17:00,631
+[SPEAKER_04]: Because, as you just mentioned, you have to, to some extent, expose yourself
+
+138
+00:17:00,631 --> 00:17:10,239
+[SPEAKER_00]: You expose yourself to that suffering, but that doesn't mean that you go around doing, you know, self-mortification practices, like some ascetics in Buddhist time were doing.
+
+139
+00:17:11,280 --> 00:17:15,784
+[SPEAKER_04]: You expose yourself to the suffering by just not acting out of your desires.
+
+140
+00:17:15,924 --> 00:17:22,650
+[SPEAKER_00]: It doesn't mean you need to go all... let go the whole way and actually force yourself
+
+141
+00:17:24,847 --> 00:17:26,808
+[SPEAKER_00]: It's not like, you know, sleeping on a bed of nails.
+
+142
+00:17:27,489 --> 00:17:27,989
+[SPEAKER_00]: It's not.
+
+143
+00:17:28,129 --> 00:17:37,376
+[SPEAKER_04]: When there's greed, when your mind is greedy, when it's averse, you don't act out of those things, and the right suffering, as we talked about, will be there.
+
+144
+00:17:37,916 --> 00:17:42,039
+[SPEAKER_04]: And that's your time to start reflecting on
+
+145
+00:17:44,843 --> 00:17:45,303
+[SPEAKER_04]: How do I get rid of it?
+
+146
+00:17:45,743 --> 00:17:57,668
+[SPEAKER_04]: How do I escape this suffering in that timeless way that doesn't require me to go through this process of explaining it, rationalizing it, or sort of... Psychologizing.
+
+147
+00:17:57,688 --> 00:18:01,569
+[SPEAKER_04]: Psychologizing, or doing something to get rid of it.
+
+148
+00:18:01,609 --> 00:18:01,949
+[SPEAKER_04]: But no.
+
+149
+00:18:02,370 --> 00:18:07,151
+[SPEAKER_04]: Like, I directly see in that timeless manner what is the cessation of that suffering.
+
+150
+00:18:07,171 --> 00:18:10,893
+[SPEAKER_04]: As the Buddha said, the liberation by mind and liberation by wisdom
+
+151
+00:18:11,493 --> 00:18:14,314
+[SPEAKER_04]: Where those unwholesome states cease with that remainder.
+
+152
+00:18:15,274 --> 00:18:25,896
+[SPEAKER_04]: So, that should really be the criteria for, like, to be seeing from the start.
+
+153
+00:18:25,956 --> 00:18:32,337
+[SPEAKER_04]: And that's why it's kind of painful, because it's more pleasant to just assume that, yes, okay, I got all this right.
+
+154
+00:18:32,477 --> 00:18:33,797
+[SPEAKER_04]: Now, I just need to do this practice.
+
+155
+00:18:33,937 --> 00:18:38,378
+[SPEAKER_04]: But going in that sort of more personal way to, like,
+
+156
+00:18:43,193 --> 00:18:44,094
+[SPEAKER_04]: into your own views.
+
+157
+00:18:45,415 --> 00:18:49,758
+[SPEAKER_04]: That part is... that's why you cannot do it without faith.
+
+158
+00:18:49,818 --> 00:18:57,843
+[SPEAKER_03]: Essentially, your personality is inextricably bound up with personality view, so you can't separate them.
+
+159
+00:18:58,284 --> 00:19:10,252
+[SPEAKER_03]: So, if you go and dig deeper, then at some point, it is those personality view or views that will come up for question, which experientially means that you bring yourself up for question.
+
+160
+00:19:11,356 --> 00:19:13,278
+[SPEAKER_04]: Yeah.
+
+161
+00:19:13,358 --> 00:19:14,579
+[SPEAKER_04]: Ignorance wants to survive.
+
+162
+00:19:14,839 --> 00:19:23,946
+[SPEAKER_00]: And, obviously, if enlightenment were easy, you know, you wouldn't require a Buddha to sort of discover the way out.
+
+163
+00:19:23,966 --> 00:19:26,168
+[SPEAKER_00]: People would naturally be taking that direction.
+
+164
+00:19:26,228 --> 00:19:28,610
+[SPEAKER_00]: But, as he says, it's always against the grain.
+
+165
+00:19:29,271 --> 00:19:32,994
+[SPEAKER_04]: Because, even when you're trying to find the way out of craving,
+
+166
+00:19:33,734 --> 00:19:43,877
+[SPEAKER_04]: You can easily slip into these attitudes of, like I said before, trying to get rid of things, trying to manage your feelings, even though to you it feels like you are practicing to overcome craving.
+
+167
+00:19:44,377 --> 00:19:50,778
+[SPEAKER_00]: But actually, that's a path of lesser resistance than actually enduring things on the right level, as they say.
+
+168
+00:19:51,118 --> 00:19:52,959
+[SPEAKER_00]: Which is the highest asceticism.
+
+169
+00:19:53,219 --> 00:19:57,700
+[SPEAKER_00]: It doesn't say that the highest asceticism is like the person who doesn't sleep, doesn't eat, doesn't breathe.
+
+170
+00:20:04,973 --> 00:20:14,059
+[SPEAKER_03]: I think that the craving or the desire to change or manipulate things, as you just mentioned, that that by definition means that the aggregates are already assumed.
+
+171
+00:20:14,339 --> 00:20:24,285
+[SPEAKER_01]: Like, if someone would actually see none of these five aggregates are mine, then why would there even be the wish to do something about them or to make them otherwise?
+
+172
+00:20:24,746 --> 00:20:24,966
+[SPEAKER_01]: Right?
+
+173
+00:20:25,346 --> 00:20:28,048
+[SPEAKER_01]: So, but it is because it is not seen.
+
+174
+00:20:28,208 --> 00:20:31,330
+[SPEAKER_01]: One automatically regards it as having something to do with me,
+
+175
+00:20:33,100 --> 00:20:37,805
+[SPEAKER_01]: And once that's in place, automatically the question is, what am I going to do about it?
+
+176
+00:20:38,766 --> 00:20:40,488
+[SPEAKER_01]: Including all the practices.
+
+177
+00:20:41,609 --> 00:20:43,692
+[SPEAKER_01]: Which is going to be, by definition, wrong.
+
+178
+00:20:44,132 --> 00:20:51,340
+[SPEAKER_01]: But if somebody were to factually see those five assumed aggregates that are not self, which is the inside of the noble disciple, then
+
+179
+00:20:52,141 --> 00:20:53,963
+[SPEAKER_01]: Why would they even be bothered with those five aggregates?
+
+180
+00:20:54,563 --> 00:20:54,804
+[SPEAKER_01]: Right?
+
+181
+00:20:55,164 --> 00:21:05,474
+[SPEAKER_01]: And so, the whole idea of practices and development in a positive sense, like I'm here, stuck with this, I need to do something in order to get that, which is the whole time-bound approach.
+
+182
+00:21:05,994 --> 00:21:17,345
+[SPEAKER_01]: And then, because the moment there is that identification, at once the question arises, what is the most effective way, the best practice, the most direct, the highest this, the most superior that?
+
+183
+00:21:17,945 --> 00:21:18,185
+[SPEAKER_01]: Right?
+
+184
+00:21:18,445 --> 00:21:26,510
+[SPEAKER_01]: And then you get trapped in this whole spiritual circus of everybody offering you the most powerful, secret, esoteric method to deal with your problem.
+
+185
+00:21:26,830 --> 00:21:31,192
+[SPEAKER_01]: But it's all based on being already identified with the irrevocables.
+
+186
+00:21:31,693 --> 00:21:39,737
+[SPEAKER_01]: If somebody were to actually see that that's not the case, then the whole question of what is the right and the best practice for me,
+
+187
+00:21:46,958 --> 00:21:49,100
+[SPEAKER_01]: It won't be the same as basically when you start.
+
+188
+00:21:49,340 --> 00:22:04,714
+[SPEAKER_04]: Yeah, because, so to say, it's... Well, anything that's bound with time, the Buddha said, why should I seek what's bound with time, instead of what's presently or directly available, which is a dhamma.
+
+189
+00:22:05,254 --> 00:22:08,277
+[SPEAKER_04]: And so, anything that, even if it's a spiritual practice,
+
+190
+00:22:12,038 --> 00:22:13,299
+[SPEAKER_04]: And then something happens later.
+
+191
+00:22:13,479 --> 00:22:13,719
+[SPEAKER_04]: Yeah.
+
+192
+00:22:14,420 --> 00:22:17,362
+[SPEAKER_00]: That is a sensual principle, in that sense.
+
+193
+00:22:17,382 --> 00:22:26,468
+[SPEAKER_00]: Like, if it's getting rid of... because sensuality doesn't just have to be, you know, just course, food, music, and that sort of thing.
+
+194
+00:22:26,488 --> 00:22:29,431
+[SPEAKER_00]: It's just the principle of having pleasure.
+
+195
+00:22:30,451 --> 00:22:36,694
+[SPEAKER_04]: I started having pain and replacing it, doing something so that later that pain is replaced with pleasure.
+
+196
+00:22:37,595 --> 00:22:39,316
+[SPEAKER_04]: But the dhamma goes the other way around.
+
+197
+00:22:40,356 --> 00:22:47,340
+[SPEAKER_04]: Immediately, in that timeless sense, when pain is there, you don't replace it with anything.
+
+198
+00:22:47,940 --> 00:22:48,900
+[SPEAKER_00]: But you don't suffer either.
+
+199
+00:22:49,881 --> 00:22:57,425
+[SPEAKER_00]: So that's the sort of paradoxical thing that has to seem paradoxical initially.
+
+200
+00:22:58,926 --> 00:23:04,489
+[SPEAKER_04]: And the issue with what you said, that people would make sense of it.
+
+201
+00:23:04,569 --> 00:23:09,513
+[SPEAKER_04]: Sure, if I don't see these aggregates itself, then I won't be craving to do anything about them.
+
+202
+00:23:10,293 --> 00:23:16,698
+[SPEAKER_04]: But it's also important to see that you start by not fully seeing those five aggregates.
+
+203
+00:23:16,898 --> 00:23:23,742
+[SPEAKER_04]: So, you might be able to say, or you might say to yourself, I'm not taking anything itself, but you don't see that
+
+204
+00:23:25,553 --> 00:23:26,514
+[SPEAKER_04]: Let's go deeper than that.
+
+205
+00:23:26,674 --> 00:23:30,817
+[SPEAKER_00]: And you might be taking your action of not taking anything itself, as self.
+
+206
+00:23:31,498 --> 00:23:36,681
+[SPEAKER_00]: As if to say that that's the... seeing not-self-with-self.
+
+207
+00:23:37,122 --> 00:23:44,748
+[SPEAKER_03]: It's not a decision or... it's not a choice or a decision, because if you do it like that, then we can all just decide right here and now, let's not take these aggregates as ours.
+
+208
+00:23:44,788 --> 00:23:47,810
+[SPEAKER_01]: Well, it can be... Basically, you can just decide to become a noble disciple.
+
+209
+00:23:48,030 --> 00:23:59,078
+[SPEAKER_04]: It can be a decision for, like, a sotāpanna or higher, and that's why the Buddha would tell them, okay, now, regard for myself, regard feeling is not self.
+
+210
+00:23:59,138 --> 00:24:01,520
+[SPEAKER_01]: Yeah, but that's because they fundamentally have already seen
+
+211
+00:24:02,675 --> 00:24:07,996
+[SPEAKER_04]: So, in other words, it's telling them practice that path, practice that Noble Eightfold Path.
+
+212
+00:24:09,136 --> 00:24:19,018
+[SPEAKER_04]: But, before that, it's more important to question yourself with honesty and see, wait, no, I still don't understand what even form, feeling, is.
+
+213
+00:24:19,078 --> 00:24:25,020
+[SPEAKER_04]: Because, as it said, if I already understood that, which is the First Noble Truth, I would have already seen the escape.
+
+214
+00:24:25,080 --> 00:24:27,140
+[SPEAKER_04]: So, I wouldn't be, like, you know, seeking all these
+
+215
+00:24:30,643 --> 00:24:35,126
+[SPEAKER_04]: I would see what the way out is just by knowing what form actually is.
+
+216
+00:24:35,686 --> 00:24:44,291
+[SPEAKER_04]: So, just ask yourself, okay, I'm letting go of these things, I'm practicing non-self, but do I still have the expectation that, like, okay, so when is the cessation going to happen?
+
+217
+00:24:45,152 --> 00:24:49,314
+[SPEAKER_00]: It still means you're seeing it in that sense of bound with time.
+
+218
+00:24:50,095 --> 00:24:51,115
+[SPEAKER_00]: It's not timeless.
+
+219
+00:24:51,396 --> 00:24:53,717
+[SPEAKER_04]: So, that's the thing.
+
+220
+00:24:55,098 --> 00:24:57,239
+[SPEAKER_04]: The whole thing needs to start with
+
+221
+00:24:58,780 --> 00:25:02,843
+[SPEAKER_04]: There's no honest recognition of you being being sick, like needing treatment.
+
+222
+00:25:03,563 --> 00:25:13,590
+[SPEAKER_00]: And then, if a patient just, sort of, the first, sort of, they just take it, the first medicine they take, it just takes the symptoms away.
+
+223
+00:25:14,211 --> 00:25:17,353
+[SPEAKER_00]: And they assume, okay, that's it, that's enough.
+
+224
+00:25:17,753 --> 00:25:20,775
+[SPEAKER_00]: Then, they won't, they would actually go to the root of their illness.
+
+225
+00:25:21,616 --> 00:25:24,478
+[SPEAKER_00]: So, you can, to some extent,
+
+226
+00:25:27,740 --> 00:25:32,724
+[SPEAKER_04]: What you might think is not self, but you have to keep in mind, no, it's... it always goes deeper than this.
+
+227
+00:25:32,885 --> 00:25:35,447
+[SPEAKER_00]: Like, there has to be more to this.
+
+228
+00:25:35,727 --> 00:25:37,849
+[SPEAKER_00]: And that's where... where a lot of people stop.
+
+229
+00:25:37,989 --> 00:25:47,217
+[SPEAKER_00]: Like, as soon as they're just able to find some way of... of managing their feelings, because they still, on some level, assume that to be the problem,
+
+230
+00:25:48,543 --> 00:25:50,964
+[SPEAKER_00]: That's the cessation of suffering.
+
+231
+00:25:51,365 --> 00:25:58,308
+[SPEAKER_00]: So, that's why, actually, the Buddha wouldn't even talk in terms of scrementary or these four stages in the beginning.
+
+232
+00:25:59,149 --> 00:26:16,638
+[SPEAKER_00]: It was more like just cessation of suffering and strife for that, because then it's very easy for someone to find a way that appears to get rid of the problem, and then they say,
+
+233
+00:26:19,534 --> 00:26:20,895
+[SPEAKER_00]: This is enough for now.
+
+234
+00:26:20,975 --> 00:26:22,216
+[SPEAKER_00]: I will keep going.
+
+235
+00:26:22,336 --> 00:26:29,680
+[SPEAKER_00]: And then, they can become complacent without actually having reached the actual dream entry.
+
+236
+00:26:29,700 --> 00:26:37,245
+[SPEAKER_00]: But, of course, that will not happen unless you're, to some extent, already inauthentic or not self-honest enough.
+
+237
+00:26:37,265 --> 00:26:42,748
+[SPEAKER_00]: Because you would realize, no, no, I am actually liable to craving in some sense.
+
+238
+00:26:42,788 --> 00:26:46,130
+[SPEAKER_00]: So, you only fall into that mistake when you're, like, actively
+
+239
+00:26:47,310 --> 00:26:49,511
+[SPEAKER_04]: Well, you don't have your priorities straight, basically.
+
+240
+00:26:49,591 --> 00:27:00,035
+[SPEAKER_04]: When you feel more... put more importance into, like, what you are, what's supposedly instrumental or whatever, rather than know, am I actually liable to suffering or not?
+
+241
+00:27:00,755 --> 00:27:14,000
+[SPEAKER_03]: Yeah, I was gonna ask just this, like, how can one be sure that one is not just, you know, managing still feelings, but telling oneself, no, no, I'm uprooting craving?
+
+242
+00:27:15,528 --> 00:27:15,768
+[SPEAKER_03]: Right?
+
+243
+00:27:16,108 --> 00:27:17,729
+[SPEAKER_03]: Because that's the fundamental difference.
+
+244
+00:27:18,229 --> 00:27:20,290
+[SPEAKER_03]: Like, management, by definition, also takes time.
+
+245
+00:27:20,971 --> 00:27:21,191
+[SPEAKER_03]: Right?
+
+246
+00:27:21,551 --> 00:27:26,253
+[SPEAKER_03]: But as you've just explained, the practice of the Noble Eightfold Path is otherwise.
+
+247
+00:27:27,133 --> 00:27:32,336
+[SPEAKER_03]: So, okay, one can wrap one's head around that, saying time, timeless, no expectations, this and that.
+
+248
+00:27:32,896 --> 00:27:33,296
+[SPEAKER_03]: That's good.
+
+249
+00:27:33,696 --> 00:27:34,997
+[SPEAKER_03]: But, practically speaking,
+
+250
+00:27:36,160 --> 00:27:37,521
+[SPEAKER_03]: You sit in your room, alone.
+
+251
+00:27:37,781 --> 00:27:40,863
+[SPEAKER_03]: You're assuming people have... are keeping their precepts.
+
+252
+00:27:41,183 --> 00:27:43,725
+[SPEAKER_03]: They've introduced sensory strength into their daily life.
+
+253
+00:27:44,125 --> 00:27:50,949
+[SPEAKER_03]: Can you just decide to stop managing your feelings and just grind your teeth and then just...
+
+254
+00:27:50,969 --> 00:27:51,169
+[SPEAKER_01]: Right?
+
+255
+00:27:51,229 --> 00:27:57,413
+[SPEAKER_01]: Because now it's very easy to say... and then just wait for something to happen, which is... which is very... or... or... or... or whether to take a wrong turn.
+
+256
+00:27:57,433 --> 00:27:58,213
+[SPEAKER_01]: So, okay, that's wrong.
+
+257
+00:27:58,233 --> 00:27:58,934
+[SPEAKER_01]: So, I don't wait.
+
+258
+00:27:58,954 --> 00:27:59,914
+[SPEAKER_01]: So, I'm not going to mind.
+
+259
+00:28:00,075 --> 00:28:00,275
+[SPEAKER_01]: Right?
+
+260
+00:28:00,635 --> 00:28:02,156
+[SPEAKER_01]: Because this is how it will practically be.
+
+261
+00:28:02,798 --> 00:28:04,639
+[SPEAKER_01]: So, can we go into that?
+
+262
+00:28:04,880 --> 00:28:07,922
+[SPEAKER_01]: Like, can you decide to not manage your feelings?
+
+263
+00:28:07,982 --> 00:28:11,865
+[SPEAKER_01]: And is that, in fact, the same as digging deeper, as you said earlier?
+
+264
+00:28:12,965 --> 00:28:19,210
+[SPEAKER_00]: Well, it's all... that's why the Buddha said there has to be these five factors for someone to succeed in the practice.
+
+265
+00:28:20,150 --> 00:28:23,153
+[SPEAKER_00]: And the first one, the first of all, is faith.
+
+266
+00:28:24,093 --> 00:28:30,418
+[SPEAKER_00]: So, it's kind of that... that recognition that
+
+267
+00:28:32,371 --> 00:28:36,017
+[SPEAKER_04]: If you don't have faith, it's more like you just want to do things your way.
+
+268
+00:28:37,059 --> 00:28:45,492
+[SPEAKER_04]: And the first sort of occasion where you feel that something solved the problem,
+
+269
+00:28:46,778 --> 00:28:47,478
+[SPEAKER_04]: You will stop there.
+
+270
+00:28:48,579 --> 00:29:02,066
+[SPEAKER_00]: Whereas, if you have faith, you will see, no, no, I don't... it doesn't matter, like, what this... if this seems like it works for me, I need to go to the root, to go deeper into the Buddha, what the Buddha actually taught, for example.
+
+271
+00:29:02,647 --> 00:29:06,589
+[SPEAKER_04]: So, without that faith as a foundation,
+
+272
+00:29:08,330 --> 00:29:11,272
+[SPEAKER_00]: Actually, the other quality, the Buddha also said, is self-honesty.
+
+273
+00:29:11,732 --> 00:29:13,273
+[SPEAKER_00]: One of the five essential qualities.
+
+274
+00:29:14,074 --> 00:29:27,363
+[SPEAKER_04]: So, without that self-honesty, I mean, you can give people various kinds of definitions, but fundamentally, they can always sort of find a room, or find a space, to just stop short of
+
+275
+00:29:31,803 --> 00:29:33,165
+[SPEAKER_00]: But there's still 5% left.
+
+276
+00:29:33,505 --> 00:29:43,116
+[SPEAKER_00]: And if they have, again, like I said, they don't have their priorities straight, they're sort of more concerned about feeling that they're free from suffering, rather than actually being free from suffering.
+
+277
+00:29:46,000 --> 00:29:56,188
+[SPEAKER_00]: There's even that sutta where the Buddha says there's a simile of the hardwood, where he says it's like a person looking for hardwood.
+
+278
+00:29:57,489 --> 00:30:00,852
+[SPEAKER_00]: That's what that's what they want, but they don't know what hardwood looks like.
+
+279
+00:30:01,513 --> 00:30:06,477
+[SPEAKER_00]: So, then the first person sort of just takes like the branches and leaves of the
+
+280
+00:30:06,897 --> 00:30:07,678
+[SPEAKER_00]: You're out of the tree.
+
+281
+00:30:08,298 --> 00:30:09,859
+[SPEAKER_00]: The other one then goes a little bit deeper.
+
+282
+00:30:09,999 --> 00:30:11,060
+[SPEAKER_00]: The other one goes a bit deeper.
+
+283
+00:30:11,460 --> 00:30:18,324
+[SPEAKER_04]: And all these things, he's talking about virtue, talking about developing samādhi, developing...
+
+284
+00:30:18,364 --> 00:30:20,786
+[SPEAKER_04]: It says even knowledge and vision, so right understanding.
+
+285
+00:30:21,366 --> 00:30:25,249
+[SPEAKER_04]: And the Buddha says even that is not actually the hardwood.
+
+286
+00:30:25,989 --> 00:30:30,212
+[SPEAKER_04]: So then, it says like the person would stop there, because he would be
+
+287
+00:30:35,474 --> 00:30:54,770
+[SPEAKER_04]: And factually getting to understand, you know, not the things that are not in line with the suttas, but actually, you know, getting closer to seeing the five aggregates in such things, like, you stop there, you don't keep going, then, yeah, you... like it says, like,
+
+288
+00:30:58,751 --> 00:31:01,493
+[SPEAKER_04]: So, that's... that can... that can happen.
+
+289
+00:31:01,513 --> 00:31:03,415
+[SPEAKER_04]: Like... like, if you don't have that, eh...
+
+290
+00:31:18,788 --> 00:31:25,657
+[SPEAKER_00]: That real kind of motivation to just not stop, to not be satisfied.
+
+291
+00:31:25,677 --> 00:31:27,179
+[SPEAKER_00]: That's what the Buddha would say.
+
+292
+00:31:27,299 --> 00:31:29,221
+[SPEAKER_00]: Don't be satisfied with wholesome states.
+
+293
+00:31:30,563 --> 00:31:31,244
+[SPEAKER_00]: It doesn't matter how
+
+294
+00:31:34,273 --> 00:31:38,455
+[SPEAKER_04]: How accomplished you feel, you need to keep going and keep questioning.
+
+295
+00:31:38,495 --> 00:31:51,383
+[SPEAKER_04]: Actually, even a noble disciple, it's not like they would... it's not like their understanding is perfect and now they just keep doing the same thing kind of mechanically.
+
+296
+00:31:52,136 --> 00:31:58,140
+[SPEAKER_04]: It's even a narahant, the suta guru defines, somebody who fully understands the Four Noble Truths.
+
+297
+00:31:58,900 --> 00:32:11,108
+[SPEAKER_04]: So, in other words, like, somebody who has walked... somebody who... the only person who fully understands the path to the cessation of suffering is a person who has fully walked the path to the cessation of suffering.
+
+298
+00:32:11,928 --> 00:32:19,373
+[SPEAKER_04]: So, even a sotāpanna or any other noble disciple needs to even refine their view of what the practice is,
+
+299
+00:32:25,094 --> 00:32:38,985
+[SPEAKER_04]: It's not all what they did before, but it's still like even they need that faith, as suttas would say, and would say that if somebody doesn't have faith, like a satipaṭṭhāna or a sakadāgāmī cannot become anāgāmī.
+
+300
+00:32:39,225 --> 00:32:49,353
+[SPEAKER_04]: If they don't have enough faith to kind of see that, okay, I have this, it's very good, and it is factually what the Buddha taught, but I need to still push it further and question it.
+
+301
+00:32:51,607 --> 00:32:56,028
+[SPEAKER_04]: And lastly, about the last truth.
+
+302
+00:32:58,729 --> 00:33:04,031
+[SPEAKER_04]: Well, you can even take the example of like a mundane problem.
+
+303
+00:33:04,951 --> 00:33:11,673
+[SPEAKER_00]: The more... the less clear you are about what a problem is, the more
+
+304
+00:33:14,061 --> 00:33:19,225
+[SPEAKER_00]: Sort of alternative solutions you will feel that there are for that problem.
+
+305
+00:33:20,206 --> 00:33:27,632
+[SPEAKER_04]: And that's how you sometimes get this view that there are many different paths to the cessation of suffering.
+
+306
+00:33:28,373 --> 00:33:35,018
+[SPEAKER_04]: Not in the sense like, you know, how the Buddha would be teaching ānāpānasati to some people, other people would be teaching brahmaviharas.
+
+307
+00:33:35,418 --> 00:33:36,159
+[SPEAKER_04]: Not in that sense.
+
+308
+00:33:36,299 --> 00:33:36,439
+[SPEAKER_04]: No.
+
+309
+00:33:36,459 --> 00:33:39,942
+[SPEAKER_04]: Like, completely different views about what's even
+
+310
+00:33:45,523 --> 00:33:47,504
+[SPEAKER_01]: How to actually come to see the Buddhist teaching?
+
+311
+00:33:48,024 --> 00:33:49,985
+[SPEAKER_03]: That's a very pleasing view.
+
+312
+00:33:50,345 --> 00:33:54,247
+[SPEAKER_03]: Because, you know, what works for you might not necessarily work for me.
+
+313
+00:33:54,727 --> 00:34:00,270
+[SPEAKER_03]: But if you start out by thinking like that, that is already a compromise of the faith you were just describing.
+
+314
+00:34:00,310 --> 00:34:04,291
+[SPEAKER_03]: Because you would inadvertently be following your own preferences.
+
+315
+00:34:04,832 --> 00:34:05,412
+[SPEAKER_01]: But yeah, if you
+
+316
+00:34:07,545 --> 00:34:08,666
+[SPEAKER_01]: Then, you already will suffer.
+
+317
+00:34:08,866 --> 00:34:09,066
+[SPEAKER_01]: Yeah.
+
+318
+00:34:09,286 --> 00:34:13,670
+[SPEAKER_01]: So, at some point, you need to be prepared that you have to go against your own views.
+
+319
+00:34:14,310 --> 00:34:16,291
+[SPEAKER_01]: Which, of course, then, at once, raises the difficulty.
+
+320
+00:34:16,311 --> 00:34:19,174
+[SPEAKER_01]: Yeah, if that's the case, then how am I going to even find out what's right?
+
+321
+00:34:19,554 --> 00:34:23,357
+[SPEAKER_01]: Well, you don't know what's right until you know what's right.
+
+322
+00:34:23,597 --> 00:34:25,698
+[SPEAKER_01]: But, practically speaking, that's also not going to be very helpful.
+
+323
+00:34:26,179 --> 00:34:31,823
+[SPEAKER_01]: But, that is actually how you are factually going to come to terms with, for example, a factor of doubt.
+
+324
+00:34:34,291 --> 00:34:40,860
+[SPEAKER_01]: So, doubt can be easily covered up by just settling mechanically for certain factors, but that's not going to bring any results.
+
+325
+00:34:41,561 --> 00:34:49,052
+[SPEAKER_01]: So, one has little choice but to upgrade one's ideas by listening to those who know what they're talking about.
+
+326
+00:34:49,951 --> 00:34:50,231
+[SPEAKER_01]: i.e.
+
+327
+00:34:50,451 --> 00:34:53,113
+[SPEAKER_01]: no disciples or arahants.
+
+328
+00:34:53,733 --> 00:35:02,137
+[SPEAKER_01]: And if there's none available, yeah, then you have to take recourse from the suttas to find that guidance.
+
+329
+00:35:02,717 --> 00:35:03,037
+[SPEAKER_04]: Right?
+
+330
+00:35:03,878 --> 00:35:17,584
+[SPEAKER_04]: Yeah, but what I was specifically meaning was, like, that view, you know, like, there's almost this implication that, like, the
+
+331
+00:35:21,687 --> 00:35:23,448
+[SPEAKER_04]: That's better, in and of itself.
+
+332
+00:35:24,029 --> 00:35:32,615
+[SPEAKER_04]: But, if you think about it, in the sense of, like, when you're very open-minded about what the solution to a problem is, that's because you're not clear about what the problem is.
+
+333
+00:35:32,695 --> 00:35:33,536
+[SPEAKER_04]: Yes.
+
+334
+00:35:33,616 --> 00:35:36,358
+[SPEAKER_04]: So, like a doctor, you know, you have two doctors.
+
+335
+00:35:36,378 --> 00:35:47,146
+[SPEAKER_00]: You know you have a condition, and then you go to this doctor who says, well, you can try this, and if it doesn't work for you, then maybe try this other one, and if not, well, it's all relative, you know.
+
+336
+00:35:49,044 --> 00:35:49,565
+[SPEAKER_00]: It's up to you.
+
+337
+00:35:50,665 --> 00:35:55,508
+[SPEAKER_04]: And then, the other one says, no, this is what you need to do, and nothing else is going to work.
+
+338
+00:35:55,828 --> 00:35:57,189
+[SPEAKER_04]: Now, he might be wrong.
+
+339
+00:35:57,910 --> 00:35:59,631
+[SPEAKER_04]: It doesn't mean automatically he's going to be right.
+
+340
+00:36:00,311 --> 00:36:09,256
+[SPEAKER_04]: But if one doctor actually knows what the solution to the problem is, it will be one of the ones who are telling you that it's something very specific.
+
+341
+00:36:10,077 --> 00:36:13,479
+[SPEAKER_04]: Because that's, like, to the extent that you have understood
+
+342
+00:36:14,339 --> 00:36:24,349
+[SPEAKER_04]: suffering, craving, and cessation of craving, that narrows down to perfect accuracy what the solution is, what the path is.
+
+343
+00:36:25,149 --> 00:36:28,853
+[SPEAKER_04]: So, because any, whether
+
+344
+00:36:34,712 --> 00:36:41,293
+[SPEAKER_04]: From another one, it will always be because it implies a different view of what craving is.
+
+345
+00:36:41,994 --> 00:36:45,894
+[SPEAKER_04]: And that often happens with, for example, absorption practices.
+
+346
+00:36:46,855 --> 00:36:56,537
+[SPEAKER_04]: The sort of... even if it's not stated, the implied view there is that craving is the presence of these objects in my experience.
+
+347
+00:36:57,437 --> 00:37:03,698
+[SPEAKER_04]: And so then, by not having those objects anymore, replacing them with other objects,
+
+348
+00:37:08,885 --> 00:37:10,726
+[SPEAKER_04]: It's managing your feelings.
+
+349
+00:37:11,546 --> 00:37:22,450
+[SPEAKER_04]: And so, see, it's not that... it's not just the fact that you still use the term... the same terminology of the suttas, like craving, and... and... four-legged shoes, or whatever.
+
+350
+00:37:23,511 --> 00:37:34,975
+[SPEAKER_04]: That doesn't necessarily mean that... that two people are teaching the same thing, even if they're using that terminology, because they can be pointing at very different things.
+
+351
+00:37:38,853 --> 00:37:43,035
+[SPEAKER_04]: For one, it's these thoughts that arise in my mind that I just destroy.
+
+352
+00:37:43,715 --> 00:37:47,277
+[SPEAKER_04]: And for another one, they may be telling you, no, no, it's a much more subtle thing.
+
+353
+00:37:47,297 --> 00:37:50,978
+[SPEAKER_04]: It's an attitude that you have in relation to those things.
+
+354
+00:37:54,197 --> 00:37:54,317
+[SPEAKER_00]: Yeah.
+
+355
+00:37:54,357 --> 00:37:55,978
+[SPEAKER_00]: And also, actually, like, a lot of these key words
+
+356
+00:38:11,857 --> 00:38:12,958
+[SPEAKER_03]: That's another thing.
+
+357
+00:38:12,978 --> 00:38:17,741
+[SPEAKER_03]: It is not just that the Buddha talks about aggregates without ever specifying what they are.
+
+358
+00:38:18,181 --> 00:38:25,006
+[SPEAKER_03]: Like, you know, people would would ask feeling, feeling, or stream-entry, stream-entry, or consciousness, consciousness, and then there comes some definition.
+
+359
+00:38:25,406 --> 00:38:29,889
+[SPEAKER_03]: That can still, of course, be misinterpreted, because, as you said, everything is an interpretation.
+
+360
+00:38:30,249 --> 00:38:36,353
+[SPEAKER_01]: But there can also be a tendency to not define things, which then helps to keep everything open, so that you can get
+
+361
+00:38:37,645 --> 00:38:38,025
+[SPEAKER_01]: Yeah.
+
+362
+00:38:38,125 --> 00:38:41,568
+[SPEAKER_01]: If you put that first, that will already make a big... Like, it will narrow down.
+
+363
+00:38:41,588 --> 00:38:41,708
+[SPEAKER_01]: Yeah.
+
+364
+00:38:41,728 --> 00:38:44,850
+[SPEAKER_01]: You'll still have some... to do some work for yourself, to clarify.
+
+365
+00:39:04,525 --> 00:39:19,452
+[SPEAKER_00]: I mean, you can significantly narrow down a lot of things, but even then, you, like I've been repeating a few times already, you make that practice out of upgrading your understanding of what these terms even mean.
+
+366
+00:39:19,592 --> 00:39:21,973
+[SPEAKER_00]: Like, when I say craving, what is that in my experience?
+
+367
+00:39:22,654 --> 00:39:27,476
+[SPEAKER_00]: And the problem is, most of the time, the practice is assumed to be in an opposite direction.
+
+368
+00:39:27,956 --> 00:39:30,159
+[SPEAKER_00]: Like, I just read something about craving ears.
+
+369
+00:39:31,021 --> 00:39:34,325
+[SPEAKER_00]: Any sort of nebulous ideas I might have about it, that's okay.
+
+370
+00:39:34,385 --> 00:39:37,590
+[SPEAKER_00]: Now, let me do the method, the practice.
+
+371
+00:39:37,770 --> 00:39:40,975
+[SPEAKER_04]: And then, you don't see that all of that practice that you
+
+372
+00:39:44,759 --> 00:39:56,686
+[SPEAKER_00]: The thing is that if you practice for a certain goal, that means that you know the goal, so you are actually already there.
+
+373
+00:39:57,066 --> 00:40:08,452
+[SPEAKER_02]: So, you are saying the other day, like, you start from actually there, because there is no point in, like, thinking, like, oh, but I know what the escape of suffering is, but I'm not there yet.
+
+374
+00:40:08,492 --> 00:40:08,693
+[SPEAKER_02]: No.
+
+375
+00:40:08,733 --> 00:40:11,094
+[SPEAKER_02]: You're actually already there, so that's where you start.
+
+376
+00:40:17,023 --> 00:40:27,085
+[SPEAKER_04]: Like I said, you might get new experiences out of cultivating that understanding, but your overall view remains the same.
+
+377
+00:40:28,085 --> 00:40:31,346
+[SPEAKER_00]: You haven't upgraded your understanding of the Four Noble Truths.
+
+378
+00:40:31,406 --> 00:40:44,488
+[SPEAKER_00]: And as I said, even for a sotāpanna, he needs to do that, let alone somebody who doesn't see the Four Noble Truths, and they just keep that definition over just 10 years of the practice, and they just accumulate these
+
+379
+00:40:45,878 --> 00:40:50,762
+[SPEAKER_04]: Insights and experiences, but, like, all secondary to that overall view that they had.
+
+380
+00:40:50,782 --> 00:40:56,046
+[SPEAKER_00]: That, for example, that craving is just these thoughts that they get rid of through focusing.
+
+381
+00:40:56,086 --> 00:41:00,849
+[SPEAKER_03]: Yeah, or that there's something outside of that craving that can be applied as an antidote.
+
+382
+00:41:01,450 --> 00:41:07,595
+[SPEAKER_03]: Whereas, actually, it is the full understanding of craving that that equals its cessation.
+
+383
+00:41:07,815 --> 00:41:08,135
+[SPEAKER_04]: Yeah, that you
+
+384
+00:41:12,978 --> 00:41:15,720
+[SPEAKER_04]: That's when the definition of what you're doing is within craving.
+
+385
+00:41:15,740 --> 00:41:19,503
+[SPEAKER_04]: Because then the definition of what craving is, like I said before, is imprecise.
+
+386
+00:41:20,584 --> 00:41:35,155
+[SPEAKER_04]: And that's when the definition of the problem is imprecise, that's when then you get this sort of total mix of random practices that you do.
+
+387
+00:41:36,940 --> 00:41:37,260
+[SPEAKER_04]: It doesn't work.
+
+388
+00:41:37,300 --> 00:41:38,780
+[SPEAKER_04]: I do the other one and do the other one.
+
+389
+00:41:39,340 --> 00:41:59,764
+[SPEAKER_04]: Because, again, that definition, imprecise definition of what the problem is, makes it seem like almost anything can... can... Like, when you're not clear about the fact that your headache is actually caused by brain cancer, you will be thinking that, okay, yeah, maybe a massage sometimes works.
+
+390
+00:42:00,524 --> 00:42:03,085
+[SPEAKER_04]: Sometimes, I don't know, this herbal tea.
+
+391
+00:42:03,185 --> 00:42:03,605
+[SPEAKER_04]: Also,
+
+392
+00:42:09,577 --> 00:42:09,717
+[SPEAKER_00]: Yeah.
+
+393
+00:42:09,737 --> 00:42:13,440
+[SPEAKER_00]: So, how is one practically then going to correctly narrow down the problem?
+
+394
+00:42:40,849 --> 00:42:42,029
+[SPEAKER_03]: This now has to be the next question.
+
+395
+00:42:43,950 --> 00:42:45,030
+[SPEAKER_03]: Right?
+
+396
+00:42:45,210 --> 00:42:51,692
+[SPEAKER_03]: We've just clarified that, you know, we can't just say anything goes as long as you start to label craving on it.
+
+397
+00:42:52,372 --> 00:43:04,895
+[SPEAKER_03]: So, if the understanding of craving has to be accurate in order for the practice to be the real practice, how then is one practically going to arrive at this most accurate understanding of what craving is?
+
+398
+00:43:08,440 --> 00:43:13,244
+[SPEAKER_02]: I want to kind of come back to what we were starting this conversation with, the feeling.
+
+399
+00:43:14,985 --> 00:43:23,511
+[SPEAKER_02]: Would it be safe to say that if you haven't understood the Four Noble Truths, then, to some extent, you are going to still be thinking that feeling is the problem?
+
+400
+00:43:24,452 --> 00:43:32,018
+[SPEAKER_02]: So, even if you kind of take the view like, yes, craving is the problem, there might still be the, like,
+
+401
+00:43:35,876 --> 00:43:44,081
+[SPEAKER_02]: Well, yeah, there's there's the view kind of under that, which is that, like, oh, I feel bad right now because I was craving.
+
+402
+00:43:44,862 --> 00:43:49,946
+[SPEAKER_02]: And, like, you're still, like, like, you're kind of saying, yes, the craving was, like, why I feel bad.
+
+403
+00:43:50,826 --> 00:43:54,751
+[SPEAKER_02]: But the, like, feeling bad is still where the suffering is.
+
+404
+00:43:54,771 --> 00:43:57,334
+[SPEAKER_02]: Yeah, in other words, you're... Like, you're seeing that as the suffering.
+
+405
+00:43:57,374 --> 00:44:02,439
+[SPEAKER_04]: You're calling, inadvertently, you're calling feelings craving.
+
+406
+00:44:03,320 --> 00:44:03,520
+[SPEAKER_04]: Right.
+
+407
+00:44:03,781 --> 00:44:08,886
+[SPEAKER_04]: Then, that's why, that's why I mentioned it, meant with saying, like, yes, you're using the same terminology.
+
+408
+00:44:09,887 --> 00:44:18,530
+[SPEAKER_04]: But for as long as you don't have the right view, you need to keep in mind, for you, those terms don't mean the same thing as they did, for example, for the Buddha.
+
+409
+00:44:19,230 --> 00:44:22,471
+[SPEAKER_00]: And then, by keeping that in mind, you would never take for granted.
+
+410
+00:44:22,811 --> 00:44:29,013
+[SPEAKER_00]: Because the problem isn't inherently that assuming or confusing feelings with craving.
+
+411
+00:44:29,433 --> 00:44:30,753
+[SPEAKER_00]: I mean, everybody starts like that.
+
+412
+00:44:30,813 --> 00:44:32,313
+[SPEAKER_00]: So, it's basically inevitable.
+
+413
+00:44:32,934 --> 00:44:37,555
+[SPEAKER_00]: The real problem is when you don't see the practice being on that level,
+
+414
+00:44:40,996 --> 00:44:58,069
+[SPEAKER_04]: So, as you can see then, if that remains like a constant, if that's not being questioned, then everything else that happens will be just a management of feelings as successful as it might be, while at the same time believing that you are a good craving.
+
+415
+00:44:58,609 --> 00:45:01,832
+[SPEAKER_00]: And that's really where the problem lies.
+
+416
+00:45:01,852 --> 00:45:05,735
+[SPEAKER_00]: Because if you were practicing management of feelings, knowing that that's what you're doing,
+
+417
+00:45:06,803 --> 00:45:07,884
+[SPEAKER_00]: Then, there wouldn't be an issue.
+
+418
+00:45:07,904 --> 00:45:12,288
+[SPEAKER_00]: Because then, one day, when you really feel like, okay, no, no, I need to deal with it now.
+
+419
+00:45:13,028 --> 00:45:16,331
+[SPEAKER_00]: Then, you would turn to, as the Buddha said, to the noble search.
+
+420
+00:45:17,312 --> 00:45:26,219
+[SPEAKER_00]: But, no, it's when you think that you're already doing the noble search on account of management of feelings, even if you can't call it that, that's when it becomes an issue.
+
+421
+00:45:26,239 --> 00:45:29,802
+[SPEAKER_00]: So, it's, eh... you would, eh...
+
+422
+00:45:31,250 --> 00:45:34,451
+[SPEAKER_04]: You would get out of that by, again, through self-honesty.
+
+423
+00:45:35,652 --> 00:45:47,876
+[SPEAKER_04]: If you have it really established, you would always be able to see that whatever you might be doing on the level of managing feelings will not free you from that liability.
+
+424
+00:45:47,916 --> 00:45:58,160
+[SPEAKER_00]: Because you can say, yes, I... even when you have that implication that you just mentioned, like you're... you might not be aware of it, but if you confuse feelings with craving,
+
+425
+00:45:59,896 --> 00:46:09,384
+[SPEAKER_04]: There will always be that tiny possibility that craving sort of comes by itself, where it will feel like it.
+
+426
+00:46:11,646 --> 00:46:17,651
+[SPEAKER_00]: And that's actually implied in a lot of times in sort of meditation techniques and stuff.
+
+427
+00:46:17,771 --> 00:46:19,473
+[SPEAKER_00]: It's like, if I sort of
+
+428
+00:46:26,120 --> 00:46:31,325
+[SPEAKER_00]: If you're going to be constantly on watch to prevent it, craving might slip in by accident.
+
+429
+00:46:32,286 --> 00:46:38,352
+[SPEAKER_00]: And whenever there's that view, there's a misunderstanding between feelings and craving.
+
+430
+00:46:38,592 --> 00:46:44,197
+[SPEAKER_00]: Because if you saw craving, you would see that there is no way that this can happen by accident.
+
+431
+00:46:45,258 --> 00:46:48,201
+[SPEAKER_00]: There is no way that this can just come
+
+432
+00:46:49,775 --> 00:47:07,911
+[SPEAKER_04]: But where, even if you call it craving, when you have that, like you said, I feel like this, because craving is there, and then I get rid of the craving for a moment, and then it comes back on its own.
+
+433
+00:47:08,532 --> 00:47:11,635
+[SPEAKER_00]: Well, that's a sign that you're most likely just dealing with feelings.
+
+434
+00:47:17,501 --> 00:47:27,533
+[SPEAKER_02]: Because the feelings come by themselves, and the craving is an answer we give.
+
+435
+00:47:28,374 --> 00:47:31,398
+[SPEAKER_02]: It's already a reaction towards these feelings.
+
+436
+00:47:31,952 --> 00:47:34,253
+[SPEAKER_00]: And it's fully within our responsibility.
+
+437
+00:47:34,293 --> 00:47:39,355
+[SPEAKER_00]: So that's why then the full cessation of suffering is possible.
+
+438
+00:47:39,515 --> 00:47:51,018
+[SPEAKER_00]: Because if the craving were kind of even like 1% accidental, then it could just come back sometime when you don't expect it or you get careless or something.
+
+439
+00:47:51,799 --> 00:47:55,420
+[SPEAKER_04]: But it's because it is like...
+
+440
+00:48:01,898 --> 00:48:03,838
+[SPEAKER_01]: From the initial point of view, that's not the case.
+
+441
+00:48:03,858 --> 00:48:05,599
+[SPEAKER_01]: Yeah, because it does have its momentum already.
+
+442
+00:48:05,819 --> 00:48:06,099
+[SPEAKER_01]: Yeah.
+
+443
+00:48:06,119 --> 00:48:13,680
+[SPEAKER_03]: So, there's a question also of enduring craving, which does arise, but then, even then, one needs to distinguish that from feeling.
+
+444
+00:48:14,040 --> 00:48:17,941
+[SPEAKER_04]: Yeah, so that's why it's more accurate to say that it's more like you're responsible for it.
+
+445
+00:48:18,181 --> 00:48:22,962
+[SPEAKER_04]: Because if you say you're just doing it, then you might think like, oh, I just stop it.
+
+446
+00:48:23,382 --> 00:48:29,003
+[SPEAKER_04]: But no, it's like you will be able to stop it, and will, once you fully see it.
+
+447
+00:48:29,743 --> 00:48:30,243
+[SPEAKER_00]: But initially,
+
+448
+00:48:32,572 --> 00:48:37,036
+[SPEAKER_00]: Yes, there is this suffering in my experience, and I'm responsible for it, and I need to find the cause.
+
+449
+00:48:37,716 --> 00:48:47,464
+[SPEAKER_00]: If I just assume that I can, like, stop it in a fingersnap, knowing that I'm not a sotāpanna yet, means you probably will be just, eh, again, engaging in management.
+
+450
+00:48:47,725 --> 00:48:55,431
+[SPEAKER_00]: So, so, yeah, it's, it's, ehm, it is always a result of ignorance.
+
+451
+00:48:58,953 --> 00:49:00,955
+[SPEAKER_00]: This is ignorance, basically, like synonymous.
+
+452
+00:49:01,795 --> 00:49:07,840
+[SPEAKER_00]: So, inasmuch as ignorance can be the spell, as light will
+
+453
+00:49:12,751 --> 00:49:14,131
+[SPEAKER_00]: Craving can be dispelled in the same way.
+
+454
+00:49:14,232 --> 00:49:14,972
+[SPEAKER_00]: It doesn't take time.
+
+455
+00:49:16,052 --> 00:49:25,556
+[SPEAKER_00]: So, you want to look at it that way, and not see it as like, no, no, okay, I do this sort of mental practice for five minutes, and then the craving goes.
+
+456
+00:49:26,256 --> 00:49:26,516
+[SPEAKER_03]: Yeah.
+
+457
+00:49:26,536 --> 00:49:29,317
+[SPEAKER_03]: So, when you switch on the light, you don't need to wait for the darkness to go.
+
+458
+00:49:29,357 --> 00:49:30,357
+[SPEAKER_03]: Yeah, exactly.
+
+459
+00:49:30,517 --> 00:49:31,298
+[SPEAKER_03]: That's, that's why...
+
+460
+00:49:31,318 --> 00:49:33,538
+[SPEAKER_03]: So, the similar principle is now with the craving you're saying.
+
+461
+00:49:33,598 --> 00:49:41,021
+[SPEAKER_00]: That's why the Buddha, that's why exactly what the Buddha compared, like, the arising of knowledge with light arising in darkness.
+

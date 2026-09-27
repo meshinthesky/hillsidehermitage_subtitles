@@ -1,0 +1,2404 @@
+1
+00:00:02,885 --> 00:00:30,952
+[SPEAKER_00]: So, yeah, tonight's, tonight's sutta is Angotirinikāya 1062, titled Tanhāra Craving, and says, the Buddha talks to the monks and says, because this is said, no first point of craving for being is evident, before which there was no craving for being, bhāvatāna,
+
+2
+00:00:31,735 --> 00:00:33,696
+[SPEAKER_00]: And then, that afterwards then came to be.
+
+3
+00:00:34,537 --> 00:00:39,080
+[SPEAKER_00]: Still, eh... it is evident that craving for being depends on this.
+
+4
+00:00:40,060 --> 00:00:45,424
+[SPEAKER_00]: In other words, eh... there is no first point of craving, but that doesn't mean that it doesn't depend on anything.
+
+5
+00:00:45,864 --> 00:00:47,425
+[SPEAKER_00]: That it's not sustained by anything.
+
+6
+00:00:48,686 --> 00:00:53,108
+[SPEAKER_00]: And then the Buddha says, eh... he says, I say that the craving for being has its nutriment.
+
+7
+00:00:53,329 --> 00:00:54,469
+[SPEAKER_00]: It's not without nutriment.
+
+8
+00:00:55,170 --> 00:01:00,113
+[SPEAKER_00]: And the nutriment, eh... for, eh... craving for being is ignorance or avijjā.
+
+9
+00:01:02,467 --> 00:01:07,811
+[SPEAKER_00]: I say that ignorance has a nutriment and it's not without a nutriment.
+
+10
+00:01:08,391 --> 00:01:11,333
+[SPEAKER_00]: The nutriment for ignorance is the five hindrances.
+
+11
+00:01:13,615 --> 00:01:15,576
+[SPEAKER_00]: I say that the five hindrances have the nutriment.
+
+12
+00:01:15,796 --> 00:01:17,037
+[SPEAKER_00]: They're not without the nutriment.
+
+13
+00:01:17,397 --> 00:01:21,660
+[SPEAKER_00]: The nutriment for five hindrances are three kinds of misconduct.
+
+14
+00:01:23,962 --> 00:01:27,044
+[SPEAKER_00]: I say that the three kinds of misconduct have the nutriment.
+
+15
+00:01:27,244 --> 00:01:28,445
+[SPEAKER_00]: They're not without the nutriment.
+
+16
+00:01:29,829 --> 00:01:33,352
+[SPEAKER_00]: And the nutriment for the three kinds of misconduct is the lack of sense-restraint.
+
+17
+00:01:34,914 --> 00:01:36,895
+[SPEAKER_00]: I say that the lack of sense-restraint has its nutriment.
+
+18
+00:01:37,176 --> 00:01:38,217
+[SPEAKER_00]: It's not without a nutriment.
+
+19
+00:01:38,997 --> 00:01:43,081
+[SPEAKER_00]: And the nutriment for the lack of sense-restraint is the lack of recollection and awareness.
+
+20
+00:01:43,101 --> 00:01:43,942
+[SPEAKER_00]: Sati, sampajañña.
+
+21
+00:01:46,089 --> 00:01:54,972
+[SPEAKER_00]: I say that the lack of recollection and awareness has its nutriment, and it's not without the nutriment, and that nutriment is attention not in the light of its source.
+
+22
+00:01:55,612 --> 00:02:08,896
+[SPEAKER_00]: How we translate the yoniso manasikāra, the womb attention, or the attention with the origin, or wise attention, doesn't matter how you translate it, basically, it needs to be understood.
+
+23
+00:02:09,036 --> 00:02:13,517
+[SPEAKER_00]: I say that the attention not in the light of its source has its nutriment, it's not without the nutriment.
+
+24
+00:02:14,484 --> 00:02:16,565
+[SPEAKER_00]: What is the nutriment for yoniso manasikāra?
+
+25
+00:02:16,885 --> 00:02:18,246
+[SPEAKER_00]: And it's the lack of faith.
+
+26
+00:02:20,527 --> 00:02:22,408
+[SPEAKER_00]: I say that the lack of faith has its nutriment.
+
+27
+00:02:22,788 --> 00:02:23,888
+[SPEAKER_00]: It's not without nutriment.
+
+28
+00:02:24,209 --> 00:02:25,469
+[SPEAKER_00]: What's the nutriment for the lack of faith?
+
+29
+00:02:26,089 --> 00:02:27,810
+[SPEAKER_00]: It's not listening to the true teaching.
+
+30
+00:02:30,571 --> 00:02:32,913
+[SPEAKER_00]: I say that not listening to the true teaching has its nutriment.
+
+31
+00:02:33,133 --> 00:02:34,273
+[SPEAKER_00]: And it's not without the nutriment.
+
+32
+00:02:35,033 --> 00:02:38,135
+[SPEAKER_00]: And the nutriment for that is not associating with true persons.
+
+33
+00:02:40,873 --> 00:02:42,314
+[SPEAKER_00]: So then, the Buddha sums it up.
+
+34
+00:02:42,354 --> 00:02:50,418
+[SPEAKER_00]: It says, in this way, when the factor of not associating with true persons is fulfilled, it fulfills the factor of not listening to the true teaching, not hearing it.
+
+35
+00:02:51,259 --> 00:02:55,581
+[SPEAKER_00]: When the factor of not listening to the true teaching is fulfilled, it fulfills the factor of the lack of faith.
+
+36
+00:02:57,522 --> 00:03:02,525
+[SPEAKER_00]: Lack of faith factor fulfills the factor of ayoniso manasikāra.
+
+37
+00:03:03,846 --> 00:03:09,069
+[SPEAKER_00]: Ayoniso manasikāra factor fulfills the factor of lack of sati sampajañña.
+
+38
+00:03:10,067 --> 00:03:11,749
+[SPEAKER_00]: So, it's like when it rains heavily on a mountaintop,
+
+39
+00:03:33,843 --> 00:03:36,164
+[SPEAKER_00]: So, then, the rest of the sutra just goes in the reverse.
+
+40
+00:03:36,184 --> 00:03:36,485
+[SPEAKER_00]: So...
+
+41
+00:03:36,505 --> 00:03:38,926
+[SPEAKER_00]: Knowledge and liberation has its nutriment.
+
+42
+00:04:01,538 --> 00:04:02,898
+[SPEAKER_00]: And it's not without the nutriment.
+
+43
+00:04:02,918 --> 00:04:04,659
+[SPEAKER_00]: What's the nutriment for knowledge and liberation?
+
+44
+00:04:05,199 --> 00:04:06,700
+[SPEAKER_00]: It's the seven awakening factors.
+
+45
+00:04:08,160 --> 00:04:11,361
+[SPEAKER_00]: Seven awakening factors have the nutriment.
+
+46
+00:04:11,541 --> 00:04:13,802
+[SPEAKER_00]: The nutriment is the four foundations of recollection.
+
+47
+00:04:15,363 --> 00:04:17,523
+[SPEAKER_00]: The four foundations of recollection have the nutriment.
+
+48
+00:04:17,783 --> 00:04:20,224
+[SPEAKER_00]: The nutriment for that is the three kinds of good conduct.
+
+49
+00:04:21,665 --> 00:04:23,605
+[SPEAKER_00]: The three kinds of good conduct have the nutriment.
+
+50
+00:04:24,546 --> 00:04:28,407
+[SPEAKER_00]: And the nutriment for the three kinds of good conduct is sense restraint.
+
+51
+00:04:29,706 --> 00:04:31,426
+[SPEAKER_00]: Sense-restraint has its nutriment.
+
+52
+00:04:31,446 --> 00:04:32,487
+[SPEAKER_00]: It's not without a nutriment.
+
+53
+00:04:33,387 --> 00:04:36,287
+[SPEAKER_00]: And the nutriment for sense-restraint is sati-sampajañña.
+
+54
+00:04:38,908 --> 00:04:41,849
+[SPEAKER_00]: Sati-sampajañña, recollection, awareness, have the nutriment.
+
+55
+00:04:41,929 --> 00:04:42,949
+[SPEAKER_00]: And it's not without nutriment.
+
+56
+00:04:43,069 --> 00:04:48,790
+[SPEAKER_00]: And the nutriment for that is attention in the light of its source, or yonisu manasikāra.
+
+57
+00:04:50,030 --> 00:04:51,691
+[SPEAKER_00]: Yonisu manasikāra has its nutriment.
+
+58
+00:04:52,251 --> 00:04:53,351
+[SPEAKER_00]: And that nutriment is faith.
+
+59
+00:04:53,891 --> 00:04:54,891
+[SPEAKER_00]: Faith has its nutriment.
+
+60
+00:04:55,171 --> 00:04:58,092
+[SPEAKER_00]: That nutriment is listening to the true, correct teachings.
+
+61
+00:05:00,446 --> 00:05:06,310
+[SPEAKER_00]: Listening to the true teachings has its nutriment, and that is associating with true persons.
+
+62
+00:05:08,391 --> 00:05:11,454
+[SPEAKER_00]: So, then the Buddha sums it up, and again, same.
+
+63
+00:05:11,534 --> 00:05:24,423
+[SPEAKER_00]: It's like when it rains heavily on a mountaintop, when the water flows downhill to the hollow crevices, creeks become full, fill up the pools, fill up the lakes, lakes fill up the streams, streams fill up the rivers, and then the rivers become full and they fill up the ocean.
+
+64
+00:05:26,346 --> 00:05:34,013
+[SPEAKER_00]: So, let's go back to the beginning and start this one by one.
+
+65
+00:05:38,877 --> 00:05:41,499
+[SPEAKER_00]: So, tantha.
+
+66
+00:05:41,799 --> 00:05:42,880
+[SPEAKER_00]: Start with tantha, basically.
+
+67
+00:05:43,360 --> 00:05:47,704
+[SPEAKER_00]: So, there is no first point that the craving that you have in your experience
+
+68
+00:05:49,425 --> 00:05:51,526
+[SPEAKER_00]: Before which it was not, to put it that way.
+
+69
+00:05:51,546 --> 00:05:54,247
+[SPEAKER_00]: Before which it didn't exist, and then it just came to being.
+
+70
+00:05:54,307 --> 00:05:57,328
+[SPEAKER_00]: Just appeared out of nowhere, and now it's there.
+
+71
+00:05:58,228 --> 00:06:06,872
+[SPEAKER_00]: So, in other words, it's the infinite history of relationship of you and your Tantra.
+
+72
+00:06:07,112 --> 00:06:08,692
+[SPEAKER_00]: It has no discernible beginning.
+
+73
+00:06:09,933 --> 00:06:10,153
+[SPEAKER_00]: So,
+
+74
+00:06:11,175 --> 00:06:27,760
+[SPEAKER_00]: That already indicates that this dependence that the Buddha then goes... these nutriments that he goes to explain are not sequential things, are not things that are set up in a linear way, whereby the first thing comes to be, that then results in the second thing, that then results in the third thing.
+
+75
+00:06:28,380 --> 00:06:32,481
+[SPEAKER_00]: So the relationship of its dependence is not linear.
+
+76
+00:06:33,321 --> 00:06:36,582
+[SPEAKER_00]: Because if it were, then the first point of craving would be manifested.
+
+77
+00:06:38,436 --> 00:06:43,377
+[SPEAKER_00]: So, that's already something that people would just probably quickly kind of glance over.
+
+78
+00:06:44,017 --> 00:06:46,438
+[SPEAKER_00]: It says that no first point of craving is evident.
+
+79
+00:06:47,378 --> 00:06:51,359
+[SPEAKER_00]: And there are other suttas that talk... refer to the same... say the same thing about avijjā.
+
+80
+00:06:51,399 --> 00:06:53,860
+[SPEAKER_00]: There's no first point of avijjā that's being manifested.
+
+81
+00:06:53,920 --> 00:06:57,121
+[SPEAKER_00]: Yet, avijjā is not without its cause.
+
+82
+00:06:57,961 --> 00:07:04,643
+[SPEAKER_00]: So, that's the whole, obviously, as we spoke in other talks, the whole principle of bodhisattva, the idea of causality.
+
+83
+00:07:06,077 --> 00:07:16,727
+[SPEAKER_00]: People need to wrap their head around and understand that it's not cause and effect in terms of linear action-reaction, but it's that simultaneous dependence.
+
+84
+00:07:18,068 --> 00:07:24,194
+[SPEAKER_00]: So, it's like the heat of the flame is dependent on the actual wick burning.
+
+85
+00:07:26,035 --> 00:07:28,658
+[SPEAKER_00]: So, those are two separate phenomena that you can discern.
+
+86
+00:07:30,448 --> 00:07:32,689
+[SPEAKER_00]: But, they're not inseparable.
+
+87
+00:07:33,009 --> 00:07:38,614
+[SPEAKER_00]: You cannot have the heat without flame, or have a flame that doesn't have the heat, fire that doesn't burn.
+
+88
+00:07:39,394 --> 00:07:42,697
+[SPEAKER_00]: So, this is, this is, this is kind of mirrors the same relationship.
+
+89
+00:07:42,757 --> 00:07:50,342
+[SPEAKER_00]: So, if you were to look for the origin before which there was no craving, to see how craving came to be, you're never going to find it.
+
+90
+00:07:51,263 --> 00:07:57,408
+[SPEAKER_00]: Because that's not how things work in terms of the, the, the phenomena of craving and paticca upādāna.
+
+91
+00:07:58,362 --> 00:08:08,105
+[SPEAKER_00]: So, you need to look for the nutriment that is currently responsible for maintenance of that infinite... of that craving with its infinite history.
+
+92
+00:08:09,626 --> 00:08:10,326
+[SPEAKER_00]: To put it that way.
+
+93
+00:08:11,387 --> 00:08:20,590
+[SPEAKER_00]: And that currently maintained nutriment, that currently maintains the infinite history of craving, is ignorance.
+
+94
+00:08:20,930 --> 00:08:21,470
+[SPEAKER_00]: It's a vijā.
+
+95
+00:08:22,691 --> 00:08:26,472
+[SPEAKER_00]: So, you might recognize craving in your experience,
+
+96
+00:08:28,518 --> 00:08:39,124
+[SPEAKER_00]: In regard to this feeling, or in regard to that feeling, obviously, you won't be fully understanding it, but you might be able to, kind of, wrap your head around, let's say.
+
+97
+00:08:39,144 --> 00:08:41,205
+[SPEAKER_00]: Let's put it that way.
+
+98
+00:08:42,706 --> 00:08:56,253
+[SPEAKER_00]: So, the whole point, then, is if you're vague understanding of the phenomenon of craving, you need to look for what does that depend on.
+
+99
+00:08:57,520 --> 00:09:04,543
+[SPEAKER_00]: So, not in a psychological manner, not like, hmm, what was before this thing that I'm aware of now.
+
+100
+00:09:04,683 --> 00:09:05,704
+[SPEAKER_00]: There is no before.
+
+101
+00:09:08,325 --> 00:09:11,666
+[SPEAKER_00]: It's more like, what is with this thing that I'm aware of now?
+
+102
+00:09:11,746 --> 00:09:17,089
+[SPEAKER_00]: This craving, this ambiguous sense of craving and pressure, whatever I define it, what is with it?
+
+103
+00:09:18,069 --> 00:09:19,290
+[SPEAKER_00]: What is its nutriment?
+
+104
+00:09:19,590 --> 00:09:21,131
+[SPEAKER_00]: What is its necessary basis?
+
+105
+00:09:21,391 --> 00:09:22,371
+[SPEAKER_00]: What is its cause?
+
+106
+00:09:23,792 --> 00:09:25,933
+[SPEAKER_00]: Like simultaneously enduring present cause.
+
+107
+00:09:27,678 --> 00:09:28,799
+[SPEAKER_00]: Obviously, the Buddha gives you the answer.
+
+108
+00:09:28,839 --> 00:09:29,359
+[SPEAKER_00]: It's avijjā.
+
+109
+00:09:29,720 --> 00:09:36,105
+[SPEAKER_00]: But now, if you question it rightly, you at least get some idea as to where to look for that avijjā.
+
+110
+00:09:36,645 --> 00:09:38,427
+[SPEAKER_00]: So, it's not the avijjā from the past.
+
+111
+00:09:39,845 --> 00:09:48,974
+[SPEAKER_00]: It's not the avijjā from the, you know, six years ago or something, or some hidden lack of knowledge that you haven't learned yet.
+
+112
+00:09:49,515 --> 00:09:49,675
+[SPEAKER_00]: No.
+
+113
+00:09:49,795 --> 00:09:58,764
+[SPEAKER_00]: It's currently enduring phenomena that maintains that it's responsible for the maintenance of another currently, presently enduring phenomena of craving.
+
+114
+00:09:59,705 --> 00:10:01,547
+[SPEAKER_00]: So then, that avijjā
+
+115
+00:10:03,190 --> 00:10:03,810
+[SPEAKER_00]: What is it then?
+
+116
+00:10:04,111 --> 00:10:12,175
+[SPEAKER_00]: So, if it is there, if it has to be there simultaneously present with the craving, because no first point of craving is evident, yet it depends on something.
+
+117
+00:10:13,836 --> 00:10:19,719
+[SPEAKER_00]: So, if it depends on something, that thing also has no first point of its origin evident either.
+
+118
+00:10:20,960 --> 00:10:24,201
+[SPEAKER_00]: And, as I said, Adi Sutta actually said that directly about avijjā.
+
+119
+00:10:25,022 --> 00:10:26,302
+[SPEAKER_00]: So, what is that avijjā then?
+
+120
+00:10:26,983 --> 00:10:30,465
+[SPEAKER_00]: When you have the phenomenon of craving, in your experience, resisting
+
+121
+00:10:31,898 --> 00:10:38,500
+[SPEAKER_00]: Craving for more pleasure, resisting the discomfort, leaning towards indolence when the feeling is neutral.
+
+122
+00:10:39,720 --> 00:10:43,541
+[SPEAKER_00]: What is the common theme of those three attitudes?
+
+123
+00:10:45,241 --> 00:10:48,102
+[SPEAKER_00]: What is a common thread to all those three attitudes?
+
+124
+00:10:49,662 --> 00:10:50,243
+[SPEAKER_00]: It's ignorance.
+
+125
+00:10:50,583 --> 00:10:56,184
+[SPEAKER_00]: But what is that ignorance as a... as a... like, practically speaking, how does that manifest in your experience?
+
+126
+00:10:59,583 --> 00:11:02,824
+[SPEAKER_00]: So, that's already a line for reflection.
+
+127
+00:11:03,865 --> 00:11:08,406
+[SPEAKER_00]: Ignorance, avijja, non-knowledge of what, ignoring, what, how.
+
+128
+00:11:08,646 --> 00:11:12,648
+[SPEAKER_00]: It's not really like the lack of information, as I said.
+
+129
+00:11:13,388 --> 00:11:21,211
+[SPEAKER_00]: Because then, if you were to get the information, if ignorance were truly to be information, lack of information, if you once you learned information, that moment
+
+130
+00:11:22,189 --> 00:11:30,171
+[SPEAKER_00]: From then onwards, craving would disappear, because you would have removed its necessary, presently, simultaneously enduring cause.
+
+131
+00:11:34,393 --> 00:11:35,213
+[SPEAKER_00]: So, it's not that.
+
+132
+00:11:36,073 --> 00:11:36,814
+[SPEAKER_00]: So, what is it then?
+
+133
+00:11:37,014 --> 00:11:38,474
+[SPEAKER_00]: Well, I explained that in other talks.
+
+134
+00:11:39,494 --> 00:11:44,076
+[SPEAKER_00]: It's the attitude of ignoring, turning a blind eye, covering up,
+
+135
+00:11:45,064 --> 00:12:03,109
+[SPEAKER_00]: Exemplified through the behaviors of avoiding responsibility for your actions, for your choices, placing the origin of the pressure of lust, or ill-will, or other pressures on the world, on the things, on the objects of your attention, and so on.
+
+136
+00:12:04,169 --> 00:12:06,310
+[SPEAKER_00]: So, all of those attitudes maintain ignorance.
+
+137
+00:12:07,530 --> 00:12:09,811
+[SPEAKER_00]: And that's pretty much exactly what the next line says.
+
+138
+00:12:09,891 --> 00:12:12,872
+[SPEAKER_00]: See, you start looking for ignorance, you see it's a certain attitude of
+
+139
+00:12:13,917 --> 00:12:19,980
+[SPEAKER_00]: Being unable to help yourself, but ignore, but actively turn a blind eye.
+
+140
+00:12:21,461 --> 00:12:25,764
+[SPEAKER_00]: And then, it's a valid line of reasoning to then ask a further question.
+
+141
+00:12:26,084 --> 00:12:27,084
+[SPEAKER_00]: Why is it so?
+
+142
+00:12:27,725 --> 00:12:29,366
+[SPEAKER_00]: Why is it that I can't help myself?
+
+143
+00:12:30,446 --> 00:12:34,509
+[SPEAKER_00]: Ignore, or not want to deal with this, or just turn away, or not see through things.
+
+144
+00:12:35,209 --> 00:12:38,391
+[SPEAKER_00]: Well, it's because of the five hindrances.
+
+145
+00:12:38,431 --> 00:12:41,593
+[SPEAKER_00]: So, it's because of those five pressures of sensuality,
+
+146
+00:12:42,459 --> 00:12:50,083
+[SPEAKER_00]: Ill-will, laziness, indolence, restlessness, and then doubt.
+
+147
+00:12:52,225 --> 00:12:59,889
+[SPEAKER_00]: But now, you're gonna ask yourself, okay, so when I have a pressure of doubt, or a pressure of ill-will, what is my responsibility there?
+
+148
+00:13:01,870 --> 00:13:08,294
+[SPEAKER_00]: I mean, those things have arisen on their own, sure, but what is... do I... do I have some input?
+
+149
+00:13:08,554 --> 00:13:09,535
+[SPEAKER_00]: Do I have some say in it?
+
+150
+00:13:09,675 --> 00:13:10,175
+[SPEAKER_00]: What do I do?
+
+151
+00:13:12,170 --> 00:13:16,831
+[SPEAKER_00]: And again, we address that in other talks, but that's basically when you realize, oh, you are responsible.
+
+152
+00:13:17,472 --> 00:13:29,095
+[SPEAKER_00]: You're not responsible for five hindrances coming up, pressuring you, but you're responsible for taking them up, for not seeing through that pressure and taking it at face value.
+
+153
+00:13:30,075 --> 00:13:36,517
+[SPEAKER_00]: So, when pressure of sensuality, a hindrance of sensuality arises, do you see through it?
+
+154
+00:13:37,643 --> 00:13:47,110
+[SPEAKER_00]: As a bait that you are not picking up or do you just find yourself already, you know, full-on choking on the bait, already eating it and taking more?
+
+155
+00:13:47,150 --> 00:13:47,811
+[SPEAKER_00]: Same with your will.
+
+156
+00:13:48,151 --> 00:13:48,791
+[SPEAKER_00]: Same with any other.
+
+157
+00:13:48,912 --> 00:13:50,132
+[SPEAKER_00]: Are you already acting out?
+
+158
+00:13:52,354 --> 00:13:53,175
+[SPEAKER_00]: That is your input.
+
+159
+00:13:53,495 --> 00:14:00,060
+[SPEAKER_00]: Are you acting out of those pressures or you may... or you remain there not acting out and not losing perspective of them?
+
+160
+00:14:01,630 --> 00:14:03,671
+[SPEAKER_00]: And that's exactly what the next paragraph says.
+
+161
+00:14:04,251 --> 00:14:06,673
+[SPEAKER_00]: The nutriment for the five hindrances is acting out.
+
+162
+00:14:07,273 --> 00:14:09,074
+[SPEAKER_00]: The three kinds of misconduct.
+
+163
+00:14:09,794 --> 00:14:14,537
+[SPEAKER_00]: It's basically acting out on account of these five pressures by body, speech and mind.
+
+164
+00:14:15,837 --> 00:14:22,381
+[SPEAKER_00]: So, the fact that it's rooted in those five hindrances, in those five pressures, that's what makes it a misconduct.
+
+165
+00:14:23,275 --> 00:14:39,539
+[SPEAKER_00]: Doesn't matter if... even if the whole world approves of what you did, of what your conduct was, on account of this pressure or that pressure, the fact that it was rooted in the five hindrances, and you took them up at a face value, and you acted out of them, it constitutes a misconduct already.
+
+166
+00:14:39,839 --> 00:14:41,880
+[SPEAKER_00]: That's the reference point.
+
+167
+00:14:41,900 --> 00:14:47,101
+[SPEAKER_00]: Not the world, not the tradition, not the... the peer pressure, not the culture.
+
+168
+00:14:47,301 --> 00:14:49,622
+[SPEAKER_00]: It's whether it's rooted in the five hindrances.
+
+169
+00:14:51,020 --> 00:14:53,521
+[SPEAKER_00]: So, if it is, it's a misconduct.
+
+170
+00:14:54,922 --> 00:15:01,766
+[SPEAKER_00]: So, see how you would have started from, oh, craving, you know, phenomena that I am sort of...
+
+171
+00:15:01,786 --> 00:15:10,270
+[SPEAKER_00]: I can be aware of, but it's somewhat abstract and it's certainly not something I can just... just voluntarily put a stop to.
+
+172
+00:15:10,431 --> 00:15:14,673
+[SPEAKER_00]: Let's just... just switch it off or something, like a... like a... like a switch or unplug it.
+
+173
+00:15:15,793 --> 00:15:38,571
+[SPEAKER_00]: But then, as you start reflecting through, you see that it depends on a certain attitude of ignoring, turning a blind eye, avoiding... avoiding transparency, basically, just kind of feeling uncomfortable with it, looking past it, distracting yourself from it, through actions that are pressuring you towards distraction, towards lust, towards aversion, towards these things.
+
+174
+00:15:39,151 --> 00:15:45,716
+[SPEAKER_00]: But now, from that kind of semi-abstract, ambiguous, you came down to three kinds of misconduct.
+
+175
+00:15:46,857 --> 00:15:51,301
+[SPEAKER_00]: In other words, choices that you choose to act out of.
+
+176
+00:15:53,262 --> 00:15:56,305
+[SPEAKER_00]: So, there is now no more abstraction there.
+
+177
+00:15:56,525 --> 00:15:57,926
+[SPEAKER_00]: I mean, you can theorize all you want.
+
+178
+00:15:59,023 --> 00:16:04,206
+[SPEAKER_00]: But the bottom line is, whenever you make a choice to act, you choose to do so, and you know it.
+
+179
+00:16:04,927 --> 00:16:18,335
+[SPEAKER_00]: You can justify it, obviously, retroactively, and say, oh, it was because of this, or because of that, but when you were making it, you knew it's because you were making it, and because you were pressured to do it, and you wanted to act out of the pressure, and you wanted to get rid of this comfort, and you acted out.
+
+180
+00:16:18,875 --> 00:16:22,317
+[SPEAKER_00]: Everything else, then, any psychologization that comes afterwards, it's second to it.
+
+181
+00:16:23,613 --> 00:16:33,718
+[SPEAKER_00]: So, the five hindrances directly depend on acting out of those five pressures that try to hinder you through acting by body, speech and mind.
+
+182
+00:16:34,878 --> 00:16:37,580
+[SPEAKER_00]: So, those are the actual nutriments for the five hindrances.
+
+183
+00:16:40,021 --> 00:16:41,582
+[SPEAKER_00]: And then, it goes to say...
+
+184
+00:16:41,642 --> 00:16:49,825
+[SPEAKER_00]: So, the next line of reflection, again, I mean, we follow the suttas, but obviously, you can just ask yourself these things and look for these phenomena in your experience.
+
+185
+00:16:49,926 --> 00:16:52,927
+[SPEAKER_00]: So, three kinds of bodily misconduct.
+
+186
+00:16:53,927 --> 00:17:02,611
+[SPEAKER_00]: So, whenever you act out of greed, aversion, distraction, by body, by speech, by mind, and you don't even have to go into, like, two subtle layers of, you know, what's this?
+
+187
+00:17:03,131 --> 00:17:03,932
+[SPEAKER_00]: Where was this rooted?
+
+188
+00:17:03,952 --> 00:17:05,132
+[SPEAKER_00]: What was my intention behind this?
+
+189
+00:17:05,633 --> 00:17:06,573
+[SPEAKER_00]: Take the obvious stuff.
+
+190
+00:17:07,333 --> 00:17:09,534
+[SPEAKER_00]: Sensuality, ill-will, doubt.
+
+191
+00:17:10,235 --> 00:17:11,255
+[SPEAKER_00]: Just take the obvious stuff.
+
+192
+00:17:12,576 --> 00:17:20,339
+[SPEAKER_00]: And see, ask yourself, acting out of the obvious stuff, what is the necessary basis for that?
+
+193
+00:17:20,439 --> 00:17:21,400
+[SPEAKER_00]: What is the currently
+
+194
+00:17:24,025 --> 00:17:31,889
+[SPEAKER_00]: Simultaneously enduring present cause for me to keep acting out of these things.
+
+195
+00:17:36,811 --> 00:17:43,214
+[SPEAKER_00]: Why do I... why do I keep, like, going towards sensuality or going towards ill-will and so on?
+
+196
+00:17:43,994 --> 00:17:45,595
+[SPEAKER_00]: Well, because the pressure got too much.
+
+197
+00:17:47,096 --> 00:17:49,777
+[SPEAKER_00]: So, you obviously need to train in regard to the pressure,
+
+198
+00:17:51,478 --> 00:17:58,505
+[SPEAKER_00]: But you don't start from the side of already being able to kind of contain and not act out of pressure.
+
+199
+00:17:58,525 --> 00:18:01,107
+[SPEAKER_00]: You start from the side of being completely overwhelmed by the pressure.
+
+200
+00:18:01,848 --> 00:18:03,689
+[SPEAKER_00]: That's where virtue has to come first.
+
+201
+00:18:03,809 --> 00:18:09,955
+[SPEAKER_00]: It creates some sort of container for you to at least have a certain line that you will not cross.
+
+202
+00:18:10,696 --> 00:18:11,457
+[SPEAKER_00]: No amount of...
+
+203
+00:18:11,537 --> 00:18:15,100
+[SPEAKER_00]: It doesn't matter what kind of pressure is put on you to act and do this.
+
+204
+00:18:17,022 --> 00:18:17,202
+[SPEAKER_00]: So,
+
+205
+00:18:18,595 --> 00:18:27,043
+[SPEAKER_00]: You act out of body, speech and mind when basically you cannot contain, you cannot endure rightly on the right level that pressure of the hindrances.
+
+206
+00:18:27,764 --> 00:18:30,547
+[SPEAKER_00]: So then, why can you not endure rightly?
+
+207
+00:18:32,589 --> 00:18:33,449
+[SPEAKER_00]: Why do you act out?
+
+208
+00:18:34,050 --> 00:18:36,312
+[SPEAKER_00]: Well, because you lack sense restraint.
+
+209
+00:18:37,013 --> 00:18:42,258
+[SPEAKER_00]: You were lacking foresight in regard to your own capacity
+
+210
+00:18:43,575 --> 00:18:48,546
+[SPEAKER_00]: To withstand and contain and endure the pressure of hindrances without acting out.
+
+211
+00:18:49,842 --> 00:18:53,404
+[SPEAKER_00]: So, you went into the unsuitable sights, sounds, smells, tastes, touches.
+
+212
+00:18:53,904 --> 00:18:55,445
+[SPEAKER_00]: That's the purpose of sense restraint.
+
+213
+00:18:55,505 --> 00:18:59,987
+[SPEAKER_00]: It's not saying no to everything blindly because it's bad in and of itself.
+
+214
+00:19:00,647 --> 00:19:00,787
+[SPEAKER_00]: No.
+
+215
+00:19:01,207 --> 00:19:14,253
+[SPEAKER_00]: Purpose of sense restraint is basically to enable you in the beginning to be able to to have some distance between you and the pressure that's trying to overwhelm you and push you towards acting out of body, speech and mind.
+
+216
+00:19:16,973 --> 00:19:20,855
+[SPEAKER_00]: So, it's like a... it's like a... it's like an... like an indirect effect.
+
+217
+00:19:21,255 --> 00:19:36,201
+[SPEAKER_00]: So, you... you foresee, like, oh, if I go in such and such environment, it will be very likely, highly likely, that I will... that the pressure towards sensuality or real will will increase to the point of I don't know if I will be able to restrain myself.
+
+218
+00:19:37,561 --> 00:19:41,263
+[SPEAKER_00]: So, then you prevent those scenarios from arising in the first place.
+
+219
+00:19:42,178 --> 00:19:46,162
+[SPEAKER_00]: That's the whole point of restraining eye, ear, nose and so on.
+
+220
+00:19:46,583 --> 00:19:56,353
+[SPEAKER_00]: So, whenever you practice restraint, you need to practice it with this context, with this type of informed attitude.
+
+221
+00:19:57,447 --> 00:19:59,068
+[SPEAKER_00]: Because that's what gives it its purpose.
+
+222
+00:19:59,609 --> 00:20:02,551
+[SPEAKER_00]: I'm not just saying no to sights and sounds and everything.
+
+223
+00:20:02,571 --> 00:20:07,054
+[SPEAKER_00]: No, I'm doing it because I keep an eye on the mind that's going to be overwhelmed with the pressure.
+
+224
+00:20:07,915 --> 00:20:12,838
+[SPEAKER_00]: And if I'm not sure to what extent, well, to that extent, I need to be careful how much I expose it.
+
+225
+00:20:14,719 --> 00:20:16,601
+[SPEAKER_00]: So, that's why there's a lack of the sense restraint.
+
+226
+00:20:17,481 --> 00:20:22,285
+[SPEAKER_00]: So, you're basically having an active attitude of non-sense restraint.
+
+227
+00:20:23,622 --> 00:20:28,164
+[SPEAKER_00]: It's the simultaneously present nutriment for the three kinds of misconduct.
+
+228
+00:20:28,244 --> 00:20:32,425
+[SPEAKER_00]: When that attitude builds up, you will act out.
+
+229
+00:20:32,445 --> 00:20:34,006
+[SPEAKER_00]: Because that's where you're heading, basically.
+
+230
+00:20:35,646 --> 00:20:39,848
+[SPEAKER_00]: So, what is then the cause for the lack of sense restraint?
+
+231
+00:20:39,948 --> 00:20:41,008
+[SPEAKER_00]: What is its nutriment?
+
+232
+00:20:41,368 --> 00:20:42,769
+[SPEAKER_00]: Simultaneously present nutriment?
+
+233
+00:20:43,809 --> 00:20:45,409
+[SPEAKER_00]: It's the lack of sati, sampajañña.
+
+234
+00:20:45,429 --> 00:20:49,591
+[SPEAKER_00]: So, it's the lack of non-forgetfulness and awareness.
+
+235
+00:20:50,478 --> 00:21:04,403
+[SPEAKER_00]: So, it's basically, it's lacking the recognition of here and now, of the importance of preventing certain circumstances, that would then result in pressures building up and overwhelming your mind.
+
+236
+00:21:04,883 --> 00:21:05,823
+[SPEAKER_00]: And not forgetting that.
+
+237
+00:21:06,963 --> 00:21:12,685
+[SPEAKER_00]: Like, you might feel, oh, I feel pretty good today, my mind feels stable, I can probably handle it and so on.
+
+238
+00:21:13,306 --> 00:21:14,066
+[SPEAKER_00]: But that's not the point.
+
+239
+00:21:14,206 --> 00:21:17,367
+[SPEAKER_00]: You remember then, that such environment
+
+240
+00:21:18,912 --> 00:21:23,035
+[SPEAKER_00]: Or a certain environments are always unbeneficial, are always to be avoided.
+
+241
+00:21:23,655 --> 00:21:24,876
+[SPEAKER_00]: And then you don't compromise that.
+
+242
+00:21:25,156 --> 00:21:27,818
+[SPEAKER_00]: And then, great, if you can handle it, perfect.
+
+243
+00:21:28,679 --> 00:21:30,960
+[SPEAKER_00]: But it's even better if there is nothing to handle to begin with.
+
+244
+00:21:32,822 --> 00:21:42,629
+[SPEAKER_00]: And, eh... on top of it all, sooner or later, things will come your way that no amount of sense restraint will be able to, eh... prevent the pressure from coming up.
+
+245
+00:21:43,496 --> 00:21:59,103
+[SPEAKER_00]: So, that's why you practice before those sickness, aging, or greater misfortunes that come and overwhelm your mind, through... exactly, through sense restraint, so to be able to contain the pressure, and then learning how to not act out of your own pressure, of your own citta.
+
+246
+00:21:59,783 --> 00:22:07,306
+[SPEAKER_00]: So, that's why lacking the attitude of that right memory, like literally, like remembering the right things, the things that are important to you,
+
+247
+00:22:08,347 --> 00:22:08,947
+[SPEAKER_00]: You forget.
+
+248
+00:22:09,728 --> 00:22:10,768
+[SPEAKER_00]: You stop thinking about it.
+
+249
+00:22:11,769 --> 00:22:21,535
+[SPEAKER_00]: Sure, if somebody were to ask you, you would remember, but you're not actively having it there as a kind of framework of your actions and choices throughout the day.
+
+250
+00:22:21,635 --> 00:22:25,137
+[SPEAKER_00]: What you're going to look at, see, taste, smell, and so on.
+
+251
+00:22:25,177 --> 00:22:28,099
+[SPEAKER_00]: Where you're going to go, who you're going to talk to, who you're going to meet, and so on.
+
+252
+00:22:28,860 --> 00:22:32,562
+[SPEAKER_00]: But if you do not forget what's important,
+
+253
+00:22:34,242 --> 00:22:37,765
+[SPEAKER_00]: Then, those choices, when they present themselves, would be put in the right light.
+
+254
+00:22:38,246 --> 00:22:44,811
+[SPEAKER_00]: Oh, I could go over there and see such and such person, but last time I was there, I got really wound up.
+
+255
+00:22:45,831 --> 00:22:49,433
+[SPEAKER_00]: And my mind overwhelms and I said stuff I shouldn't and so on.
+
+256
+00:22:49,513 --> 00:22:51,374
+[SPEAKER_00]: So, it's like, oh, I'd better restrain myself.
+
+257
+00:22:51,494 --> 00:22:52,535
+[SPEAKER_00]: Same.
+
+258
+00:22:52,595 --> 00:22:59,919
+[SPEAKER_00]: Or go to, like, I don't know, parties with alcohol and stuff, where priests will be compromised, which will then result in compromising everything else.
+
+259
+00:22:59,979 --> 00:23:03,962
+[SPEAKER_00]: That all comes out of, basically, lacking recollection and awareness correctly.
+
+260
+00:23:04,282 --> 00:23:10,325
+[SPEAKER_00]: Lacking the remembering of what's important to you.
+
+261
+00:23:10,645 --> 00:23:13,227
+[SPEAKER_00]: And then it says, so what is the reason for lacking that?
+
+262
+00:23:13,267 --> 00:23:14,928
+[SPEAKER_00]: What is the reason for you forgetting stuff?
+
+263
+00:23:16,678 --> 00:23:19,219
+[SPEAKER_00]: And the reason is ayoniso manasikāra.
+
+264
+00:23:19,979 --> 00:23:22,100
+[SPEAKER_00]: So, attention not in the light of its source.
+
+265
+00:23:22,580 --> 00:23:29,102
+[SPEAKER_00]: So, in other words, the reason for that is that when you do... because your attention always has to rest on things, on stuff.
+
+266
+00:23:30,062 --> 00:23:31,402
+[SPEAKER_00]: Sight, sound, smell, taste, touches, thoughts.
+
+267
+00:23:33,083 --> 00:23:39,345
+[SPEAKER_00]: But that doesn't mean that you need to ignore the background of it, the context.
+
+268
+00:23:40,725 --> 00:23:43,126
+[SPEAKER_00]: So, whenever your attention is resting on something,
+
+269
+00:23:44,007 --> 00:23:52,899
+[SPEAKER_00]: At the back of your mind, it's going to be already a form of subtle, implicit reason for resting on those things.
+
+270
+00:23:54,341 --> 00:23:58,927
+[SPEAKER_00]: That reason can be neutral, but it can be unwholesome.
+
+271
+00:24:00,966 --> 00:24:10,290
+[SPEAKER_00]: It can be wholesome, unwholesome and neutral, in a sense that you could have a good reason to be attending to this, you could have a bad reason to be attending to this, i.e.
+
+272
+00:24:10,330 --> 00:24:12,571
+[SPEAKER_00]: greed, aversion, delusion, non-greed, non-aversion, non-delusion.
+
+273
+00:24:13,051 --> 00:24:15,132
+[SPEAKER_00]: Or you could have a neutral reason for attending to this.
+
+274
+00:24:15,232 --> 00:24:26,097
+[SPEAKER_00]: But the point is, either of those reasons, if you are not discerning the reason for your attention resting on that, simultaneous to your attention resting on those things,
+
+275
+00:24:27,159 --> 00:24:30,220
+[SPEAKER_00]: You are in the state of ayoniso, manasikāra.
+
+276
+00:24:30,740 --> 00:24:31,680
+[SPEAKER_00]: And that's the point here.
+
+277
+00:24:33,180 --> 00:24:35,201
+[SPEAKER_00]: So, it's not just, I need to have a good reason.
+
+278
+00:24:35,441 --> 00:24:36,881
+[SPEAKER_00]: You need to know the reason.
+
+279
+00:24:39,622 --> 00:24:55,425
+[SPEAKER_00]: So, whenever you find your mind in a certain state, or find your thoughts occupied with certain things, instead of trying to resolve and manage the feeling that came with it, whether it's pleasant, unpleasant or neutral, you want to see the backdrop of it.
+
+280
+00:24:56,650 --> 00:25:03,995
+[SPEAKER_00]: In other words, what is the reason for my attention revolving around this or resting on these things?
+
+281
+00:25:04,015 --> 00:25:06,777
+[SPEAKER_00]: Not change it, not get focused on something else.
+
+282
+00:25:07,417 --> 00:25:10,399
+[SPEAKER_00]: Either way, the reason of your focusing will be unknown.
+
+283
+00:25:10,799 --> 00:25:11,940
+[SPEAKER_00]: It will be ayoniso.
+
+284
+00:25:13,861 --> 00:25:17,164
+[SPEAKER_00]: So, if you find yourself basically
+
+285
+00:25:18,246 --> 00:25:23,188
+[SPEAKER_00]: Not wanting to think about it, or not wanting to drill these things, like, why am I doing this?
+
+286
+00:25:23,248 --> 00:25:23,908
+[SPEAKER_00]: Why am I thinking this?
+
+287
+00:25:23,948 --> 00:25:25,328
+[SPEAKER_00]: Why is my attention resting on this?
+
+288
+00:25:25,709 --> 00:25:34,071
+[SPEAKER_00]: Because it's kind of bothersome for sure, cumbersome, unpleasant, like...
+
+289
+00:25:34,191 --> 00:25:36,672
+[SPEAKER_00]: It's just not something that you would naturally want to do.
+
+290
+00:25:38,753 --> 00:25:40,454
+[SPEAKER_00]: And that's why you're kind of avoiding doing it.
+
+291
+00:25:41,154 --> 00:25:44,015
+[SPEAKER_00]: And if you ask yourself, well, okay, now say you learn,
+
+292
+00:25:44,738 --> 00:25:46,019
+[SPEAKER_00]: That, no, you need to do this.
+
+293
+00:25:46,799 --> 00:25:54,565
+[SPEAKER_00]: Whenever you find your attention resting on something or planning something, you need to know on the basis of what is this happening.
+
+294
+00:25:56,186 --> 00:26:14,259
+[SPEAKER_00]: And you're always going to boil down to, basically, as I said before, it's going to be either on the basis of pleasant feeling, you're leaning towards wanting it more, the basis of unpleasant feeling, you're kind of resisting it, or the basis of, like, a neutral feeling that's already causing a certain kind of unease and you want to be oblivious to it.
+
+295
+00:26:15,443 --> 00:26:20,790
+[SPEAKER_00]: It doesn't go into some, as I said, great ancient history that you need to discern where it all came to be.
+
+296
+00:26:20,810 --> 00:26:21,391
+[SPEAKER_00]: It's right there.
+
+297
+00:26:21,612 --> 00:26:23,394
+[SPEAKER_00]: All of these things are simultaneously there.
+
+298
+00:26:23,494 --> 00:26:25,036
+[SPEAKER_00]: Just layers of the same principle.
+
+299
+00:26:26,498 --> 00:26:32,827
+[SPEAKER_00]: So, why are you then not always aware of the background?
+
+300
+00:26:35,493 --> 00:26:36,533
+[SPEAKER_00]: In that indirect sense.
+
+301
+00:26:36,894 --> 00:26:42,596
+[SPEAKER_00]: Like, you know, I can be attending to this or to that, but I can at the same time know why am I doing that.
+
+302
+00:26:43,156 --> 00:26:44,496
+[SPEAKER_00]: I can see where it's rooted.
+
+303
+00:26:44,596 --> 00:26:49,518
+[SPEAKER_00]: I can see whether it's kind of wholesome, whether it's unwholesome, whether it's neutral.
+
+304
+00:26:49,798 --> 00:26:50,778
+[SPEAKER_00]: And that's the important part.
+
+305
+00:26:50,818 --> 00:26:51,359
+[SPEAKER_00]: To see it.
+
+306
+00:26:52,639 --> 00:26:54,080
+[SPEAKER_00]: So, why are you not seeing it?
+
+307
+00:26:54,580 --> 00:26:56,620
+[SPEAKER_00]: It's because you haven't drilled it deep enough.
+
+308
+00:26:57,281 --> 00:26:58,521
+[SPEAKER_00]: You haven't practiced it.
+
+309
+00:26:58,561 --> 00:27:03,543
+[SPEAKER_00]: You haven't made the effort to actually look that way sufficiently enough.
+
+310
+00:27:05,400 --> 00:27:05,960
+[SPEAKER_00]: There is not.
+
+311
+00:27:05,980 --> 00:27:08,201
+[SPEAKER_00]: It's like you haven't trained yourself, basically.
+
+312
+00:27:09,681 --> 00:27:11,061
+[SPEAKER_00]: So, why haven't you done that?
+
+313
+00:27:11,802 --> 00:27:13,462
+[SPEAKER_00]: Well, it's because you lacked faith.
+
+314
+00:27:15,002 --> 00:27:24,945
+[SPEAKER_00]: And lacking faith doesn't mean you lacked some, you know, inspiration on the level of of poetry or uplifted spirit of the Buddha's words or something.
+
+315
+00:27:24,985 --> 00:27:25,105
+[SPEAKER_00]: No.
+
+316
+00:27:25,125 --> 00:27:26,165
+[SPEAKER_00]: It means you lacked faith.
+
+317
+00:27:26,185 --> 00:27:33,927
+[SPEAKER_00]: It means, basically, it didn't really... you refused to believe
+
+318
+00:27:35,272 --> 00:27:39,215
+[SPEAKER_00]: How important that is, to practice this yoniso.
+
+319
+00:27:40,416 --> 00:27:41,737
+[SPEAKER_00]: Like, you lacked faith, basically.
+
+320
+00:27:41,757 --> 00:27:46,341
+[SPEAKER_00]: It means you lacked the belief in importance of application of it.
+
+321
+00:27:46,661 --> 00:27:47,282
+[SPEAKER_00]: That's what it means.
+
+322
+00:27:48,843 --> 00:27:49,424
+[SPEAKER_00]: You dismissed it.
+
+323
+00:27:50,645 --> 00:27:56,029
+[SPEAKER_00]: You heard it, but you thought, well, yeah, sure, that could be one aspect of it, but I prefer this aspect.
+
+324
+00:27:56,109 --> 00:27:58,131
+[SPEAKER_00]: And then you kind of concocted your own thing.
+
+325
+00:27:58,291 --> 00:27:59,532
+[SPEAKER_00]: And you haven't done the drilling.
+
+326
+00:28:03,836 --> 00:28:04,036
+[SPEAKER_00]: So,
+
+327
+00:28:05,477 --> 00:28:06,998
+[SPEAKER_00]: Why would then a person lack faith?
+
+328
+00:28:08,159 --> 00:28:13,684
+[SPEAKER_00]: Why would then a person not drill in the importance of this principle?
+
+329
+00:28:13,944 --> 00:28:16,367
+[SPEAKER_00]: Why would it kind of brush it off?
+
+330
+00:28:16,427 --> 00:28:18,088
+[SPEAKER_00]: Or dismiss it?
+
+331
+00:28:18,248 --> 00:28:19,409
+[SPEAKER_00]: Or change it into something else?
+
+332
+00:28:20,790 --> 00:28:22,852
+[SPEAKER_00]: Well, because they haven't learned how important it is.
+
+333
+00:28:23,693 --> 00:28:25,955
+[SPEAKER_00]: In other words, they haven't listened to the actual dhamma.
+
+334
+00:28:27,210 --> 00:28:31,512
+[SPEAKER_00]: They might have been hearing things about the dhamma, but that's not necessarily the true teaching.
+
+335
+00:28:32,132 --> 00:28:37,554
+[SPEAKER_00]: So, not everybody who speaks the dhamma, even if they just parrot the Buddha's words, is speaking the true teaching.
+
+336
+00:28:39,054 --> 00:28:42,076
+[SPEAKER_00]: The true teaching is the teaching that emphasizes things that should be emphasized.
+
+337
+00:28:43,716 --> 00:28:48,958
+[SPEAKER_00]: Not just parrots what somebody else says, and then leads you to figure it out, or make your own way, whatever feels right to you.
+
+338
+00:28:50,078 --> 00:28:56,661
+[SPEAKER_00]: So, if a person lacks faith to sustain the application of constant questioning of
+
+339
+00:28:58,395 --> 00:28:59,655
+[SPEAKER_00]: Why is my attention resting on this?
+
+340
+00:28:59,735 --> 00:29:01,116
+[SPEAKER_00]: What's the back backdrop?
+
+341
+00:29:01,176 --> 00:29:03,136
+[SPEAKER_00]: What's the back state of my mind?
+
+342
+00:29:03,556 --> 00:29:05,637
+[SPEAKER_00]: Where is my mind leaning?
+
+343
+00:29:06,917 --> 00:29:11,758
+[SPEAKER_00]: It's because they haven't, as I said, accepted the fact that it's really important.
+
+344
+00:29:11,798 --> 00:29:13,979
+[SPEAKER_00]: They don't believe it's important to do it.
+
+345
+00:29:14,739 --> 00:29:24,341
+[SPEAKER_00]: And they don't believe it's important to do it because they haven't really heard or listened or understood enough of why it is important to do it.
+
+346
+00:29:25,584 --> 00:29:33,107
+[SPEAKER_00]: So, they haven't... or they never heard somebody emphasizes that as really important thing and that's why they never really paid much attention to it.
+
+347
+00:29:33,647 --> 00:29:35,448
+[SPEAKER_00]: Or they might have heard it and then they dismissed it.
+
+348
+00:29:36,948 --> 00:29:41,450
+[SPEAKER_00]: So, why would they then not have listened to the true teaching?
+
+349
+00:29:42,930 --> 00:29:46,492
+[SPEAKER_00]: And the nutriment is because they were not associating with true persons.
+
+350
+00:29:46,512 --> 00:29:47,552
+[SPEAKER_00]: In other words, with right people.
+
+351
+00:29:47,632 --> 00:29:49,313
+[SPEAKER_00]: With people that can actually teach them this.
+
+352
+00:29:50,073 --> 00:29:54,375
+[SPEAKER_00]: And being associating with them doesn't mean socializing and just sitting in a company and
+
+353
+00:29:55,654 --> 00:30:00,636
+[SPEAKER_00]: Soaking up their spiritual energy, you know, means hearing this from somebody who understood it.
+
+354
+00:30:02,837 --> 00:30:16,963
+[SPEAKER_00]: So, you want to learn a craft, you need to go to somebody who knows the craft, who actually can teach you and can explain in their own words the principles behind it, not just sort of recite the government curriculum or something.
+
+355
+00:30:18,024 --> 00:30:20,185
+[SPEAKER_00]: So, that's what it means not associating with true persons.
+
+356
+00:30:21,005 --> 00:30:22,246
+[SPEAKER_00]: Now, you can ask yourself, well,
+
+357
+00:30:23,387 --> 00:30:25,568
+[SPEAKER_00]: Why have I not been associating with true people?
+
+358
+00:30:26,408 --> 00:30:27,769
+[SPEAKER_00]: With people that know the dhamma?
+
+359
+00:30:28,929 --> 00:30:34,651
+[SPEAKER_00]: And that's where things get, obviously, like, you start questioning yourself and they can be, well, maybe because you never met one.
+
+360
+00:30:34,671 --> 00:30:37,292
+[SPEAKER_00]: Maybe, maybe you might have met them and dismissed them.
+
+361
+00:30:38,532 --> 00:30:42,034
+[SPEAKER_00]: Maybe you didn't like their energy or something and you didn't want to listen what they have to say.
+
+362
+00:30:43,354 --> 00:30:47,135
+[SPEAKER_00]: Maybe you liked everything, but you haven't actually paid attention to what's being said.
+
+363
+00:30:47,496 --> 00:30:51,597
+[SPEAKER_00]: Like, so even people that you associated yourself with, in terms of learning the dhamma,
+
+364
+00:30:53,138 --> 00:31:05,650
+[SPEAKER_00]: It's like, have I really unequivocally understood for myself what they emphasize and seen that as beneficial or not as beneficial?
+
+365
+00:31:06,431 --> 00:31:10,675
+[SPEAKER_00]: So, in other words, you can't just sit and listen to the dhamma even if it's the Buddha himself talking.
+
+366
+00:31:10,715 --> 00:31:12,537
+[SPEAKER_00]: You need to make the effort to understand it.
+
+367
+00:31:13,665 --> 00:31:27,333
+[SPEAKER_00]: And that's that other sutta that says the factor for the rising on the right view is utterance of another, of somebody who understood it, who knows how to teach you, which would be the equivalent of associating with the true person.
+
+368
+00:31:27,693 --> 00:31:31,115
+[SPEAKER_00]: But then the other factor is that yoniso manasikāra.
+
+369
+00:31:32,136 --> 00:31:40,781
+[SPEAKER_00]: So it's already being able to have the context on your reactions to what you hear, and not just take them at face value.
+
+370
+00:31:40,821 --> 00:31:42,082
+[SPEAKER_00]: I like this, I don't like this.
+
+371
+00:31:44,282 --> 00:31:53,446
+[SPEAKER_00]: One of the reasons that the Buddha said that a person wouldn't get the right view, even if they are being taught by the Buddha himself, is they have the attitude of finding faults.
+
+372
+00:31:53,987 --> 00:31:54,967
+[SPEAKER_00]: So they're looking for faults.
+
+373
+00:31:55,547 --> 00:31:57,268
+[SPEAKER_00]: That's already coming out of the preference.
+
+374
+00:31:57,869 --> 00:32:02,091
+[SPEAKER_00]: That's not being addressed through yoniso manasikāra.
+
+375
+00:32:02,111 --> 00:32:03,211
+[SPEAKER_00]: See, I have a preference.
+
+376
+00:32:03,291 --> 00:32:04,512
+[SPEAKER_00]: I like things, I dislike things.
+
+377
+00:32:04,992 --> 00:32:07,053
+[SPEAKER_00]: I hear this person speak, I don't like it.
+
+378
+00:32:08,883 --> 00:32:16,930
+[SPEAKER_00]: But if I'm, myself, interested in my own welfare, in my own benefit, I can't take that at face value and just dismiss them because I don't like it.
+
+379
+00:32:17,631 --> 00:32:22,775
+[SPEAKER_00]: Equally, I can't, at a face value, accept them because I like how they speak.
+
+380
+00:32:24,217 --> 00:32:25,338
+[SPEAKER_00]: We're back on to yoniso.
+
+381
+00:32:25,778 --> 00:32:27,740
+[SPEAKER_00]: Either way, I need to know.
+
+382
+00:32:29,103 --> 00:32:32,169
+[SPEAKER_00]: Where is this leaning, this preference, where is it rooted?
+
+383
+00:32:32,309 --> 00:32:33,491
+[SPEAKER_00]: What is my motivation?
+
+384
+00:32:33,531 --> 00:32:34,372
+[SPEAKER_00]: What is my intention?
+
+385
+00:32:34,453 --> 00:32:40,463
+[SPEAKER_00]: What is the reason, like, simultaneously enduring reason for my dislike or like?
+
+386
+00:32:40,784 --> 00:32:42,507
+[SPEAKER_00]: And then put it in that context.
+
+387
+00:32:43,697 --> 00:32:53,545
+[SPEAKER_00]: So, I really dislike what this person is saying, but I see that as a mere emotional preference, that I cannot rationally justify, if I'm honest and transparent.
+
+388
+00:32:54,345 --> 00:32:59,590
+[SPEAKER_00]: So then, if you are actually clear, even with all the dislike you have, you're still going to be hearing what they say.
+
+389
+00:33:00,851 --> 00:33:05,735
+[SPEAKER_00]: And you'll be able to actually think about it, and take it on, and really investigate for yourself.
+
+390
+00:33:06,515 --> 00:33:12,400
+[SPEAKER_00]: Oh, so he emphasizes this, and I really dislike him, I can't stand him, but what he's saying,
+
+391
+00:33:13,653 --> 00:33:16,135
+[SPEAKER_00]: Reminds me of this sutta, or reminds me of that sutta.
+
+392
+00:33:16,835 --> 00:33:18,416
+[SPEAKER_00]: So, maybe there is something more to it.
+
+393
+00:33:18,456 --> 00:33:19,416
+[SPEAKER_00]: So, let me try and apply it.
+
+394
+00:33:19,517 --> 00:33:21,598
+[SPEAKER_00]: I still hate him, but let me try and apply it.
+
+395
+00:33:21,698 --> 00:33:23,039
+[SPEAKER_00]: Basically, that's how you progress.
+
+396
+00:33:23,819 --> 00:33:24,239
+[SPEAKER_00]: Doesn't matter.
+
+397
+00:33:24,259 --> 00:33:25,520
+[SPEAKER_00]: You put your preference aside.
+
+398
+00:33:25,600 --> 00:33:25,980
+[SPEAKER_00]: Oh, same.
+
+399
+00:33:26,361 --> 00:33:28,262
+[SPEAKER_00]: I'm just so inspired by this person.
+
+400
+00:33:29,022 --> 00:33:32,604
+[SPEAKER_00]: It's just when he speaks, like for days, I'm just just sort of floating.
+
+401
+00:33:32,744 --> 00:33:35,826
+[SPEAKER_00]: Just nothing can touch me, because my mind is so uplifted.
+
+402
+00:33:35,866 --> 00:33:37,627
+[SPEAKER_00]: It's like, yeah, but have you understood?
+
+403
+00:33:37,947 --> 00:33:38,628
+[SPEAKER_00]: What are they saying?
+
+404
+00:33:39,674 --> 00:33:45,039
+[SPEAKER_00]: Are they reciting poetic verses to you, or are they actually telling you what the Buddha was saying?
+
+405
+00:33:46,581 --> 00:33:57,772
+[SPEAKER_00]: So, you might be inspired all you want, but if you start thinking about what's being emphasized, and what the practice is for me to do, you wouldn't see it if it's adding up or not adding up.
+
+406
+00:33:58,773 --> 00:34:02,276
+[SPEAKER_00]: And if you're inspired by somebody, but things are not adding up,
+
+407
+00:34:03,262 --> 00:34:05,083
+[SPEAKER_00]: You'll know which one to emphasize yourself.
+
+408
+00:34:05,283 --> 00:34:07,243
+[SPEAKER_00]: You need to emphasize adding up of practice.
+
+409
+00:34:07,783 --> 00:34:09,364
+[SPEAKER_00]: Inspiration or non is secondary.
+
+410
+00:34:10,044 --> 00:34:14,066
+[SPEAKER_00]: Same if you're really annoyed by somebody, but what they're saying is really adding up.
+
+411
+00:34:14,826 --> 00:34:17,327
+[SPEAKER_00]: Again, you will be able to not act out of that preference.
+
+412
+00:34:17,867 --> 00:34:25,949
+[SPEAKER_00]: But for that, a person, every individual person, needs to make that effort, to like uncover that, those preferences, uncover the roots of those preferences.
+
+413
+00:34:25,969 --> 00:34:27,770
+[SPEAKER_00]: That's where, that's already the beginning of yoniso.
+
+414
+00:34:28,370 --> 00:34:30,731
+[SPEAKER_00]: That's all, that's that transparency that we often talk about.
+
+415
+00:34:32,020 --> 00:34:36,262
+[SPEAKER_00]: So, neither of these things are just kind of circumstantial factors.
+
+416
+00:34:36,402 --> 00:34:38,263
+[SPEAKER_00]: They're just one slot into the other, into the other.
+
+417
+00:34:38,684 --> 00:34:47,328
+[SPEAKER_00]: All of these things are basically results of the layers upon layers upon layers of your own attitude, of your own overlooking, of your own lack of transparency, of your own acting out.
+
+418
+00:34:51,351 --> 00:34:52,131
+[SPEAKER_00]: So, then, eh...
+
+419
+00:34:57,314 --> 00:34:59,475
+[SPEAKER_00]: So, then, in reverse, basically,
+
+420
+00:35:01,552 --> 00:35:05,873
+[SPEAKER_00]: It goes to say that knowledge and liberation is pretty much the result of the opposite.
+
+421
+00:35:05,973 --> 00:35:08,694
+[SPEAKER_00]: So, full enlightenment is the result of the opposite.
+
+422
+00:35:08,794 --> 00:35:09,314
+[SPEAKER_00]: Nothing else.
+
+423
+00:35:11,534 --> 00:35:13,415
+[SPEAKER_00]: And I think there was a talk I did long time ago.
+
+424
+00:35:13,435 --> 00:35:16,115
+[SPEAKER_00]: It's like self-honesty can make you an arahant or something like that.
+
+425
+00:35:16,655 --> 00:35:18,256
+[SPEAKER_00]: Which basically talks exactly about this.
+
+426
+00:35:18,836 --> 00:35:29,318
+[SPEAKER_00]: If you start with the transparency, which is already the beginning of the yoniso, and obviously, yes, if you hear somebody emphasizing things that need to be emphasized,
+
+427
+00:35:30,715 --> 00:35:36,838
+[SPEAKER_00]: You won't fall into a trap dismissing it on account of preference or glorifying it on account of preference, either way not doing it.
+
+428
+00:35:37,499 --> 00:35:39,780
+[SPEAKER_00]: You'll actually be doing it and trying to see it for yourself.
+
+429
+00:35:41,861 --> 00:35:50,905
+[SPEAKER_00]: That transparency would then lead to basically you associating with true persons.
+
+430
+00:35:50,966 --> 00:35:59,490
+[SPEAKER_00]: In other words, listening to them, learning from them more and more and more, which increases transparency and obviously increases the field of knowledge that can then help you discern things.
+
+431
+00:36:00,943 --> 00:36:05,469
+[SPEAKER_00]: That would then lead to the listening to the actual true teaching, obviously.
+
+432
+00:36:05,489 --> 00:36:09,014
+[SPEAKER_00]: Like being able to recognize the true teaching as well, for yourself.
+
+433
+00:36:10,375 --> 00:36:14,902
+[SPEAKER_00]: Then, you wouldn't have a problem to believe that doing these
+
+434
+00:36:16,473 --> 00:36:29,176
+[SPEAKER_00]: Drills and trainings of constantly unraveling and uncovering where your intention and motivation is rooted in regard to everything that you do or choose to attend, you would have faith in that.
+
+435
+00:36:29,556 --> 00:36:42,119
+[SPEAKER_00]: Like, you wouldn't need to convince yourself that I need to keep training this, because you already, on account of associating, learning about the right emphasis, you already have a good grasp that that's what needs to be emphasized.
+
+436
+00:36:42,639 --> 00:36:45,880
+[SPEAKER_00]: You might be careless and not do it, but you certainly would have enough
+
+437
+00:36:46,700 --> 00:36:49,220
+[SPEAKER_00]: Faith and belief in actually applying it.
+
+438
+00:36:51,481 --> 00:36:56,402
+[SPEAKER_00]: If you do that long enough, you would have sufficiently developed yoniso manasikāra.
+
+439
+00:36:56,482 --> 00:37:11,964
+[SPEAKER_00]: So, you would have learned as a mode of being to, whenever you attend to things, you're attending them with a corner of your eye being aware of its source, knowing its basis, knowing the motivation behind your actions in regard to anything.
+
+440
+00:37:11,984 --> 00:37:15,445
+[SPEAKER_00]: Doesn't matter how subtle or big or small, fast or slow.
+
+441
+00:37:16,950 --> 00:37:20,794
+[SPEAKER_00]: But that can only come with constantly uncovering that, learning to question yourself.
+
+442
+00:37:23,017 --> 00:37:27,081
+[SPEAKER_00]: So, transparency, listening to the right teaching,
+
+443
+00:37:27,790 --> 00:37:38,953
+[SPEAKER_00]: You would obviously believe then in the application of it, and then you would be, through doing it, you would be developing that very yoniso manasikāra, which then means you would be recollected and aware.
+
+444
+00:37:39,293 --> 00:37:42,074
+[SPEAKER_00]: You would not be forgetful of things that are important to you.
+
+445
+00:37:42,954 --> 00:37:54,177
+[SPEAKER_00]: Because even if the things are way too precious, way too busy, too many moving parts, you can't follow every single instance of it, because it's just too many things happening, the broad picture remains visible.
+
+446
+00:37:55,097 --> 00:37:56,938
+[SPEAKER_00]: Like, you know things that you wouldn't do.
+
+447
+00:37:57,926 --> 00:38:03,010
+[SPEAKER_00]: You know things that should be de-emphasized and not engaged with and you don't forget that.
+
+448
+00:38:03,671 --> 00:38:16,381
+[SPEAKER_00]: Simply through not forgetting that, the mind cannot overwhelm you or make you make choices that would then take you in the unsuitable environments that would then result in increase of the pressure that you cannot possibly control and then you would act out.
+
+449
+00:38:17,922 --> 00:38:24,928
+[SPEAKER_00]: So, transparency, the same thread, would then result in fulfillment of the sense restraint.
+
+450
+00:38:25,820 --> 00:38:34,205
+[SPEAKER_00]: So, the same thread that then maintains knowing what's important, is then the thread that makes you actually exercise that.
+
+451
+00:38:34,585 --> 00:38:43,310
+[SPEAKER_00]: Oh, because this passion is important to me, I won't go to a crazy music festival with alcohol and drugs and everything else.
+
+452
+00:38:44,822 --> 00:38:50,326
+[SPEAKER_00]: Obviously, I'm giving the course examples, but the same principle can then be applied to lots of other things, where you see a direct correlation.
+
+453
+00:38:50,726 --> 00:38:52,507
+[SPEAKER_00]: If I go there, this is what's going to result.
+
+454
+00:38:52,667 --> 00:39:02,994
+[SPEAKER_00]: Like, even if somehow, magically, I manage to restrain myself, in terms of not act out, I've already lost the restraint by choosing to go in that environment in the first place.
+
+455
+00:39:03,014 --> 00:39:04,114
+[SPEAKER_00]: Because it's completely unnecessary.
+
+456
+00:39:05,935 --> 00:39:11,159
+[SPEAKER_00]: So then, if you are fulfilling sense restraint, if you never compromise on the level of your choice,
+
+457
+00:39:12,395 --> 00:39:16,619
+[SPEAKER_00]: Like, sure, if you end up in this environment completely out of your hand, that's a different story.
+
+458
+00:39:17,920 --> 00:39:24,146
+[SPEAKER_00]: But the the the the the factor there is whether you chose it, whether you chose to give in to those things on that level.
+
+459
+00:39:24,326 --> 00:39:26,708
+[SPEAKER_00]: If you did, well, that's what we just discussed.
+
+460
+00:39:26,828 --> 00:39:32,674
+[SPEAKER_00]: That's why you would not be able to sustain mindfulness and not acting out of pressure.
+
+461
+00:39:34,255 --> 00:39:35,436
+[SPEAKER_00]: But here, in reverse,
+
+462
+00:39:36,392 --> 00:39:52,045
+[SPEAKER_00]: Through that transparency, if you are now sustaining the three kinds of good conduct, in other words, you don't act out of pressure, because you are not willingly choosing to compromise sensory strength, because you are not willingly choosing to stop questioning yourself,
+
+463
+00:39:53,438 --> 00:40:09,098
+[SPEAKER_00]: Then, those three kinds of conduct would have created a container whereby, basically, you cannot possibly, even if you want to, lose the sight of the peripheral, of the motivation, of the intention behind your actions, of your situation as a whole.
+
+464
+00:40:10,277 --> 00:40:17,324
+[SPEAKER_00]: Without needing to police it, without needing to chase it, without needing to dissect it, the framework becomes pretty... quite unshakable.
+
+465
+00:40:17,985 --> 00:40:19,727
+[SPEAKER_00]: Or certainly more unshakable than it was before.
+
+466
+00:40:20,408 --> 00:40:25,373
+[SPEAKER_00]: And that results in... in basically the four foundations of recollection.
+
+467
+00:40:26,871 --> 00:40:51,015
+[SPEAKER_00]: Which then, obviously, means if you are, whether sitting, walking, standing, laying down, in regard to body, feeling, in regard to these cornerstones, so to speak, of where people would cover up, would make choices, that are infected with greed, aversion, delusion, if you basically, now, through what we described, cannot lose the sight of that, you are fulfilling the seven awakening factors.
+
+468
+00:40:52,096 --> 00:40:56,699
+[SPEAKER_00]: So, through the three kinds of good conduct, you are fulfilling seven awakening factors, basically.
+
+469
+00:40:58,681 --> 00:41:06,547
+[SPEAKER_00]: Fulfillment of satipaṭṭhāna is the result of the three kinds of good conduct, as we did, as we discussed in just previous sutta or two suttas ago.
+
+470
+00:41:08,568 --> 00:41:11,570
+[SPEAKER_00]: So, the seven awakening factors lead to knowledge and liberation.
+
+471
+00:41:13,112 --> 00:41:15,894
+[SPEAKER_00]: Again, that's the result of fulfilling them.
+
+472
+00:41:17,335 --> 00:41:21,378
+[SPEAKER_00]: And this is, again, just goes back to what we speak so often, so many times.
+
+473
+00:41:21,398 --> 00:41:21,678
+[SPEAKER_00]: It's like
+
+474
+00:41:22,752 --> 00:41:25,094
+[SPEAKER_00]: There's no special practice.
+
+475
+00:41:25,154 --> 00:41:26,495
+[SPEAKER_00]: There's no luck involved either.
+
+476
+00:41:27,636 --> 00:41:35,722
+[SPEAKER_00]: There is certainly no mystical experience that just doing random stuff would come up and then make everything fall into place.
+
+477
+00:41:36,683 --> 00:41:39,985
+[SPEAKER_00]: It's just training of a layer upon layer upon layer upon layer.
+
+478
+00:41:40,606 --> 00:41:45,530
+[SPEAKER_00]: And this sutta, so quite quite well, it describes what those layers are.
+
+479
+00:41:46,671 --> 00:41:49,473
+[SPEAKER_00]: And it describes pretty much why you wouldn't be developing them.
+
+480
+00:41:51,054 --> 00:41:52,035
+[SPEAKER_00]: As we just addressed it.
+
+481
+00:41:54,257 --> 00:41:59,679
+[SPEAKER_00]: So, it's like the most direct and comprehensive way to enlightenment.
+
+482
+00:42:00,819 --> 00:42:05,801
+[SPEAKER_00]: It's like there's really nothing else needed, that you need to do, on top of what we just described.
+
+483
+00:42:06,461 --> 00:42:18,145
+[SPEAKER_00]: And there's nothing that you need to wait for, in a sense, because all these things are always with you, in any, at any given time, in any experience or reason, for whatever it was, whatever it is.
+
+484
+00:42:28,631 --> 00:42:32,833
+[SPEAKER_00]: So, let's see, we've got a few more questions.
+
+485
+00:42:45,998 --> 00:42:52,661
+[SPEAKER_00]: Right, so, yeah, I think I kind of already answered it, but yeah, there's a question like, so how do you practice yoniso manasikāra?
+
+486
+00:42:53,041 --> 00:42:56,203
+[SPEAKER_00]: How do you attend in light of its attention source?
+
+487
+00:42:58,371 --> 00:42:59,612
+[SPEAKER_00]: The practical example.
+
+488
+00:42:59,672 --> 00:43:00,152
+[SPEAKER_00]: What do you do?
+
+489
+00:43:01,033 --> 00:43:04,555
+[SPEAKER_00]: So, do you learn how to shift your attention?
+
+490
+00:43:04,595 --> 00:43:05,176
+[SPEAKER_00]: How to look?
+
+491
+00:43:05,656 --> 00:43:18,585
+[SPEAKER_00]: It's like, all of those things, you know, can maybe help you become more informed about it, but fundamentally, you do it by uncovering the intentions behind your actions and behind your attention.
+
+492
+00:43:19,106 --> 00:43:20,327
+[SPEAKER_00]: Whatever you're choosing to attend,
+
+493
+00:43:21,318 --> 00:43:27,701
+[SPEAKER_00]: You always need to have a degree of self-awareness revealed through self-questioning as to why am I attending to this?
+
+494
+00:43:29,642 --> 00:43:30,683
+[SPEAKER_00]: Why am I preferring this?
+
+495
+00:43:31,103 --> 00:43:36,966
+[SPEAKER_00]: Again, not in order to find some psychological linear first point where these things came up.
+
+496
+00:43:37,326 --> 00:43:38,266
+[SPEAKER_00]: No, it's right there and then.
+
+497
+00:43:38,326 --> 00:43:38,607
+[SPEAKER_00]: Why?
+
+498
+00:43:39,707 --> 00:43:40,928
+[SPEAKER_00]: Oh, it's because it's pleasant.
+
+499
+00:43:42,268 --> 00:43:44,870
+[SPEAKER_00]: Oh, it's because it bothers me.
+
+500
+00:43:44,930 --> 00:43:46,370
+[SPEAKER_00]: Oh, it's because of this, because of that.
+
+501
+00:43:46,591 --> 00:43:47,091
+[SPEAKER_00]: Knowing that.
+
+502
+00:43:47,171 --> 00:43:48,571
+[SPEAKER_00]: No, you don't need to resolve it.
+
+503
+00:43:48,672 --> 00:43:49,272
+[SPEAKER_00]: That's the point.
+
+504
+00:43:50,188 --> 00:43:51,168
+[SPEAKER_00]: There is no resolution.
+
+505
+00:43:51,268 --> 00:43:53,649
+[SPEAKER_00]: It's just... that's the reason and that's what you're doing.
+
+506
+00:43:54,169 --> 00:43:57,331
+[SPEAKER_00]: But it's the non... it's the ignoring of that relationship.
+
+507
+00:43:59,471 --> 00:44:00,972
+[SPEAKER_00]: That's this whole thing we've been describing.
+
+508
+00:44:02,132 --> 00:44:05,994
+[SPEAKER_00]: And the yoniso manasikāra is the beginning of non-ignoring of that relationship.
+
+509
+00:44:07,574 --> 00:44:12,016
+[SPEAKER_00]: So that's why, although people might be asking, oh, why am I doing this?
+
+510
+00:44:12,036 --> 00:44:12,536
+[SPEAKER_00]: Why am I doing that?
+
+511
+00:44:12,556 --> 00:44:18,338
+[SPEAKER_00]: They're still doing it with another intention behind that action, which is to resolve it.
+
+512
+00:44:21,188 --> 00:44:21,848
+[SPEAKER_00]: To figure it out.
+
+513
+00:44:22,849 --> 00:44:23,429
+[SPEAKER_00]: It's like, no.
+
+514
+00:44:24,149 --> 00:44:26,450
+[SPEAKER_00]: You're doing it only to the extent to reveal it.
+
+515
+00:44:26,990 --> 00:44:30,771
+[SPEAKER_00]: Then, of course, you don't act out, you don't break the precepts, but you don't try to get rid of it.
+
+516
+00:44:31,612 --> 00:44:39,515
+[SPEAKER_00]: Because if you try to get rid of it, through this denial, you are getting rid of the relationship of yoniso, which means something else is now yoniso and you're not seeing it.
+
+517
+00:44:40,995 --> 00:44:48,358
+[SPEAKER_00]: So, questioning, self-questioning that points back to the direction of the source of your current situation, which is going to be
+
+518
+00:44:49,254 --> 00:44:54,818
+[SPEAKER_00]: As I said, you'll be doing something, thinking something, attending to something, sight, sound, smell, taste, touches, or thoughts.
+
+519
+00:44:55,658 --> 00:44:56,519
+[SPEAKER_00]: It has to be something.
+
+520
+00:44:57,480 --> 00:45:00,462
+[SPEAKER_00]: And you always want to have that knowledge as to why.
+
+521
+00:45:02,163 --> 00:45:04,204
+[SPEAKER_00]: Oh, because I prefer it or don't prefer it.
+
+522
+00:45:04,224 --> 00:45:04,765
+[SPEAKER_00]: I must change it.
+
+523
+00:45:04,805 --> 00:45:05,825
+[SPEAKER_00]: No, you don't need to change it.
+
+524
+00:45:06,526 --> 00:45:08,968
+[SPEAKER_00]: You contain it through not acting out and then you reveal it.
+
+525
+00:45:09,608 --> 00:45:10,809
+[SPEAKER_00]: That's the practice of yoniso.
+
+526
+00:45:13,158 --> 00:45:17,622
+[SPEAKER_00]: And that, obviously, that practice, if you... the more you question yourself, the easier it will become.
+
+527
+00:45:17,902 --> 00:45:22,686
+[SPEAKER_00]: Like, you wouldn't even need to go through the, like, formally uttering questions and so on.
+
+528
+00:45:22,866 --> 00:45:26,248
+[SPEAKER_00]: It would just already become your attitude of just seeing what's behind this.
+
+529
+00:45:27,129 --> 00:45:28,270
+[SPEAKER_00]: Because you already know where to look.
+
+530
+00:45:29,391 --> 00:45:34,535
+[SPEAKER_00]: But that's not gonna just magically manifest itself, come, like, fall from the sky.
+
+531
+00:45:35,095 --> 00:45:38,098
+[SPEAKER_00]: That's the attitude that you will have if you... if you develop it.
+
+532
+00:45:38,758 --> 00:45:40,740
+[SPEAKER_00]: And if you don't use it, you will lose it, basically.
+
+533
+00:45:46,520 --> 00:45:53,684
+[SPEAKER_00]: So, then the second question is, look, why does the practice of sati, then why is recollectiveness, why is the non-forgetfulness dependent on this?
+
+534
+00:45:56,185 --> 00:45:59,346
+[SPEAKER_00]: Dependent on this attitude of discerning the intention behind your actions.
+
+535
+00:46:02,388 --> 00:46:07,670
+[SPEAKER_00]: Seeing the currently enduring motivation for your attention resting on this or that.
+
+536
+00:46:07,890 --> 00:46:09,571
+[SPEAKER_00]: Choosing to attend this as opposed to that.
+
+537
+00:46:11,573 --> 00:46:13,854
+[SPEAKER_00]: Well, we addressed it, didn't we?
+
+538
+00:46:13,894 --> 00:46:22,779
+[SPEAKER_00]: Basically, the reason why it's because that already gives you the broadest framework of what's important and what should be emphasized.
+
+539
+00:46:22,979 --> 00:46:26,241
+[SPEAKER_00]: And if you lose the sight of that, then you forget.
+
+540
+00:46:28,942 --> 00:46:35,205
+[SPEAKER_00]: So, think of it like, basically, say you are at the crossroads and you're not committing to any direction.
+
+541
+00:46:35,305 --> 00:46:36,666
+[SPEAKER_00]: You stay there on the crossroads.
+
+542
+00:46:39,808 --> 00:46:46,334
+[SPEAKER_00]: And then, doesn't matter what comes from what side, you will see there, you will recognize it, you won't forget about it.
+
+543
+00:46:46,994 --> 00:47:02,888
+[SPEAKER_00]: But if you forget about the importance of staying at the crossroads, staying at the origin of this traffic, and you choose one of the lanes, one of the directions, well, you... it will be impossible for you to remember about the other three and what's on them, because you're not there now, seeing it.
+
+544
+00:47:04,389 --> 00:47:08,851
+[SPEAKER_00]: And what would have passed and taken those directions, you wouldn't see either, because you already narrowed down.
+
+545
+00:47:09,472 --> 00:47:13,334
+[SPEAKER_00]: You already went down one direction and lost the sight of the other three.
+
+546
+00:47:14,514 --> 00:47:15,935
+[SPEAKER_00]: So, that's why sati depends on it.
+
+547
+00:47:18,616 --> 00:47:23,279
+[SPEAKER_00]: So, through self-questioning, you develop recollectiveness.
+
+548
+00:47:24,499 --> 00:47:26,981
+[SPEAKER_00]: You develop the non-losing of the right context.
+
+549
+00:47:33,825 --> 00:47:34,665
+[SPEAKER_00]: So, yeah.
+
+550
+00:47:34,905 --> 00:47:55,252
+[SPEAKER_00]: Also, like somebody pointed out that the simile that the Buddha gives, it sort of shows that it's not like... the things are not sequential in a sense that, you know, like the origin of the mountain then fills up the pool and then that pool goes into the stream and that stream goes into the river.
+
+551
+00:47:55,352 --> 00:47:55,492
+[SPEAKER_00]: No.
+
+552
+00:47:55,572 --> 00:47:57,753
+[SPEAKER_00]: The origin from the mountain continues filling up.
+
+553
+00:47:59,133 --> 00:48:01,334
+[SPEAKER_00]: So, the pool is filled up and the water is still coming.
+
+554
+00:48:03,162 --> 00:48:05,183
+[SPEAKER_00]: So, the streams are filled up and the water is still coming.
+
+555
+00:48:05,964 --> 00:48:07,805
+[SPEAKER_00]: And that's that common thread that I've been saying.
+
+556
+00:48:07,845 --> 00:48:11,507
+[SPEAKER_00]: The common thread that starts with your transparency and all the way to knowledge and liberation.
+
+557
+00:48:12,167 --> 00:48:13,748
+[SPEAKER_00]: That's the water still coming.
+
+558
+00:48:15,229 --> 00:48:21,852
+[SPEAKER_00]: The effort to uncover the principle, not ignore it, is what will fuel this whole thing, what will fill it up.
+
+559
+00:48:21,892 --> 00:48:23,893
+[SPEAKER_00]: So, it's not just like one, two, three, four, five.
+
+560
+00:48:24,354 --> 00:48:28,116
+[SPEAKER_00]: It's just one thread intensifying and filling up everything in its way.
+
+561
+00:48:35,678 --> 00:48:36,158
+[SPEAKER_00]: So...
+
+562
+00:48:43,722 --> 00:48:43,882
+[SPEAKER_00]: Right.
+
+563
+00:48:43,902 --> 00:48:50,205
+[SPEAKER_00]: So, then, there's another question, slightly more... Well, it's still kind of related, but...
+
+564
+00:48:50,225 --> 00:48:56,128
+[SPEAKER_00]: So, yeah, the sutta describes the connection between the five hindrances and the three ways of misconduct.
+
+565
+00:48:56,168 --> 00:49:03,412
+[SPEAKER_00]: So, the hindrances are fed by the way you act, but hindrances themselves are not actions.
+
+566
+00:49:03,763 --> 00:49:04,364
+[SPEAKER_00]: Yeah, that's correct.
+
+567
+00:49:04,384 --> 00:49:05,084
+[SPEAKER_00]: We already said that.
+
+568
+00:49:05,404 --> 00:49:07,326
+[SPEAKER_00]: Like, they are basically baits, traps.
+
+569
+00:49:08,567 --> 00:49:16,994
+[SPEAKER_00]: As the Buddha said in that sutta, the things that arise, that, like, if you don't attend with
+
+570
+00:49:17,935 --> 00:49:23,660
+[SPEAKER_00]: The knowledge of the source of your attention, while you're attending it, that's how you get hooked, so to speak.
+
+571
+00:49:24,320 --> 00:49:28,224
+[SPEAKER_00]: So, when he was talking about sensuality, he didn't say that the...
+
+572
+00:49:28,364 --> 00:49:30,025
+[SPEAKER_00]: I don't know... say beautiful sights.
+
+573
+00:49:30,866 --> 00:49:32,567
+[SPEAKER_00]: Beautiful sights are not sensuality.
+
+574
+00:49:32,988 --> 00:49:33,708
+[SPEAKER_00]: It's not a hindrance.
+
+575
+00:49:33,908 --> 00:49:38,692
+[SPEAKER_00]: People think like, oh, seeing this, smelling this, hearing this, thinking this, that's a hindrance.
+
+576
+00:49:38,873 --> 00:49:39,253
+[SPEAKER_00]: It's not.
+
+577
+00:49:40,432 --> 00:49:44,173
+[SPEAKER_00]: That's what comes up, that you don't see through, which is what hinders you.
+
+578
+00:49:44,333 --> 00:49:52,015
+[SPEAKER_00]: So, technically, it's your lack of yoniso that hinders you in these specific situations.
+
+579
+00:49:52,215 --> 00:49:56,557
+[SPEAKER_00]: So, when the Buddha said, if the one does not attend rightly, i.e.
+
+580
+00:49:56,677 --> 00:50:03,759
+[SPEAKER_00]: attend with its source, to the sight of the beauty, that's when sensuality... hindrance of sensuality is there.
+
+581
+00:50:04,319 --> 00:50:08,220
+[SPEAKER_00]: If he attends to it rightly, then, basically, that thing remains that.
+
+582
+00:50:08,951 --> 00:50:12,734
+[SPEAKER_00]: The phenomenon of beauty, the sight of beauty remains there.
+
+583
+00:50:12,934 --> 00:50:14,255
+[SPEAKER_00]: So, the thing has arisen.
+
+584
+00:50:14,636 --> 00:50:16,757
+[SPEAKER_00]: The bait is still there, but it doesn't hinder you.
+
+585
+00:50:18,819 --> 00:50:33,691
+[SPEAKER_00]: So, hindrances in themselves are not actions, but it's if you don't see through them, so to speak, if you attend to them without the knowledge of the source while you're attending it, the source of your very attention as to why you're doing it, that's what hinders you.
+
+586
+00:50:36,197 --> 00:50:42,580
+[SPEAKER_00]: So, that's why, like, that whole kind of... the relationship is not something you can just stop.
+
+587
+00:50:43,081 --> 00:50:44,741
+[SPEAKER_00]: As I said, well, none of this you could just stop.
+
+588
+00:50:44,761 --> 00:50:45,502
+[SPEAKER_00]: Craving, you can't stop.
+
+589
+00:50:45,542 --> 00:50:46,522
+[SPEAKER_00]: Hindrances, you can't just stop.
+
+590
+00:50:47,183 --> 00:50:54,627
+[SPEAKER_00]: But as we just uncovered through the sutta, where the line, where the threshold of your input is, begins and ends.
+
+591
+00:50:54,827 --> 00:50:56,187
+[SPEAKER_00]: And that is what you're responsible for.
+
+592
+00:50:56,227 --> 00:51:00,630
+[SPEAKER_00]: And if you stick to that, if you practice that sufficient amount of time, then it will drain away.
+
+593
+00:51:01,503 --> 00:51:13,255
+[SPEAKER_00]: So then, the sight of the beauty, doesn't matter how many times it will come up for an arahant or an anāgāmī, he's incapable of attending to it without the light of its origin.
+
+594
+00:51:14,196 --> 00:51:16,559
+[SPEAKER_00]: In other words, he cannot possibly engage in ayoniso.
+
+595
+00:51:17,240 --> 00:51:19,422
+[SPEAKER_00]: In regard to things that remain standing in the world.
+
+596
+00:51:21,004 --> 00:51:27,889
+[SPEAKER_00]: So, that's another reason why it's important to not just blindly try to get rid of the hindrance and do the opposite and manage it and remove, because you're trying to remove the whole thing.
+
+597
+00:51:27,909 --> 00:51:33,453
+[SPEAKER_00]: You're picking up the bait, because you say the bait is the problem and I get hooked because this thing is in front of my eyes.
+
+598
+00:51:34,154 --> 00:51:36,316
+[SPEAKER_00]: No, you get hooked because you grabbed it.
+
+599
+00:51:36,376 --> 00:51:38,237
+[SPEAKER_00]: It can remain standing in front of your eyes all you want.
+
+600
+00:51:38,477 --> 00:51:40,519
+[SPEAKER_00]: If you don't reach for it, it can't hook you.
+
+601
+00:51:41,379 --> 00:51:42,080
+[SPEAKER_00]: As simple as that.
+

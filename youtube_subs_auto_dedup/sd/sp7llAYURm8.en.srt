@@ -1,0 +1,3067 @@
+1
+00:00:03,760 --> 00:00:06,838
+So um in previous talks
+
+2
+00:00:06,839 --> 00:00:09,279
+we've brushed on the topic but never
+
+3
+00:00:09,280 --> 00:00:12,598
+really gone into it in depth.
+
+4
+00:00:12,599 --> 00:00:14,199
+So
+
+5
+00:00:14,200 --> 00:00:18,079
+how how would how could we define what a
+
+6
+00:00:19,000 --> 00:00:21,959
+method is in the sense that we talk about it?
+
+7
+00:00:21,960 --> 00:00:25,919
+is in the sense that we talk about it?
+Um and why is it a problem? Because I
+
+8
+00:00:25,920 --> 00:00:27,919
+mean so there's do talk about like the
+
+9
+00:00:27,920 --> 00:00:32,558
+noble method and uh you know the
+
+10
+00:00:32,559 --> 00:00:34,959
+sometimes the noble path is described as
+
+11
+00:00:34,960 --> 00:00:37,599
+like the the proper method proper
+
+12
+00:00:38,760 --> 00:00:41,558
+practice but how we define
+
+13
+00:00:41,559 --> 00:00:44,199
+but how we define
+method in the wrong
+
+14
+00:00:44,200 --> 00:00:57,350
+sense that shouldn't be
+
+15
+00:00:57,360 --> 00:01:00,639
+Yeah. Are you asking what is ordinarily
+
+16
+00:01:00,640 --> 00:01:03,519
+seen or conceived as a method and how is
+
+17
+00:01:03,520 --> 00:01:06,559
+that different from the noble method
+
+18
+00:01:06,560 --> 00:01:10,639
+which is the noble path or the penation
+
+19
+00:01:10,640 --> 00:01:20,149
+as it's described in the sutras.
+
+20
+00:01:20,159 --> 00:01:22,919
+So like what's the difference between
+
+21
+00:01:22,920 --> 00:01:27,550
+just having
+
+22
+00:01:27,560 --> 00:01:30,239
+um you're not improvising of course. So
+
+23
+00:01:30,240 --> 00:01:32,719
+we're not saying like don't do a method
+
+24
+00:01:32,720 --> 00:01:35,438
+means like you kind of decide on the
+
+25
+00:01:35,439 --> 00:01:37,438
+spot and you don't have a plan. You just
+
+26
+00:01:37,439 --> 00:01:41,798
+kind of go with the flow or something. M
+
+27
+00:01:41,799 --> 00:01:45,679
+but it also doesn't mean that you do
+
+28
+00:01:45,680 --> 00:01:48,239
+that type of method. So what is where is
+
+29
+00:01:48,240 --> 00:01:51,199
+it that you know having like a an idea
+
+30
+00:01:51,200 --> 00:01:55,279
+about what you should do and uh and a
+
+31
+00:01:55,280 --> 00:01:56,438
+kind of
+
+32
+00:01:56,439 --> 00:01:59,118
+broad guideline where is it that that
+
+33
+00:01:59,119 --> 00:02:03,118
+becomes a method or a technique the
+
+34
+00:02:03,119 --> 00:02:07,510
+other word that we could use.
+
+35
+00:02:07,520 --> 00:02:09,719
+One one things would be
+
+36
+00:02:09,720 --> 00:02:14,719
+to know you just go somewhere ask a
+
+37
+00:02:14,720 --> 00:02:16,079
+question and then someone give you
+
+38
+00:02:16,080 --> 00:02:17,919
+something to do and then you just say
+
+39
+00:02:17,920 --> 00:02:20,159
+okay right I just do that but then that
+
+40
+00:02:20,160 --> 00:02:22,799
+doesn't imply any type of understanding
+
+41
+00:02:22,800 --> 00:02:25,878
+you just kind of repeat mechanically the
+
+42
+00:02:25,879 --> 00:02:28,719
+same things whatever it is over and over
+
+43
+00:02:28,720 --> 00:02:30,878
+and over again hoping for a different
+
+44
+00:02:30,879 --> 00:02:32,958
+result while you actually do the same
+
+45
+00:02:32,959 --> 00:02:37,518
+all the time. Mhm. But so what why is so
+
+46
+00:02:37,519 --> 00:02:39,919
+why is it that a problem? Like you know
+
+47
+00:02:39,920 --> 00:02:42,639
+because it could lead to results that
+
+48
+00:02:42,640 --> 00:02:45,039
+people think are useful like it could
+
+49
+00:02:45,040 --> 00:02:47,878
+lead to states of calm
+
+50
+00:02:47,879 --> 00:02:52,639
+to maybe novel perceptions or
+
+51
+00:02:54,360 --> 00:02:57,039
+experiences and being able to deal with life better
+
+52
+00:02:57,040 --> 00:03:00,238
+and being able to deal with life better
+or whatever whatever people are looking
+
+53
+00:03:00,239 --> 00:03:03,279
+for. So why is it that that doesn't
+
+54
+00:03:04,360 --> 00:03:07,158
+apply to the practice? Like why is it
+
+55
+00:03:07,159 --> 00:03:11,919
+to the practice? Like why is it
+wrong even if it's the best gives you
+
+56
+00:03:11,920 --> 00:03:15,839
+the best uh benefits and and the best uh
+
+57
+00:03:15,840 --> 00:03:18,479
+kind of quote unquote spiritual
+
+58
+00:03:20,159 --> 00:03:22,158
+development? Why is it not the same as the spiritual
+
+59
+00:03:22,159 --> 00:03:23,439
+Why is it not the same as the spiritual
+development that the Buddha was
+
+60
+00:03:23,440 --> 00:03:25,518
+teaching? Yes, that's the question.
+
+61
+00:03:25,519 --> 00:03:32,119
+Yeah. [Music]
+
+62
+00:03:32,120 --> 00:03:34,719
+[Music]
+Well, well, one one thing that I see is
+
+63
+00:03:34,720 --> 00:03:37,279
+that it's just like, okay, I go
+
+64
+00:03:37,280 --> 00:03:39,119
+somewhere, I learned this technique and
+
+65
+00:03:39,120 --> 00:03:41,759
+then I keep repeating that. But the fact
+
+66
+00:03:41,760 --> 00:03:45,518
+is that I never kind of question myself
+
+67
+00:03:45,519 --> 00:03:46,839
+whether if
+
+68
+00:03:46,840 --> 00:03:50,110
+I kind
+
+69
+00:03:50,120 --> 00:03:53,199
+of no it's not quite quite what I want
+
+70
+00:03:53,200 --> 00:03:56,479
+to say. It's more like um so if my
+
+71
+00:03:56,480 --> 00:03:58,318
+experience is kind of affected by kind
+
+72
+00:03:58,319 --> 00:04:00,559
+of ignorance whatever I learn come
+
+73
+00:04:00,560 --> 00:04:02,878
+through this lens in my experience. So
+
+74
+00:04:02,879 --> 00:04:05,119
+if someone teach me something and I
+
+75
+00:04:05,120 --> 00:04:07,199
+think I understand what he's talking
+
+76
+00:04:08,959 --> 00:04:10,318
+about this understanding is coming through
+
+77
+00:04:10,319 --> 00:04:13,119
+this understanding is coming through
+kind of ignorance and my kind of
+
+78
+00:04:13,120 --> 00:04:16,719
+experience of that. So if like the kind
+
+79
+00:04:16,720 --> 00:04:18,638
+of teaching that is given to me doesn't
+
+80
+00:04:18,639 --> 00:04:21,758
+try to highlight the fact that right now
+
+81
+00:04:21,759 --> 00:04:23,599
+you might do this you might do that but
+
+82
+00:04:23,600 --> 00:04:25,679
+you have to kind of improve your
+
+83
+00:04:25,680 --> 00:04:27,918
+understanding well then there is no hope
+
+84
+00:04:27,919 --> 00:04:29,599
+for me to understand anything because I
+
+85
+00:04:29,600 --> 00:04:31,519
+kind of assume that already know but
+
+86
+00:04:31,520 --> 00:04:33,279
+this knowledge is confined within the
+
+87
+00:04:33,280 --> 00:04:35,198
+fact that I'm ignorant in the first
+
+88
+00:04:35,199 --> 00:04:37,679
+place but so okay but how would you
+
+89
+00:04:37,680 --> 00:04:39,679
+remedy that situation because from that
+
+90
+00:04:39,680 --> 00:04:42,638
+point of view everything you hear is
+
+91
+00:04:42,639 --> 00:04:45,119
+going to share that characteristic Like
+
+92
+00:04:45,120 --> 00:04:48,119
+some instructions might be kind of
+
+93
+00:04:48,120 --> 00:04:51,119
+more superficial, others might be less
+
+94
+00:04:51,120 --> 00:04:53,758
+so, but fundamentally you still all of
+
+95
+00:04:53,759 --> 00:04:55,599
+it is happening within ignorance as you
+
+96
+00:04:55,600 --> 00:04:58,478
+said or or is being received by the
+
+97
+00:04:58,479 --> 00:05:01,599
+ignorance ignorant framework. So how
+
+98
+00:05:03,639 --> 00:05:07,279
+would you what's the missing element there
+
+99
+00:05:07,280 --> 00:05:09,038
+you what's the missing element there
+that wouldn't allow you to develop
+
+100
+00:05:09,039 --> 00:05:11,478
+knowledge even if you do the right
+
+101
+00:05:11,479 --> 00:05:13,758
+technique that the Buddha himself gave
+
+102
+00:05:13,759 --> 00:05:18,189
+you you do it for 100
+
+103
+00:05:18,199 --> 00:05:21,119
+years. Well, you see, it seems to me
+
+104
+00:05:21,120 --> 00:05:23,799
+that the problem with these methods and
+
+105
+00:05:23,800 --> 00:05:26,959
+techniques is that once you accept them,
+
+106
+00:05:26,960 --> 00:05:29,959
+the method or the technique comes first
+
+107
+00:05:29,960 --> 00:05:33,519
+and your let's say subjective state of
+
+108
+00:05:33,520 --> 00:05:37,038
+mind or intentions come second. That is
+
+109
+00:05:37,039 --> 00:05:40,959
+why the technique remains static.
+
+110
+00:05:40,960 --> 00:05:43,918
+Um, and the assumption is that the
+
+111
+00:05:43,919 --> 00:05:46,719
+technique doesn't change. you you just
+
+112
+00:05:46,720 --> 00:05:49,758
+keep applying it and gradually through
+
+113
+00:05:49,759 --> 00:05:52,799
+time things will begin to unfold
+
+114
+00:05:52,800 --> 00:05:55,119
+which ties into the ignorance that you
+
+115
+00:05:55,120 --> 00:05:58,559
+were talking about. If being affected by
+
+116
+00:05:58,560 --> 00:06:01,559
+ignorance you accept a technique as
+
+117
+00:06:01,560 --> 00:06:04,359
+right then that acceptance and the
+
+118
+00:06:04,360 --> 00:06:08,079
+criteria are part of that ignorance.
+
+119
+00:06:08,080 --> 00:06:10,879
+So, so you can keep following that but
+
+120
+00:06:10,880 --> 00:06:13,879
+it will not lead you out of
+
+121
+00:06:13,880 --> 00:06:17,198
+ignorance except if that technique has
+
+122
+00:06:17,199 --> 00:06:19,359
+as its main characteristic that it shows
+
+123
+00:06:19,360 --> 00:06:21,119
+your subjective state of mind and
+
+124
+00:06:21,120 --> 00:06:23,758
+intentions and tells you to put that
+
+125
+00:06:23,759 --> 00:06:26,638
+first. But when that is the instruction
+
+126
+00:06:26,639 --> 00:06:28,879
+that technique can on no accounts ever
+
+127
+00:06:28,880 --> 00:06:30,559
+become really a technique the way we are
+
+128
+00:06:30,560 --> 00:06:32,159
+now discussing it because those mind
+
+129
+00:06:32,160 --> 00:06:35,478
+states and and intentions are
+
+130
+00:06:35,479 --> 00:06:37,999
+impermanent. They change. So you have to
+
+131
+00:06:38,000 --> 00:06:42,879
+put that first and move with that which
+
+132
+00:06:42,880 --> 00:06:45,439
+is the reversal of how technique is
+
+133
+00:06:45,440 --> 00:06:47,999
+usually applied. That's why I don't see
+
+134
+00:06:48,000 --> 00:06:50,959
+how ordinarily methods and techniques
+
+135
+00:06:50,960 --> 00:06:53,359
+lead inwards or let's say out of
+
+136
+00:06:53,360 --> 00:06:54,918
+ignorance. Yeah.
+
+137
+00:06:54,919 --> 00:06:59,038
+So so that's the thing. So it's not it's
+
+138
+00:06:59,039 --> 00:07:01,198
+not even the that the content of a
+
+139
+00:07:01,199 --> 00:07:03,679
+technique is bad. It's not like, oh, you
+
+140
+00:07:03,680 --> 00:07:05,519
+you did technique number one, you should
+
+141
+00:07:05,520 --> 00:07:07,918
+have done technique number two instead.
+
+142
+00:07:07,919 --> 00:07:09,679
+Well, that actually also happens like
+
+143
+00:07:09,680 --> 00:07:12,559
+it's not uncommon in certain traditions
+
+144
+00:07:12,560 --> 00:07:15,519
+to to have a sense of false progress.
+
+145
+00:07:15,520 --> 00:07:17,439
+Like you do level one and then you
+
+146
+00:07:17,440 --> 00:07:19,038
+fiddle around with that for a few months
+
+147
+00:07:19,039 --> 00:07:21,198
+and then you can now apply for
+
+148
+00:07:21,199 --> 00:07:23,119
+meditation method technique number two
+
+149
+00:07:23,120 --> 00:07:24,719
+and then people can go through that and
+
+150
+00:07:24,720 --> 00:07:26,719
+then weekend here, initiation there,
+
+151
+00:07:26,720 --> 00:07:29,038
+special transmission here, right? and so
+
+152
+00:07:29,039 --> 00:07:31,519
+on. Um and then you just keep
+
+153
+00:07:31,520 --> 00:07:33,839
+accumulating slightly different methods
+
+154
+00:07:33,840 --> 00:07:35,918
+and techniques and and you think that
+
+155
+00:07:35,919 --> 00:07:39,758
+that is progress whereas actually uh it
+
+156
+00:07:39,759 --> 00:07:42,079
+it doesn't reveal anything about what is
+
+157
+00:07:42,080 --> 00:07:44,318
+now subjectively for you going on.
+
+158
+00:07:44,319 --> 00:07:46,758
+Exactly. So, so but what is
+
+159
+00:07:46,759 --> 00:07:50,318
+that why is it important to to have uh
+
+160
+00:07:50,319 --> 00:07:52,239
+that subjective dimension and and what
+
+161
+00:07:52,240 --> 00:07:54,399
+is it more specifically because you know
+
+162
+00:07:54,400 --> 00:07:55,559
+you could
+
+163
+00:07:55,560 --> 00:07:58,478
+also I mean from that point of view
+
+164
+00:07:58,479 --> 00:08:00,159
+people would also argue that no no this
+
+165
+00:08:00,160 --> 00:08:02,719
+is like getting me to understand my own
+
+166
+00:08:02,720 --> 00:08:04,959
+mind how can you say that it's not
+
+167
+00:08:04,960 --> 00:08:07,439
+teaching me about subjective well
+
+168
+00:08:07,440 --> 00:08:11,239
+elements because that state of mind is
+
+169
+00:08:11,240 --> 00:08:15,598
+already there and so you deciding right
+
+170
+00:08:15,599 --> 00:08:18,399
+now should I practice meditation method
+
+171
+00:08:18,400 --> 00:08:21,038
+technique number 1 2 3 4 5 or whatever
+
+172
+00:08:21,039 --> 00:08:22,559
+you have accumulated in the course of
+
+173
+00:08:22,560 --> 00:08:26,638
+your life that choice is already coming
+
+174
+00:08:26,639 --> 00:08:28,799
+out of certain intentions and is already
+
+175
+00:08:28,800 --> 00:08:31,839
+affected by certain mind states but the
+
+176
+00:08:31,840 --> 00:08:34,559
+difficulty is that that's precisely not
+
+177
+00:08:34,560 --> 00:08:37,119
+seen if there is this kind of obsession
+
+178
+00:08:37,120 --> 00:08:39,759
+or almost fetishism with accumulating
+
+179
+00:08:39,760 --> 00:08:41,439
+different methods and techniques you you
+
+180
+00:08:41,440 --> 00:08:43,679
+think or even the same one just even if
+
+181
+00:08:43,680 --> 00:08:45,919
+you don't. Well, so we so so even if
+
+182
+00:08:45,920 --> 00:08:47,439
+it's one, but that's actually already
+
+183
+00:08:47,440 --> 00:08:49,199
+quite uncommon to find somebody who
+
+184
+00:08:49,200 --> 00:08:51,278
+sticks to one method and technique, even
+
+185
+00:08:51,279 --> 00:08:54,159
+if it's still the wrong understanding of
+
+186
+00:08:54,160 --> 00:08:56,079
+of method and technique. In a sense, it
+
+187
+00:08:56,080 --> 00:08:58,159
+would be better. I would almost argue,
+
+188
+00:08:58,160 --> 00:09:01,599
+but still it it's it it could still go
+
+189
+00:09:01,600 --> 00:09:03,359
+wrong basically. Yeah. Well, yeah. If
+
+190
+00:09:03,360 --> 00:09:05,119
+you stick to one at least you kind of
+
+191
+00:09:05,120 --> 00:09:08,079
+assume you're not like
+
+192
+00:09:08,080 --> 00:09:10,599
+um it's not such a
+
+193
+00:09:10,600 --> 00:09:13,518
+coarse dependence and assumption of your
+
+194
+00:09:13,519 --> 00:09:16,799
+own uh qualification to decide what is
+
+195
+00:09:16,800 --> 00:09:18,799
+useful and what is not useful. At least
+
+196
+00:09:18,800 --> 00:09:21,919
+you're kind of recognizing like okay I
+
+197
+00:09:21,920 --> 00:09:23,919
+if I'm ignorant how am I supposed to be
+
+198
+00:09:23,920 --> 00:09:26,479
+able to decide when to do this one and
+
+199
+00:09:26,480 --> 00:09:28,639
+when to do the other one. So at the very
+
+200
+00:09:28,640 --> 00:09:31,679
+least you would um stick to one like as
+
+201
+00:09:31,680 --> 00:09:35,759
+a Buddha did you stick to one and then
+
+202
+00:09:35,760 --> 00:09:37,359
+you master it and then you realize it
+
+203
+00:09:37,360 --> 00:09:39,439
+doesn't meet to the goal so then you
+
+204
+00:09:39,440 --> 00:09:41,679
+move on but even then of course that's
+
+205
+00:09:41,680 --> 00:09:44,719
+not the right attitude but the the kind
+
+206
+00:09:44,720 --> 00:09:47,278
+of um mixing and matching and like
+
+207
+00:09:47,279 --> 00:09:49,199
+cherrypicking a little bit of this and a
+
+208
+00:09:49,200 --> 00:09:51,278
+little bit of that that's even more
+
+209
+00:09:51,279 --> 00:09:54,559
+inauthentic than just just doing one one
+
+210
+00:09:54,560 --> 00:09:57,039
+single technique. But so the the thing
+
+211
+00:09:57,040 --> 00:10:03,559
+is like so what is that um
+
+212
+00:10:03,560 --> 00:10:06,599
+um
+like what is that kind of
+
+213
+00:10:06,600 --> 00:10:09,999
+a subjective element that you that you
+
+214
+00:10:10,000 --> 00:10:12,879
+mentioned like more more specifically so
+
+215
+00:10:12,880 --> 00:10:16,039
+you mentioned the intention.
+
+216
+00:10:16,040 --> 00:10:18,838
+So why is
+
+217
+00:10:18,839 --> 00:10:23,119
+that or let's say how is that properly
+
+218
+00:10:23,120 --> 00:10:27,278
+recognized if not through a technique?
+
+219
+00:10:27,279 --> 00:10:28,879
+You mean whether intention is wholesome
+
+220
+00:10:28,880 --> 00:10:30,719
+or unwome? Yeah. Or whatever the
+
+221
+00:10:30,720 --> 00:10:32,958
+intention is. Yeah.
+
+222
+00:10:32,959 --> 00:10:35,919
+Well, that's precisely the whole point.
+
+223
+00:10:35,920 --> 00:10:39,199
+Like so so let's say let's say going
+
+224
+00:10:39,200 --> 00:10:41,278
+back to what I said before, you scrap
+
+225
+00:10:41,279 --> 00:10:43,039
+the techniques you were doing. Yeah. And
+
+226
+00:10:43,040 --> 00:10:45,439
+then your technique becomes watching
+
+227
+00:10:45,440 --> 00:10:48,359
+your intentions. Mhm.
+
+228
+00:10:48,360 --> 00:10:50,919
+So would that
+
+229
+00:10:50,920 --> 00:10:53,799
+be the right
+
+230
+00:10:53,800 --> 00:10:56,719
+practice? Well, certainly closer, but
+
+231
+00:10:56,720 --> 00:10:59,359
+that's not your question now. Mhm. Um
+
+232
+00:10:59,360 --> 00:11:03,039
+well, it would involve more than just
+
+233
+00:11:03,040 --> 00:11:05,319
+let's say in an impersonal
+
+234
+00:11:05,320 --> 00:11:08,439
+way observing your
+
+235
+00:11:08,440 --> 00:11:10,719
+intentions because and awesome
+
+236
+00:11:10,720 --> 00:11:13,518
+intentions then you shouldn't act out of
+
+237
+00:11:13,519 --> 00:11:19,919
+to begin with. Um so that is um closer
+
+238
+00:11:19,920 --> 00:11:22,398
+and but but you see now we get into the
+
+239
+00:11:22,399 --> 00:11:25,039
+domain of like precepts and sensory
+
+240
+00:11:25,040 --> 00:11:27,518
+strength because th those precepts they
+
+241
+00:11:27,519 --> 00:11:29,679
+are in a sense fixed although one's
+
+242
+00:11:29,680 --> 00:11:31,919
+understanding of them can can be refined
+
+243
+00:11:31,920 --> 00:11:33,999
+but certain things you should you just
+
+244
+00:11:34,000 --> 00:11:36,398
+shouldn't do regardless of the situation
+
+245
+00:11:36,399 --> 00:11:38,319
+that you find yourself in. So that is
+
+246
+00:11:38,320 --> 00:11:40,838
+actually so if people have
+
+247
+00:11:40,839 --> 00:11:43,039
+difficulty totally giving up this idea
+
+248
+00:11:43,040 --> 00:11:45,679
+of methods or techniques then to stick
+
+249
+00:11:45,680 --> 00:11:48,799
+to observing your precepts would be in
+
+250
+00:11:48,800 --> 00:11:50,958
+my opinion closer to a method or
+
+251
+00:11:50,959 --> 00:11:52,319
+technique than what is normally
+
+252
+00:11:52,320 --> 00:11:53,759
+presented as meditation methods and
+
+253
+00:11:53,760 --> 00:11:56,239
+techniques. That's not one thing. But
+
+254
+00:11:56,240 --> 00:11:58,639
+your your question then still like is it
+
+255
+00:11:58,640 --> 00:12:01,039
+just a matter of observing whether
+
+256
+00:12:01,040 --> 00:12:03,359
+intentions are wholesome or unh
+
+257
+00:12:03,360 --> 00:12:06,879
+wholesome? Well, um that in and of
+
+258
+00:12:06,880 --> 00:12:09,599
+itself is also already an attitude that
+
+259
+00:12:09,600 --> 00:12:11,759
+you bring. Like now I'm going to look at
+
+260
+00:12:11,760 --> 00:12:13,599
+my intentions. Like you could become
+
+261
+00:12:13,600 --> 00:12:15,359
+very suspicious about yourself or you
+
+262
+00:12:15,360 --> 00:12:16,479
+might have a sort of a background
+
+263
+00:12:16,480 --> 00:12:18,078
+attitude like I should be on the lookout
+
+264
+00:12:18,079 --> 00:12:19,759
+for something that is unh wholesome or
+
+265
+00:12:19,760 --> 00:12:21,679
+that's not supposed to happen and so on.
+
+266
+00:12:21,680 --> 00:12:25,159
+And that whole attitude can also already
+
+267
+00:12:25,160 --> 00:12:28,958
+be tainted by what's unh wholesome. So
+
+268
+00:12:28,959 --> 00:12:31,599
+you can't also now make a formula and
+
+269
+00:12:31,600 --> 00:12:33,759
+say just observe your intentions and
+
+270
+00:12:33,760 --> 00:12:35,919
+then assume that that's always right
+
+271
+00:12:35,920 --> 00:12:39,359
+because to observe intentions is from
+
+272
+00:12:39,360 --> 00:12:41,679
+your subjective point of view that
+
+273
+00:12:41,680 --> 00:12:43,439
+attention is also not always the same.
+
+274
+00:12:43,440 --> 00:12:46,518
+Yeah. Yeah. So, so
+
+275
+00:12:46,519 --> 00:12:48,679
+basically if
+
+276
+00:12:48,680 --> 00:12:52,799
+you if you turn even the right I mean of
+
+277
+00:12:52,800 --> 00:12:55,439
+course even all these methods that exist
+
+278
+00:12:55,440 --> 00:12:58,398
+today they originated in some or were
+
+279
+00:12:58,399 --> 00:13:00,638
+influenced in some way or another by
+
+280
+00:13:00,639 --> 00:13:03,119
+things that are found in the sutas. But
+
+281
+00:13:03,120 --> 00:13:05,879
+the problem is if you take anything and
+
+282
+00:13:05,880 --> 00:13:08,999
+you make it static like you said in that
+
+283
+00:13:09,000 --> 00:13:12,078
+way then um it's just a matter of time
+
+284
+00:13:12,079 --> 00:13:13,759
+until it devolves into something
+
+285
+00:13:13,760 --> 00:13:15,199
+completely different. You might be doing
+
+286
+00:13:15,200 --> 00:13:17,359
+it rightly in the beginning like asking
+
+287
+00:13:17,360 --> 00:13:19,518
+yourself if you if you never question
+
+288
+00:13:19,519 --> 00:13:21,679
+yourself about your intentions and then
+
+289
+00:13:21,680 --> 00:13:23,359
+you suddenly begin doing that then of
+
+290
+00:13:23,360 --> 00:13:26,078
+course it's going to it's going to kind
+
+291
+00:13:26,079 --> 00:13:29,838
+of point you to that direction let's say
+
+292
+00:13:29,839 --> 00:13:32,319
+of where your intentions are. which is
+
+293
+00:13:32,320 --> 00:13:35,759
+not wrong. Exactly. But the problem is
+
+294
+00:13:35,760 --> 00:13:39,838
+that that very impulse to make it into
+
+295
+00:13:39,839 --> 00:13:41,638
+like a fixed thing that I can just
+
+296
+00:13:41,639 --> 00:13:44,799
+repeat. That in itself will make it not
+
+297
+00:13:44,800 --> 00:13:48,239
+be right anymore. So, so the point
+
+298
+00:13:48,240 --> 00:13:50,278
+being, as I said before, it's not even
+
+299
+00:13:50,279 --> 00:13:53,119
+that it's one technique that's wrong and
+
+300
+00:13:53,120 --> 00:13:54,879
+then the other ones are fine. Like, oh,
+
+301
+00:13:54,880 --> 00:13:56,799
+give up body scanning and then watch
+
+302
+00:13:56,800 --> 00:13:59,599
+your intentions instead.
+
+303
+00:13:59,600 --> 00:14:03,599
+The entire attitude. Yeah. of wanting to
+
+304
+00:14:03,600 --> 00:14:05,599
+get a formula for it, wanting to get a
+
+305
+00:14:05,600 --> 00:14:08,398
+recipe for it that needs to be given up.
+
+306
+00:14:08,399 --> 00:14:10,879
+Yeah. Because you are essentially
+
+307
+00:14:10,880 --> 00:14:13,159
+looking for something which is
+
+308
+00:14:13,160 --> 00:14:16,319
+permanent by holding on to that attitude
+
+309
+00:14:16,320 --> 00:14:18,958
+of wanting a method or a technique. How
+
+310
+00:14:18,959 --> 00:14:21,759
+is that now going to reveal the
+
+311
+00:14:21,760 --> 00:14:23,518
+impermanency of phenomena that the
+
+312
+00:14:23,519 --> 00:14:25,119
+Buddha is talking about? No. Well, you
+
+313
+00:14:25,120 --> 00:14:26,638
+you are looking you might be looking for
+
+314
+00:14:26,639 --> 00:14:28,359
+impermanence but the thing
+
+315
+00:14:28,360 --> 00:14:31,919
+is that entire dimension of your
+
+316
+00:14:31,920 --> 00:14:34,479
+experience that actually matters which
+
+317
+00:14:34,480 --> 00:14:37,599
+is like you said the subjective part
+
+318
+00:14:37,600 --> 00:14:40,319
+um which I mean it it's it it goes hand
+
+319
+00:14:40,320 --> 00:14:42,799
+in hand because you know that usually
+
+320
+00:14:42,800 --> 00:14:44,319
+the view is like oh you you need to be
+
+321
+00:14:44,320 --> 00:14:46,239
+perfectly objective you need to destroy
+
+322
+00:14:46,240 --> 00:14:48,958
+your subjectivity that's how you get rid
+
+323
+00:14:48,959 --> 00:14:51,359
+of the self that's now another problem
+
+324
+00:14:51,360 --> 00:14:55,278
+exactly so so then By getting into this
+
+325
+00:14:55,279 --> 00:14:57,599
+attitude of okay, just the object, just
+
+326
+00:14:57,600 --> 00:15:00,479
+the object, just the object and
+
+327
+00:15:00,480 --> 00:15:05,319
+completely disregarding even more the
+
+328
+00:15:05,320 --> 00:15:08,039
+whole like shadow
+
+329
+00:15:08,040 --> 00:15:10,638
+of why are you doing this in the first
+
+330
+00:15:10,639 --> 00:15:14,159
+place? Uh-huh. There are like as the
+
+331
+00:15:14,160 --> 00:15:15,679
+Buddha said actually there's there's one
+
+332
+00:15:15,680 --> 00:15:16,919
+whole suta
+
+333
+00:15:16,920 --> 00:15:19,679
+where this Brahman
+
+334
+00:15:19,680 --> 00:15:24,078
+um came to ask not the Buddha um ananda
+
+335
+00:15:24,079 --> 00:15:27,119
+like uh oh the blessed one he was a
+
+336
+00:15:27,120 --> 00:15:30,239
+meditator and he he praised all kinds of
+
+337
+00:15:30,240 --> 00:15:32,398
+meditation. That's right. Yeah. And then
+
+338
+00:15:32,399 --> 00:15:35,278
+uh and says no he he wasn't he didn't
+
+339
+00:15:35,279 --> 00:15:37,599
+praise all kind of meditation and he
+
+340
+00:15:37,600 --> 00:15:39,679
+said what's the kind of meditation that
+
+341
+00:15:39,680 --> 00:15:42,078
+he didn't praise he said it's when
+
+342
+00:15:42,079 --> 00:15:44,919
+someone harboring sensual desire
+
+343
+00:15:46,440 --> 00:15:49,838
+internally meditates overmeditates undermeditates
+
+344
+00:15:49,839 --> 00:15:50,999
+meditates overmeditates undermeditates
+mismeditates
+
+345
+00:15:51,000 --> 00:15:53,758
+mismeditates uh harboring ill will
+
+346
+00:15:53,759 --> 00:15:56,879
+internally harboring um laziness
+
+347
+00:15:56,880 --> 00:16:00,319
+internally so all the five hindrances
+
+348
+00:16:00,320 --> 00:16:02,799
+um And see that that description there
+
+349
+00:16:02,800 --> 00:16:05,439
+like premeditates, overmeditates,
+
+350
+00:16:07,560 --> 00:16:09,679
+undermeditates, mismeditates. The whole point there it's
+
+351
+00:16:09,680 --> 00:16:12,479
+mismeditates. The whole point there it's
+like any direction that he goes. It
+
+352
+00:16:12,480 --> 00:16:14,719
+doesn't matter where where it is. It
+
+353
+00:16:14,720 --> 00:16:16,119
+doesn't matter whether
+
+354
+00:16:16,120 --> 00:16:19,999
+it's watching your breath or
+
+355
+00:16:20,000 --> 00:16:23,439
+um doing body scanning or doing noting
+
+356
+00:16:23,440 --> 00:16:27,679
+or doing mantras or doing meta or doing
+
+357
+00:16:27,680 --> 00:16:30,719
+anything under the sun.
+
+358
+00:16:30,720 --> 00:16:33,119
+the the problem there is not that. The
+
+359
+00:16:33,120 --> 00:16:35,439
+problem is that he's harboring these
+
+360
+00:16:35,440 --> 00:16:37,518
+things internally.
+
+361
+00:16:37,519 --> 00:16:39,518
+So because he he's kind of overlooking
+
+362
+00:16:39,519 --> 00:16:42,398
+that entire dimension and then focusing
+
+363
+00:16:42,399 --> 00:16:45,439
+on what's in front of it. Kind of like
+
+364
+00:16:45,440 --> 00:16:47,278
+there's actually the same description
+
+365
+00:16:47,279 --> 00:16:49,758
+happens in that suta with with the
+
+366
+00:16:49,759 --> 00:16:52,078
+thoroughb bread like the the two horses
+
+367
+00:16:52,079 --> 00:16:53,758
+and it says like the first one just
+
+368
+00:16:53,759 --> 00:16:54,999
+looks at the
+
+369
+00:16:55,000 --> 00:16:59,838
+hay and uh yeah it just thinks hey like
+
+370
+00:16:59,839 --> 00:17:03,198
+like just completely um absorbed
+
+371
+00:17:03,199 --> 00:17:05,359
+actually literally like absorption. And
+
+372
+00:17:05,360 --> 00:17:09,198
+then the other one he actually wait no
+
+373
+00:17:09,199 --> 00:17:10,198
+what does
+
+374
+00:17:10,199 --> 00:17:13,038
+the horse trainer want me to do today?
+
+375
+00:17:13,039 --> 00:17:14,399
+Yeah we did all talk on that. Yeah
+
+376
+00:17:14,400 --> 00:17:18,399
+exactly. So that's that direction where
+
+377
+00:17:18,400 --> 00:17:23,159
+that's that direction that cannot be
+
+378
+00:17:23,160 --> 00:17:27,038
+um made static that dimension of that
+
+379
+00:17:27,039 --> 00:17:29,439
+horse asking himself what does the
+
+380
+00:17:29,440 --> 00:17:31,199
+trainer want me to do today? Obviously
+
+381
+00:17:31,200 --> 00:17:33,519
+in that example, yeah, you could just
+
+382
+00:17:33,520 --> 00:17:35,359
+ask yourself that question every time
+
+383
+00:17:35,360 --> 00:17:37,839
+and you'll be fine. But in this case,
+
+384
+00:17:37,840 --> 00:17:40,719
+the principle of essentially the
+
+385
+00:17:40,720 --> 00:17:42,279
+principle of
+
+386
+00:17:42,280 --> 00:17:45,479
+unisara is is something that
+
+387
+00:17:45,480 --> 00:17:48,719
+um will tend to kind of to put it
+
+388
+00:17:48,720 --> 00:17:50,879
+certain way like it's going to be like a
+
+389
+00:17:50,880 --> 00:17:53,439
+slippery fish most especially if you
+
+390
+00:17:53,440 --> 00:17:56,399
+haven't been um sufficiently restrained
+
+391
+00:17:56,400 --> 00:17:58,558
+and and keeping the precepts and stuff.
+
+392
+00:17:58,559 --> 00:18:00,959
+So you will get like a like a sense of
+
+393
+00:18:00,960 --> 00:18:03,199
+it like okay right now I am aware of my
+
+394
+00:18:04,200 --> 00:18:07,519
+intention properly but the next time you have the
+
+395
+00:18:07,520 --> 00:18:10,319
+properly but the next time you have the
+same information the same teaching the
+
+396
+00:18:10,320 --> 00:18:12,159
+same explanation and you try to do it
+
+397
+00:18:12,160 --> 00:18:15,599
+again but now clearly it's not working
+
+398
+00:18:15,600 --> 00:18:18,159
+and so you start to see then that
+
+399
+00:18:18,160 --> 00:18:20,999
+actually even that
+
+400
+00:18:21,000 --> 00:18:23,399
+description that you
+
+401
+00:18:23,400 --> 00:18:25,599
+get I mean that's part of the problem
+
+402
+00:18:25,600 --> 00:18:27,279
+with the method like you think that the
+
+403
+00:18:27,280 --> 00:18:29,279
+practice is in that description like you
+
+404
+00:18:29,280 --> 00:18:31,599
+said before you just every time you
+
+405
+00:18:31,600 --> 00:18:34,959
+apply it as long as it's faithful to the
+
+406
+00:18:34,960 --> 00:18:38,959
+description it's correct but if you go
+
+407
+00:18:38,960 --> 00:18:40,399
+this route you will start to realize
+
+408
+00:18:40,400 --> 00:18:43,519
+actually there's there isn't even uh a
+
+409
+00:18:43,520 --> 00:18:45,439
+guarantee that because I remember
+
+410
+00:18:45,440 --> 00:18:47,359
+exactly what the instruction was that I
+
+411
+00:18:47,360 --> 00:18:49,959
+will do it properly next time
+
+412
+00:18:49,960 --> 00:18:52,319
+because like I said it just slips away
+
+413
+00:18:52,320 --> 00:18:55,599
+from you like the the intention just uh
+
+414
+00:18:55,600 --> 00:18:57,038
+even though it's there because you're
+
+415
+00:18:57,039 --> 00:18:58,199
+not developed
+
+416
+00:18:58,200 --> 00:19:01,999
+sufficiently in authenticity in sense
+
+417
+00:19:02,000 --> 00:19:04,639
+restraint and you're used to acting out
+
+418
+00:19:04,640 --> 00:19:06,479
+of pressure
+
+419
+00:19:06,480 --> 00:19:09,399
+um as a as your default
+
+420
+00:19:09,400 --> 00:19:12,798
+then everything you do is kind of like
+
+421
+00:19:12,799 --> 00:19:15,399
+to continue with that momentum. Yeah. So
+
+422
+00:19:15,400 --> 00:19:18,798
+then as a result the possibility of
+
+423
+00:19:18,799 --> 00:19:21,359
+stopping the momentum of acting out
+
+424
+00:19:21,360 --> 00:19:23,439
+becomes more and more unpleasant. So in
+
+425
+00:19:23,440 --> 00:19:25,119
+other words, you could actually
+
+426
+00:19:25,120 --> 00:19:27,279
+recognize what your intention is at any
+
+427
+00:19:27,280 --> 00:19:30,319
+given time and give it up. But the fact
+
+428
+00:19:30,320 --> 00:19:33,038
+that you carry this momentum with your
+
+429
+00:19:33,039 --> 00:19:35,678
+ignorance and with your unrestrained
+
+430
+00:19:35,679 --> 00:19:38,159
+actions on top of it means that makes it
+
+431
+00:19:38,160 --> 00:19:39,918
+even harder harder pretty much to look
+
+432
+00:19:39,919 --> 00:19:42,239
+at that direction where the intention is
+
+433
+00:19:42,240 --> 00:19:43,678
+because it's going to be unpleasant. It
+
+434
+00:19:43,679 --> 00:19:45,759
+means like, "Oh, wait. I've been acting
+
+435
+00:19:45,760 --> 00:19:48,959
+out of of greed, aversion, delusion this
+
+436
+00:19:48,960 --> 00:19:52,759
+whole time." And uh this mind is it's
+
+437
+00:19:52,760 --> 00:19:55,119
+like like the dog, you've been letting
+
+438
+00:19:55,120 --> 00:19:58,159
+it go there in the same direction for a
+
+439
+00:19:58,160 --> 00:20:00,719
+very good amount of time and then now it
+
+440
+00:20:00,720 --> 00:20:01,999
+doesn't want to stop because it already
+
+441
+00:20:02,000 --> 00:20:04,079
+caught something. It can smell it from
+
+442
+00:20:04,080 --> 00:20:05,999
+who knows how many kilometers away and
+
+443
+00:20:06,000 --> 00:20:09,359
+now it's just running towards it. And uh
+
+444
+00:20:09,360 --> 00:20:12,759
+that's that's basically the
+
+445
+00:20:12,760 --> 00:20:15,918
+the that's what makes it even harder to
+
+446
+00:20:15,919 --> 00:20:19,439
+attend in that direction of of
+
+447
+00:20:19,440 --> 00:20:22,319
+um the opposite let's say of the the
+
+448
+00:20:22,320 --> 00:20:24,319
+counterpart or where your attention is
+
+449
+00:20:24,320 --> 00:20:26,239
+which is
+
+450
+00:20:26,240 --> 00:20:29,759
+you could in the most um acute sense
+
+451
+00:20:29,760 --> 00:20:31,678
+describe it as as the intention. It's
+
+452
+00:20:31,679 --> 00:20:33,999
+the sign of the mind that we discussed
+
+453
+00:20:34,000 --> 00:20:36,519
+before. Yes.
+
+454
+00:20:36,520 --> 00:20:40,599
+Um so so it's like it's like
+
+455
+00:20:40,600 --> 00:20:43,639
+the it's almost like the first
+
+456
+00:20:43,640 --> 00:20:47,759
+point from which you start like let's
+
+457
+00:20:47,760 --> 00:20:50,798
+say you you kept the precepts you you
+
+458
+00:20:50,799 --> 00:20:54,158
+took them on you have been restrained on
+
+459
+00:20:54,159 --> 00:20:55,319
+that external
+
+460
+00:20:55,320 --> 00:20:59,038
+level and then after that what do you do
+
+461
+00:20:59,039 --> 00:21:02,839
+from that first point what do you do
+
+462
+00:21:02,840 --> 00:21:05,599
+and the problem is like with with these
+
+463
+00:21:05,600 --> 00:21:06,839
+techniques and
+
+464
+00:21:06,840 --> 00:21:10,079
+methods you would assume like no no even
+
+465
+00:21:10,080 --> 00:21:12,239
+I mean you the person wouldn't be aware
+
+466
+00:21:12,240 --> 00:21:13,239
+of course
+
+467
+00:21:13,240 --> 00:21:16,879
+but that first point would be tainted
+
+468
+00:21:16,880 --> 00:21:19,359
+like you said with um various
+
+469
+00:21:19,360 --> 00:21:21,599
+defilements that they're not aware of
+
+470
+00:21:21,600 --> 00:21:23,839
+but then because this because the stuff
+
+471
+00:21:23,840 --> 00:21:26,519
+that comes afterwards like the
+
+472
+00:21:26,520 --> 00:21:30,558
+perceptions the insights the experiences
+
+473
+00:21:30,559 --> 00:21:31,959
+whatever it might
+
+474
+00:21:31,960 --> 00:21:36,319
+be seems to be right or whatever because
+
+475
+00:21:36,320 --> 00:21:38,399
+you think it's a result of your method.
+
+476
+00:21:38,400 --> 00:21:40,158
+So you automatically assume that it's
+
+477
+00:21:40,159 --> 00:21:42,399
+progress. Yeah. But the whole point is
+
+478
+00:21:42,400 --> 00:21:45,119
+like it doesn't matter how right that
+
+479
+00:21:45,120 --> 00:21:46,439
+that stuff
+
+480
+00:21:46,440 --> 00:21:49,119
+is the first point from which it comes
+
+481
+00:21:49,120 --> 00:21:50,798
+or you could say the foundation from
+
+482
+00:21:50,799 --> 00:21:53,519
+which it comes is that first intention
+
+483
+00:21:53,520 --> 00:21:55,279
+of whatever defilement you were acting
+
+484
+00:21:55,280 --> 00:21:56,558
+out of in the beginning. So it could
+
+485
+00:21:56,559 --> 00:21:59,639
+have been anticipation, craving,
+
+486
+00:21:59,640 --> 00:22:04,558
+um, whatever, aversion, curiosity even
+
+487
+00:22:04,559 --> 00:22:07,519
+like some people just genuinely just uh
+
+488
+00:22:07,520 --> 00:22:09,678
+just for a little while, see what
+
+489
+00:22:09,679 --> 00:22:12,239
+happens in the night or or Yeah.
+
+490
+00:22:12,240 --> 00:22:13,678
+curiosity because you want to have these
+
+491
+00:22:13,679 --> 00:22:16,879
+special experiences and and then um
+
+492
+00:22:16,880 --> 00:22:20,079
+nothing to do with like sense of urgency
+
+493
+00:22:20,080 --> 00:22:22,879
+and freedom from suffering and uh and
+
+494
+00:22:22,880 --> 00:22:26,239
+those intentions are behind the that
+
+495
+00:22:26,240 --> 00:22:28,399
+that whole thing that you're doing like
+
+496
+00:22:28,400 --> 00:22:31,918
+imagine you kind of um I don't know you
+
+497
+00:22:31,919 --> 00:22:36,158
+you decided to go somewhere and in that
+
+498
+00:22:36,159 --> 00:22:37,678
+period of time you're going to have to
+
+499
+00:22:37,679 --> 00:22:41,519
+pass through uh such and such a place.
+
+500
+00:22:41,520 --> 00:22:44,719
+Well, it's not that the intention to go
+
+501
+00:22:44,720 --> 00:22:47,759
+to that place was there only at that
+
+502
+00:22:47,760 --> 00:22:50,079
+first second when you decided, okay, let
+
+503
+00:22:50,080 --> 00:22:52,798
+me go there. No, that that entire
+
+504
+00:22:52,799 --> 00:22:54,719
+journey doesn't matter how many
+
+505
+00:22:54,720 --> 00:22:57,719
+kilometers you've walked, that
+
+506
+00:22:57,720 --> 00:23:00,719
+intention of you going to such and such
+
+507
+00:23:00,720 --> 00:23:03,119
+a place is with you there. So that
+
+508
+00:23:03,120 --> 00:23:06,959
+entire time if the intention wasn't
+
+509
+00:23:06,960 --> 00:23:09,279
+wholesome that entire time everything
+
+510
+00:23:09,280 --> 00:23:10,798
+you're doing is polluted by that
+
+511
+00:23:10,799 --> 00:23:12,639
+intention. Mhm. So that's why I meant
+
+512
+00:23:12,640 --> 00:23:15,719
+it's like the first point. Uh and
+
+513
+00:23:15,720 --> 00:23:20,158
+then um yeah you cannot magically like
+
+514
+00:23:20,159 --> 00:23:22,479
+fix that because that first point was
+
+515
+00:23:22,480 --> 00:23:25,678
+where the practice is. Yeah. So so so if
+
+516
+00:23:25,679 --> 00:23:28,798
+you go wrong there Yeah. The whole thing
+
+517
+00:23:28,799 --> 00:23:30,959
+is is so in a sense you have to stay
+
+518
+00:23:30,960 --> 00:23:33,199
+there and then go perpendicular
+
+519
+00:23:33,200 --> 00:23:35,519
+basically more inwards on that first
+
+520
+00:23:35,520 --> 00:23:38,399
+point rather than now assuming that
+
+521
+00:23:38,400 --> 00:23:39,759
+first point to be right and then start
+
+522
+00:23:39,760 --> 00:23:41,279
+building on top of it. Yeah. Yeah.
+
+523
+00:23:41,280 --> 00:23:43,199
+Basically you could you extend the
+
+524
+00:23:43,200 --> 00:23:46,879
+analogy. So, um, instead then you
+
+525
+00:23:46,880 --> 00:23:50,439
+realize, no, it's it's not about like
+
+526
+00:23:50,440 --> 00:23:54,639
+what where I'm going to walk even cuz
+
+527
+00:23:55,640 --> 00:23:59,038
+you cuz it's it's not like I said, you you
+
+528
+00:23:59,039 --> 00:24:00,399
+cuz it's it's not like I said, you you
+just choose a different direction to
+
+529
+00:24:00,400 --> 00:24:05,558
+walk in. Um, no, that's not
+
+530
+00:24:05,559 --> 00:24:08,798
+it's staying in at that point where you
+
+531
+00:24:08,799 --> 00:24:10,719
+remain aware of your intentions. That's
+
+532
+00:24:10,720 --> 00:24:13,199
+the place to walk. But see that that
+
+533
+00:24:13,200 --> 00:24:16,079
+walking is like it's not
+
+534
+00:24:16,080 --> 00:24:17,678
+that's not in any of these directions.
+
+535
+00:24:17,679 --> 00:24:19,999
+It's perpendicular like you said. Yeah.
+
+536
+00:24:20,000 --> 00:24:21,599
+So
+
+537
+00:24:21,600 --> 00:24:24,158
+the purpose precisely like the knowledge
+
+538
+00:24:24,159 --> 00:24:26,879
+that you're looking for is not the type
+
+539
+00:24:26,880 --> 00:24:29,439
+of knowledge that's dependent on time.
+
+540
+00:24:29,440 --> 00:24:31,839
+That's the point. like as as would say
+
+541
+00:24:31,840 --> 00:24:35,439
+like uh when the monks would um when
+
+542
+00:24:35,440 --> 00:24:37,119
+Mara or whomever would try to tempt
+
+543
+00:24:37,120 --> 00:24:40,798
+them, they would say like um uh why do
+
+544
+00:24:40,799 --> 00:24:43,839
+you go after what what takes time when
+
+545
+00:24:43,840 --> 00:24:45,918
+you can go after what's presently
+
+546
+00:24:45,919 --> 00:24:49,119
+visible which is supposedly sensuality.
+
+547
+00:24:49,120 --> 00:24:50,639
+Then they twist it around and say no
+
+548
+00:24:50,640 --> 00:24:52,479
+actually what's presently visible is is
+
+549
+00:24:52,480 --> 00:24:54,319
+the dharma and sensuality is what takes
+
+550
+00:24:54,320 --> 00:24:56,959
+time. M so this whole principle of like
+
+551
+00:24:56,960 --> 00:25:00,319
+I do this practice so as to get there in
+
+552
+00:25:00,320 --> 00:25:03,158
+other words later in time that whole
+
+553
+00:25:03,159 --> 00:25:07,359
+principle is in in its nature wrong it's
+
+554
+00:25:07,360 --> 00:25:11,278
+wrong even if what you get to seems to
+
+555
+00:25:11,279 --> 00:25:14,479
+be right it's exactly what society is
+
+556
+00:25:14,480 --> 00:25:17,119
+yeah you work for you work for this
+
+557
+00:25:17,120 --> 00:25:21,798
+achievement basically uh so of course
+
+558
+00:25:21,799 --> 00:25:24,399
+um like enlightenment is an achievement
+
+559
+00:25:24,400 --> 00:25:25,918
+like it is something you have to work
+
+560
+00:25:25,919 --> 00:25:27,678
+for. It's not that like oh there's
+
+561
+00:25:27,679 --> 00:25:31,359
+nothing to attain or something but as we
+
+562
+00:25:31,360 --> 00:25:34,558
+said it's it's not progress north,
+
+563
+00:25:34,559 --> 00:25:39,119
+south, east or west. It's it's up. So
+
+564
+00:25:39,120 --> 00:25:40,798
+it's in a completely different direction
+
+565
+00:25:40,799 --> 00:25:43,599
+than everywhere else that that you go in
+
+566
+00:25:43,600 --> 00:25:45,119
+a completely different plane. Yeah,
+
+567
+00:25:45,120 --> 00:25:46,639
+that's what I was going to say even
+
+568
+00:25:46,640 --> 00:25:49,199
+geometrically like up wouldn't suffice.
+
+569
+00:25:49,200 --> 00:25:50,959
+Exactly. Yeah. Yeah. There's a sut which
+
+570
+00:25:50,960 --> 00:25:52,719
+talk about this space walker who wants
+
+571
+00:25:52,720 --> 00:25:55,199
+to find the end of the universe. But
+
+572
+00:25:55,200 --> 00:25:56,639
+you're not going to find the end of the
+
+573
+00:25:56,640 --> 00:25:58,479
+universe that way by walking. Yeah.
+
+574
+00:25:58,480 --> 00:26:00,319
+Yeah. Well, yeah, you could even say
+
+575
+00:26:00,320 --> 00:26:04,639
+it's not even like um up or down either.
+
+576
+00:26:04,640 --> 00:26:06,959
+It's like a fourth dimension in a sense.
+
+577
+00:26:06,960 --> 00:26:09,519
+You could say that. But that's uh that
+
+578
+00:26:09,520 --> 00:26:11,439
+that might need some qualifications, but
+
+579
+00:26:11,440 --> 00:26:13,759
+based on what we've said so far, that
+
+580
+00:26:13,760 --> 00:26:16,639
+would indeed be correct. Mhm. Um so it's
+
+581
+00:26:16,640 --> 00:26:18,959
+a vantage point that puts basically your
+
+582
+00:26:18,960 --> 00:26:21,519
+whole experience in perspective which is
+
+583
+00:26:23,000 --> 00:26:25,599
+perpetually available and and but the moment you
+
+584
+00:26:25,600 --> 00:26:29,199
+available and and but the moment you
+stray from that by assuming that that
+
+585
+00:26:29,200 --> 00:26:31,278
+all of this is not good enough and you
+
+586
+00:26:31,279 --> 00:26:32,879
+should be somewhere else or it should be
+
+587
+00:26:32,880 --> 00:26:34,719
+different that's when you lose it. And
+
+588
+00:26:34,720 --> 00:26:36,839
+and that is the
+
+589
+00:26:36,840 --> 00:26:40,399
+the always another characteristic if
+
+590
+00:26:40,400 --> 00:26:42,079
+you're doing a technique, it's you're
+
+591
+00:26:42,080 --> 00:26:45,038
+doing it always with that implication of
+
+592
+00:26:45,039 --> 00:26:47,918
+like what I'm going to get from it.
+
+593
+00:26:47,919 --> 00:26:49,839
+always doing it with that implication of
+
+594
+00:26:49,840 --> 00:26:52,558
+like the emphasizing like the result
+
+595
+00:26:52,559 --> 00:26:54,479
+that's going to come because you don't
+
+596
+00:26:54,480 --> 00:26:59,199
+see like if you saw that the giving up
+
+597
+00:26:59,200 --> 00:27:01,278
+of craving and purification of the mind
+
+598
+00:27:01,279 --> 00:27:05,038
+lies right lies like in the present
+
+599
+00:27:05,039 --> 00:27:07,678
+uh why would you why would you do the
+
+600
+00:27:07,679 --> 00:27:09,119
+technique? It would make no sense. It's
+
+601
+00:27:09,120 --> 00:27:11,079
+like like
+
+602
+00:27:11,080 --> 00:27:14,479
+um if I'm already where I need to be,
+
+603
+00:27:14,480 --> 00:27:17,199
+why would I why would I just Yeah. up on
+
+604
+00:27:17,200 --> 00:27:18,959
+a car and then start driving somewhere.
+
+605
+00:27:18,960 --> 00:27:21,519
+Yeah. So if out of ignorance somebody
+
+606
+00:27:21,520 --> 00:27:25,199
+accepts a certain direction where the
+
+607
+00:27:25,200 --> 00:27:27,999
+method or techniques takes them and and
+
+608
+00:27:28,000 --> 00:27:29,359
+then based on that they become inspired
+
+609
+00:27:29,360 --> 00:27:31,439
+then start to practice. Now then either
+
+610
+00:27:31,440 --> 00:27:32,798
+most people don't have enough discipline
+
+611
+00:27:32,799 --> 00:27:34,719
+so they already halfway through cancers
+
+612
+00:27:34,720 --> 00:27:36,479
+and start doing something else. That's
+
+613
+00:27:36,480 --> 00:27:38,319
+what happens. But if somebody is a bit
+
+614
+00:27:38,320 --> 00:27:40,558
+more diligent they might stay on that
+
+615
+00:27:40,559 --> 00:27:44,079
+track. But even if they do then let's
+
+616
+00:27:44,080 --> 00:27:47,038
+say for the sake of hypothesis attain
+
+617
+00:27:47,039 --> 00:27:48,879
+that result that's from the beginning
+
+618
+00:27:48,880 --> 00:27:50,798
+they were after the only thing they
+
+619
+00:27:50,799 --> 00:27:52,639
+actually attain is their own ignorance
+
+620
+00:27:52,640 --> 00:27:54,158
+because their acceptance of that result
+
+621
+00:27:54,159 --> 00:27:55,519
+was fully tainted by their ignorance.
+
+622
+00:27:55,520 --> 00:27:57,199
+Well in other words they just keep going
+
+623
+00:27:57,200 --> 00:27:58,798
+around in circles. It's a it's a
+
+624
+00:27:58,799 --> 00:28:00,839
+actually that's a good good
+
+625
+00:28:00,840 --> 00:28:04,398
+um that image of this uh prohasa the one
+
+626
+00:28:04,399 --> 00:28:06,398
+who was running to the end of the world.
+
+627
+00:28:06,399 --> 00:28:08,999
+Yeah and never actually got there. No,
+
+628
+00:28:09,000 --> 00:28:11,439
+that's that's a good image for for
+
+629
+00:28:11,440 --> 00:28:13,519
+exactly what happens when like when
+
+630
+00:28:13,520 --> 00:28:15,359
+you're chasing this this knowledge that
+
+631
+00:28:15,360 --> 00:28:18,079
+comes from like later. It's always going
+
+632
+00:28:18,080 --> 00:28:19,678
+to you're always going to be able to get
+
+633
+00:28:19,679 --> 00:28:22,398
+more perceptions, more insights, more
+
+634
+00:28:22,399 --> 00:28:25,038
+in-depth, focus on it even more and get
+
+635
+00:28:25,039 --> 00:28:28,239
+even more detailed understanding of it.
+
+636
+00:28:28,240 --> 00:28:30,158
+And people can build a whole life around
+
+637
+00:28:30,159 --> 00:28:32,479
+that to the point that ironically they
+
+638
+00:28:32,480 --> 00:28:35,439
+sit still for 10 hours a day because
+
+639
+00:28:35,440 --> 00:28:36,959
+they have this attitude of wanting to
+
+640
+00:28:36,960 --> 00:28:39,398
+get something. So they're still running
+
+641
+00:28:39,399 --> 00:28:41,278
+mentally even though their whole
+
+642
+00:28:41,279 --> 00:28:43,599
+environment is fixed, quiet, forced
+
+643
+00:28:43,600 --> 00:28:45,999
+precepts, monk, sit on my cushion, they
+
+644
+00:28:46,000 --> 00:28:47,359
+don't understand that attitude, they
+
+645
+00:28:47,360 --> 00:28:50,398
+will be running. M and and it's it's
+
+646
+00:28:50,399 --> 00:28:53,599
+also it it does tend to to tie in with
+
+647
+00:28:53,600 --> 00:28:55,798
+the fact that
+
+648
+00:28:55,799 --> 00:28:58,678
+um yeah if you have
+
+649
+00:28:58,679 --> 00:29:02,359
+been unrestrained in your life
+
+650
+00:29:02,360 --> 00:29:05,678
+uh as people usually are then almost
+
+651
+00:29:05,679 --> 00:29:07,678
+anything will kind of take you in the
+
+652
+00:29:07,679 --> 00:29:09,839
+opposite direction. So almost anything
+
+653
+00:29:09,840 --> 00:29:13,519
+you do uh you just sit down and just the
+
+654
+00:29:13,520 --> 00:29:15,359
+fact that you're no longer engaging in
+
+655
+00:29:15,360 --> 00:29:17,119
+those things that you used to do that
+
+656
+00:29:17,120 --> 00:29:19,359
+were unh wholesome is going to make you
+
+657
+00:29:19,360 --> 00:29:21,999
+calmer is going to make you like feel
+
+658
+00:29:22,000 --> 00:29:25,999
+better whatever. Um but see if you don't
+
+659
+00:29:26,000 --> 00:29:27,759
+see that the principle and the reason
+
+660
+00:29:27,760 --> 00:29:31,119
+why it is making you feel better is
+
+661
+00:29:31,120 --> 00:29:33,199
+fundamentally because of the sickness
+
+662
+00:29:33,200 --> 00:29:36,558
+that you had or the the like you feel
+
+663
+00:29:36,559 --> 00:29:39,439
+better because you were you were under a
+
+664
+00:29:39,440 --> 00:29:41,918
+burden that you you yourself would were
+
+665
+00:29:41,919 --> 00:29:44,639
+creating like also mention exactly then
+
+666
+00:29:44,640 --> 00:29:46,959
+you you think oh it's the technique
+
+667
+00:29:46,960 --> 00:29:48,798
+that's helping you with this. That's now
+
+668
+00:29:48,799 --> 00:29:52,479
+the other thing like for most people
+
+669
+00:29:52,480 --> 00:29:54,398
+taking up a method or technique will be
+
+670
+00:29:54,399 --> 00:29:57,119
+motivated by living a very busy and busy
+
+671
+00:29:57,120 --> 00:29:59,119
+and somewhat chic life and just wanting
+
+672
+00:29:59,120 --> 00:30:01,879
+to feel a bit more calm which is
+
+673
+00:30:01,880 --> 00:30:04,719
+understandable. But then from the point
+
+674
+00:30:04,720 --> 00:30:06,959
+of view of the actual Buddhist teaching,
+
+675
+00:30:06,960 --> 00:30:09,278
+why did the Buddha never even teach any
+
+676
+00:30:09,279 --> 00:30:12,239
+meditation to lay people in the in the
+
+677
+00:30:12,240 --> 00:30:14,879
+way that people now conceive meditation?
+
+678
+00:30:14,880 --> 00:30:17,038
+Because at all really? Yeah. Or not at
+
+679
+00:30:17,039 --> 00:30:18,719
+all really. Yeah. Well, we could come to
+
+680
+00:30:18,720 --> 00:30:20,839
+that later now, but
+
+681
+00:30:20,840 --> 00:30:24,558
+um because suppose he would have been
+
+682
+00:30:24,559 --> 00:30:27,038
+teaching some method or technique with
+
+683
+00:30:27,039 --> 00:30:29,918
+the aim of calming people's busy lives,
+
+684
+00:30:29,919 --> 00:30:31,278
+then then you might say, well, that
+
+685
+00:30:31,279 --> 00:30:32,798
+would be compassionate. But actually,
+
+686
+00:30:32,799 --> 00:30:35,278
+it's not because it doesn't address the
+
+687
+00:30:35,279 --> 00:30:38,239
+root of the issue. Like if you keep if
+
+688
+00:30:38,240 --> 00:30:39,759
+if on the account of unh wholesome
+
+689
+00:30:39,760 --> 00:30:42,558
+actions you you keep steering up your
+
+690
+00:30:42,559 --> 00:30:44,719
+own mind, then you can learn a method or
+
+691
+00:30:44,720 --> 00:30:46,558
+technique to in the evening calm down
+
+692
+00:30:46,559 --> 00:30:48,398
+again. If then the next morning you keep
+
+693
+00:30:48,399 --> 00:30:50,719
+steering it up that doesn't go anywhere
+
+694
+00:30:50,720 --> 00:30:53,359
+and never address why so if somebody
+
+695
+00:30:53,360 --> 00:30:55,359
+then teaches a technique that doesn't
+
+696
+00:30:55,360 --> 00:30:58,158
+address the origin of the problem then
+
+697
+00:30:58,159 --> 00:31:01,038
+you would actively blind people from
+
+698
+00:31:01,039 --> 00:31:02,398
+seeing what now the origin of the
+
+699
+00:31:02,399 --> 00:31:03,918
+problem is precisely because they now
+
+700
+00:31:03,919 --> 00:31:05,999
+become fascinated with tech and staying
+
+701
+00:31:06,000 --> 00:31:07,918
+calm just giving them a painkiller so
+
+702
+00:31:07,919 --> 00:31:10,639
+that then don't feel the need to fix the
+
+703
+00:31:10,640 --> 00:31:12,158
+yeah and then then you die from a
+
+704
+00:31:12,159 --> 00:31:13,839
+terminal illness so it would be better
+
+705
+00:31:13,840 --> 00:31:16,398
+to not do that to directly diagnose the
+
+706
+00:31:16,399 --> 00:31:18,319
+symptoms and then say well if you want
+
+707
+00:31:18,320 --> 00:31:20,719
+to have always a calm mind which doesn't
+
+708
+00:31:20,720 --> 00:31:22,599
+need any maintenance on your
+
+709
+00:31:22,600 --> 00:31:25,199
+part don't act in such a way that keeps
+
+710
+00:31:25,200 --> 00:31:26,639
+steering up your own mind because you
+
+711
+00:31:26,640 --> 00:31:28,398
+just shoot your own food that's the
+
+712
+00:31:28,399 --> 00:31:30,558
+reason why there's always this emphasis
+
+713
+00:31:30,559 --> 00:31:33,278
+on virtue and on sense restraint and
+
+714
+00:31:33,279 --> 00:31:35,759
+seclusion that is not because the Buddha
+
+715
+00:31:35,760 --> 00:31:37,278
+hadn't yet discovered some sort of
+
+716
+00:31:37,279 --> 00:31:39,038
+meditation method and technique because
+
+717
+00:31:39,039 --> 00:31:41,759
+if you emphasize that side or even if
+
+718
+00:31:41,760 --> 00:31:43,518
+you say anything along those lines
+
+719
+00:31:43,519 --> 00:31:47,038
+without actually um revealing the origin
+
+720
+00:31:47,039 --> 00:31:48,959
+of the problem, then you would be
+
+721
+00:31:48,960 --> 00:31:50,719
+leading people astray. And that is
+
+722
+00:31:50,720 --> 00:31:53,918
+ironically what I think we see basically
+
+723
+00:31:53,919 --> 00:31:56,239
+everywhere these days. Yeah. Yeah. It's
+
+724
+00:31:56,240 --> 00:31:58,959
+it's more entertaining for sure. It's
+
+725
+00:31:58,960 --> 00:32:00,479
+more entertaining to just dance around
+
+726
+00:32:00,480 --> 00:32:04,319
+the problem in infinite array of ways
+
+727
+00:32:04,320 --> 00:32:05,918
+than to actually look at it in the face
+
+728
+00:32:05,919 --> 00:32:08,398
+and see, oh, this is this is what it is.
+
+729
+00:32:08,399 --> 00:32:12,719
+And um and I mean factually in the same
+
+730
+00:32:12,720 --> 00:32:14,639
+way that yes it could could calm you
+
+731
+00:32:16,240 --> 00:32:18,398
+down uh depending on the technique I guess
+
+732
+00:32:18,399 --> 00:32:21,678
+uh depending on the technique I guess
+but it could show you some like you
+
+733
+00:32:21,679 --> 00:32:24,918
+could circumstantially have
+
+734
+00:32:24,919 --> 00:32:29,359
+um due to no longer being as distracted
+
+735
+00:32:29,360 --> 00:32:32,079
+by you know worldly things and and
+
+736
+00:32:32,080 --> 00:32:34,879
+breaking precepts and stuff. It may give
+
+737
+00:32:34,880 --> 00:32:39,599
+you a better a closer recognition of
+
+738
+00:32:39,600 --> 00:32:41,398
+let's say your
+
+739
+00:32:41,399 --> 00:32:44,639
+intentions for a bit but because you
+
+740
+00:32:44,640 --> 00:32:46,359
+emphasize the technique
+
+741
+00:32:46,360 --> 00:32:49,599
+part you don't stay on that point where
+
+742
+00:32:49,600 --> 00:32:51,439
+you could have like actually developed
+
+743
+00:32:51,440 --> 00:32:54,079
+that awareness of the stuff that matters
+
+744
+00:32:54,080 --> 00:32:56,079
+you think it's the technique then you
+
+745
+00:32:56,080 --> 00:32:58,239
+you again like I said before you keep
+
+746
+00:32:58,240 --> 00:33:01,199
+the emphasis in the wrong place so so it
+
+747
+00:33:01,200 --> 00:33:03,839
+actually takes you now away from from
+
+748
+00:33:03,840 --> 00:33:06,319
+that middle ground where you could have
+
+749
+00:33:07,320 --> 00:33:11,119
+like just p pulled back from the engagement
+
+750
+00:33:11,120 --> 00:33:13,199
+just p pulled back from the engagement
+with the world but without then falling
+
+751
+00:33:13,200 --> 00:33:15,678
+into another internal kind of activity
+
+752
+00:33:15,679 --> 00:33:17,359
+that Yeah. that you need to keep going.
+
+753
+00:33:17,360 --> 00:33:22,479
+Exactly. Yeah. So, so yeah like pulling
+
+754
+00:33:22,480 --> 00:33:24,959
+back from stuff. So in in in that sense
+
+755
+00:33:24,960 --> 00:33:26,158
+it wouldn't even be the technique
+
+756
+00:33:26,159 --> 00:33:27,839
+itself. It just it would just be the
+
+757
+00:33:27,840 --> 00:33:30,319
+fact that it would force you to kind of
+
+758
+00:33:30,320 --> 00:33:33,839
+like withdraw to to stop engaging with
+
+759
+00:33:33,840 --> 00:33:36,639
+things in the world and that in itself
+
+760
+00:33:36,640 --> 00:33:38,158
+could be the basis for the right
+
+761
+00:33:38,159 --> 00:33:40,319
+practice but you need to keep it there
+
+762
+00:33:40,320 --> 00:33:43,278
+and not then run in start running in a
+
+763
+00:33:43,279 --> 00:33:47,640
+different direction. Yeah.

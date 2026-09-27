@@ -1,0 +1,2692 @@
+1
+00:00:07,293 --> 00:00:10,155
+[SPEAKER_01]: So, I want to talk about the...
+
+2
+00:00:10,175 --> 00:00:17,740
+[SPEAKER_01]: So, I want to talk about the Seleka Sutta, Majjhima Nikaya 8.
+
+3
+00:00:22,024 --> 00:00:29,269
+[SPEAKER_01]: And this was sort of... it's still in line with the whole practice of non-conflict that we've been discussing lately.
+
+4
+00:00:30,950 --> 00:00:31,931
+[SPEAKER_01]: The practice, really.
+
+5
+00:00:32,131 --> 00:00:33,672
+[SPEAKER_01]: The practice of nibbāna.
+
+6
+00:00:35,404 --> 00:00:37,585
+[SPEAKER_01]: The ultimate non-conflict.
+
+7
+00:00:40,607 --> 00:00:40,807
+[SPEAKER_01]: And...
+
+8
+00:00:45,830 --> 00:00:53,535
+[SPEAKER_01]: So, it's called sālekha and translated as... usually translated as effacement.
+
+9
+00:00:55,333 --> 00:01:02,346
+[SPEAKER_01]: That it's kind of a... which means like a wearing away of passions, the wearing away of evil things.
+
+10
+00:01:02,726 --> 00:01:03,388
+[SPEAKER_00]: The unwholesome.
+
+11
+00:01:03,548 --> 00:01:05,091
+[SPEAKER_01]: The unwholesome.
+
+12
+00:01:05,131 --> 00:01:05,732
+[SPEAKER_01]: To get those away.
+
+13
+00:01:06,353 --> 00:01:06,553
+[SPEAKER_01]: And...
+
+14
+00:01:09,842 --> 00:01:15,528
+[SPEAKER_01]: It's translated in the Pali dictionary as, eh... austere penance.
+
+15
+00:01:16,349 --> 00:01:16,549
+[SPEAKER_00]: Hmm.
+
+16
+00:01:17,430 --> 00:01:28,522
+[SPEAKER_00]: I think, usually, it's connected with that view of, eh... self-mortification, whereby you purify yourself, you purify the unwholesome states of your mind by enduring certain physical hardships.
+
+17
+00:01:29,613 --> 00:01:38,196
+[SPEAKER_00]: So, by going through certain ascetic practices, you get to erase the lust from your mind and so on.
+
+18
+00:01:38,216 --> 00:01:39,756
+[SPEAKER_00]: That's the common view, common practice.
+
+19
+00:01:40,036 --> 00:01:40,296
+[SPEAKER_01]: Yes.
+
+20
+00:01:41,957 --> 00:01:45,958
+[SPEAKER_01]: And so, yeah, so the Jains, for example, they're one of the...
+
+21
+00:01:46,920 --> 00:01:52,183
+[SPEAKER_01]: One of the practices is called salekhāna, which is the fasting to death.
+
+22
+00:01:52,603 --> 00:01:53,064
+[SPEAKER_01]: Starving.
+
+23
+00:01:53,304 --> 00:01:53,984
+[SPEAKER_01]: Starving yourself.
+
+24
+00:01:54,464 --> 00:01:59,067
+[SPEAKER_01]: And by gradually starving yourself, you gradually... You starve, lust, aversion, delusion.
+
+25
+00:01:59,087 --> 00:02:00,168
+[SPEAKER_00]: That's the idea behind it.
+
+26
+00:02:00,208 --> 00:02:01,528
+[SPEAKER_01]: And then you end up in nibbāna.
+
+27
+00:02:01,628 --> 00:02:02,509
+[SPEAKER_00]: In nibbāna, yeah.
+
+28
+00:02:03,463 --> 00:02:14,553
+[SPEAKER_01]: And so is that whole, again, that whole idea of, I'll practice this thing, I'll do this thing, and it's going to result in purification of me.
+
+29
+00:02:15,453 --> 00:02:22,459
+[SPEAKER_01]: So, I will, for example, be nice to others, and it's going to get rid of my ill will.
+
+30
+00:02:22,780 --> 00:02:26,623
+[SPEAKER_00]: Yeah, it's going to result in freedom from aversion.
+
+31
+00:02:26,643 --> 00:02:26,923
+[SPEAKER_00]: Yeah.
+
+32
+00:02:28,585 --> 00:02:28,805
+[SPEAKER_00]: So,
+
+33
+00:02:30,667 --> 00:02:37,671
+[SPEAKER_01]: Although, kindness and compassionate acts are impressive, austere practices are impressive.
+
+34
+00:02:38,732 --> 00:02:38,932
+[SPEAKER_01]: Yeah.
+
+35
+00:02:38,952 --> 00:02:42,074
+[SPEAKER_00]: What we're interested in... A degree of those is even necessary.
+
+36
+00:02:42,354 --> 00:02:42,554
+[SPEAKER_00]: Yeah.
+
+37
+00:02:43,074 --> 00:02:47,697
+[SPEAKER_00]: It's like the sense restraint in virtue often goes hand in hand with austere practices.
+
+38
+00:02:48,517 --> 00:02:53,360
+[SPEAKER_00]: And it's necessary as a basis, but it's not that which purifies you.
+
+39
+00:02:53,760 --> 00:02:56,782
+[SPEAKER_00]: It's that which enables you to understand what real purification is.
+
+40
+00:02:59,118 --> 00:03:01,860
+[SPEAKER_01]: So, this Salekha is from the Buddha's...
+
+41
+00:03:02,081 --> 00:03:09,968
+[SPEAKER_01]: He's explaining it, what Salekha is, from his point of view, so to speak.
+
+42
+00:03:13,911 --> 00:03:20,077
+[SPEAKER_01]: And I won't read it word for word, just a few sections.
+
+43
+00:03:21,118 --> 00:03:24,401
+[SPEAKER_01]: So, the monk Mahācunda asks the Buddha,
+
+44
+00:03:25,085 --> 00:03:33,969
+[SPEAKER_01]: Venerable Sir, various various views arise in the world, associated either with self or in regard to the world.
+
+45
+00:03:34,749 --> 00:03:46,995
+[SPEAKER_01]: Now, does the abandoning and relinquishing of those views come about in a bhikkhu who is attending only to the beginning of his meditation training?
+
+46
+00:03:47,015 --> 00:03:51,997
+[SPEAKER_01]: So, anyway, the Buddha replies, as to those various views about self and world,
+
+47
+00:03:53,725 --> 00:04:14,440
+[SPEAKER_01]: If the object in relation to which those views arise, which they underlie, and which they are exercised upon, is seen as it actually is, with proper wisdom, this is not mine, this I am not, this is not myself, then the abandoning and relinquishing of those views comes about.
+
+48
+00:04:16,841 --> 00:04:17,942
+[SPEAKER_01]: Does that make sense?
+
+49
+00:04:18,462 --> 00:04:18,682
+[SPEAKER_00]: Yeah.
+
+50
+00:04:19,983 --> 00:04:22,025
+[SPEAKER_00]: So, you will abandon your views,
+
+51
+00:04:24,220 --> 00:04:27,002
+[SPEAKER_00]: If you understand what they depend on.
+
+52
+00:04:29,444 --> 00:04:35,509
+[SPEAKER_00]: Not if you psychologize your way out of them, or if you meditate, if you concentrate your way out of them.
+
+53
+00:04:36,610 --> 00:04:42,154
+[SPEAKER_00]: It's while those views are there, see, the object of those views, it's underlined by the views.
+
+54
+00:04:44,375 --> 00:04:47,638
+[SPEAKER_00]: Which means that the underlying cause of your views
+
+55
+00:04:48,839 --> 00:04:53,102
+[SPEAKER_00]: In regard to this or that, is there simultaneously present with this or that?
+
+56
+00:04:53,862 --> 00:04:57,024
+[SPEAKER_00]: Otherwise, it would not be gripped by such and such view.
+
+57
+00:04:57,965 --> 00:05:05,930
+[SPEAKER_00]: So, you cannot overcome that view simply by using that view to kind of work your way out of whatever you have a view about.
+
+58
+00:05:06,630 --> 00:05:10,172
+[SPEAKER_00]: So, practically speaking, sensuality is a view, for example.
+
+59
+00:05:11,013 --> 00:05:13,054
+[SPEAKER_00]: Sensuality is a view that whereby
+
+60
+00:05:15,802 --> 00:05:23,665
+[SPEAKER_00]: Perversion is established of that which is fundamentally, naturally, inherently repulsive, you deem as attractive.
+
+61
+00:05:24,746 --> 00:05:25,786
+[SPEAKER_00]: It's because of a view.
+
+62
+00:05:26,827 --> 00:05:31,288
+[SPEAKER_00]: So, that view is in regard to attraction, in regard to the object of the senses.
+
+63
+00:05:32,669 --> 00:05:37,631
+[SPEAKER_00]: So, you can now say no to all of the object of the senses for the rest of your life.
+
+64
+00:05:37,651 --> 00:05:39,772
+[SPEAKER_00]: That view will still remain unaffected.
+
+65
+00:05:41,517 --> 00:05:50,324
+[SPEAKER_00]: Because in order to undo the view in regard to attractive and see this inherently non-attractive, you need to understand what that view is.
+
+66
+00:05:50,364 --> 00:05:58,711
+[SPEAKER_00]: You can't just say no to the object of that view, which is sense object, nor can you just say yes to the object of that view, which is your senses.
+
+67
+00:05:59,651 --> 00:06:07,658
+[SPEAKER_00]: But if you understand the necessary basis for the object of your view, that you want, that you desire towards, you will abandon the view.
+
+68
+00:06:08,843 --> 00:06:14,127
+[SPEAKER_00]: And in this case, the necessary basis for anything attractive is non-attractive.
+
+69
+00:06:14,967 --> 00:06:16,128
+[SPEAKER_00]: That's the necessary basis.
+
+70
+00:06:16,308 --> 00:06:20,191
+[SPEAKER_00]: Repulsive is the necessary basis for any form of sensual desire.
+
+71
+00:06:21,652 --> 00:06:33,921
+[SPEAKER_00]: Can you have a sensual desire towards somebody else without body of you, body of that person being a necessary basis for any manifestation of that desire?
+
+72
+00:06:34,502 --> 00:06:35,062
+[SPEAKER_00]: Impossible.
+
+73
+00:06:37,804 --> 00:06:49,249
+[SPEAKER_00]: So, if there is no sense desire that can arise apart from the body, the body is its necessary, presently enduring, simultaneously enduring basis for that desire, for that object of your view, that this is attractive.
+
+74
+00:06:51,970 --> 00:07:09,279
+[SPEAKER_00]: So then, if you understand that your view that this is attractive is fully within the non-attractive, what you deem non-attractive, what you deem repulsive, but not before or after, but as a container of anything attractive and anything that you have desire towards, you will abandon any desire towards attractive.
+
+75
+00:07:09,719 --> 00:07:15,722
+[SPEAKER_00]: Because you could see it basically it's within the nature of non-attractive which is repulsive, dangerous and so on.
+
+76
+00:07:19,918 --> 00:07:27,620
+[SPEAKER_00]: But you will not erase that view, you will not efface it, simply by adhering to, I will always look only at the ugly.
+
+77
+00:07:28,760 --> 00:07:34,762
+[SPEAKER_00]: For the rest of my life, I will not look at the object of beauty of any kind, sound, smell, taste, touch.
+
+78
+00:07:35,482 --> 00:07:49,085
+[SPEAKER_00]: I will only endure pain, witness pain, and look at the pain, in hope that I will erase my, basically, view of desire towards what I deem attractive.
+
+79
+00:07:50,983 --> 00:07:53,384
+[SPEAKER_00]: And that's why you will never erase that desire.
+
+80
+00:07:53,764 --> 00:07:56,184
+[SPEAKER_00]: Because it's not rooted in the object of it.
+
+81
+00:07:56,204 --> 00:07:58,465
+[SPEAKER_00]: That now you are either saying yes to or no to.
+
+82
+00:07:59,225 --> 00:08:00,885
+[SPEAKER_00]: But it's rooted in understanding of that desire.
+
+83
+00:08:00,905 --> 00:08:08,947
+[SPEAKER_00]: So, if you want to erase the desire, you have to understand, basically, the presently enduring necessary condition for your view of attraction.
+
+84
+00:08:09,667 --> 00:08:13,968
+[SPEAKER_00]: The presently enduring necessary condition for your view of repulsion and hatred.
+
+85
+00:08:16,578 --> 00:08:20,461
+[SPEAKER_00]: Because if you do, that's how you abandon it, without actually having to deal with the objects.
+
+86
+00:08:21,262 --> 00:08:22,083
+[SPEAKER_00]: And that's what Buddha said.
+
+87
+00:08:22,443 --> 00:08:25,566
+[SPEAKER_00]: Even for Tathāgata, he sees beautiful and agreeable things in the world.
+
+88
+00:08:26,206 --> 00:08:32,852
+[SPEAKER_00]: But what Tathāgata doesn't have is desire and lust in regard to them, because he has abandoned the view that those things are beautiful in that desirable sense.
+
+89
+00:08:39,126 --> 00:08:54,134
+[SPEAKER_00]: So, the only effacement, the only starvation of greed, aversion, delusion that can happen, cannot occur through method, cannot occur through observance, cannot occur through any form of mechanical practice, meditation technique.
+
+90
+00:08:54,354 --> 00:08:57,995
+[SPEAKER_00]: It can only occur through understanding greed, aversion, delusion.
+
+91
+00:08:58,015 --> 00:09:00,897
+[SPEAKER_00]: That's what it erases then, once and for all.
+
+92
+00:09:15,329 --> 00:09:22,712
+[SPEAKER_01]: The next section of that sutta goes into the the eight attainments, so the jhānas and the higher states of mind.
+
+93
+00:09:24,072 --> 00:09:31,175
+[SPEAKER_01]: And the Buddha says that one who's practicing jhāna, all these other states,
+
+94
+00:09:32,842 --> 00:09:36,846
+[SPEAKER_01]: He might think, I am abiding in that sālekha.
+
+95
+00:09:37,407 --> 00:09:39,269
+[SPEAKER_00]: In the starvation of the unwholesome.
+
+96
+00:09:39,449 --> 00:09:40,070
+[SPEAKER_01]: Erasing of...
+
+97
+00:09:40,650 --> 00:09:41,551
+[SPEAKER_01]: I'm abiding in that.
+
+98
+00:09:42,212 --> 00:09:49,259
+[SPEAKER_01]: But it is not these attainments, that jhāna, that is called that erasing, that sālekha.
+
+99
+00:09:50,481 --> 00:09:53,524
+[SPEAKER_00]: Because jhāna does not necessarily mean understanding.
+
+100
+00:09:55,705 --> 00:09:59,572
+[SPEAKER_00]: You might have understood things to the extent necessary for you to withdraw yourself from it.
+
+101
+00:09:59,873 --> 00:10:08,469
+[SPEAKER_00]: Understood the extent of sensuality, understood the extent of any concern of emotional involvement with the world.
+
+102
+00:10:09,545 --> 00:10:17,448
+[SPEAKER_00]: But jhāna will not provide you with a fundamental understanding of that sense of self and ownership, which is the root of all.
+
+103
+00:10:17,468 --> 00:10:20,010
+[SPEAKER_00]: It's root of sensuality, root of anger, root of everything.
+
+104
+00:10:20,850 --> 00:10:27,393
+[SPEAKER_00]: And without that effort to understand and without that understanding of the Buddha's teaching, even jhāna cannot provide you with that.
+
+105
+00:10:28,685 --> 00:10:42,764
+[SPEAKER_00]: Sure, if somebody, without any Buddhist help or instruction, develops jhāna, overcomes sensuality, overcomes everything, he'll have much greater chances of then practicing correct salekha by developing the right view.
+
+106
+00:10:45,124 --> 00:10:49,826
+[SPEAKER_00]: But, it's not... the right view, it's not the automatic result of the jhāna.
+
+107
+00:10:50,246 --> 00:10:58,470
+[SPEAKER_00]: So, that's why we said, the one who thinks, oh, I'm in the jhāna, and that's why I'm uprooting all of it, all greed, all aversion, all delusion, he's not correct.
+
+108
+00:10:59,050 --> 00:11:00,631
+[SPEAKER_00]: Because jhānas will not uproot all of it.
+
+109
+00:11:00,951 --> 00:11:03,632
+[SPEAKER_00]: Yeah, it's just... that's just called a pleasant abiding.
+
+110
+00:11:03,872 --> 00:11:11,415
+[SPEAKER_00]: Yeah, noble ones just... Secluded from unwholesome states, secluded from worries, secluded from any hindrance, it's very a pleasant, peaceful abiding.
+
+111
+00:11:11,855 --> 00:11:13,216
+[SPEAKER_00]: And, I mean, on...
+
+112
+00:11:14,792 --> 00:11:19,193
+[SPEAKER_00]: Numerous occasions the Buddha just said that's the abiding you everybody should strive for.
+
+113
+00:11:20,013 --> 00:11:30,956
+[SPEAKER_00]: But, again, in itself, it will not really result in that fundamental starvation of avijja, starvation of ignorance, that it cannot occur again afterwards.
+
+114
+00:11:35,118 --> 00:11:41,619
+[SPEAKER_01]: So, what is then salekha, according to the Buddha?
+
+115
+00:11:41,879 --> 00:11:43,600
+[SPEAKER_01]: This is how it should be practiced by you.
+
+116
+00:11:45,112 --> 00:11:54,435
+[SPEAKER_01]: So, what is it then?
+
+117
+00:11:55,056 --> 00:11:55,856
+[SPEAKER_00]: How do you starve?
+
+118
+00:11:57,016 --> 00:11:58,597
+[SPEAKER_00]: What is the necessary basis for cruelty?
+
+119
+00:12:03,159 --> 00:12:04,439
+[SPEAKER_00]: Can you have cruelty without your will?
+
+120
+00:12:05,736 --> 00:12:10,639
+[SPEAKER_00]: So, the necessary basis for the view of cruelty is the ill-will.
+
+121
+00:12:11,480 --> 00:12:16,023
+[SPEAKER_00]: The object of your cruelty, the necessary basis for it, is ill-will.
+
+122
+00:12:16,803 --> 00:12:30,112
+[SPEAKER_00]: Unquestioned, ignored, unaware of ill-will, you then entertain the view towards the objects of cruelty, the view of cruelty, the view of harm, and so on.
+
+123
+00:12:31,292 --> 00:12:32,313
+[SPEAKER_00]: So, how do you abandon it?
+
+124
+00:12:35,312 --> 00:12:37,933
+[SPEAKER_00]: You abandon it by removing the necessary basis for it.
+
+125
+00:12:41,855 --> 00:12:44,816
+[SPEAKER_00]: And where is then the ill-will, which is the necessary basis for cruelty?
+
+126
+00:12:45,696 --> 00:12:46,717
+[SPEAKER_00]: Where do you find ill-will?
+
+127
+00:12:47,757 --> 00:12:54,520
+[SPEAKER_00]: Is it just mysteriously floating somewhere in space and time in your mind and then occasionally pops up?
+
+128
+00:12:58,562 --> 00:13:00,443
+[SPEAKER_00]: Or is it perhaps always
+
+129
+00:13:01,718 --> 00:13:08,323
+[SPEAKER_00]: You are inseparable from and manifest through your choices and your actions.
+
+130
+00:13:08,423 --> 00:13:11,346
+[SPEAKER_00]: Can you have ill will without the intention of ill will?
+
+131
+00:13:13,448 --> 00:13:25,597
+[SPEAKER_00]: Can you commit a bodily act of ill will, if you haven't chose to act out of ill will, towards ill will, for the purpose of ill will?
+
+132
+00:13:26,758 --> 00:13:28,860
+[SPEAKER_00]: So, ill will is where your action is.
+
+133
+00:13:29,421 --> 00:13:30,982
+[SPEAKER_00]: Action by body, by speech, by mind.
+
+134
+00:13:34,101 --> 00:13:35,462
+[SPEAKER_00]: So, that's where you should stop.
+
+135
+00:13:36,483 --> 00:13:37,884
+[SPEAKER_00]: So, you're not, you're not doing anything?
+
+136
+00:13:38,464 --> 00:13:43,647
+[SPEAKER_00]: You're not starving things randomly on account of a random observance, because some teacher told you to.
+
+137
+00:13:44,268 --> 00:13:53,574
+[SPEAKER_00]: You know, like, they like to do these determination practices and, oh, it's, you know, for these three months, I will not eat with a spoon or something.
+
+138
+00:13:54,155 --> 00:13:55,636
+[SPEAKER_00]: And you see no relation to anything.
+
+139
+00:13:55,676 --> 00:14:00,379
+[SPEAKER_00]: You just assumed a random observance, that now you will adhere to with your life.
+
+140
+00:14:04,142 --> 00:14:06,348
+[SPEAKER_00]: But see, you completely misplaced your practice.
+
+141
+00:14:07,070 --> 00:14:10,799
+[SPEAKER_00]: Your determination, your observance is based on this, literally, this observable...
+
+142
+00:14:12,096 --> 00:14:21,560
+[SPEAKER_00]: I will not use a spoon, or I will not eat sugar, or I will not do this, for no other reason that you can see that pertains to your understanding, or like removing greed, aversion, delusion.
+
+143
+00:14:22,180 --> 00:14:35,385
+[SPEAKER_00]: Just through out of faith, out of blind kind of adherence to a method, or like a very common observance would be, I will sit, you know, in meditation posture for five hours every day, and just endure that pain, and
+
+144
+00:14:36,332 --> 00:14:36,672
+[SPEAKER_00]: Okay.
+
+145
+00:14:37,593 --> 00:14:44,719
+[SPEAKER_00]: How does that relate to you really understanding the necessary basis for your greed, the necessary basis for your lust, the necessary basis for your distraction?
+
+146
+00:14:45,379 --> 00:14:46,300
+[SPEAKER_00]: Oh, you have no idea.
+
+147
+00:14:46,480 --> 00:14:53,926
+[SPEAKER_00]: So, you're just literally adhering to this observance with wishful thinking that will somehow erase things that need to be erased.
+
+148
+00:14:53,966 --> 00:14:56,107
+[SPEAKER_00]: And that's no different than self-mortification.
+
+149
+00:14:56,988 --> 00:15:01,692
+[SPEAKER_00]: Even if you don't go to the point of I refuse to breathe and starve myself to death, like giants would sometimes do.
+
+150
+00:15:03,193 --> 00:15:05,875
+[SPEAKER_00]: It's equally ignorant as giving in to sensuality.
+
+151
+00:15:10,511 --> 00:15:20,476
+[SPEAKER_00]: So, you cannot arrive at the correct practice of erasing ill-will, the necessary basis for cruelty, by mechanically adhering to a set of prescribed motions and methods and steps.
+
+152
+00:15:21,457 --> 00:15:21,637
+[SPEAKER_00]: Why?
+
+153
+00:15:21,697 --> 00:15:24,078
+[SPEAKER_00]: Because that's not where ill-will is.
+
+154
+00:15:24,659 --> 00:15:31,042
+[SPEAKER_00]: Ill-will is in your motivation towards those motions and steps and acts you do by body, speech or mind.
+
+155
+00:15:31,682 --> 00:15:36,005
+[SPEAKER_00]: And that's something you cannot have a prescribed template that will always point at.
+
+156
+00:15:36,870 --> 00:15:42,735
+[SPEAKER_00]: That's something you always have to find yourself in and then see whether it's rooted in ill-will or non-ill-will.
+
+157
+00:15:44,216 --> 00:15:55,086
+[SPEAKER_00]: So, if you want to erase cruelty and anything unwholesome, you must not lose the sight of your motivation behind your own action by body, by speech and by mind, by thought.
+
+158
+00:15:55,787 --> 00:15:57,228
+[SPEAKER_00]: Like, why am I thinking about this?
+
+159
+00:15:58,929 --> 00:16:01,952
+[SPEAKER_00]: Is it because this doubt is so unpleasant I want to get rid of it?
+
+160
+00:16:04,258 --> 00:16:10,001
+[SPEAKER_00]: So, basically, you have resistance and aversion towards the discomfort of not knowing enough of something.
+
+161
+00:16:11,041 --> 00:16:13,782
+[SPEAKER_00]: So, that's rooted in ill-will.
+
+162
+00:16:13,822 --> 00:16:17,384
+[SPEAKER_00]: So, you're entertaining your ill-will by trying to get rid of doubt in such sense.
+
+163
+00:16:20,906 --> 00:16:23,907
+[SPEAKER_00]: Or same, like more obviously, sensuality.
+
+164
+00:16:24,663 --> 00:16:29,289
+[SPEAKER_00]: Sensual thoughts might present themselves as a possibility, but you need to say yes to it.
+
+165
+00:16:29,349 --> 00:16:33,113
+[SPEAKER_00]: As the Buddha said, you need to welcome it, entertain it, and accept it.
+
+166
+00:16:33,153 --> 00:16:35,075
+[SPEAKER_00]: That's when those things are a problem.
+
+167
+00:16:35,616 --> 00:16:41,103
+[SPEAKER_00]: And all those welcoming, entertaining, accepting are choices you make towards it, and then repeat them, and repeat them, and repeat them.
+
+168
+00:16:44,066 --> 00:16:44,446
+[SPEAKER_00]: So, yes,
+
+169
+00:16:45,594 --> 00:16:50,758
+[SPEAKER_00]: Ill-will, lust, delusion, distraction, whichever way we translate it, needs to be erased.
+
+170
+00:16:51,458 --> 00:16:53,700
+[SPEAKER_00]: But the only way to erase it is to see where it's rooted.
+
+171
+00:16:53,840 --> 00:16:56,662
+[SPEAKER_00]: And it's always rooted in motivation behind your actions.
+
+172
+00:16:57,783 --> 00:17:06,069
+[SPEAKER_00]: So, if you don't make the effort to look at what is the current action, what is the prospect of this action I'm about to do, what is it rooted in?
+
+173
+00:17:07,310 --> 00:17:09,772
+[SPEAKER_00]: Am I doing this out of desire or non-desire?
+
+174
+00:17:10,372 --> 00:17:12,354
+[SPEAKER_00]: Out of ill-will, aversion or non-aversion?
+
+175
+00:17:13,567 --> 00:17:16,168
+[SPEAKER_00]: So, those acts need to be erased.
+
+176
+00:17:16,668 --> 00:17:19,829
+[SPEAKER_00]: The ones that you know are rooted in greed, aversion, delusion.
+
+177
+00:17:20,249 --> 00:17:20,789
+[SPEAKER_00]: Nothing else.
+
+178
+00:17:23,730 --> 00:17:29,992
+[SPEAKER_00]: And this whole domain is invisible to people if they never start practicing that, like, mindfulness in the proper sense.
+
+179
+00:17:30,032 --> 00:17:30,252
+[SPEAKER_00]: Wait.
+
+180
+00:17:31,013 --> 00:17:32,733
+[SPEAKER_00]: What is the context of my present situation?
+
+181
+00:17:32,833 --> 00:17:33,634
+[SPEAKER_00]: Why am I doing this?
+
+182
+00:17:33,674 --> 00:17:34,434
+[SPEAKER_00]: What is the purpose?
+
+183
+00:17:34,494 --> 00:17:36,715
+[SPEAKER_00]: What is the... What feeling is this rooted in?
+
+184
+00:17:37,175 --> 00:17:40,776
+[SPEAKER_00]: That is presently enduring while I want to do this or want to do that.
+
+185
+00:17:42,079 --> 00:17:50,562
+[SPEAKER_00]: Because if only you can see the objects of your views, then you would be judging your views based on the objects, not based on the motivation behind.
+
+186
+00:17:51,202 --> 00:18:05,468
+[SPEAKER_00]: In other words, eh... talking, like, for you, for somebody, talking is always rooted in wanting to distract themselves from the unpleasant feeling of boredom, for example.
+
+187
+00:18:06,497 --> 00:18:12,980
+[SPEAKER_00]: But they are unaware of the motivation behind the talking, the underlying cause for them wanting to talk and use it as a distraction.
+
+188
+00:18:13,381 --> 00:18:16,983
+[SPEAKER_00]: So, all they see is distraction, talking.
+
+189
+00:18:17,023 --> 00:18:18,203
+[SPEAKER_00]: Talking means distraction.
+
+190
+00:18:18,704 --> 00:18:19,864
+[SPEAKER_00]: So, then, that's their judgment.
+
+191
+00:18:19,884 --> 00:18:23,486
+[SPEAKER_00]: So, when they see somebody else talking, ah, he's just distracting himself.
+
+192
+00:18:24,467 --> 00:18:30,510
+[SPEAKER_00]: As if no talking can be rooted in anything else except distraction, because they don't ever see anything else in themselves.
+
+193
+00:18:31,624 --> 00:18:35,826
+[SPEAKER_00]: But the reason they don't see it, it's not because it's not there, it's simply because they never make the effort to see it.
+
+194
+00:18:35,966 --> 00:18:41,808
+[SPEAKER_00]: They remain adhering to talking, and then, consequently, their practice becomes about avoiding talking.
+
+195
+00:18:41,928 --> 00:18:45,410
+[SPEAKER_00]: I'll be silent for the rest of my life, if you want to take that practice to the extreme.
+
+196
+00:18:45,850 --> 00:18:51,912
+[SPEAKER_00]: Which is why the Buddha said it's an ignorant, foolish thing to do, and actually made it a wrongdoing for monks to practice the vow of silence.
+
+197
+00:18:53,053 --> 00:18:55,114
+[SPEAKER_00]: Because, literally, it means you think the problem is in talking.
+
+198
+00:18:58,155 --> 00:19:00,156
+[SPEAKER_01]: You can see that there is ill will.
+
+199
+00:19:02,573 --> 00:19:02,693
+[SPEAKER_00]: Yeah.
+
+200
+00:19:02,853 --> 00:19:03,414
+[SPEAKER_00]: Ill-will is there.
+
+201
+00:19:03,434 --> 00:19:04,454
+[SPEAKER_00]: The mind of ill-will is there.
+
+202
+00:19:05,815 --> 00:19:06,435
+[SPEAKER_00]: Now, what do you do?
+
+203
+00:19:06,856 --> 00:19:08,757
+[SPEAKER_00]: Well, you don't fuel it further.
+
+204
+00:19:09,577 --> 00:19:11,738
+[SPEAKER_00]: By body, by speech or by mind.
+
+205
+00:19:12,499 --> 00:19:15,801
+[SPEAKER_01]: So, you recognize ill-will, where it is.
+
+206
+00:19:16,121 --> 00:19:16,321
+[SPEAKER_00]: Yeah.
+
+207
+00:19:17,982 --> 00:19:19,043
+[SPEAKER_01]: You recognize you're estranged.
+
+208
+00:19:19,063 --> 00:19:19,983
+[SPEAKER_01]: You're not doing anything.
+
+209
+00:19:20,043 --> 00:19:20,263
+[SPEAKER_00]: Yeah.
+
+210
+00:19:20,503 --> 00:19:21,024
+[SPEAKER_01]: Physically.
+
+211
+00:19:21,564 --> 00:19:23,285
+[SPEAKER_01]: And then you ask yourself, so what do I do next?
+
+212
+00:19:23,525 --> 00:19:25,346
+[SPEAKER_01]: But there is the intention of ill-will.
+
+213
+00:19:25,446 --> 00:19:25,767
+[SPEAKER_01]: Yeah.
+
+214
+00:19:26,047 --> 00:19:28,128
+[SPEAKER_01]: So, so how...
+
+215
+00:19:28,148 --> 00:19:31,710
+[SPEAKER_01]: So, it's the way you regard that ill-will, that motivation.
+
+216
+00:19:33,106 --> 00:19:33,967
+[SPEAKER_00]: Yeah, yeah.
+
+217
+00:19:34,487 --> 00:19:38,190
+[SPEAKER_00]: See, like, you can restrain, like, say, I will walk towards you.
+
+218
+00:19:38,550 --> 00:19:40,392
+[SPEAKER_00]: You've done something upsetting.
+
+219
+00:19:40,412 --> 00:19:41,052
+[SPEAKER_00]: That upsets me.
+
+220
+00:19:41,993 --> 00:19:44,895
+[SPEAKER_00]: So, I restrain my body, so I don't physically harm you on account of it.
+
+221
+00:19:45,496 --> 00:19:48,558
+[SPEAKER_00]: I restrain my speech, so I don't verbally abuse you on account of it.
+
+222
+00:19:49,199 --> 00:19:51,921
+[SPEAKER_00]: I restrain my thoughts, so I don't wish you harm and cruelty.
+
+223
+00:19:52,642 --> 00:20:00,588
+[SPEAKER_00]: But, see, now I still have the pressure to find what I need to do to get rid of the ill will.
+
+224
+00:20:01,818 --> 00:20:03,038
+[SPEAKER_00]: And it's like, wait, why?
+
+225
+00:20:04,819 --> 00:20:09,260
+[SPEAKER_00]: Why do I assume that view that I must get rid of the ill will?
+
+226
+00:20:09,820 --> 00:20:10,980
+[SPEAKER_00]: Oh, because it's unpleasant.
+
+227
+00:20:11,780 --> 00:20:16,882
+[SPEAKER_00]: Ah, so in reality, all I'm doing is acting out of trying to avoid discomfort.
+
+228
+00:20:17,342 --> 00:20:22,403
+[SPEAKER_00]: Now, I limited the extent of my act on account of the discomfort of you upsetting me.
+
+229
+00:20:23,691 --> 00:20:36,126
+[SPEAKER_00]: The first limitation is, I don't do anything by body towards you, I don't do anything by speech towards you, I don't do anything by mind towards you, but I am doing something internally, trying to figure it out, so I don't endure it anymore.
+
+230
+00:20:36,547 --> 00:20:38,069
+[SPEAKER_00]: And that's why you're subjected to it.
+
+231
+00:20:39,823 --> 00:20:43,365
+[SPEAKER_01]: But you still want to get... you want to overcome ill-will.
+
+232
+00:20:43,405 --> 00:20:44,265
+[SPEAKER_01]: You want to overcome...
+
+233
+00:20:44,285 --> 00:20:44,485
+[SPEAKER_00]: Yes.
+
+234
+00:20:45,026 --> 00:20:47,667
+[SPEAKER_00]: That's the general, overall value.
+
+235
+00:20:47,967 --> 00:20:55,250
+[SPEAKER_00]: Ill-will is something to be overcome, but you will never overcome for ill-will if you keep craving against the discomfort of it.
+
+236
+00:20:55,330 --> 00:20:55,551
+[SPEAKER_00]: Sure.
+
+237
+00:20:56,151 --> 00:20:57,271
+[SPEAKER_00]: But now you understand that.
+
+238
+00:20:57,952 --> 00:21:00,413
+[SPEAKER_00]: So you stop trying to get rid of the discomfort of ill-will.
+
+239
+00:21:00,633 --> 00:21:06,296
+[SPEAKER_00]: That's how you end up overcoming... You starve the ill-will by not providing fuel for it.
+
+240
+00:21:07,282 --> 00:21:13,225
+[SPEAKER_00]: But that starvation can only happen on the level of the feeling of your discomfort towards ill-will, of ill-will.
+
+241
+00:21:13,605 --> 00:21:19,108
+[SPEAKER_00]: Not as a level, not on the level of, you know, like reasoning and psychologizing and so on.
+
+242
+00:21:19,148 --> 00:21:23,050
+[SPEAKER_00]: That can help you to find out what is it that you need to starve.
+
+243
+00:21:23,330 --> 00:21:31,454
+[SPEAKER_00]: So, the only one thing you need to starve is your resistance towards uncomfortable feeling, full stop.
+
+244
+00:21:31,574 --> 00:21:33,855
+[SPEAKER_00]: It doesn't matter on account of what.
+
+245
+00:21:34,295 --> 00:21:37,196
+[SPEAKER_00]: Has that uncomfortable feeling arisen?
+
+246
+00:21:37,496 --> 00:21:38,137
+[SPEAKER_00]: It doesn't matter.
+
+247
+00:21:38,757 --> 00:21:44,440
+[SPEAKER_00]: What matters is, whenever there is discomfort felt, I will not crave to get rid of it.
+
+248
+00:21:45,840 --> 00:21:49,922
+[SPEAKER_00]: And then, indirectly, you then remove anything that can be felt.
+
+249
+00:21:51,467 --> 00:21:52,188
+[SPEAKER_00]: Uncomfortably.
+
+250
+00:21:52,388 --> 00:21:55,210
+[SPEAKER_00]: Ill will, upset, suffering, anything.
+
+251
+00:21:55,691 --> 00:21:58,753
+[SPEAKER_00]: Sensuality, the first... You starve at the roots.
+
+252
+00:21:58,933 --> 00:22:00,595
+[SPEAKER_00]: You starve the roots, basically.
+
+253
+00:22:01,275 --> 00:22:02,757
+[SPEAKER_00]: That's the only way you can starve a thing.
+
+254
+00:22:02,777 --> 00:22:07,120
+[SPEAKER_00]: You can't starve a tree by trimming in branches, because it will keep growing.
+
+255
+00:22:07,481 --> 00:22:17,009
+[SPEAKER_00]: You can manage the tree by cutting its branches, but you don't want to manage, because the roots keep growing, which means the more and more, and you can't keep up with trying to trim it off.
+
+256
+00:22:18,643 --> 00:22:25,088
+[SPEAKER_00]: But if you find a way of killing off the roots, as the Buddha said, then it's like a palm stump, left, cut over its root, dead.
+
+257
+00:22:27,010 --> 00:22:39,139
+[SPEAKER_01]: So, they're saying, others will be cruel, but here, we'll practice non... Well, I won't be cruel.
+
+258
+00:22:39,680 --> 00:22:42,482
+[SPEAKER_01]: But you cannot say that here there will be cruelty.
+
+259
+00:22:43,703 --> 00:22:44,984
+[SPEAKER_01]: But I won't feed it.
+
+260
+00:22:45,024 --> 00:22:45,584
+[SPEAKER_00]: In a way, yes.
+
+261
+00:22:46,124 --> 00:22:47,845
+[SPEAKER_01]: So, you know, it's a deepening of that.
+
+262
+00:22:47,865 --> 00:22:49,166
+[SPEAKER_00]: Yeah, it's the same principle.
+
+263
+00:22:50,047 --> 00:22:51,167
+[SPEAKER_00]: So... Because that's what it means.
+
+264
+00:22:52,548 --> 00:22:57,771
+[SPEAKER_00]: Like, as I said, you are not not cruel by not harming anybody physically.
+
+265
+00:22:58,571 --> 00:23:03,014
+[SPEAKER_00]: You're simply not expressing your cruelty to the extent of physical action, and that's a necessary step.
+
+266
+00:23:03,114 --> 00:23:03,614
+[SPEAKER_01]: Yes.
+
+267
+00:23:04,114 --> 00:23:08,857
+[SPEAKER_00]: Then you're not expressing your cruelty to the level... on the level of verbal action, mental action, but you're still cruel.
+
+268
+00:23:09,778 --> 00:23:09,978
+[SPEAKER_00]: Why?
+
+269
+00:23:10,098 --> 00:23:15,364
+[SPEAKER_00]: Because you still resist the uncomfort, the discomfort of whatever upset has been caused to you.
+
+270
+00:23:16,685 --> 00:23:21,570
+[SPEAKER_00]: If you stop resisting the discomfort, there is no basis for the view of cruelty, view of harm.
+
+271
+00:23:21,650 --> 00:23:22,611
+[SPEAKER_00]: It's just... it's removed.
+
+272
+00:23:24,293 --> 00:23:28,137
+[SPEAKER_00]: And there's that simultaneous principle we keep talking about.
+
+273
+00:23:28,157 --> 00:23:31,060
+[SPEAKER_00]: Literally, these roots are simultaneously present with your view of cruelty.
+
+274
+00:23:33,217 --> 00:23:36,561
+[SPEAKER_00]: These roots are a necessary basis for cruelty.
+
+275
+00:23:36,961 --> 00:23:53,058
+[SPEAKER_00]: The necessary basis for bodily act, mental act, verbal act, or restraining from bodily act, verbal act, mental act, the necessary basis is resisting the uncomfortable feeling of of this situation, which then manifests through cruelty and harm.
+
+276
+00:23:54,095 --> 00:24:07,545
+[SPEAKER_00]: Now, I restrain manifestation of cruelty and harm through my physical action, verbal action, mental action, but for as long as I don't uproot my resistance, my craving against the uncomfortable feeling of any kind, I am liable to cruelty.
+
+277
+00:24:09,366 --> 00:24:16,151
+[SPEAKER_00]: But if I uproot that resistance, I am incapable of cruelty, even if I don't think about my physical, verbal or mental actions anymore.
+
+278
+00:24:17,091 --> 00:24:19,133
+[SPEAKER_00]: It cannot possibly be rooted in cruelty.
+
+279
+00:24:19,930 --> 00:24:23,292
+[SPEAKER_00]: And that's why, again, every action is intention.
+
+280
+00:24:23,872 --> 00:24:26,674
+[SPEAKER_00]: Not every action is what you do by body, speech or mind.
+
+281
+00:24:27,375 --> 00:24:33,919
+[SPEAKER_00]: What you do by body, speech or mind, the karma, is so because of the intention that determines that karma.
+
+282
+00:24:33,939 --> 00:24:34,699
+[SPEAKER_00]: And that's what Buddha said.
+
+283
+00:24:34,879 --> 00:24:36,120
+[SPEAKER_00]: Every action is intention.
+
+284
+00:24:40,751 --> 00:24:59,738
+[SPEAKER_00]: So, if there is no intention of resisting the discomfort, craving for more comfort on the level of your feeling, craving for indolence towards neither comfort nor discomfort, if there are no such intentions, there are no manifestations of view of sensuality, view of cruelty, view of ill will, view of anything, basically, discrepant with your existence.
+
+285
+00:25:01,199 --> 00:25:02,839
+[SPEAKER_00]: And that's the truth, Sālekha.
+
+286
+00:25:03,339 --> 00:25:09,962
+[SPEAKER_00]: You have raised the necessary basins, the necessary framework for everything unwholesome, ever.
+
+287
+00:25:19,348 --> 00:25:28,892
+[SPEAKER_01]: Others will kill, others will take what is not given, or be non... uncelibate, speak falsehood, malicious... Others will not be virtuous, basically.
+
+288
+00:25:29,092 --> 00:25:34,474
+[SPEAKER_00]: Others will go against the virtue on the level of their body, let alone their speech and mind.
+
+289
+00:25:37,095 --> 00:25:38,036
+[SPEAKER_01]: So, this is about...
+
+290
+00:25:41,197 --> 00:25:41,397
+[SPEAKER_01]: Yes.
+
+291
+00:25:41,457 --> 00:25:42,397
+[SPEAKER_01]: You will not adhere.
+
+292
+00:25:42,817 --> 00:25:44,618
+[SPEAKER_01]: You cannot help but have views.
+
+293
+00:25:44,658 --> 00:25:50,019
+[SPEAKER_01]: But you can't help whether you choose to question it or choose to not question it.
+
+294
+00:25:50,039 --> 00:25:52,840
+[SPEAKER_01]: Simply by not questioning your own views, you're adhering to them.
+
+295
+00:26:09,092 --> 00:26:13,515
+[SPEAKER_00]: You cannot say, oh, I will not hold to any views, because that is your view that you hold.
+
+296
+00:26:14,696 --> 00:26:20,021
+[SPEAKER_00]: But you can recognize that you're bound to hold some view, and then question what you hold.
+
+297
+00:26:21,642 --> 00:26:24,004
+[SPEAKER_00]: And thus, you will not be the one that adheres to the views.
+
+298
+00:26:24,384 --> 00:26:34,532
+[SPEAKER_00]: You will not be the one that will have difficulty relinquishing the view, when you see it as unwholesome, rooted in unwholesome, rooted in a contradiction.
+
+299
+00:26:36,193 --> 00:26:37,034
+[SPEAKER_01]: We spoke the other day,
+
+300
+00:26:43,533 --> 00:26:45,594
+[SPEAKER_00]: Well, I think that's... that connects basically to that.
+
+301
+00:26:46,774 --> 00:26:53,116
+[SPEAKER_00]: That the root of the entitlement is the root of that not questioning your position, assuming you're taking it at face value, taking it for granted.
+
+302
+00:26:55,036 --> 00:27:00,798
+[SPEAKER_00]: And then entitlement is the product of it, that manifests again through your actions, by body, by speech or by mind.
+
+303
+00:27:02,098 --> 00:27:05,699
+[SPEAKER_00]: You cannot be entitled if you don't act in an entitled manner.
+
+304
+00:27:08,964 --> 00:27:11,045
+[SPEAKER_00]: By body, by speech or by your thoughts.
+
+305
+00:27:13,525 --> 00:27:14,486
+[SPEAKER_00]: Thoughts of entitlement.
+
+306
+00:27:18,487 --> 00:27:24,468
+[SPEAKER_00]: And, you know, the fundamental entitlement is the entitlement to life, health and youth.
+
+307
+00:27:25,229 --> 00:27:28,930
+[SPEAKER_00]: Or intoxication with life, health and youth.
+
+308
+00:27:28,990 --> 00:27:31,350
+[SPEAKER_00]: Like, everybody feels entitled to be alive.
+
+309
+00:27:33,011 --> 00:27:33,251
+[SPEAKER_01]: Yeah.
+
+310
+00:27:34,428 --> 00:27:35,989
+[SPEAKER_01]: But you're not entitled to the next breath.
+
+311
+00:27:36,369 --> 00:27:37,349
+[SPEAKER_01]: Why are you entitled to the next breath?
+
+312
+00:27:37,369 --> 00:27:37,709
+[SPEAKER_00]: Exactly, exactly.
+
+313
+00:27:37,729 --> 00:27:37,949
+[SPEAKER_00]: Why?
+
+314
+00:27:38,029 --> 00:27:40,250
+[SPEAKER_00]: Well, because you just never questioned that entitlement.
+
+315
+00:27:40,310 --> 00:27:40,650
+[SPEAKER_00]: It's mine.
+
+316
+00:27:40,910 --> 00:27:41,411
+[SPEAKER_00]: Yeah, it's mine.
+
+317
+00:27:42,371 --> 00:27:42,791
+[SPEAKER_00]: Is it yours?
+
+318
+00:27:43,011 --> 00:27:44,432
+[SPEAKER_00]: So, are you in control of it?
+
+319
+00:27:44,752 --> 00:27:46,493
+[SPEAKER_00]: Does it mean you can prevent it from disappearing?
+
+320
+00:27:48,053 --> 00:27:48,413
+[SPEAKER_00]: You can't.
+
+321
+00:27:48,753 --> 00:27:49,073
+[SPEAKER_00]: You can't.
+
+322
+00:27:49,734 --> 00:27:58,137
+[SPEAKER_00]: So, then, that means your entitlement is just fully your view that you refuse to let go of, refuse to question, refuse to basically drill into.
+
+323
+00:28:03,200 --> 00:28:04,382
+[SPEAKER_00]: Like entitlement to health.
+
+324
+00:28:04,742 --> 00:28:09,069
+[SPEAKER_00]: You are healthy, but if that changes, you cannot do anything about it.
+
+325
+00:28:09,109 --> 00:28:13,756
+[SPEAKER_00]: So, how can you be entitled to health, when it's not even in your own control?
+
+326
+00:28:16,497 --> 00:28:19,538
+[SPEAKER_00]: Oh, that's a whole new layer now.
+
+327
+00:28:19,558 --> 00:28:20,018
+[SPEAKER_00]: Yeah, exactly.
+
+328
+00:28:20,298 --> 00:28:26,439
+[SPEAKER_00]: That's when you add this entitlement to the behavior of others that you demand and you feel entitled to request and so on.
+
+329
+00:28:27,259 --> 00:28:40,262
+[SPEAKER_00]: And again, that's another thing that it's sort of obviously explained in the suttas, whereby for an arahant who has removed any and every sense of entitlement, even if the highway robbers attack him and chop his limbs one by one,
+
+330
+00:28:41,385 --> 00:28:43,626
+[SPEAKER_00]: So, others... going back a bit, others will be cruel, but I won't be cruel.
+
+331
+00:28:43,726 --> 00:28:45,126
+[SPEAKER_00]: It's not others shouldn't be cruel.
+
+332
+00:29:04,969 --> 00:29:07,892
+[SPEAKER_01]: At the same time, others shouldn't be cruel.
+
+333
+00:29:07,932 --> 00:29:09,094
+[SPEAKER_01]: But others will be cruel.
+
+334
+00:29:09,434 --> 00:29:10,195
+[SPEAKER_01]: What do you expect?
+
+335
+00:29:10,515 --> 00:29:11,777
+[SPEAKER_01]: Others are bound to be cruel.
+
+336
+00:29:12,357 --> 00:29:13,098
+[SPEAKER_01]: Because no more people...
+
+337
+00:29:13,118 --> 00:29:13,759
+[SPEAKER_01]: They will be cruelty.
+
+338
+00:29:14,039 --> 00:29:17,423
+[SPEAKER_00]: They will be cruelty, they will be greed, they will be aversion, they will be desire.
+
+339
+00:29:18,185 --> 00:29:25,812
+[SPEAKER_00]: And you projecting that there must not be cruelty anywhere in the world, it's basically wishful thinking, product of your own entitlement.
+
+340
+00:29:26,592 --> 00:29:32,537
+[SPEAKER_00]: Oh, look, I found this great teaching of the Buddha, the dhamma, thus I'm entitled to demand everybody to follow it.
+
+341
+00:29:32,878 --> 00:29:34,459
+[SPEAKER_00]: And that's a quite a naive notion.
+
+342
+00:29:35,039 --> 00:29:35,860
+[SPEAKER_00]: Ignorant notion.
+
+343
+00:29:36,741 --> 00:29:41,825
+[SPEAKER_00]: Or I'm, on account of it, I demand a certain set of behavior by everybody, because that is the ultimate truth.
+
+344
+00:29:44,667 --> 00:29:46,289
+[SPEAKER_00]: Again, your own entitlement speaking.
+
+345
+00:29:48,416 --> 00:30:07,475
+[SPEAKER_01]: And it's so... You can't have the world, you know, go the way you want it to go.
+
+346
+00:30:08,356 --> 00:30:08,476
+[SPEAKER_01]: No.
+
+347
+00:30:09,958 --> 00:30:11,519
+[SPEAKER_00]: And the only reason you would have even such a
+
+348
+00:30:12,547 --> 00:30:17,250
+[SPEAKER_00]: The inkling of such an expectation is because you're not questioning your own views and your own entitlement.
+
+349
+00:30:18,211 --> 00:30:18,851
+[SPEAKER_00]: Entitlements.
+
+350
+00:30:28,118 --> 00:30:31,480
+[SPEAKER_01]: So, this thing is about finding where the problem really is.
+
+351
+00:30:31,700 --> 00:30:31,900
+[SPEAKER_01]: Yeah.
+
+352
+00:30:31,960 --> 00:30:32,681
+[SPEAKER_01]: Addressing that.
+
+353
+00:30:32,981 --> 00:30:33,802
+[SPEAKER_00]: Yeah.
+
+354
+00:30:33,822 --> 00:30:36,684
+[SPEAKER_01]: And not expecting... Not trying to deal with it externally.
+
+355
+00:30:36,764 --> 00:30:39,746
+[SPEAKER_01]: Not expecting others who are going to respect you.
+
+356
+00:30:40,306 --> 00:30:40,506
+[SPEAKER_00]: No.
+
+357
+00:30:42,304 --> 00:30:44,066
+[SPEAKER_00]: Do the same thing as you do... Yeah.
+
+358
+00:30:46,690 --> 00:30:47,911
+[SPEAKER_01]: So, you must be also be okay with...
+
+359
+00:30:48,192 --> 00:30:49,614
+[SPEAKER_01]: Okay, find a way to be... Oh, yeah.
+
+360
+00:30:49,934 --> 00:30:51,075
+[SPEAKER_01]: Expect that and be okay with it.
+
+361
+00:30:51,095 --> 00:30:51,376
+[SPEAKER_00]: You have to.
+
+362
+00:30:51,536 --> 00:30:53,779
+[SPEAKER_00]: Well, that's part of your own practice, correctly.
+
+363
+00:30:54,360 --> 00:30:55,181
+[SPEAKER_00]: You must be okay.
+
+364
+00:30:56,703 --> 00:30:57,604
+[SPEAKER_00]: Like, as the Buddha said...
+
+365
+00:31:00,084 --> 00:31:06,111
+[SPEAKER_00]: The wise one who is practicing for enlightenment would be enduring the abuse and unpleasant words of others.
+
+366
+00:31:06,651 --> 00:31:15,160
+[SPEAKER_00]: In the same sense, you endure heat, cold, elements, wind, rain, everything else that you have to endure physically, you're not saying.
+
+367
+00:31:15,821 --> 00:31:23,386
+[SPEAKER_00]: You cannot, like literally, like even the most insane person would not have an entitlement to change the weather or to control the weather.
+
+368
+00:31:24,206 --> 00:31:28,449
+[SPEAKER_00]: You need to become extremely rational, but even then, you realize it's kind of futile.
+
+369
+00:31:28,829 --> 00:31:33,292
+[SPEAKER_00]: Well, the same attitude, recognize the futility of trying to change it, is others.
+
+370
+00:31:34,432 --> 00:31:38,395
+[SPEAKER_00]: So, instead of... No, they should not speak cruelly to me and abusively.
+
+371
+00:31:39,153 --> 00:31:39,293
+[SPEAKER_00]: No.
+
+372
+00:31:39,633 --> 00:31:43,215
+[SPEAKER_00]: I will not be cruel and abuse when this is encountered in my experience.
+
+373
+00:31:43,595 --> 00:31:48,857
+[SPEAKER_00]: I will endure it on the same level I endure heat, cold, hunger, discomfort.
+
+374
+00:31:49,297 --> 00:31:50,837
+[SPEAKER_00]: Because it is on the level of the elements.
+
+375
+00:31:51,038 --> 00:31:52,738
+[SPEAKER_00]: Others are elements for you, basically.
+
+376
+00:31:54,019 --> 00:31:57,300
+[SPEAKER_00]: Their behavior is neither your problem nor your responsibility.
+
+377
+00:31:58,292 --> 00:32:05,274
+[SPEAKER_00]: And you, making it your problem or your responsibility, is you acting out of your own entitlement, which is rooted in you avoiding your own responsibility.
+
+378
+00:32:07,435 --> 00:32:14,157
+[SPEAKER_01]: In fact, I see that in the danger of the monastic tradition.
+
+379
+00:32:15,552 --> 00:32:15,712
+[SPEAKER_00]: Sure.
+
+380
+00:32:15,812 --> 00:32:16,373
+[SPEAKER_00]: Do you know what I mean?
+
+381
+00:32:16,413 --> 00:32:16,653
+[SPEAKER_00]: Yeah.
+
+382
+00:32:16,813 --> 00:32:18,174
+[SPEAKER_01]: The form that comes with it.
+
+383
+00:32:18,574 --> 00:32:21,236
+[SPEAKER_01]: It sort of encourages entitlement.
+
+384
+00:32:21,817 --> 00:32:23,738
+[SPEAKER_01]: I am a monk, and thus you must treat me this way.
+
+385
+00:32:23,778 --> 00:32:32,624
+[SPEAKER_00]: It doesn't... it doesn't... that encouragement is actually rooted in something that even precedes the form and the tradition, monastic or otherwise.
+
+386
+00:32:32,664 --> 00:32:33,625
+[SPEAKER_00]: It's rooted in virtue.
+
+387
+00:32:35,466 --> 00:32:44,173
+[SPEAKER_00]: The actual virtue, sīla, that is necessary for uprooting entitlement or erasing greed, aversion, delusion, is the first fetter.
+
+388
+00:32:45,317 --> 00:32:46,457
+[SPEAKER_00]: Sīla bhāt paramāsa.
+
+389
+00:32:47,038 --> 00:32:48,078
+[SPEAKER_00]: We spoke about it before.
+
+390
+00:32:50,659 --> 00:32:54,581
+[SPEAKER_00]: It's not like, oh, rites and rituals, that we all know are ridiculous and silly.
+
+391
+00:32:55,621 --> 00:32:57,822
+[SPEAKER_00]: The word is actual virtue and duty.
+
+392
+00:32:58,982 --> 00:33:03,364
+[SPEAKER_00]: Your sense of duty, your sense of virtue, has to be your fetter first.
+
+393
+00:33:04,945 --> 00:33:08,446
+[SPEAKER_00]: So, how do you abandon the fetter without breaking your virtue, without abandoning your duty?
+
+394
+00:33:09,227 --> 00:33:12,848
+[SPEAKER_00]: Well, you abandon it by seeing where the view towards it is rooted at.
+
+395
+00:33:15,287 --> 00:33:26,056
+[SPEAKER_00]: So, that whole tradition and form, and this is what we must do, and this is what everybody must do, and as a Buddhist you do this, it's all rooted in that same kind of non-negotiable nature of virtue.
+
+396
+00:33:28,818 --> 00:33:34,903
+[SPEAKER_00]: So, when you get monastic tradition, modern one, previous ones, the future ones, it's just going to be extension of that same thing.
+
+397
+00:33:35,804 --> 00:33:36,485
+[SPEAKER_00]: But, actually,
+
+398
+00:33:38,651 --> 00:33:55,118
+[SPEAKER_00]: If you start questioning, like, not questioning virtue by doing the opposite of virtue, but questioning the purpose of virtue while you're virtuous, that's already how you start seeing what is the necessary basis for maintenance of the factor of this is my duty, I must do this and I must not do that.
+
+399
+00:33:56,391 --> 00:33:56,811
+[SPEAKER_00]: That's what I mean.
+
+400
+00:33:56,831 --> 00:34:08,757
+[SPEAKER_00]: If you reflect upon your virtue that has been developed beforehand, if you reflect on it correctly, the point will come where you get to understand that it's not about what I'm doing, which is I'm keeping this virtue.
+
+401
+00:34:09,797 --> 00:34:13,419
+[SPEAKER_00]: It's... it's about what I'm not doing anymore.
+
+402
+00:34:13,459 --> 00:34:14,519
+[SPEAKER_00]: What I will not do.
+
+403
+00:34:15,079 --> 00:34:16,440
+[SPEAKER_00]: So, I don't care what I will do.
+
+404
+00:34:17,941 --> 00:34:20,802
+[SPEAKER_00]: All I care about is things that I will refrain from doing.
+
+405
+00:34:22,083 --> 00:34:25,044
+[SPEAKER_00]: And at that point, you refraining from doing,
+
+406
+00:34:26,715 --> 00:34:28,095
+[SPEAKER_00]: It ceases to be your doing.
+
+407
+00:34:28,956 --> 00:34:31,577
+[SPEAKER_00]: It just becomes something that holds you and maintains you.
+
+408
+00:34:32,697 --> 00:34:42,580
+[SPEAKER_00]: So, that whole entitlement of, oh, it's a Buddhist tradition, this is what you must do, this is what you must say, this is your behavior, is the extension of the fetter of sīlabhāta paramāsa.
+
+409
+00:34:45,441 --> 00:34:47,002
+[SPEAKER_00]: And sometimes people get the sense of it.
+
+410
+00:34:47,202 --> 00:34:49,243
+[SPEAKER_00]: The duty of virtue is imposed on you.
+
+411
+00:34:49,283 --> 00:34:50,503
+[SPEAKER_00]: And it is.
+
+412
+00:34:50,543 --> 00:34:53,644
+[SPEAKER_00]: And people get the sense of it, but they don't know how to understand it.
+
+413
+00:34:53,664 --> 00:34:56,085
+[SPEAKER_00]: So, instead, they dismiss the virtue as a whole.
+
+414
+00:34:57,684 --> 00:35:01,232
+[SPEAKER_00]: And then they try to argue that you don't need to keep the precepts in order to practice the dhamma.
+
+415
+00:35:01,913 --> 00:35:08,247
+[SPEAKER_00]: Because they don't see any other way other than fetter when taken, and no fetter if I don't take it at all.
+
+416
+00:35:18,201 --> 00:35:21,003
+[SPEAKER_01]: Well, that's what the śalekha is, you know, the austere panic.
+
+417
+00:35:21,023 --> 00:35:21,343
+[SPEAKER_00]: Exactly.
+
+418
+00:35:21,403 --> 00:35:22,084
+[SPEAKER_00]: So, that's what I mean.
+
+419
+00:35:22,224 --> 00:35:30,690
+[SPEAKER_00]: So, if somebody thinks that you will arrive at arahantship by being virtuous, that's another wrong way of thinking you're going to experience that erasing of unwholesome.
+
+420
+00:35:31,530 --> 00:35:38,635
+[SPEAKER_00]: Because your greed, aversion, delusion is not rooted in your acts of sensuality nor abstaining from sensuality.
+
+421
+00:35:39,095 --> 00:35:41,497
+[SPEAKER_00]: It's rooted in your view of sensuality.
+
+422
+00:35:43,331 --> 00:35:46,252
+[SPEAKER_00]: So, you can abstain all you want for the rest of your life.
+
+423
+00:35:46,412 --> 00:35:51,695
+[SPEAKER_00]: If you don't actually make the effort to understand it, you won't be free from it.
+
+424
+00:35:52,275 --> 00:35:56,757
+[SPEAKER_00]: Sure, abstaining from sensuality is always better than non-abstaining, even if you don't know.
+
+425
+00:35:57,057 --> 00:36:11,323
+[SPEAKER_00]: That's why Buddha said, even if a monk doesn't get anywhere in his practice, doesn't develop any distinction, any knowledge, if he spends the rest of his monastic life crying in tears, in pain, of restraint, it's still better than non-restraint.
+
+426
+00:36:13,614 --> 00:36:18,259
+[SPEAKER_00]: Even if none of his wrong views diminish on account of it, it's still better.
+
+427
+00:36:19,119 --> 00:36:22,383
+[SPEAKER_00]: But, you don't want to practice just, oh, it's still better.
+
+428
+00:36:22,403 --> 00:36:26,346
+[SPEAKER_00]: You want to practice to be free from view, because then restraint will cease to be unpleasant.
+
+429
+00:36:27,207 --> 00:36:32,252
+[SPEAKER_00]: Then you'll be free from that fetter of needing to, like, restrain yourself and so on, needing to do it.
+
+430
+00:36:33,713 --> 00:36:37,437
+[SPEAKER_01]: For example, that the practice of confessing,
+
+431
+00:36:38,770 --> 00:36:39,350
+[SPEAKER_01]: What you've done.
+
+432
+00:36:39,710 --> 00:36:39,871
+[SPEAKER_00]: Yeah.
+
+433
+00:36:39,911 --> 00:36:40,971
+[SPEAKER_00]: It does not purify you.
+
+434
+00:36:41,111 --> 00:36:41,311
+[SPEAKER_01]: Yeah.
+
+435
+00:36:41,731 --> 00:36:44,612
+[SPEAKER_00]: It just basically manages you from eroding even further.
+
+436
+00:36:45,132 --> 00:36:46,813
+[SPEAKER_00]: But it does not uproot the roots.
+
+437
+00:36:47,253 --> 00:36:47,433
+[SPEAKER_01]: Yeah.
+
+438
+00:36:47,813 --> 00:36:50,034
+[SPEAKER_01]: Because that's what it's... in monastic life.
+
+439
+00:36:50,094 --> 00:36:50,674
+[SPEAKER_01]: I know, I know.
+
+440
+00:36:50,974 --> 00:36:51,934
+[SPEAKER_00]: That's what people say.
+
+441
+00:36:52,094 --> 00:36:53,095
+[SPEAKER_00]: That's why you apologize.
+
+442
+00:36:53,195 --> 00:36:54,935
+[SPEAKER_00]: You go and apologize when you've done something wrong.
+
+443
+00:36:54,995 --> 00:36:56,156
+[SPEAKER_00]: To erase all my wrongdoing.
+
+444
+00:36:56,176 --> 00:36:56,776
+[SPEAKER_00]: Yeah, exactly.
+
+445
+00:36:57,276 --> 00:36:59,438
+[SPEAKER_00]: And that's now your gratuitous view.
+
+446
+00:37:00,098 --> 00:37:02,320
+[SPEAKER_00]: Apology is good, if you've done something wrong.
+
+447
+00:37:02,921 --> 00:37:13,629
+[SPEAKER_00]: It will, next time, it will basically allow you to catch yourself before you go that far, because it's unpleasant to sort of admit that you made a fool out of yourself and so on, but it can actually serve with a good purpose.
+
+448
+00:37:14,250 --> 00:37:20,535
+[SPEAKER_00]: But if you then overdo that, in a sense of now you develop the view that apology purifies you.
+
+449
+00:37:21,777 --> 00:37:29,142
+[SPEAKER_00]: By going through the motion of apology, I uproot the basically unwholesome that made me do such and such thing for which I have to apologize.
+
+450
+00:37:29,542 --> 00:37:37,608
+[SPEAKER_00]: And that's no different than believing if I enter this holy river, my last aversion delusion will be washed away by this water that the Buddha mocked in the suttas.
+
+451
+00:37:39,670 --> 00:37:40,850
+[SPEAKER_00]: Oh, so then I should not apologize?
+
+452
+00:37:41,091 --> 00:37:44,153
+[SPEAKER_00]: No, you should apologize, but don't entertain the views on account of it.
+
+453
+00:37:44,747 --> 00:37:50,789
+[SPEAKER_01]: That's... that apology should be used so that you can... To help you, basically, next time, don't need to apologize.
+
+454
+00:37:51,149 --> 00:37:52,509
+[SPEAKER_01]: So that you're aware of what you're doing.
+
+455
+00:37:52,589 --> 00:37:52,789
+[SPEAKER_01]: Exactly.
+
+456
+00:37:53,129 --> 00:37:58,771
+[SPEAKER_00]: The more you are aware of what you're doing, the more you'll be then aware of why you are doing it.
+
+457
+00:37:59,891 --> 00:38:01,052
+[SPEAKER_00]: And that's where the roots are.
+
+458
+00:38:01,092 --> 00:38:02,032
+[SPEAKER_00]: That's where the problem is.
+
+459
+00:38:02,772 --> 00:38:03,272
+[SPEAKER_00]: So, like...
+
+460
+00:38:03,292 --> 00:38:04,753
+[SPEAKER_00]: So, it's not like, oh, I should...
+
+461
+00:38:04,773 --> 00:38:05,033
+[SPEAKER_00]: I should...
+
+462
+00:38:05,053 --> 00:38:06,013
+[SPEAKER_00]: I know... Apologize.
+
+463
+00:38:06,813 --> 00:38:11,475
+[SPEAKER_00]: And now, that you kind of kept that erosion, prevented it from going further,
+
+464
+00:38:12,428 --> 00:38:16,310
+[SPEAKER_00]: Now, ask yourself, why did I end up in a position for which I had to apologize?
+
+465
+00:38:17,050 --> 00:38:18,591
+[SPEAKER_00]: Where were my actions rooted?
+
+466
+00:38:18,891 --> 00:38:20,391
+[SPEAKER_00]: Where was my motivation at?
+
+467
+00:38:21,432 --> 00:38:30,436
+[SPEAKER_00]: And then, oh, then you actually, you will also realize on some occasion that, actually, even if others are upset, I have no need to apologize, no reason to apologize.
+
+468
+00:38:30,456 --> 00:38:35,838
+[SPEAKER_00]: Because you know clearly, surely, confidently, they was rooted in non-greed, non-aversion and non-delusion.
+
+469
+00:38:37,199 --> 00:38:39,800
+[SPEAKER_00]: And you know that because you would not mind apologizing.
+
+470
+00:38:41,241 --> 00:38:50,107
+[SPEAKER_00]: But you want to recognize that, like, that wrongdoing, even in things that are actually wrong, by body, by speech or mind, it's not rooted in those things.
+
+471
+00:38:51,228 --> 00:38:53,470
+[SPEAKER_00]: It's rooted in greed, aversion, delusion, underlying them.
+
+472
+00:38:53,890 --> 00:38:56,272
+[SPEAKER_00]: It's rooted, basically, in your motivation for it.
+
+473
+00:38:58,353 --> 00:39:01,115
+[SPEAKER_00]: Like, we spoke about it before, like, harsh, blunt speech.
+
+474
+00:39:02,316 --> 00:39:05,338
+[SPEAKER_00]: For most people, oh, it's full of ill-will, full of passion.
+
+475
+00:39:06,399 --> 00:39:07,820
+[SPEAKER_00]: And that's their own limited mind.
+
+476
+00:39:08,720 --> 00:39:15,205
+[SPEAKER_00]: Has no other way of comprehending it, except the only way they can comprehend it for themselves, which is, whenever I raise my voice, it's because I'm angry.
+
+477
+00:39:15,565 --> 00:39:17,726
+[SPEAKER_00]: Thus, whoever ever raises their voice, they must be angry.
+
+478
+00:39:19,188 --> 00:39:25,072
+[SPEAKER_00]: And you will never find out whether that's really the case or not, because you're unaware of your own motivation.
+
+479
+00:39:25,272 --> 00:39:32,197
+[SPEAKER_00]: Then you say, wait a minute, I can raise my voice out of pure compassion, out of pure concern, because this person won't hear it otherwise.
+
+480
+00:39:36,306 --> 00:39:45,752
+[SPEAKER_01]: Again, with the example of confession, a person might... Confession is a good thing, exposing the fault, but then you use that to hide the fault.
+
+481
+00:39:45,873 --> 00:39:46,073
+[SPEAKER_01]: Yeah.
+
+482
+00:39:46,353 --> 00:39:46,533
+[SPEAKER_00]: Yeah.
+
+483
+00:39:46,833 --> 00:39:48,434
+[SPEAKER_00]: Because, oh, I just...
+
+484
+00:39:48,474 --> 00:39:48,875
+[SPEAKER_00]: I clear it.
+
+485
+00:39:49,035 --> 00:39:50,996
+[SPEAKER_00]: Well, you feel like, oh, it's my duty to confess.
+
+486
+00:39:51,156 --> 00:39:51,316
+[SPEAKER_00]: Yeah.
+
+487
+00:39:51,737 --> 00:39:53,298
+[SPEAKER_00]: And now that my duty ended there.
+
+488
+00:39:54,018 --> 00:39:54,159
+[SPEAKER_00]: No.
+
+489
+00:39:54,239 --> 00:39:59,042
+[SPEAKER_00]: Your duty is to uproot that because of which you ended up in a position that you have to confess things.
+
+490
+00:40:00,563 --> 00:40:02,965
+[SPEAKER_00]: That's why there was that instance of that monk who came to Buddha and said,
+
+491
+00:40:03,550 --> 00:40:04,871
+[SPEAKER_00]: Oh, I can't keep all these rules.
+
+492
+00:40:05,191 --> 00:40:06,973
+[SPEAKER_00]: It was hundred and something at a time.
+
+493
+00:40:07,073 --> 00:40:08,013
+[SPEAKER_00]: I can't keep all of this.
+
+494
+00:40:08,073 --> 00:40:08,734
+[SPEAKER_00]: It's just too much.
+
+495
+00:40:09,154 --> 00:40:11,556
+[SPEAKER_00]: I want to leave the monastic life.
+
+496
+00:40:11,576 --> 00:40:13,378
+[SPEAKER_00]: And the Buddha said, can you keep the three rules?
+
+497
+00:40:14,578 --> 00:40:16,060
+[SPEAKER_00]: Yes.
+
+498
+00:40:16,100 --> 00:40:16,420
+[SPEAKER_00]: I can.
+
+499
+00:40:16,440 --> 00:40:16,940
+[SPEAKER_00]: That's easy.
+
+500
+00:40:17,180 --> 00:40:17,421
+[SPEAKER_00]: Okay.
+
+501
+00:40:17,441 --> 00:40:19,782
+[SPEAKER_00]: Well, don't do anything that you know it's rooted in greed.
+
+502
+00:40:20,283 --> 00:40:22,164
+[SPEAKER_00]: Don't do anything that you know it's rooted in aversion.
+
+503
+00:40:22,204 --> 00:40:24,186
+[SPEAKER_00]: Don't do anything that you know it's rooted in distraction.
+
+504
+00:40:25,267 --> 00:40:27,808
+[SPEAKER_00]: And that monk became an arahant on account of the three rules.
+
+505
+00:40:28,269 --> 00:40:30,731
+[SPEAKER_00]: The three proper erasers.
+
+506
+00:40:33,429 --> 00:40:39,190
+[SPEAKER_00]: So, when people cannot see things on that level where they are rooted, that's when they need these rules to keep them in check.
+
+507
+00:40:39,790 --> 00:40:42,091
+[SPEAKER_00]: But keeping the rules will not necessarily remove the roots.
+
+508
+00:40:42,291 --> 00:40:46,192
+[SPEAKER_00]: It will just make them proliferate further, which is a necessary step for everybody who starts.
+
+509
+00:40:46,832 --> 00:40:50,893
+[SPEAKER_00]: But in itself, it's still rooted in your greed, aversion, delusion.
+
+510
+00:40:51,413 --> 00:40:52,713
+[SPEAKER_00]: In itself, it's still a factor.
+
+511
+00:40:56,994 --> 00:40:59,695
+[SPEAKER_01]: So, that's part of the sutta.
+
+512
+00:41:00,095 --> 00:41:00,435
+[SPEAKER_01]: This is...
+
+513
+00:41:02,855 --> 00:41:07,903
+[SPEAKER_01]: Just as there is an uneven path, there is an alternative even path.
+
+514
+00:41:10,546 --> 00:41:14,212
+[SPEAKER_01]: For the one who is cruel, there is the alternative non-cruelty.
+
+515
+00:41:16,460 --> 00:41:20,282
+[SPEAKER_01]: So, a person given to cruelty has no cruelty to which to avoid it.
+
+516
+00:41:21,162 --> 00:41:22,583
+[SPEAKER_01]: So, there is cruelty.
+
+517
+00:41:22,823 --> 00:41:23,464
+[SPEAKER_01]: I noticed that.
+
+518
+00:41:23,644 --> 00:41:24,704
+[SPEAKER_01]: I see that within myself.
+
+519
+00:41:25,545 --> 00:41:26,285
+[SPEAKER_01]: So, I have an option.
+
+520
+00:41:26,585 --> 00:41:27,145
+[SPEAKER_00]: There's always an option.
+
+521
+00:41:27,185 --> 00:41:28,426
+[SPEAKER_00]: That's what... that's exactly what it means.
+
+522
+00:41:28,586 --> 00:41:32,948
+[SPEAKER_00]: There is always an option because cruelty is not rooted in set of circumstances.
+
+523
+00:41:33,509 --> 00:41:42,873
+[SPEAKER_00]: If cruelty was really rooted in what you said to me, there is no option than to follow a certain set of behavior towards what you said.
+
+524
+00:41:43,374 --> 00:41:43,894
+[SPEAKER_00]: But it's not.
+
+525
+00:41:44,385 --> 00:41:49,528
+[SPEAKER_00]: The cruelty is rooted in my choice to accept that as a reason or my choice to not accept that as a reason.
+
+526
+00:41:49,968 --> 00:41:54,030
+[SPEAKER_00]: In other words, cruelty is rooted in my choice to be cruel or to be not cruel.
+
+527
+00:41:54,930 --> 00:41:56,891
+[SPEAKER_00]: To be sensual or to be not sensual.
+
+528
+00:41:57,712 --> 00:42:06,076
+[SPEAKER_01]: So, could you also say that if you see the motivation of cruelty, that there is another phenomenon there?
+
+529
+00:42:06,156 --> 00:42:10,318
+[SPEAKER_00]: If you see the motivation of cruelty, you see your responsibility for cruelty.
+
+530
+00:42:11,339 --> 00:42:13,560
+[SPEAKER_00]: That means you see your choice for non-cruelty.
+
+531
+00:42:14,730 --> 00:42:19,214
+[SPEAKER_01]: So, you're able to see the other phenomenon of non-cruelty.
+
+532
+00:42:19,775 --> 00:42:22,077
+[SPEAKER_00]: The option of non-cruelty becomes apparent.
+
+533
+00:42:25,180 --> 00:42:26,041
+[SPEAKER_01]: So, you can choose that.
+
+534
+00:42:26,801 --> 00:42:27,122
+[SPEAKER_01]: Exactly.
+
+535
+00:42:27,162 --> 00:42:27,862
+[SPEAKER_00]: Because it's an option.
+
+536
+00:42:29,744 --> 00:42:32,126
+[SPEAKER_00]: While the other option remains there.
+
+537
+00:42:32,146 --> 00:42:33,467
+[SPEAKER_00]: While the option of cruelty remains there.
+
+538
+00:42:33,487 --> 00:42:33,928
+[SPEAKER_00]: Exactly.
+
+539
+00:42:34,490 --> 00:42:35,751
+[SPEAKER_00]: So, it doesn't take away the...
+
+540
+00:42:35,791 --> 00:42:36,111
+[SPEAKER_00]: Exactly.
+
+541
+00:42:36,151 --> 00:42:40,553
+[SPEAKER_00]: So, your option of non-cruelty is not rooted in removing the option of cruelty.
+
+542
+00:42:41,033 --> 00:42:46,736
+[SPEAKER_00]: No, it's rooted in not entertaining it, as the Buddha said, not welcoming it, not delighting in it, not acting out of it.
+
+543
+00:42:47,297 --> 00:42:50,718
+[SPEAKER_00]: By not doing these things, you are choosing, then, the option of non-cruelty.
+
+544
+00:42:53,520 --> 00:43:01,864
+[SPEAKER_01]: But you're... you need to discern that option of non-cruelty and... On account of your... on account of discerning your responsibility for cruelty.
+
+545
+00:43:03,161 --> 00:43:06,744
+[SPEAKER_00]: Your responsibility for your will, your responsibility for sensuality.
+
+546
+00:43:07,285 --> 00:43:09,887
+[SPEAKER_00]: Sensuality is not in the beautiful things in the world.
+
+547
+00:43:11,148 --> 00:43:13,731
+[SPEAKER_00]: Aversion, it's not in ugly things in the world.
+
+548
+00:43:16,373 --> 00:43:17,094
+[SPEAKER_00]: It's in your choice.
+
+549
+00:43:21,798 --> 00:43:23,660
+[SPEAKER_00]: Hence, every action is intention.
+
+550
+00:43:32,820 --> 00:43:34,101
+[SPEAKER_01]: And the sutta ends.
+
+551
+00:43:35,643 --> 00:43:40,228
+[SPEAKER_01]: There's a bit more to the sutta, obviously, but it ends in this way.
+
+552
+00:43:40,248 --> 00:43:46,775
+[SPEAKER_01]: It says that one who is himself sinking in the mud should pull out another who is sinking in the mud.
+
+553
+00:43:47,015 --> 00:43:48,276
+[SPEAKER_01]: Such thing is impossible.
+
+554
+00:43:48,296 --> 00:43:48,937
+[SPEAKER_01]: The one who is
+
+555
+00:43:51,305 --> 00:43:57,747
+[SPEAKER_01]: That one who is himself untamed, undisciplined, with defilements, unextinguished, should tame another?
+
+556
+00:43:59,168 --> 00:43:59,808
+[SPEAKER_01]: It's impossible.
+
+557
+00:43:59,948 --> 00:44:01,809
+[SPEAKER_00]: It's impossible.
+
+558
+00:44:01,849 --> 00:44:04,050
+[SPEAKER_00]: It's what we spoke about for all this time.
+
+559
+00:44:04,230 --> 00:44:09,952
+[SPEAKER_00]: So, imagine, you're completely unaware of the sphere of your motivations.
+
+560
+00:44:10,792 --> 00:44:12,373
+[SPEAKER_00]: That that's where the problems are rooted.
+
+561
+00:44:12,393 --> 00:44:14,453
+[SPEAKER_00]: That's where lust is rooted, where aversion is rooted.
+
+562
+00:44:14,974 --> 00:44:15,894
+[SPEAKER_00]: You're completely unaware.
+
+563
+00:44:15,954 --> 00:44:18,795
+[SPEAKER_00]: You have absolutely no recognition within yourself
+
+564
+00:44:20,128 --> 00:44:24,970
+[SPEAKER_00]: Towards craving, towards pleasure, craving against the pain, craving towards distraction of neutral.
+
+565
+00:44:25,010 --> 00:44:25,890
+[SPEAKER_00]: You don't see any root.
+
+566
+00:44:25,910 --> 00:44:29,212
+[SPEAKER_00]: You don't see the existence of roots or where those roots would exist.
+
+567
+00:44:29,852 --> 00:44:35,854
+[SPEAKER_00]: And then, you teach somebody that will... your teaching would result in them seeing those roots, seeing how to overcome them.
+
+568
+00:44:36,475 --> 00:44:37,775
+[SPEAKER_00]: That is impossible.
+
+569
+00:44:39,216 --> 00:44:41,877
+[SPEAKER_00]: You cannot accidentally stumble upon dhamma.
+
+570
+00:44:42,497 --> 00:44:46,479
+[SPEAKER_01]: Or, for example, like trying to make people do the right thing.
+
+571
+00:44:46,919 --> 00:44:47,159
+[SPEAKER_01]: So,
+
+572
+00:44:47,775 --> 00:44:48,256
+[SPEAKER_01]: You're cruel.
+
+573
+00:44:48,476 --> 00:44:49,317
+[SPEAKER_01]: Okay, well, that's wrong.
+
+574
+00:44:49,477 --> 00:44:51,520
+[SPEAKER_01]: Now, I'll tell you how you should be instead.
+
+575
+00:44:51,921 --> 00:45:00,492
+[SPEAKER_00]: You should do this, but... You might be right, in terms of teaching them non-cruelty, but you are right for completely wrong reasons.
+
+576
+00:45:02,585 --> 00:45:06,947
+[SPEAKER_00]: You're not right, because you also see why non-cruelty can result in uprooting the roots of cruelty.
+
+577
+00:45:07,107 --> 00:45:07,747
+[SPEAKER_00]: You don't see that.
+
+578
+00:45:08,307 --> 00:45:13,769
+[SPEAKER_00]: So, just whatever external value you ended up circumstantially adopting, which doesn't like cruelty.
+
+579
+00:45:14,370 --> 00:45:14,710
+[SPEAKER_00]: It's good.
+
+580
+00:45:15,550 --> 00:45:19,111
+[SPEAKER_00]: It's better than cruelty, but in itself, it will not free you from the roots of cruelty.
+
+581
+00:45:19,131 --> 00:45:22,153
+[SPEAKER_00]: That's why the Buddha said, even the good karma is still a karma.
+
+582
+00:45:23,933 --> 00:45:25,774
+[SPEAKER_00]: It cannot free you from karma altogether.
+
+583
+00:45:26,879 --> 00:45:31,780
+[SPEAKER_00]: Because the roots of those actions, the motivation of those actions remains non-understood.
+
+584
+00:45:31,980 --> 00:45:45,664
+[SPEAKER_01]: Also, when you are not free from that stuff, those unwholesome behaviors, motivations, complaining that others are, it's just a whole another level of ridicule.
+
+585
+00:45:45,684 --> 00:45:46,484
+[SPEAKER_00]: Yeah, it is, it is.
+
+586
+00:45:46,724 --> 00:45:47,625
+[SPEAKER_00]: It's too far removed.
+
+587
+00:45:48,485 --> 00:45:50,085
+[SPEAKER_01]: Yeah, that shouldn't be like that.
+
+588
+00:45:50,105 --> 00:45:52,486
+[SPEAKER_01]: He shouldn't speak like that to me or...
+
+589
+00:45:53,613 --> 00:45:58,157
+[SPEAKER_00]: You might not help but have such thoughts, but you can certainly help yourself from expressing them.
+
+590
+00:45:59,438 --> 00:46:04,943
+[SPEAKER_00]: And if you're able to help yourself from expressing them, then you'll be able to help yourself from indulging them mentally.
+
+591
+00:46:05,543 --> 00:46:09,146
+[SPEAKER_00]: If you're able to help yourself not indulge them mentally, you'll be able to understand its roots.
+
+592
+00:46:10,027 --> 00:46:13,390
+[SPEAKER_00]: That's what Buddha compared to... it was a simile for sensualities.
+
+593
+00:46:13,430 --> 00:46:18,594
+[SPEAKER_00]: Like, it's like a man in the water, trying to light... finds the two sticks in the water.
+
+594
+00:46:18,634 --> 00:46:21,216
+[SPEAKER_00]: He's in the water, sticks in the water, he tries to light the fire with them.
+
+595
+00:46:21,256 --> 00:46:22,137
+[SPEAKER_00]: Such thing is impossible.
+
+596
+00:46:23,018 --> 00:46:26,020
+[SPEAKER_00]: Now, the man realizes, well, I can't light this fire, because the un-wet sticks are wet.
+
+597
+00:46:26,040 --> 00:46:27,040
+[SPEAKER_00]: So, he comes out on the shore.
+
+598
+00:46:27,641 --> 00:46:29,502
+[SPEAKER_00]: He dries, but the sticks are still not quite dry.
+
+599
+00:46:29,742 --> 00:46:30,562
+[SPEAKER_00]: He tries to light the fire.
+
+600
+00:46:30,662 --> 00:46:32,183
+[SPEAKER_00]: They won't, because they're still wet.
+
+601
+00:46:33,344 --> 00:46:38,547
+[SPEAKER_00]: But if he patiently keeps them, maintains them, withdrawn from the water, they will dry out.
+
+602
+00:46:39,187 --> 00:46:40,248
+[SPEAKER_00]: And then, he can light the fire.
+
+603
+00:46:40,928 --> 00:46:48,773
+[SPEAKER_00]: And then, the Buddha said, so it is for samanas and brāhmaṇas, who might live withdrawn physically from sensuality, physically from unwholesome states,
+
+604
+00:46:50,187 --> 00:46:54,449
+[SPEAKER_00]: As in, they stepped out of the water, but mentally, they haven't withdrawn themselves from it.
+
+605
+00:46:54,909 --> 00:46:56,150
+[SPEAKER_00]: As in, the sticks are still wet.
+
+606
+00:46:56,910 --> 00:46:58,691
+[SPEAKER_00]: They will not light the fire of that knowledge.
+
+607
+00:47:00,111 --> 00:47:10,396
+[SPEAKER_00]: But, those Samādhi Brāhmaṇas who are withdrawn physically, and then mentally, they recognize also their involvement, so they stop fueling that involvement, then the sticks will dry out, and then they can light the fire.
+
+608
+00:47:14,548 --> 00:47:20,271
+[SPEAKER_00]: So, of course, you cannot have sticks dry on the shore while you're in the water.
+
+609
+00:47:21,372 --> 00:47:26,354
+[SPEAKER_00]: But you can certainly not be in the water and still have the sticks wet.
+
+610
+00:47:26,394 --> 00:47:28,215
+[SPEAKER_00]: Because, you know, you haven't dried them properly.
+
+611
+00:47:28,235 --> 00:47:29,336
+[SPEAKER_00]: You haven't put them in the sun.
+
+612
+00:47:30,076 --> 00:47:32,577
+[SPEAKER_00]: You're keeping them covered in the shade or bury them in the soil.
+
+613
+00:47:32,697 --> 00:47:38,160
+[SPEAKER_00]: Or trying to sort someone else's... Well, that's all the result of this basic principle that's on the level of your own mind.
+
+614
+00:47:40,842 --> 00:47:41,262
+[SPEAKER_01]: There's a...
+
+615
+00:47:43,994 --> 00:47:54,283
+[SPEAKER_01]: Another sutta, which is similar, says, there are these ten ways of subduing hatred, which there are just a single one.
+
+616
+00:47:56,244 --> 00:48:00,648
+[SPEAKER_01]: Thinking, he has done me harm, but what should I expect?
+
+617
+00:48:02,409 --> 00:48:03,550
+[SPEAKER_01]: One subdues hatred.
+
+618
+00:48:04,471 --> 00:48:09,635
+[SPEAKER_00]: What could you possibly expect from the realm, from saṃsāra?
+
+619
+00:48:10,240 --> 00:48:15,621
+[SPEAKER_00]: You're not in control over your own breathing and heartbeat and everything else.
+
+620
+00:48:15,721 --> 00:48:18,482
+[SPEAKER_00]: What level of insanity is required?
+
+621
+00:48:18,502 --> 00:48:23,763
+[SPEAKER_00]: Irrational kind of basis is required for you to expect others to not do certain things.
+
+622
+00:48:24,903 --> 00:48:30,424
+[SPEAKER_00]: It's, it's... Once you start realize that, oh, it's actually, it's actually inconceivable for me to expect that.
+
+623
+00:48:30,924 --> 00:48:34,625
+[SPEAKER_00]: The only reason it wasn't inconceivable is because you kept conceiving it through ignoring it.
+
+624
+00:48:35,165 --> 00:48:38,226
+[SPEAKER_00]: Through that self-basically inflated sense of entitlement.
+
+625
+00:48:40,451 --> 00:48:44,026
+[SPEAKER_01]: And you're just expecting it is not going to help at all.
+
+626
+00:48:44,883 --> 00:48:49,586
+[SPEAKER_00]: Well, the only reason the expectation is there, because the basis for such irrational expectation is there.
+
+627
+00:48:50,606 --> 00:48:54,688
+[SPEAKER_00]: The basis that sort of is not seen correctly.
+
+628
+00:48:55,049 --> 00:48:57,470
+[SPEAKER_00]: Like, you can't control elements, you can't control your own body.
+
+629
+00:48:58,250 --> 00:49:02,413
+[SPEAKER_00]: What a silly thing is to keep expecting to control behavior of others, or speech of others.
+
+630
+00:49:02,953 --> 00:49:04,454
+[SPEAKER_00]: And what a futile thing it is.
+
+631
+00:49:04,474 --> 00:49:07,715
+[SPEAKER_00]: Because then you realize, and why would that matter what others do or say?
+
+632
+00:49:07,996 --> 00:49:10,397
+[SPEAKER_00]: Because that's not where my suffering is rooted to begin with.
+
+633
+00:49:11,677 --> 00:49:21,413
+[SPEAKER_00]: The only reason it matters is because you still blame THAT to be your suffering, and THAT, all that blame, is already rooted in your own entitlement, which is caused by your own ignoring, your own responsibility, and your own choices.
+
+634
+00:49:36,698 --> 00:49:39,881
+[SPEAKER_01]: Yeah, it says, he's doing me harm, but what should I expect?
+
+635
+00:49:40,521 --> 00:49:42,503
+[SPEAKER_01]: He's going to do me harm, but what should I expect?
+
+636
+00:49:42,843 --> 00:49:43,003
+[SPEAKER_00]: Yeah.
+
+637
+00:49:43,764 --> 00:49:47,126
+[SPEAKER_00]: It's similar, I think, it's in, in, eh, Thera Therigata, when...
+
+638
+00:49:47,246 --> 00:49:47,446
+[SPEAKER_00]: Right.
+
+639
+00:49:47,807 --> 00:49:52,010
+[SPEAKER_00]: So, one doesn't get roped up over impossibilities.
+
+640
+00:49:52,490 --> 00:49:54,132
+[SPEAKER_00]: It's impossible, yeah, exactly.
+
+641
+00:49:54,952 --> 00:50:02,158
+[SPEAKER_00]: It was similar, I think, in Thera Therigata, when, eh, that monk or a nun said,
+
+642
+00:50:04,702 --> 00:50:04,882
+[SPEAKER_00]: Oh, no.
+
+643
+00:50:04,922 --> 00:50:06,924
+[SPEAKER_00]: It was a monk who said that to a grieving mother.
+
+644
+00:50:07,524 --> 00:50:11,047
+[SPEAKER_00]: Mother lost a child.
+
+645
+00:50:11,548 --> 00:50:13,449
+[SPEAKER_00]: Or she was grieving that she might lose him.
+
+646
+00:50:13,490 --> 00:50:14,310
+[SPEAKER_00]: Maybe it was his mother.
+
+647
+00:50:14,330 --> 00:50:14,691
+[SPEAKER_00]: I can't remember.
+
+648
+00:50:14,711 --> 00:50:22,257
+[SPEAKER_00]: But the point was, if you stop and think about it, you don't know where that being came from, you don't know where that being is heading.
+
+649
+00:50:23,858 --> 00:50:27,301
+[SPEAKER_00]: What possibility there is to grieve over anything, literally?
+
+650
+00:50:27,822 --> 00:50:29,143
+[SPEAKER_00]: Because grieving implies
+
+651
+00:50:30,115 --> 00:50:35,240
+[SPEAKER_00]: A certain degree of control, where it came from and went away, was taken from you, that which was yours.
+
+652
+00:50:35,740 --> 00:50:40,985
+[SPEAKER_00]: How can you regard that which is yours, when you don't have a clue how it came to be and where it's heading?
+
+653
+00:50:41,386 --> 00:50:46,230
+[SPEAKER_00]: Literally, absolutely, it's... you cannot even think it on a level of fantasy.
+
+654
+00:50:46,891 --> 00:50:52,896
+[SPEAKER_00]: If you're honest to yourself, you realize, oh, this is utterly inconceivable, inaccessible to me.
+
+655
+00:50:53,757 --> 00:50:55,479
+[SPEAKER_00]: So, grief becomes impossible.
+
+656
+00:51:00,975 --> 00:51:02,916
+[SPEAKER_00]: How things came to be.
+
+657
+00:51:03,336 --> 00:51:04,597
+[SPEAKER_00]: How a being came to be.
+
+658
+00:51:08,038 --> 00:51:10,259
+[SPEAKER_00]: And where that being, what happens to it when it's not?
+
+659
+00:51:11,439 --> 00:51:12,579
+[SPEAKER_00]: It's just utterly inconceivable.
+
+660
+00:51:12,679 --> 00:51:14,560
+[SPEAKER_00]: You can choose a set of beliefs.
+
+661
+00:51:14,600 --> 00:51:16,241
+[SPEAKER_00]: This is what happens after somebody dies.
+
+662
+00:51:16,541 --> 00:51:20,502
+[SPEAKER_00]: This is what happens when, you know, they die like this or like that.
+
+663
+00:51:20,522 --> 00:51:25,904
+[SPEAKER_00]: But all of that is something which means you cannot possibly know or verify that, because that's all secondary to your own.
+
+664
+00:51:26,804 --> 00:51:28,625
+[SPEAKER_00]: You don't know where you came from and where you're heading.
+
+665
+00:51:30,508 --> 00:51:35,352
+[SPEAKER_00]: So, grieving on that external level, or blaming people on that external level, becomes inconceivable.
+
+666
+00:51:38,654 --> 00:51:41,497
+[SPEAKER_00]: And that's pretty much the state of an anāgāmī.
+
+667
+00:51:41,777 --> 00:51:44,779
+[SPEAKER_00]: He cannot possibly be attracted nor repelled by anything in the world.
+
+668
+00:51:45,060 --> 00:51:46,401
+[SPEAKER_01]: Because he's sorted out his problem.
+
+669
+00:51:46,521 --> 00:51:52,505
+[SPEAKER_00]: Because he has undone that entitlement which is the definition of existence.
+
+670
+00:51:52,525 --> 00:51:54,207
+[SPEAKER_00]: Any existence is a degree of entitlement.
+
+671
+00:51:54,247 --> 00:51:59,311
+[SPEAKER_00]: Any bhāva means there is an extent of entitlement for life, for health, for youth.
+
+672
+00:52:00,194 --> 00:52:04,497
+[SPEAKER_00]: For aggregates, you remove that.
+
+673
+00:52:05,057 --> 00:52:15,023
+[SPEAKER_00]: Like, it becomes even more inconceivable to extend that entitlement in that further irrational manner of your entitled-to-demand behavior of other sets of aggregates that you cannot even fathom.
+

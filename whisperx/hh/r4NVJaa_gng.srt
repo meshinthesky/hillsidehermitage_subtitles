@@ -1,0 +1,1884 @@
+1
+00:00:00,251 --> 00:00:11,939
+[SPEAKER_00]: So, I found an interesting sutra from the Chinese Samyukta Āgama, number 493, and it's called Sailing Upstream.
+
+2
+00:00:15,802 --> 00:00:16,703
+[SPEAKER_00]: So, thus have I heard.
+
+3
+00:00:17,583 --> 00:00:21,646
+[SPEAKER_00]: On one occasion, the Venerable Sariputta addressed the monks.
+
+4
+00:00:23,638 --> 00:00:33,141
+[SPEAKER_00]: If a forest monk is in an empty place in a forest or at the foot of a tree, he should undertake this training, internally observing and reflecting.
+
+5
+00:00:34,342 --> 00:00:38,703
+[SPEAKER_00]: Do I perceive thoughts of sensual desire within my citta or not?
+
+6
+00:00:40,611 --> 00:00:54,563
+[SPEAKER_00]: If he does not perceive them, but when encountering sense objects or a sign of beauty, craving and sensual desire arise, this opposes being withdrawn, opposes seclusion, Viveka.
+
+7
+00:00:55,544 --> 00:00:58,546
+[SPEAKER_01]: Yeah, so I think you can stop there, in a sense.
+
+8
+00:01:02,532 --> 00:01:25,483
+[SPEAKER_01]: Yeah, so, if a forest monk goes to an empty place, like the Pali, in a forest, the foot of a tree, and, as I said before, it's like, whereas Pali, pretty much, due to the centuries of a standardization, lost all the nuances,
+
+9
+00:01:26,839 --> 00:01:32,781
+[SPEAKER_01]: The Pali would just say, you know, a man goes to a forest, foot of a tree, empty hut, purifies his mind from unwholesome states.
+
+10
+00:01:33,641 --> 00:01:34,181
+[SPEAKER_00]: Right.
+
+11
+00:01:34,481 --> 00:01:43,664
+[SPEAKER_01]: And today, purification, in the contemporary sense, purification of unwholesome states, pretty much, it's open to any interpretation whatsoever.
+
+12
+00:01:43,884 --> 00:01:53,067
+[SPEAKER_01]: So, whatever you would have, say, acquired in a course of time, whatever ideas you would have acquired that the Buddhist practice is all about,
+
+13
+00:01:53,885 --> 00:01:58,369
+[SPEAKER_01]: You would interpret purification of thoughts according to those ideas.
+
+14
+00:01:58,549 --> 00:02:08,037
+[SPEAKER_01]: So, if you think purification of thoughts comes down to diligently sitting and watching your sensations, you would... that's how you would read the sutta.
+
+15
+00:02:08,397 --> 00:02:11,980
+[SPEAKER_01]: So, there is no nuances in the Pali.
+
+16
+00:02:12,000 --> 00:02:20,747
+[SPEAKER_01]: Especially, like, when it comes to this particular topic of, you know, the citta and sign of beauty and stuff, it's sort of...
+
+17
+00:02:22,567 --> 00:02:41,000
+[SPEAKER_01]: Like, like, fragmented and just template phrases, that, as I said, it's like without, like, having not discovered, say, these āgamas, or these extra kind of inputs from āgamas, you would be sort of just, well, a lot would be left to, like, a wide range of interpretations.
+
+18
+00:02:41,220 --> 00:02:41,701
+[SPEAKER_01]: Right, right.
+
+19
+00:02:42,041 --> 00:02:47,045
+[SPEAKER_01]: Whereby pretty much anything can fit into, say, the idea of purification of thoughts.
+
+20
+00:02:47,545 --> 00:02:48,986
+[SPEAKER_01]: Any, any practice can fit into it.
+
+21
+00:02:49,026 --> 00:02:51,388
+[SPEAKER_01]: Oh, yeah, I'm purifying thoughts by doing this, this or that.
+
+22
+00:02:52,125 --> 00:02:58,489
+[SPEAKER_01]: Because, again, there is nothing in between that's explained that you could see that actually no, like these things wouldn't fit, or these things would fit more, and so on.
+
+23
+00:02:59,350 --> 00:03:15,080
+[SPEAKER_01]: And, as I said, what's even more interesting is that all these āgamas, as it says even at the end of this one, were translated from the Pali.
+
+24
+00:03:15,821 --> 00:03:17,242
+[SPEAKER_01]: So, they were Pali translations.
+
+25
+00:03:18,662 --> 00:03:26,950
+[SPEAKER_01]: And this one, in particular, dated from 435 to 443 Common Era, so 5th century, basically.
+
+26
+00:03:27,870 --> 00:03:31,173
+[SPEAKER_01]: Which means Pali, back then, was saying this.
+
+27
+00:03:31,794 --> 00:03:31,974
+[SPEAKER_00]: Yeah.
+
+28
+00:03:32,555 --> 00:03:35,217
+[SPEAKER_01]: It wasn't like this was written on its own.
+
+29
+00:03:35,277 --> 00:03:42,523
+[SPEAKER_01]: This is translated from Pali when those missionaries came down to, like, Sri Lanka and started translating the existing text.
+
+30
+00:03:42,804 --> 00:03:44,645
+[SPEAKER_01]: Which means, in the course of time,
+
+31
+00:03:45,652 --> 00:03:52,018
+[SPEAKER_01]: It was the Pali that got changed, that got even more standardized, and lost the nuances.
+
+32
+00:03:52,899 --> 00:03:56,082
+[SPEAKER_01]: They were already forms of standardization.
+
+33
+00:03:58,084 --> 00:03:58,725
+[SPEAKER_00]: See what I mean?
+
+34
+00:03:58,745 --> 00:04:00,647
+[SPEAKER_01]: Like, fourth, fifth century,
+
+35
+00:04:01,563 --> 00:04:07,287
+[SPEAKER_01]: That's already like, what, six... well, ten centuries after the Buddha died.
+
+36
+00:04:07,307 --> 00:04:08,548
+[SPEAKER_01]: It's already standardized.
+
+37
+00:04:08,628 --> 00:04:11,651
+[SPEAKER_01]: But now you can see how much even more standardized, i.e.
+
+38
+00:04:12,111 --> 00:04:15,774
+[SPEAKER_01]: watered down, turned into template, losing the nuances, is today.
+
+39
+00:04:16,054 --> 00:04:29,564
+[SPEAKER_01]: So, discovering the Agamas, there were translations of some period in between, shows you that actually Pali has undergone quite a significant reduction in the amount of nuances it contains.
+
+40
+00:04:32,075 --> 00:04:33,376
+[SPEAKER_00]: So, it's like...
+
+41
+00:04:33,416 --> 00:04:35,658
+[SPEAKER_00]: So, it definitely adds to reading the suttas.
+
+42
+00:04:35,818 --> 00:04:36,259
+[SPEAKER_01]: For sure.
+
+43
+00:04:36,359 --> 00:04:56,655
+[SPEAKER_01]: As I said, like, this is, you know, how many people would have read the, you know, a forest monk goes to an empty place, a root of a tree, and purifies his mind of unwholesome states, purifies his mind of the five hindrances, and, like, not really looked into it further, because there's nothing else to look into.
+
+44
+00:04:56,855 --> 00:04:58,317
+[SPEAKER_01]: Then, you would naturally
+
+45
+00:04:58,837 --> 00:05:08,899
+[SPEAKER_01]: You don't have to resort to whatever other kind of contemporary interpretations are provided.
+
+46
+00:05:09,039 --> 00:05:16,781
+[SPEAKER_01]: And usually, that kind of comes through commentaries and the mainstream views, which is like, yes, purification of hindrances means meditation technique.
+
+47
+00:05:17,261 --> 00:05:18,642
+[SPEAKER_01]: There is nothing else that you can see.
+
+48
+00:05:19,082 --> 00:05:24,023
+[SPEAKER_01]: Well, you could, if you, like, start studying the whole body of Pali, you would see that it doesn't add up.
+
+49
+00:05:24,103 --> 00:05:25,223
+[SPEAKER_01]: But most people don't do that.
+
+50
+00:05:25,303 --> 00:05:26,864
+[SPEAKER_01]: Most people arrive to one sutta and then
+
+51
+00:05:27,644 --> 00:05:35,532
+[SPEAKER_01]: So, you wouldn't necessarily be questioning that, even if you come across the suttas, eventually, that are contradicting those very views, that are not adding up.
+
+52
+00:05:35,652 --> 00:05:37,513
+[SPEAKER_01]: So, in this specific instance, it's like
+
+53
+00:05:53,923 --> 00:06:00,328
+[SPEAKER_01]: Yeah, how many times have you read Forest Monk's Ghost, Purifies His Mind, Freezes His Mind from Hindrances, from Unwholesome States?
+
+54
+00:06:00,948 --> 00:06:11,716
+[SPEAKER_01]: And then, just as I said, because it's so generic, so condensed, so template-like, any practice you were presented with, as a Buddhist practice,
+
+55
+00:06:13,622 --> 00:06:18,326
+[SPEAKER_01]: All I need to do is tell you that's what purification of mind means.
+
+56
+00:06:18,687 --> 00:06:19,467
+[SPEAKER_01]: Counting your breath.
+
+57
+00:06:20,108 --> 00:06:21,229
+[SPEAKER_01]: Watching sensations.
+
+58
+00:06:21,709 --> 00:06:22,890
+[SPEAKER_01]: Feeling the soles of your feet.
+
+59
+00:06:22,950 --> 00:06:23,491
+[SPEAKER_01]: Mantra.
+
+60
+00:06:23,531 --> 00:06:24,272
+[SPEAKER_01]: Repeat Buddha.
+
+61
+00:06:24,912 --> 00:06:32,419
+[SPEAKER_01]: And you would have, like, an average person would have no reference as to, like, does this add up?
+
+62
+00:06:32,659 --> 00:06:33,520
+[SPEAKER_01]: Is there more to this?
+
+63
+00:06:33,560 --> 00:06:36,583
+[SPEAKER_01]: Because it's just, okay, that's what it's connected in.
+
+64
+00:06:37,743 --> 00:06:39,824
+[SPEAKER_01]: Like, nothing says that it's wrong, so to speak.
+
+65
+00:06:40,224 --> 00:06:43,304
+[SPEAKER_01]: Unless, as I said, you start studying the entire.
+
+66
+00:06:43,344 --> 00:06:49,105
+[SPEAKER_01]: Which most people won't do or, you know, will kind of stop halfway through, so to speak.
+
+67
+00:06:49,606 --> 00:06:56,067
+[SPEAKER_01]: Or, even if they do, will not necessarily turn them into questioning the preconceived notions of interpretations that they already started with.
+
+68
+00:06:56,107 --> 00:06:58,227
+[SPEAKER_01]: So, this is obviously a welcome input.
+
+69
+00:06:58,547 --> 00:07:05,329
+[SPEAKER_01]: Any form of, like, āgama, in this sense, it's like a direct translation of what Pali used to say.
+
+70
+00:07:06,843 --> 00:07:15,147
+[SPEAKER_01]: Even if you can't find the exactly matching sutta, you could find the passages that correspond and this adds to it.
+
+71
+00:07:15,848 --> 00:07:18,469
+[SPEAKER_01]: And in this specific instance, it's like, actually says...
+
+72
+00:07:18,990 --> 00:07:21,471
+[SPEAKER_01]: I don't think there's any Pali that says this so clearly.
+
+73
+00:07:22,051 --> 00:07:36,519
+[SPEAKER_01]: That when a monk goes into seclusion, goes into his forest, root of a tree, he reflects thus, saying, do I perceive thoughts of sensual desire within my citta or not?
+
+74
+00:07:39,155 --> 00:07:46,602
+[SPEAKER_00]: Yeah, internally observing, internal observations and thinking.
+
+75
+00:07:47,363 --> 00:07:58,894
+[SPEAKER_01]: Obviously, as I said, because it's already a monk, means you're already, say, purified in your external behavior, you're keeping the precepts and so on, and then it's like you go into a solitary dwelling,
+
+76
+00:08:03,053 --> 00:08:09,535
+[SPEAKER_01]: And begin, pretty much, by the recognition of me and the animal, the citta.
+
+77
+00:08:09,595 --> 00:08:17,278
+[SPEAKER_01]: So, the citta would have already been seen sufficiently through purification of physical behavior, as we explained so many other times.
+
+78
+00:08:17,318 --> 00:08:18,599
+[SPEAKER_01]: So, it's like...
+
+79
+00:08:18,639 --> 00:08:26,022
+[SPEAKER_01]: So, there is no more confusion as to where to look, that I'm internally observing.
+
+80
+00:08:26,682 --> 00:08:29,623
+[SPEAKER_01]: You know when you're internally observing, you're looking at the state of the animal.
+
+81
+00:08:30,503 --> 00:08:32,464
+[SPEAKER_01]: The overall state of the mind, of the citta.
+
+82
+00:08:32,925 --> 00:08:36,867
+[SPEAKER_01]: I'll stop saying mind, just citta, which is obviously the mind, but...
+
+83
+00:08:36,887 --> 00:08:41,630
+[SPEAKER_01]: So, it's like, are there thoughts of sensuality within this citta?
+
+84
+00:08:42,070 --> 00:08:59,722
+[SPEAKER_01]: So, is this animal, here and now, as I'm sitting, withdrawn, physically withdrawn, sitting in a quiet, secluded environment, are there thoughts that are connected, concerned, in regard to, with sensuality, within this citta?
+
+85
+00:09:00,982 --> 00:09:04,384
+[SPEAKER_01]: Again, not so that I can do this technique, so that I can apply that.
+
+86
+00:09:04,605 --> 00:09:04,845
+[SPEAKER_01]: No, no.
+
+87
+00:09:04,945 --> 00:09:12,210
+[SPEAKER_01]: Just a simple reflection and recognition of the internal domain, right now, as I'm sitting here alone with Drone.
+
+88
+00:09:13,691 --> 00:09:23,438
+[SPEAKER_01]: Just ask that question in the neutrality of that reflection, not for the sake of judgment, not for the sake of conclusion, just
+
+89
+00:09:24,336 --> 00:09:28,937
+[SPEAKER_01]: Are there thoughts, right now, in this citta, that are concerned with sensuality?
+
+90
+00:09:29,617 --> 00:09:33,778
+[SPEAKER_01]: Sexuality, sensuality, any, any kind of form of it.
+
+91
+00:09:34,298 --> 00:09:40,500
+[SPEAKER_01]: And look for the answer in the state of the citta, not in the state of like, oh, this, I must be like that.
+
+92
+00:09:40,520 --> 00:09:41,260
+[SPEAKER_00]: But yeah, that's the thing.
+
+93
+00:09:41,280 --> 00:09:51,222
+[SPEAKER_00]: So when, you know, I'll be sitting and doing that same thing and thinking, okay, are there any sensual thoughts in the citta?
+
+94
+00:09:52,163 --> 00:09:53,543
+[SPEAKER_00]: And so you can see, oh yeah,
+
+95
+00:09:54,323 --> 00:09:56,504
+[SPEAKER_00]: The citta is inclined...
+
+96
+00:09:56,544 --> 00:10:01,727
+[SPEAKER_00]: I'm not thinking sensual thoughts, but it is inclined towards sensuality.
+
+97
+00:10:02,227 --> 00:10:03,888
+[SPEAKER_00]: It wants to go in a certain direction.
+
+98
+00:10:03,908 --> 00:10:04,749
+[SPEAKER_01]: Well, that's the next one.
+
+99
+00:10:05,169 --> 00:10:05,549
+[SPEAKER_01]: Oh, yes.
+
+100
+00:10:05,609 --> 00:10:08,491
+[SPEAKER_01]: First, it's like, are the thoughts of sensuality?
+
+101
+00:10:09,211 --> 00:10:10,752
+[SPEAKER_01]: If he does not perceive them,
+
+102
+00:10:11,837 --> 00:10:18,999
+[SPEAKER_01]: But when encountering sense objects or a sign of beauty or a thought, craving and sensual desire arise, this opposes to being withdrawn.
+
+103
+00:10:19,039 --> 00:10:23,340
+[SPEAKER_01]: So, the answer to the first question might be like, oh no, I'm not.
+
+104
+00:10:23,420 --> 00:10:25,681
+[SPEAKER_01]: There are no thoughts currently besetting the mind.
+
+105
+00:10:26,481 --> 00:10:28,522
+[SPEAKER_01]: Okay, that's a neutral recognition.
+
+106
+00:10:29,342 --> 00:10:32,883
+[SPEAKER_01]: And that recognition is informed by the state of citta.
+
+107
+00:10:34,298 --> 00:10:40,840
+[SPEAKER_01]: Did not come from you as you answering what you think the answer should be.
+
+108
+00:10:41,620 --> 00:10:42,380
+[SPEAKER_01]: That's the difference.
+
+109
+00:10:43,060 --> 00:10:51,082
+[SPEAKER_01]: Like, that should be the answer, but you're not looking for it to come from that place, but you want it to come from the recognition of citta, which means you're open to any answer.
+
+110
+00:10:52,562 --> 00:10:54,563
+[SPEAKER_01]: So, are there thoughts of sensuality connected with citta?
+
+111
+00:10:56,548 --> 00:10:56,708
+[SPEAKER_01]: No.
+
+112
+00:10:57,289 --> 00:10:58,490
+[SPEAKER_01]: At least right now, no.
+
+113
+00:10:59,171 --> 00:11:00,212
+[SPEAKER_01]: The next one is okay.
+
+114
+00:11:00,652 --> 00:11:05,457
+[SPEAKER_01]: If, however, I were to think about the sign of beauty.
+
+115
+00:11:05,697 --> 00:11:06,318
+[SPEAKER_01]: And that's what it says.
+
+116
+00:11:07,139 --> 00:11:10,522
+[SPEAKER_01]: So, in the same way when he reflects on the perception of beauty.
+
+117
+00:11:10,762 --> 00:11:16,208
+[SPEAKER_01]: So, I'm not going and physically exposing my senses to unsuitable sights, sounds, smells, tastes, touches.
+
+118
+00:11:17,305 --> 00:11:35,811
+[SPEAKER_01]: That's been dealt with through withdrawal, through taming on that level, but now it's like, okay, if I were to bring up a sign of beauty, a sign of attractive, a sign of that which is incentive, inciting of lust, as the Pāli Sutta say, would then the citta turn towards it?
+
+119
+00:11:36,351 --> 00:11:40,432
+[SPEAKER_01]: Would then the citta leap with excitement towards it?
+
+120
+00:11:41,412 --> 00:11:43,193
+[SPEAKER_01]: And then you could already know the answer.
+
+121
+00:11:45,092 --> 00:11:55,529
+[SPEAKER_01]: It's like, okay, so I'll bring up a thought again, while keeping a corner of my eye on the animal, that feeling, on that mood, on that generality of, like, the state that I feel.
+
+122
+00:11:56,491 --> 00:11:57,673
+[SPEAKER_01]: Will there be a ripple in it?
+
+123
+00:11:57,713 --> 00:11:58,694
+[SPEAKER_01]: Will there be a movement?
+
+124
+00:11:58,955 --> 00:11:59,395
+[SPEAKER_01]: If so,
+
+125
+00:12:00,512 --> 00:12:02,353
+[SPEAKER_01]: citta is not free from sensuality.
+
+126
+00:12:02,553 --> 00:12:05,934
+[SPEAKER_01]: Again, not so that I can resolve it here and now, this very second.
+
+127
+00:12:06,054 --> 00:12:10,055
+[SPEAKER_01]: More like just to see the level of response that comes from the animal.
+
+128
+00:12:10,555 --> 00:12:13,416
+[SPEAKER_01]: So, it's literally like... like you have a dog tied down.
+
+129
+00:12:13,737 --> 00:12:14,297
+[SPEAKER_01]: Calm down.
+
+130
+00:12:14,497 --> 00:12:15,797
+[SPEAKER_01]: He's sitting next to you on a leash.
+
+131
+00:12:17,598 --> 00:12:29,202
+[SPEAKER_01]: Now, you don't know if the dog is calm because recently there hasn't been anything that's been provoking it, or because it has actually internally reached the state of, oh, this is a trained dog,
+
+132
+00:12:30,252 --> 00:12:31,573
+[SPEAKER_00]: And it's waiting for your instruction.
+
+133
+00:12:31,913 --> 00:12:32,273
+[SPEAKER_01]: Exactly.
+
+134
+00:12:32,373 --> 00:12:33,373
+[SPEAKER_01]: It won't act on its own.
+
+135
+00:12:33,474 --> 00:12:33,814
+[SPEAKER_01]: It's on.
+
+136
+00:12:34,334 --> 00:12:40,197
+[SPEAKER_01]: So, you have to, as I said, expose the triggers to see if the dog will twitch.
+
+137
+00:12:41,297 --> 00:12:50,681
+[SPEAKER_01]: And in this sense, those triggers are not going back to sights, sounds, smells, tastes, touches of unsuitable kind, but the triggers are, as the actual āgama says, reflecting on the perception of beauty.
+
+138
+00:12:51,682 --> 00:12:54,483
+[SPEAKER_01]: So, having the thoughts in a controlled environment.
+
+139
+00:12:55,924 --> 00:12:56,124
+[SPEAKER_01]: So,
+
+140
+00:12:58,412 --> 00:13:04,074
+[SPEAKER_01]: If the dog reacts because it's a controlled environment, it won't go too far.
+
+141
+00:13:04,254 --> 00:13:09,357
+[SPEAKER_01]: It will have given you a sufficient, suitable... That's enough of a feedback.
+
+142
+00:13:09,397 --> 00:13:12,298
+[SPEAKER_01]: I don't need it to go really wild, running after stuff.
+
+143
+00:13:12,378 --> 00:13:15,019
+[SPEAKER_01]: And that's exactly what the paragraph in the Sutta says.
+
+144
+00:13:15,719 --> 00:13:24,423
+[SPEAKER_01]: So, if he doesn't perceive the current thoughts, but when the citta, when the animal encounters the sense object or sign of beauty,
+
+145
+00:13:26,487 --> 00:13:34,493
+[SPEAKER_01]: Craving essential desire arises and that it's just like a man forcefully rowing a boat upstream against the current.
+
+146
+00:13:34,933 --> 00:13:36,755
+[SPEAKER_01]: So that is your current state then.
+
+147
+00:13:37,455 --> 00:13:51,727
+[SPEAKER_01]: If my citta is calm, because I'm keeping it calm, I'm keeping it withdrawn, I'm not exposing it to unsuitable sides, which is what you should do, but it does react if things were to come within its range, it's like me rowing a boat upstream.
+
+148
+00:13:52,570 --> 00:13:56,471
+[SPEAKER_01]: Which means it's going in the right direction for as long as I'm rowing.
+
+149
+00:13:56,511 --> 00:13:56,691
+[SPEAKER_00]: Yeah.
+
+150
+00:13:57,031 --> 00:14:00,993
+[SPEAKER_01]: But if I stop rowing, the boat goes back downstream immediately.
+
+151
+00:14:01,973 --> 00:14:03,233
+[SPEAKER_01]: That's not enough.
+
+152
+00:14:03,453 --> 00:14:05,374
+[SPEAKER_01]: That's not sufficient.
+
+153
+00:14:06,414 --> 00:14:15,197
+[SPEAKER_01]: And certainly, as the sutta says, like, he wouldn't be... a monk who recognizes that would not dare to declare of himself
+
+154
+00:14:17,331 --> 00:14:27,044
+[SPEAKER_01]: Oh, my mind is liberated through dispassion regarding the five codes of sensual desire, because it knows that if circumstances were to change, if I were to be exposed to unsuitable sight,
+
+155
+00:14:28,097 --> 00:14:34,463
+[SPEAKER_01]: My mind, basically, unless I'm sustaining the effort of rowing up the stream, my mind will go back.
+
+156
+00:14:34,663 --> 00:14:35,864
+[SPEAKER_01]: And that's not good enough.
+
+157
+00:14:36,125 --> 00:14:48,536
+[SPEAKER_00]: But that's the thing that people can... a monk can go into the forest and so on, sit down and and not be exposed, even avoid sensual thoughts and so on, and be, you know, secluded in that sense.
+
+158
+00:14:50,438 --> 00:14:54,459
+[SPEAKER_00]: But, he doesn't, he doesn't bring these little triggers up, does he?
+
+159
+00:14:54,559 --> 00:15:00,261
+[SPEAKER_00]: He doesn't, he doesn't think on the possibility of, oh, I could go towards your sensuality in there.
+
+160
+00:15:00,281 --> 00:15:14,045
+[SPEAKER_01]: Well, see, that's, like, you, you find, now, when you, when we sort of expound on this founding āgama, you get to see, like, oh, yeah, there are suttas in Pali that say things such as
+
+161
+00:15:14,477 --> 00:15:19,501
+[SPEAKER_01]: Can unreasonable, sensual desire arise in me, if I were to attend to things wrongly?
+
+162
+00:15:20,501 --> 00:15:30,829
+[SPEAKER_01]: So, there is that training through the triggers and stuff, but without the additional context, such as, like, which this Agama provides, for example.
+
+163
+00:15:31,869 --> 00:15:39,755
+[SPEAKER_01]: Again, it can mean anything, but now you have slightly different input, and now you get to recognize other things in Pali that actually talk about the same.
+
+164
+00:15:41,365 --> 00:15:42,326
+[SPEAKER_01]: And that would be exactly that.
+
+165
+00:15:42,366 --> 00:15:44,688
+[SPEAKER_01]: So, okay, there is no current desire.
+
+166
+00:15:45,529 --> 00:15:46,609
+[SPEAKER_01]: That is your work, to reckon.
+
+167
+00:15:46,630 --> 00:15:47,590
+[SPEAKER_01]: Is there a current desire?
+
+168
+00:15:47,750 --> 00:15:49,872
+[SPEAKER_01]: Are there currently thoughts besetting the citta?
+
+169
+00:15:50,513 --> 00:15:50,673
+[SPEAKER_01]: No.
+
+170
+00:15:51,574 --> 00:15:54,796
+[SPEAKER_01]: Could there be desire if the thoughts were to change?
+
+171
+00:15:55,817 --> 00:16:03,644
+[SPEAKER_01]: And you, as I said, even without going into the specifics of the thoughts, you could already see if there is a trigger, if the dog twitches, if like, oh, is there something?
+
+172
+00:16:04,545 --> 00:16:05,646
+[SPEAKER_01]: And that's already your answer.
+
+173
+00:16:05,786 --> 00:16:06,026
+[SPEAKER_01]: Yeah.
+
+174
+00:16:07,328 --> 00:16:30,880
+[SPEAKER_01]: But then, yes, even if within that controlled environment you do actually, like, bring up, through that controlled reflection, a sign of beauty, a sign of attractive, a preference of yours, that always makes the mind, like, you know, wants to jump towards it.
+
+175
+00:16:31,640 --> 00:16:33,681
+[SPEAKER_01]: It's like, oh, okay, so that's what happens.
+
+176
+00:16:35,598 --> 00:16:45,140
+[SPEAKER_01]: When I bring this sign of beauty, in this specific, specific sign of beauty, whatever works for you, the mind gets agitated.
+
+177
+00:16:45,820 --> 00:16:49,881
+[SPEAKER_01]: Again, it's not like I must stop bringing it up.
+
+178
+00:16:49,901 --> 00:16:55,122
+[SPEAKER_01]: It's like, I'll stop bringing it up if the agitation becomes too overwhelming.
+
+179
+00:16:56,482 --> 00:17:00,723
+[SPEAKER_01]: But otherwise, I should bring it up until the dog is not jumping up.
+
+180
+00:17:01,605 --> 00:17:05,648
+[SPEAKER_01]: So, I should bring it up through right attention, through yoniso, manasikāra.
+
+181
+00:17:06,168 --> 00:17:15,894
+[SPEAKER_01]: I should bring it up through right context, to rewrite, to retrain the animal to not react like this, but to actually prefer withdrawal from it.
+
+182
+00:17:16,535 --> 00:17:18,136
+[SPEAKER_01]: And again, Pali suttas do say that.
+
+183
+00:17:18,836 --> 00:17:22,999
+[SPEAKER_01]: When rightly attended, desire increases.
+
+184
+00:17:23,019 --> 00:17:29,263
+[SPEAKER_01]: Sorry, when rightly intended, the arisen desire decreases and non-arising of desire basically occurs, so to speak.
+
+185
+00:17:30,248 --> 00:17:48,539
+[SPEAKER_01]: So, it's like, okay, so my work is to be physically withdrawn, find a place of seclusion, if possible, or to the best of my abilities, and then start doing the mental work of training the animal, of bringing up the triggering things.
+
+186
+00:17:49,059 --> 00:17:55,383
+[SPEAKER_01]: And, by the way, this is like about sensuality, but you realize in regard to any ill will, delusion, fear, anxiety, any hindrance, pretty much.
+
+187
+00:17:56,446 --> 00:18:03,588
+[SPEAKER_01]: Not to force the animal into submission or something, but to bring it up and say, oh, it jumps up.
+
+188
+00:18:03,768 --> 00:18:04,708
+[SPEAKER_01]: Why does it jump up?
+
+189
+00:18:05,028 --> 00:18:07,729
+[SPEAKER_01]: Well, it jumps up because it doesn't see the danger in those thoughts.
+
+190
+00:18:07,949 --> 00:18:25,253
+[SPEAKER_01]: So, again, while bringing up the same signs of beauty, bring it up within the context of danger of touching it, the context of poison and stuff, work your way into that context and broaden it through reflection, even like verbal thinking in a way.
+
+191
+00:18:25,773 --> 00:18:38,284
+[SPEAKER_01]: So, it's like, okay, now I'm bringing it up, but at the same time, while I'm showing this to my dog, at the same time, I'm showing it a bigger picture as well, which is, look at the pain implicit in it and let it see for itself.
+
+192
+00:18:38,424 --> 00:18:40,946
+[SPEAKER_01]: It's not going to immediately see it, but keep it like that.
+
+193
+00:18:42,327 --> 00:18:44,148
+[SPEAKER_01]: And what's the measure of seeing it for itself?
+
+194
+00:18:44,389 --> 00:18:45,430
+[SPEAKER_01]: What would be the measure?
+
+195
+00:18:46,871 --> 00:18:49,353
+[SPEAKER_01]: That, oh, it's seeing it a bit more for itself.
+
+196
+00:18:51,705 --> 00:18:56,388
+[SPEAKER_00]: Well, if I go, obviously, while the sutra said that the dog settles down.
+
+197
+00:18:56,528 --> 00:19:00,911
+[SPEAKER_01]: Or the dog doesn't say... like, let's say, for example, the dog is not as excited.
+
+198
+00:19:01,272 --> 00:19:01,932
+[SPEAKER_01]: Instant trigger.
+
+199
+00:19:02,092 --> 00:19:04,794
+[SPEAKER_01]: It's up on its four legs and it's just waiting to pound.
+
+200
+00:19:04,994 --> 00:19:12,860
+[SPEAKER_01]: Now, with the right context behind, kind of looming behind the immediate signs of beauty that I have recollected,
+
+201
+00:19:13,560 --> 00:19:22,583
+[SPEAKER_01]: for the purpose of showing it to the dog to see its reaction, but I'm also including in that perception the danger, the peril, the everything that entails.
+
+202
+00:19:23,543 --> 00:19:25,443
+[SPEAKER_01]: Oh, it twitched, but it didn't get up.
+
+203
+00:19:25,964 --> 00:19:26,164
+[SPEAKER_00]: Yeah.
+
+204
+00:19:26,304 --> 00:19:26,604
+[SPEAKER_01]: Okay.
+
+205
+00:19:27,084 --> 00:19:28,484
+[SPEAKER_01]: So, let's repeat this.
+
+206
+00:19:28,544 --> 00:19:29,165
+[SPEAKER_01]: Let's maintain this.
+
+207
+00:19:29,225 --> 00:19:30,385
+[SPEAKER_01]: Let's not lose this.
+
+208
+00:19:31,446 --> 00:19:48,659
+[SPEAKER_01]: To the point of, as the sutta goes on, I mean, we'll go by the examples, yeah, to the point of that, basically, when the monk encounters sense objects, apprehends the signs of beauty, reflects on signs of beauty, he perceives his citta inclining away from it.
+
+209
+00:19:50,620 --> 00:20:00,548
+[SPEAKER_01]: So the dog is not just still in face of provocation, it actually... the animal, not you doing it, the animal wants nothing to do with it.
+
+210
+00:20:02,080 --> 00:20:03,181
+[SPEAKER_01]: Well, it turns away from you.
+
+211
+00:20:03,201 --> 00:20:04,842
+[SPEAKER_01]: Like, oh, I have no interest in this.
+
+212
+00:20:05,663 --> 00:20:12,287
+[SPEAKER_01]: And, actually, yeah, you can see that in the basis of the dog training, that we are familiar.
+
+213
+00:20:13,728 --> 00:20:18,792
+[SPEAKER_01]: Like, you give an untrained dog, like, food from your hand, and he just grabs it.
+
+214
+00:20:20,413 --> 00:20:21,654
+[SPEAKER_01]: He grabs your finger with it.
+
+215
+00:20:22,855 --> 00:20:29,480
+[SPEAKER_01]: And then, it's like through repetition of, like, no, not letting you take it like that, until you allow it to,
+
+216
+00:20:30,711 --> 00:20:37,612
+[SPEAKER_01]: The point comes, and I remember that happened with a number of the dogs, like, as you bring the food in front of them, they turn away their head.
+
+217
+00:20:38,172 --> 00:20:40,313
+[SPEAKER_01]: It's like, oh, I mustn't take it.
+
+218
+00:20:41,473 --> 00:20:45,394
+[SPEAKER_01]: And they're not... so they can't just, okay, I mustn't take it, but I'll just, like, like, stay.
+
+219
+00:20:45,454 --> 00:20:47,434
+[SPEAKER_01]: It's like, no, no, I mustn't take it, I'll look away.
+
+220
+00:20:47,834 --> 00:20:49,354
+[SPEAKER_01]: I will look away, because this is danger.
+
+221
+00:20:50,515 --> 00:20:52,435
+[SPEAKER_01]: Taking this without permission is danger.
+
+222
+00:20:52,755 --> 00:20:53,155
+[SPEAKER_01]: Right, right.
+
+223
+00:20:53,495 --> 00:20:57,136
+[SPEAKER_01]: So, they look away, and they continue looking away until I say, okay, go ahead.
+
+224
+00:20:57,576 --> 00:20:58,396
+[SPEAKER_01]: And then they take the food
+
+225
+00:20:59,567 --> 00:21:03,331
+[SPEAKER_01]: Well, in this case, obviously, there is no, okay, go ahead, in terms of sensuality.
+
+226
+00:21:03,391 --> 00:21:03,591
+[SPEAKER_01]: Yeah.
+
+227
+00:21:04,112 --> 00:21:05,774
+[SPEAKER_01]: But the principle is the same.
+
+228
+00:21:05,954 --> 00:21:21,231
+[SPEAKER_01]: So, it's like, when the monk encounters sense objects or apprehends a sign of beauty, if he perceives his citta inclining, flowing, pouring toward, being withdrawn from the... everything that that sign of beauty implies,
+
+229
+00:21:24,338 --> 00:21:31,592
+[SPEAKER_01]: Then, it's just like a bird feather cast into a fire, it shrivels and curls, unable to unfurl and spread out.
+
+230
+00:21:32,113 --> 00:21:34,197
+[SPEAKER_01]: So, it coils away from it, basically.
+
+231
+00:21:36,091 --> 00:21:44,936
+[SPEAKER_01]: So, in the same way, when the monk apprehends the sign of beauty, when he reflects on the sign of beauty, he instead inclines towards being withdrawn, flowing and pouring deeply into that withdrawal, i.e.
+
+232
+00:21:45,097 --> 00:21:46,317
+[SPEAKER_01]: away from the sign of beauty.
+
+233
+00:21:47,378 --> 00:21:58,365
+[SPEAKER_01]: You should know this regarding a monk whose citta does not slacken in his striving saṅkhara, who attains the peace of dhamma, samatha, rest, sukha, and pure citta with elevation, by turning away from sensual perceptions.
+
+234
+00:21:59,921 --> 00:22:06,185
+[SPEAKER_01]: And then he can clearly make a statement that his mind is liberated through this passion regarding the five codes of the essential pleasures.
+
+235
+00:22:06,686 --> 00:22:07,706
+[SPEAKER_01]: Yeah, that's the measure.
+
+236
+00:22:08,107 --> 00:22:09,047
+[SPEAKER_01]: That's the measure, exactly.
+
+237
+00:22:09,087 --> 00:22:10,268
+[SPEAKER_00]: Not just how you feel.
+
+238
+00:22:10,508 --> 00:22:11,209
+[SPEAKER_01]: Not how you feel.
+
+239
+00:22:11,789 --> 00:22:12,770
+[SPEAKER_01]: Not how you
+
+240
+00:22:15,235 --> 00:22:23,701
+[SPEAKER_01]: Temporarily abide on account of setting up the right circumstances, which is necessary, which is supportive, but it's conditional.
+
+241
+00:22:24,742 --> 00:22:30,907
+[SPEAKER_01]: So, as we started by explaining, it's like, oh, but if circumstances change, where would the wild animal incline?
+
+242
+00:22:31,107 --> 00:22:31,307
+[SPEAKER_00]: Yeah.
+
+243
+00:22:31,347 --> 00:22:32,748
+[SPEAKER_00]: Where will it pour towards?
+
+244
+00:22:33,568 --> 00:22:35,249
+[SPEAKER_00]: Why will it flow hard towards?
+
+245
+00:22:35,929 --> 00:22:36,470
+[SPEAKER_00]: And that's the...
+
+246
+00:22:36,810 --> 00:22:45,734
+[SPEAKER_00]: So, even just the possibility of that sensual perception or experience is... That's what you're doing.
+
+247
+00:22:45,754 --> 00:22:47,095
+[SPEAKER_00]: You're showing it a possibility.
+
+248
+00:22:47,815 --> 00:22:53,238
+[SPEAKER_00]: But... and at the same time, you're showing it the context of danger regarding that whole possibility.
+
+249
+00:22:54,299 --> 00:22:58,604
+[SPEAKER_00]: And you wanted to, from that place, to turn back already.
+
+250
+00:22:58,624 --> 00:23:00,706
+[SPEAKER_00]: Like, oh, yeah, I've seen the danger now.
+
+251
+00:23:00,746 --> 00:23:05,692
+[SPEAKER_00]: So you, as soon as that possibility is there, the danger is there for it.
+
+252
+00:23:05,712 --> 00:23:09,496
+[SPEAKER_01]: The association, if it's developed sufficiently enough, becomes inseparable.
+
+253
+00:23:09,516 --> 00:23:13,361
+[SPEAKER_01]: Like, you have to follow up by bringing up, which you will have to do in the beginning.
+
+254
+00:23:15,529 --> 00:23:20,913
+[SPEAKER_01]: Possibility, the apprehending of the sign of beauty, will not be implying the danger in and of itself.
+
+255
+00:23:21,053 --> 00:23:22,714
+[SPEAKER_01]: It's something that you have to keep.
+
+256
+00:23:22,914 --> 00:23:23,975
+[SPEAKER_01]: Don't forget about this, though.
+
+257
+00:23:24,095 --> 00:23:26,496
+[SPEAKER_01]: If you want that, this is what comes with it.
+
+258
+00:23:26,596 --> 00:23:26,797
+[SPEAKER_01]: Yeah.
+
+259
+00:23:27,577 --> 00:23:33,941
+[SPEAKER_01]: That's the training, that's the diligence, that's the repetitive work of not losing that broader picture, as we often say.
+
+260
+00:23:34,922 --> 00:23:36,103
+[SPEAKER_01]: But, you do that long enough,
+
+261
+00:23:38,125 --> 00:23:49,689
+[SPEAKER_01]: Possibility or a mere apprehension, a mere thinking of a sign of beauty, of a provocative thought, the danger is in it.
+
+262
+00:23:50,289 --> 00:23:58,792
+[SPEAKER_01]: Like, you don't have to follow up by adding more context that's now... that was previously omitted from it, so to speak.
+
+263
+00:24:00,093 --> 00:24:04,554
+[SPEAKER_01]: So, it's not me rowing upstream anymore, keeping things going upstream.
+
+264
+00:24:05,574 --> 00:24:06,615
+[SPEAKER_01]: It's the genuine
+
+265
+00:24:08,085 --> 00:24:09,066
+[SPEAKER_01]: preference of the animal.
+
+266
+00:24:09,186 --> 00:24:14,449
+[SPEAKER_01]: In other words, I stopped rowing and the boat's still going in the same direction, because the animal is now paddling.
+
+267
+00:24:19,071 --> 00:24:22,353
+[SPEAKER_01]: Yeah, there's another interesting bit in...
+
+268
+00:24:23,633 --> 00:24:28,476
+[SPEAKER_01]: So, back on to the first case, and it's repeated in the second one as well.
+
+269
+00:24:29,176 --> 00:24:35,920
+[SPEAKER_01]: It's like, in the same way, when the monk reflects on the perception of beauty, craving and sensual desire arise again.
+
+270
+00:24:36,795 --> 00:24:49,218
+[SPEAKER_01]: Opposing being withdrawn, undermining his withdrawal, that he's working, that he worked towards and he's and he's maintaining through, as I said, avoiding unsuitable sites.
+
+271
+00:24:49,758 --> 00:24:56,380
+[SPEAKER_01]: While this monk is training in this manner, he undertakes the development of inferior striving and does not attain purity.
+
+272
+00:24:57,000 --> 00:25:05,462
+[SPEAKER_01]: In other words, his striving is still on the level of working with the environment, avoiding unsuitable sites and he's not capable
+
+273
+00:25:06,740 --> 00:25:16,266
+[SPEAKER_01]: ...of dwelling in seclusion and getting the clear references and, as I said, sufficient feedback from the actual state of citta.
+
+274
+00:25:18,147 --> 00:25:20,309
+[SPEAKER_01]: That's the non-inferior.
+
+275
+00:25:20,409 --> 00:25:22,370
+[SPEAKER_01]: That's the elevated type of striving.
+
+276
+00:25:22,910 --> 00:25:30,255
+[SPEAKER_01]: You're not, like, operating through secondary pointers of what dog... what your dog really wants or acts towards.
+
+277
+00:25:30,335 --> 00:25:34,117
+[SPEAKER_01]: You're just reading the dog's body language without any other input.
+
+278
+00:25:34,137 --> 00:25:34,838
+[SPEAKER_01]: You don't need it.
+
+279
+00:25:36,357 --> 00:25:38,458
+[SPEAKER_01]: So, that's something that needs to be worked towards.
+
+280
+00:25:38,758 --> 00:25:49,404
+[SPEAKER_01]: And again, here, like, you know, this passage mentioned, generally, in the Pali, it's kind of scattered in different passages and so on, that you might, as I said, construct the correct image.
+
+281
+00:25:49,584 --> 00:25:59,068
+[SPEAKER_01]: But it's never really expressed in this manner, as a whole, that you could clearly... or at least I don't remember a sutta, really, off the top of my head.
+
+282
+00:25:59,729 --> 00:26:04,211
+[SPEAKER_01]: So, because of the inferior striving, because he's not able
+
+283
+00:26:05,983 --> 00:26:18,048
+[SPEAKER_01]: To directly get the live feedback from the state of his citta, he swept away, once again, by craving and sensual desire, failing to attain the power of the dhamma.
+
+284
+00:26:19,009 --> 00:26:26,412
+[SPEAKER_01]: Meaning the power of the right context, the power of... because if you read stuff directly, live feedback from the citta,
+
+285
+00:26:27,910 --> 00:26:44,324
+[SPEAKER_01]: Again, there is like... there's immediate recognition, immediate, no-delay response training for the animal, which means that elevates the whole relationship already, elevates the citta, protects the withdrawal better, because it's not dependent on circumstances.
+
+286
+00:26:45,785 --> 00:26:47,146
+[SPEAKER_01]: So, it's more accurate, so to speak.
+
+287
+00:26:47,766 --> 00:26:51,209
+[SPEAKER_01]: So, that's why he... because he doesn't... he's not able to do that.
+
+288
+00:26:51,830 --> 00:26:54,132
+[SPEAKER_01]: He's swept away when craving and desire comes.
+
+289
+00:26:55,802 --> 00:27:00,426
+[SPEAKER_01]: He doesn't attain that effortless... as the Pali would say, actually.
+
+290
+00:27:00,446 --> 00:27:02,007
+[SPEAKER_01]: See, attain the power of the dhamma.
+
+291
+00:27:02,248 --> 00:27:07,272
+[SPEAKER_01]: Here, the line corresponds to the tireless energy arose in me.
+
+292
+00:27:07,632 --> 00:27:22,625
+[SPEAKER_01]: But in this case, it says, his citta is still without peace, lacking the elevation, and upon encountering the sign of beauty, craving and sensual desire will arise accordingly, flowing forcefully and deeply, opposing being withdrawn.
+
+293
+00:27:27,003 --> 00:27:32,066
+[SPEAKER_01]: So, in other words, his practice is still not astute enough.
+
+294
+00:27:33,047 --> 00:27:47,096
+[SPEAKER_01]: He's still not directly, sufficiently recognizing the state of the animal, the state of citta, without any kind of inferred secondary conclusions on account of, you know,
+
+295
+00:27:49,528 --> 00:27:55,913
+[SPEAKER_01]: Being physically withdrawn from this, avoiding sight, sound, smell, taste, touch, that usually results in that, and then if I don't do that, results in this.
+
+296
+00:27:56,213 --> 00:28:14,027
+[SPEAKER_01]: That's all good and fine when you begin, but it needs to be upgraded to the point where you don't even need those secondary reminders, but literally just internally observing the state of the mind, whether it's leaning towards, oh, I want that or not, and already seeing that as a phenomenon, as a thing, without needing the extra interpretation.
+
+297
+00:28:15,349 --> 00:28:16,630
+[SPEAKER_01]: of the state of your citta.
+
+298
+00:28:17,411 --> 00:28:29,840
+[SPEAKER_01]: And that's the... then the opposite says, for the monk that does train correctly, that is able to now directly train on the level of whatever the state citta is in,
+
+299
+00:28:32,022 --> 00:28:38,463
+[SPEAKER_01]: You should know that this monk, whose citta does not slacken in his striving saṅkhara, so there is no delay.
+
+300
+00:28:38,683 --> 00:28:40,464
+[SPEAKER_01]: Not slacken means there's no delay.
+
+301
+00:28:40,604 --> 00:28:43,164
+[SPEAKER_01]: Like, his effort is directly met by the dog.
+
+302
+00:28:43,224 --> 00:28:51,306
+[SPEAKER_01]: There is no, I gotta repeat a few times, because the dog is slacking, it's not listening, it gets distracted, I need to make it more pliable.
+
+303
+00:28:51,746 --> 00:28:51,906
+[SPEAKER_01]: No.
+
+304
+00:28:52,026 --> 00:28:52,866
+[SPEAKER_01]: That has been done.
+
+305
+00:28:54,767 --> 00:28:56,307
+[SPEAKER_01]: And now the citta doesn't slacken,
+
+306
+00:28:57,125 --> 00:29:04,050
+[SPEAKER_01]: He attains the peace of the dhamma, samatha, he attains the rest, the pleasure, sukha, and the pure, i.e.
+
+307
+00:29:04,590 --> 00:29:08,954
+[SPEAKER_01]: clean, no-delay state of the animal, with elevation.
+
+308
+00:29:09,614 --> 00:29:09,794
+[SPEAKER_01]: i.e.
+
+309
+00:29:09,974 --> 00:29:16,539
+[SPEAKER_01]: animal is now elevated from the things that corrupt it, doesn't want them, turns away from them, prefers this.
+
+310
+00:29:20,510 --> 00:29:29,596
+[SPEAKER_01]: In other words, animal understood for itself everything you've been telling it up to that point.
+
+311
+00:29:30,397 --> 00:29:32,378
+[SPEAKER_01]: Which is what the right training was.
+
+312
+00:29:32,738 --> 00:29:35,180
+[SPEAKER_01]: Telling the right perceptions and the right things to that animal.
+
+313
+00:29:35,220 --> 00:29:35,880
+[SPEAKER_00]: At the right time.
+
+314
+00:29:36,521 --> 00:29:37,381
+[SPEAKER_01]: At the right time, exactly.
+
+315
+00:29:37,582 --> 00:29:39,323
+[SPEAKER_01]: The dog is chasing its prey.
+
+316
+00:29:40,457 --> 00:29:43,221
+[SPEAKER_01]: You are shouting at it, sit, sit.
+
+317
+00:29:43,762 --> 00:29:44,002
+[SPEAKER_00]: Yeah.
+
+318
+00:29:44,322 --> 00:29:46,085
+[SPEAKER_01]: And it's like, it never happens.
+
+319
+00:29:46,966 --> 00:29:57,460
+[SPEAKER_01]: And only people that, as I said, people would do that when they don't know what are the prerequisites, what are the necessary steps for the dog to be able to hear and associate sit with the right action.
+
+320
+00:29:59,776 --> 00:30:11,346
+[SPEAKER_01]: And that's exactly people, generally, like your average person, who is not familiar in what the actual early suttas would say, or arguments contribute, but just follow the generic ideas of Buddhist practice, meditation, peace.
+
+321
+00:30:12,227 --> 00:30:13,287
+[SPEAKER_01]: It would be exactly like that.
+
+322
+00:30:13,328 --> 00:30:21,514
+[SPEAKER_01]: It would be like mind not withdrawn from sensuality, not withdrawn from hindrances by any means, only occasionally, only conditionally, when you're on a retreat.
+
+323
+00:30:22,255 --> 00:30:27,880
+[SPEAKER_01]: And then, doing random stuff that you yourself don't know what's... what it should result into,
+
+324
+00:30:29,773 --> 00:30:39,857
+[SPEAKER_01]: So, in other words, you're saying commands in a language that you yourself don't understand, such as meditating for the pleasure, meditating through techniques for the novelty experiences.
+
+325
+00:30:39,977 --> 00:30:41,517
+[SPEAKER_01]: You don't quite know what will come out of it.
+
+326
+00:30:41,557 --> 00:30:44,038
+[SPEAKER_01]: You just hope something will come out of it.
+
+327
+00:30:44,138 --> 00:30:57,163
+[SPEAKER_01]: So, I'm just reading, I'm just shouting random words that I don't understand, expecting that the dog that still lives concerned with its sensual desires will magically sit down and obey my command.
+
+328
+00:30:57,583 --> 00:30:58,924
+[SPEAKER_01]: That's how divorced
+
+329
+00:31:00,073 --> 00:31:04,078
+[SPEAKER_01]: The thing is that the practice is from the actual application.
+
+330
+00:31:04,479 --> 00:31:09,725
+[SPEAKER_00]: Yeah, well, you... if you want to train the dog, you need to see the dog.
+
+331
+00:31:09,865 --> 00:31:10,666
+[SPEAKER_00]: You need to find it.
+
+332
+00:31:11,127 --> 00:31:13,069
+[SPEAKER_01]: So, it's... again, it's mentioned in Pali.
+
+333
+00:31:13,938 --> 00:31:24,122
+[SPEAKER_01]: The sufficient taming of the dog that you're supposed to train is a prerequisite, is a precursor to the right view, to everything that comes.
+
+334
+00:31:24,582 --> 00:31:32,965
+[SPEAKER_01]: Precursor to the right training of the dog is withdrawing it from everything unsuitable that's still keeping it outwardly wild.
+
+335
+00:31:33,895 --> 00:31:37,077
+[SPEAKER_01]: Because, like, your voice is not even a factor for a wild animal.
+
+336
+00:31:37,697 --> 00:31:42,140
+[SPEAKER_01]: Like, there's no, like, oh, when I hear this, I must do this, or I must stop doing that.
+
+337
+00:31:42,740 --> 00:31:46,323
+[SPEAKER_01]: It's literally just another noise that comes from the external things that I react to.
+
+338
+00:31:46,343 --> 00:31:47,263
+[SPEAKER_01]: Noisy environment, yeah.
+
+339
+00:31:47,523 --> 00:31:47,723
+[SPEAKER_01]: Yeah.
+
+340
+00:31:47,984 --> 00:31:49,124
+[SPEAKER_00]: I'm just barking everywhere.
+
+341
+00:31:49,204 --> 00:31:50,505
+[SPEAKER_00]: I'm just barking at everything, yeah.
+
+342
+00:31:51,486 --> 00:31:54,327
+[SPEAKER_00]: The chances of now that animal being tamed...
+
+343
+00:31:55,328 --> 00:31:57,309
+[SPEAKER_00]: Wow, you're just throwing commands... No.
+
+344
+00:31:57,369 --> 00:32:01,452
+[SPEAKER_01]: Well, the only person that doesn't understand the principle of training would be trying that.
+
+345
+00:32:01,632 --> 00:32:16,380
+[SPEAKER_01]: And you see that again, like, you see that when somebody... when you show somebody how to get their own dog to sit, and then they think you speak... you're a whisperer, you speak a magic language that dogs understand, because they can't read, you know.
+
+346
+00:32:16,740 --> 00:32:19,382
+[SPEAKER_01]: You say it when there's an eye contact with the dog.
+
+347
+00:32:20,382 --> 00:32:24,685
+[SPEAKER_01]: When you get its attention, you know, now if I say the command, it will respond.
+
+348
+00:32:26,211 --> 00:32:29,434
+[SPEAKER_01]: But, without getting its eye contact, that's, like, one of the basic things.
+
+349
+00:32:29,514 --> 00:32:40,162
+[SPEAKER_01]: Without getting the eye contact first, eye... attention is on me, you would see this person, then, trying to emulate what they saw you do, and just start saying, sit, sit, sit, sit.
+
+350
+00:32:40,182 --> 00:32:40,382
+[SPEAKER_01]: Yeah.
+
+351
+00:32:40,462 --> 00:32:43,325
+[SPEAKER_01]: And dog is, like, from the start, hasn't paid attention to them.
+
+352
+00:32:43,385 --> 00:32:44,506
+[SPEAKER_01]: It's like, it's not sitting.
+
+353
+00:32:44,526 --> 00:32:44,726
+[SPEAKER_00]: Yeah.
+
+354
+00:32:45,206 --> 00:32:49,950
+[SPEAKER_01]: And then, you get him to pay attention to you, even for a millisecond, and in that millisecond, you tell it to sit, and it sits.
+
+355
+00:32:51,637 --> 00:32:55,680
+[SPEAKER_01]: And externally, for somebody who doesn't understand how training works, it looks like magic.
+
+356
+00:32:56,120 --> 00:33:03,804
+[SPEAKER_00]: So, yeah, so you need to find the animal and the animal needs to see, find you.
+
+357
+00:33:04,125 --> 00:33:06,566
+[SPEAKER_01]: And that's why, like, it's not negotiable, the whole...
+
+358
+00:33:08,508 --> 00:33:10,230
+[SPEAKER_01]: The virtue, the precepts...
+
+359
+00:33:10,310 --> 00:33:24,750
+[SPEAKER_01]: So, if you can't do the eight precepts, your training then, of that striving saṅkhara, or rowing your boat up the stream, has to be concerned with, okay, increasing my capacity to be able to keep the eight precepts.
+
+360
+00:33:26,033 --> 00:33:31,779
+[SPEAKER_01]: To be celibate, to be withdrawn from sensuality, in those, as I said, outwardly coarse manners.
+
+361
+00:33:32,400 --> 00:33:39,407
+[SPEAKER_01]: If I'm failing that, there is no subtle recognition of the state of my German shepherd that I'm training.
+
+362
+00:33:39,427 --> 00:33:47,375
+[SPEAKER_01]: No, it's just... Conditionally, I can maybe containing every now and then, but generally I'm very much under its own rule, not other way around.
+
+363
+00:33:50,480 --> 00:33:51,642
+[SPEAKER_00]: There's a danger there.
+
+364
+00:33:52,063 --> 00:34:04,963
+[SPEAKER_00]: You think you're practicing, but if you're not seeing this feedback, that your mind is not turning away from these possibilities of sensuality, then, the thing is, your striving is going to end sometime.
+
+365
+00:34:05,383 --> 00:34:05,564
+[SPEAKER_00]: Yeah.
+
+366
+00:34:05,884 --> 00:34:10,285
+[SPEAKER_00]: You're gonna get sick and your little circumstantial spiritual life...
+
+367
+00:34:11,266 --> 00:34:18,088
+[SPEAKER_01]: Sooner or later, whatever circumstantially you would have built up, if it stays circumstantial, will have to go away.
+
+368
+00:34:18,148 --> 00:34:19,788
+[SPEAKER_00]: And the mind's gonna go back to what it's...
+
+369
+00:34:19,808 --> 00:34:21,449
+[SPEAKER_01]: Exactly, which means then...
+
+370
+00:34:21,489 --> 00:34:23,549
+[SPEAKER_00]: Flows forcefully in the direction it wants to go.
+
+371
+00:34:24,690 --> 00:34:32,012
+[SPEAKER_01]: Because people, by not recognizing that it's a big danger, that's how people remain very much within the scope of that danger.
+
+372
+00:34:32,152 --> 00:34:33,452
+[SPEAKER_01]: By thinking, oh, it's not a problem.
+
+373
+00:34:33,692 --> 00:34:35,233
+[SPEAKER_00]: Yeah, because I feel great now.
+
+374
+00:34:35,473 --> 00:34:35,653
+[SPEAKER_01]: Yeah.
+
+375
+00:34:37,710 --> 00:34:55,017
+[SPEAKER_01]: And it it's not a problem feeling great now, but you need to recognize that or reflect on whether you are feeling great now, whether that comes on account of you have circumstantially protected yourself through the right environment and this and that and having nothing trigger you.
+
+376
+00:34:56,040 --> 00:35:04,122
+[SPEAKER_01]: Or having every ready psychological kind of rationalizations ready, whenever triggers come up, to like quickly...
+
+377
+00:35:04,142 --> 00:35:10,164
+[SPEAKER_01]: Okay, but that's that, that's this, and dismiss it, and not have the the state of the agitated animal that you have to endure.
+
+378
+00:35:10,764 --> 00:35:14,004
+[SPEAKER_01]: Or you recognize that your peace comes from all of not doing any of that.
+
+379
+00:35:14,305 --> 00:35:23,527
+[SPEAKER_01]: So it's like, I've done this right circumstances, provided and stuff, but then I've also endured the agitation of the animal without acting out rightly, learned to read its signs directly,
+
+380
+00:35:24,549 --> 00:35:30,331
+[SPEAKER_01]: Having not acted out in any ways, brought up the triggers, so to see whether the animal will stay calm.
+
+381
+00:35:30,451 --> 00:35:35,033
+[SPEAKER_01]: If it doesn't stay calm, I repeat, you know, the broadening of the context, the danger and stuff.
+
+382
+00:35:35,513 --> 00:35:37,093
+[SPEAKER_01]: And now it's calm, and now it's acting.
+
+383
+00:35:37,113 --> 00:35:39,174
+[SPEAKER_01]: It's like, oh, now I can actually relax.
+
+384
+00:35:39,254 --> 00:35:41,555
+[SPEAKER_01]: Like the two types of thoughts that it has.
+
+385
+00:35:42,115 --> 00:35:47,257
+[SPEAKER_01]: After a while, he would, you know, the shepherd can go to sleep, basically, and the cows would still be there.
+
+386
+00:35:47,297 --> 00:35:52,739
+[SPEAKER_01]: They would not wander back into the unsuitable pastures like how they used to do.
+
+387
+00:35:53,982 --> 00:36:03,949
+[SPEAKER_01]: And it's like, okay, that piece is fine, and you can make your claim and your attainments and stuff, but if it's circumstantial, or if you're not sure, means it's circumstantial, basically.
+
+388
+00:36:04,749 --> 00:36:19,680
+[SPEAKER_01]: Which means, when conditions change, you end up in a hospital or something, where you cannot micromanage the input that comes through your senses and stuff, or resort to your meditation technique in a perfect silence, in an artificial environment of a meditation retreat,
+
+389
+00:36:20,806 --> 00:36:22,187
+[SPEAKER_00]: It's like... You can't manage.
+
+390
+00:36:22,467 --> 00:36:25,028
+[SPEAKER_01]: Well, the animal would just be as wild as it always was.
+
+391
+00:36:25,588 --> 00:36:29,429
+[SPEAKER_00]: You want the thing to be free and to be doing the right things by itself.
+
+392
+00:36:29,729 --> 00:36:30,169
+[SPEAKER_01]: By itself.
+
+393
+00:36:30,249 --> 00:36:30,790
+[SPEAKER_01]: That's the goal.
+
+394
+00:36:31,850 --> 00:36:33,631
+[SPEAKER_00]: You want it to be liberated from...
+
+395
+00:36:33,911 --> 00:36:34,251
+[SPEAKER_01]: Exactly.
+
+396
+00:36:34,331 --> 00:36:36,032
+[SPEAKER_01]: That's why he knows it's liberated.
+
+397
+00:36:38,546 --> 00:37:01,483
+[SPEAKER_00]: Notice that, you know, when a... that which used to... or that which makes you angry, you get angry from, and then you encounter things that are invocative of anger, provocative, sorry, of anger, and the mind... you don't have to tell the mind anything, and it just...
+
+398
+00:37:02,583 --> 00:37:05,064
+[SPEAKER_00]: It turns away from that, like, experience.
+
+399
+00:37:05,144 --> 00:37:07,965
+[SPEAKER_01]: It might even surprise you, in that sense.
+
+400
+00:37:08,265 --> 00:37:24,450
+[SPEAKER_01]: If you've been training right, you don't necessarily, because obviously you're not seeking out the core triggers for sensuality or your will, operating on the level of thoughts, apprehensions of the sign of beauty or the ugly, of the provocative things, one way or the other.
+
+401
+00:37:25,630 --> 00:37:26,190
+[SPEAKER_01]: And you're doing.
+
+402
+00:37:26,230 --> 00:37:26,871
+[SPEAKER_01]: That's your work.
+
+403
+00:37:26,951 --> 00:37:27,791
+[SPEAKER_01]: That's your concern.
+
+404
+00:37:28,031 --> 00:37:36,135
+[SPEAKER_01]: And then, something does enter through your eyes, through your nose, through some... that used to... and then you... you kind of... you're braced.
+
+405
+00:37:36,336 --> 00:37:41,138
+[SPEAKER_01]: You're waiting for the raging animal, because this is my trigger for anger.
+
+406
+00:37:42,199 --> 00:37:42,799
+[SPEAKER_01]: And then you look.
+
+407
+00:37:42,979 --> 00:37:44,940
+[SPEAKER_01]: The animal is actually laying down.
+
+408
+00:37:45,020 --> 00:37:46,941
+[SPEAKER_01]: And then you realize, oh, it's calm.
+
+409
+00:37:47,221 --> 00:37:48,142
+[SPEAKER_01]: The training works.
+
+410
+00:37:49,208 --> 00:37:50,429
+[SPEAKER_01]: I didn't do this.
+
+411
+00:37:50,489 --> 00:37:51,270
+[SPEAKER_01]: It chose this.
+
+412
+00:37:51,730 --> 00:37:53,752
+[SPEAKER_01]: I was actually ready for it to start barking.
+
+413
+00:37:54,292 --> 00:37:54,652
+[SPEAKER_01]: It didn't.
+
+414
+00:37:55,053 --> 00:38:02,979
+[SPEAKER_01]: That's why those examples in the suttas... monks suddenly faced a prospect of death.
+
+415
+00:38:03,760 --> 00:38:06,102
+[SPEAKER_01]: That's when they realized that the work was done.
+
+416
+00:38:06,322 --> 00:38:07,042
+[SPEAKER_01]: Not before that.
+
+417
+00:38:07,423 --> 00:38:08,464
+[SPEAKER_01]: The work was actually done.
+
+418
+00:38:08,624 --> 00:38:09,785
+[SPEAKER_01]: They were arahants before that.
+
+419
+00:38:10,548 --> 00:38:22,178
+[SPEAKER_01]: But they just were not necessarily certain about it, because nothing provoked the mind to the extent of them to see that, oh, even death, the mind is calm, didn't move.
+
+420
+00:38:22,599 --> 00:38:23,780
+[SPEAKER_01]: Therefore, it's liberated.
+
+421
+00:38:23,840 --> 00:38:27,423
+[SPEAKER_01]: Therefore, I know now that it's liberated, because this has proven it to me.
+
+422
+00:38:28,764 --> 00:38:33,969
+[SPEAKER_01]: So, when they, when that monk almost, I don't know, stumble upon these people about to set somebody on fire, and then they want to kill him,
+
+423
+00:38:35,780 --> 00:38:38,161
+[SPEAKER_01]: And his mind became liberated there and then.
+
+424
+00:38:38,241 --> 00:38:39,601
+[SPEAKER_01]: And then you think, oh, he was so lucky.
+
+425
+00:38:39,641 --> 00:38:40,322
+[SPEAKER_01]: It's like, well, no.
+
+426
+00:38:40,762 --> 00:38:41,722
+[SPEAKER_01]: He ordered it, did the work.
+
+427
+00:38:42,282 --> 00:38:58,328
+[SPEAKER_01]: There and then, he recognized for himself that the animal was calm, because the extreme scenario that he could not have even imagined in its kind of extremeness, he was ready for the mind to start kicking and screaming, defending itself, or being affected by fear.
+
+428
+00:38:59,638 --> 00:39:02,320
+[SPEAKER_01]: And then, he looked back and the mind was completely unmoved.
+
+429
+00:39:03,080 --> 00:39:08,463
+[SPEAKER_01]: So, it came as a surprise to him, but not as a shock, because he knows why that was.
+
+430
+00:39:08,543 --> 00:39:12,085
+[SPEAKER_01]: He just wasn't... didn't expect it, that it's going to be there and then, in that instance.
+
+431
+00:39:13,046 --> 00:39:15,167
+[SPEAKER_01]: Or, like, the path of Theraterigaptha.
+
+432
+00:39:15,187 --> 00:39:15,868
+[SPEAKER_01]: It's all about...
+
+433
+00:39:16,867 --> 00:39:40,161
+[SPEAKER_01]: The sudden recognitions of the mind, mind being liberated or calm, after, like, I don't know, doing relentless, for who knows how long, reflection on the right things, like, like bleeding out of the feet, because he was just reflecting on stuff so long, that he was walking back and forth, forgot for how long, and his feet started to split and bleed.
+
+434
+00:39:40,181 --> 00:39:45,565
+[SPEAKER_01]: And it's like, okay, I'll stop this, too much for now, you know, wash my feet, and as the mud came off the feet,
+
+435
+00:39:46,245 --> 00:39:47,886
+[SPEAKER_01]: You realize, oh, the mind was calm.
+
+436
+00:39:48,327 --> 00:39:52,630
+[SPEAKER_01]: Not because I was washing the feet in my river, but because all the prior work of taming.
+
+437
+00:39:53,631 --> 00:39:58,074
+[SPEAKER_01]: I was so concerned with providing the right context, maintaining the right danger.
+
+438
+00:39:58,274 --> 00:40:01,277
+[SPEAKER_01]: I didn't notice that the dog is actually not moving anyway.
+
+439
+00:40:01,317 --> 00:40:01,777
+[SPEAKER_01]: He stopped.
+
+440
+00:40:01,837 --> 00:40:02,578
+[SPEAKER_01]: He was already calm.
+
+441
+00:40:02,598 --> 00:40:03,599
+[SPEAKER_00]: No more training needed.
+
+442
+00:40:03,799 --> 00:40:05,020
+[SPEAKER_01]: No more training needed, yeah.
+
+443
+00:40:07,462 --> 00:40:11,985
+[SPEAKER_00]: Yeah, I think it was the monk who was walking up and down, then he got up to walk, and then he fell over.
+
+444
+00:40:12,045 --> 00:40:14,286
+[SPEAKER_01]: Fell, he couldn't, yeah, he was just so tired, he just couldn't walk anymore.
+
+445
+00:40:14,306 --> 00:40:15,847
+[SPEAKER_00]: But then, at that point, he realized, oh...
+
+446
+00:40:16,087 --> 00:40:25,933
+[SPEAKER_01]: But see, again, like, you read just that, without the additional context, well, an uninstructed person, not familiar with the early suttas,
+
+447
+00:40:26,983 --> 00:40:40,187
+[SPEAKER_01]: What one would, or quite often, ends up concluding is, okay, so if I just do relentlessly determined walking up and down, so the act of walking is what purified me.
+
+448
+00:40:40,367 --> 00:40:40,587
+[SPEAKER_01]: Yeah.
+
+449
+00:40:40,907 --> 00:40:49,790
+[SPEAKER_01]: It's like, no, it's the act of purifying your mind according to these standards, according to these descriptions, while walking.
+
+450
+00:40:52,160 --> 00:40:57,843
+[SPEAKER_01]: But, yeah, if you just read what the little bit of condensed Pali says, oh, yeah, you just walk back and forth.
+
+451
+00:40:57,983 --> 00:40:58,944
+[SPEAKER_01]: I'll just walk back and forth.
+
+452
+00:40:59,564 --> 00:41:00,585
+[SPEAKER_01]: What do I do in the meantime?
+
+453
+00:41:00,605 --> 00:41:02,126
+[SPEAKER_01]: Well, I don't know any of these nuances.
+
+454
+00:41:03,129 --> 00:41:04,090
+[SPEAKER_01]: This is too abstract.
+
+455
+00:41:04,810 --> 00:41:06,332
+[SPEAKER_01]: I'll watch the soles of my feet.
+
+456
+00:41:07,152 --> 00:41:09,054
+[SPEAKER_01]: I'll feel the sensations of the ground.
+
+457
+00:41:09,394 --> 00:41:11,756
+[SPEAKER_01]: I'll feel earthed or connected and stuff.
+
+458
+00:41:12,076 --> 00:41:14,979
+[SPEAKER_01]: Just anything random I can put into it to give it more meaning.
+
+459
+00:41:15,779 --> 00:41:17,921
+[SPEAKER_01]: But it was already misconstrued from the start.
+
+460
+00:41:18,902 --> 00:41:20,563
+[SPEAKER_01]: It's not about walking.
+
+461
+00:41:20,623 --> 00:41:21,664
+[SPEAKER_01]: It's not about sitting.
+
+462
+00:41:21,704 --> 00:41:23,806
+[SPEAKER_01]: It's not even about breathing in ānāpānasati.
+
+463
+00:41:23,826 --> 00:41:27,769
+[SPEAKER_01]: It's about the implicit peripheral training that you do through your breath.
+
+464
+00:41:28,810 --> 00:41:31,152
+[SPEAKER_01]: Through the recognition of the body breathing and so on.
+
+465
+00:41:36,848 --> 00:41:42,271
+[SPEAKER_00]: Yeah, after the meal, he goes to the forest, to an empty hut, and then he trains his mind...
+
+466
+00:41:42,291 --> 00:41:58,019
+[SPEAKER_01]: Which is just a condensed way of describing a sustained... of a lifestyle that's sustained away from coarse sensuality, coarse engagement with duties, distractions, irritations, five senses, five sense objects, and so on.
+
+467
+00:41:58,399 --> 00:41:59,160
+[SPEAKER_01]: That's what it means.
+
+468
+00:41:59,180 --> 00:42:05,183
+[SPEAKER_01]: It doesn't mean, literally, I must find the root of a tree where I will plant myself sitting like this or like that, and then do this
+
+469
+00:42:05,923 --> 00:42:12,331
+[SPEAKER_01]: mechanical method of just adhering to these steps and magical result will occur.
+
+470
+00:42:13,413 --> 00:42:17,034
+[SPEAKER_01]: No, it just means, oh, this is how you live now.
+
+471
+00:42:17,074 --> 00:42:39,618
+[SPEAKER_01]: It's not a occasional exposure to the right environment, occasional exposure to the... which is good for somebody who is completely immersed in the five cores of sensuality, but it's nowhere near enough to begin to see the animal, the state it is, for what it is accurately, without needing the secondary, as I said, rationalizations and contemplations and reflections.
+

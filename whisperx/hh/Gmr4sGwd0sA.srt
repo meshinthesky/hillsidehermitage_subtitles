@@ -1,0 +1,2428 @@
+1
+00:00:07,600 --> 00:00:17,268
+[SPEAKER_00]: The other day I mentioned to you my translation for upādāna in terms of pañca, upādāna, khandhā, the five assumed aggregates.
+
+2
+00:00:18,249 --> 00:00:25,094
+[SPEAKER_00]: And I want to use the word bridge for upādāna, the five bridged aggregates.
+
+3
+00:00:27,255 --> 00:00:35,662
+[SPEAKER_00]: So they would convey the meaning of what upādāna is, in a way, that connection between, let's say,
+
+4
+00:00:37,142 --> 00:00:47,330
+[SPEAKER_00]: The body and mind, the in-between, the thing that connects them, and that, that bridges an imagination or...
+
+5
+00:00:48,151 --> 00:00:48,611
+[SPEAKER_00]: Assumption.
+
+6
+00:00:48,791 --> 00:00:49,331
+[SPEAKER_00]: An assumption.
+
+7
+00:00:49,672 --> 00:00:49,932
+[SPEAKER_01]: Yeah.
+
+8
+00:00:51,353 --> 00:00:57,578
+[SPEAKER_01]: Well, I mean, you can, you could, but if you translate it like that, you would have to explain it a lot more.
+
+9
+00:00:58,779 --> 00:01:06,605
+[SPEAKER_01]: I mean, whichever way you were to translate upādāna needs to be explained, because obviously the putujana's views are already, well,
+
+10
+00:01:07,172 --> 00:01:10,014
+[SPEAKER_01]: It's upādāna that makes them putujana.
+
+11
+00:01:10,635 --> 00:01:17,820
+[SPEAKER_01]: Putujana is putujana because of his upādāna, because of his assumption, because of his mental bridges, so to speak.
+
+12
+00:01:19,521 --> 00:01:32,711
+[SPEAKER_01]: So, you want to look at what the nature of upādāna is, and then find a word that could possibly convey that, regardless of the view that's reading it.
+
+13
+00:01:33,232 --> 00:01:34,713
+[SPEAKER_01]: That doesn't mean everybody will understand it.
+
+14
+00:01:35,580 --> 00:01:39,201
+[SPEAKER_01]: But it means that if they were to understand it, then they'll see the point of that translation.
+
+15
+00:01:40,101 --> 00:01:42,022
+[SPEAKER_01]: So, I don't think the bridge necessarily would do that.
+
+16
+00:01:42,082 --> 00:01:45,803
+[SPEAKER_01]: But it certainly can enrich the description of it.
+
+17
+00:01:45,823 --> 00:01:46,783
+[SPEAKER_01]: Like the five aggregates.
+
+18
+00:01:47,583 --> 00:01:49,204
+[SPEAKER_01]: Aggregates, for example, that's another translation.
+
+19
+00:01:49,224 --> 00:01:50,164
+[SPEAKER_01]: We spoke about it before.
+
+20
+00:01:51,344 --> 00:01:53,485
+[SPEAKER_01]: Khandhā, literally, I think, means heap.
+
+21
+00:01:54,345 --> 00:01:55,186
+[SPEAKER_01]: It's five heaps.
+
+22
+00:01:56,726 --> 00:01:59,667
+[SPEAKER_01]: So, five heaps is five different things heaped together.
+
+23
+00:01:59,947 --> 00:02:01,027
+[SPEAKER_01]: They don't become one thing.
+
+24
+00:02:01,367 --> 00:02:02,007
+[SPEAKER_01]: They don't merge.
+
+25
+00:02:02,047 --> 00:02:02,888
+[SPEAKER_01]: They don't come together.
+
+26
+00:02:04,830 --> 00:02:09,855
+[SPEAKER_01]: With the assumption in place, yeah, you sort of... you bridge.
+
+27
+00:02:10,215 --> 00:02:20,664
+[SPEAKER_01]: You bridge them together into this kind of morphed thing, where you think it's, you know, my feeling, my perception, it's all coming out of the same place, my sense of self, my action.
+
+28
+00:02:20,864 --> 00:02:26,649
+[SPEAKER_01]: And that's how you get this whole sense of, like, directionality of the experience, me towards the world.
+
+29
+00:02:28,611 --> 00:02:29,792
+[SPEAKER_01]: But if you actually start seeing...
+
+30
+00:02:30,694 --> 00:02:39,242
+[SPEAKER_01]: When the Buddha was doing the analysis, he wasn't doing the analysis for the sake of abstract satisfaction of some theoretical knowledge.
+
+31
+00:02:40,143 --> 00:02:46,308
+[SPEAKER_01]: He was more like discerning that there are actually three layers of your experience, in terms of action, for example.
+
+32
+00:02:46,328 --> 00:02:52,214
+[SPEAKER_01]: Or there are like three different layers of feeling, simultaneously, as a possibility, present.
+
+33
+00:02:53,395 --> 00:02:56,638
+[SPEAKER_01]: So, it's not like I feel this, then I feel that.
+
+34
+00:02:57,191 --> 00:03:01,094
+[SPEAKER_01]: It's just this feeling is there, then this feeling is there, then this feeling is there.
+
+35
+00:03:02,135 --> 00:03:05,578
+[SPEAKER_01]: And pleasant feeling is independent of an unpleasant feeling.
+
+36
+00:03:06,339 --> 00:03:09,782
+[SPEAKER_01]: Pleasant and unpleasant feeling are independent of neither pleasant nor unpleasant feeling.
+
+37
+00:03:10,402 --> 00:03:15,306
+[SPEAKER_01]: In other way, whatever phenomenon arises, arises in itself, for itself, so to speak.
+
+38
+00:03:16,127 --> 00:03:23,033
+[SPEAKER_01]: But you don't use that in order to justify some, as I said, some theoretical outlook, how everything is just...
+
+39
+00:03:24,133 --> 00:03:25,053
+[SPEAKER_01]: Out there, not yours.
+
+40
+00:03:25,373 --> 00:03:27,294
+[SPEAKER_01]: You use that to see the things that are yours.
+
+41
+00:03:27,954 --> 00:03:36,617
+[SPEAKER_01]: Your sense of ownership, your sense of this is mine, these five aggregates, or these feelings, or these actions, can only be appropriated because they have arisen on their own.
+
+42
+00:03:37,237 --> 00:03:44,399
+[SPEAKER_01]: And you realize that... you get to realize their independence from your sense of ownership by seeing that it's three of them.
+
+43
+00:03:45,360 --> 00:03:47,200
+[SPEAKER_01]: It's five of them.
+
+44
+00:03:47,240 --> 00:03:47,960
+[SPEAKER_01]: It's two of them.
+
+45
+00:03:48,541 --> 00:03:49,661
+[SPEAKER_01]: Even if it's just one of them.
+
+46
+00:03:50,698 --> 00:03:55,922
+[SPEAKER_01]: Because one of the main characteristics of the sense of self is, it's that kind of, eh... single.
+
+47
+00:03:56,582 --> 00:03:56,922
+[SPEAKER_00]: Unity.
+
+48
+00:03:57,143 --> 00:03:57,483
+[SPEAKER_00]: Unity.
+
+49
+00:03:57,643 --> 00:04:02,126
+[SPEAKER_01]: Like, my, I, oh, I take this, and I am that single center.
+
+50
+00:04:03,147 --> 00:04:05,008
+[SPEAKER_01]: Oh, I feel like this, I feel like that.
+
+51
+00:04:05,108 --> 00:04:16,716
+[SPEAKER_01]: But if you start putting emphasis on the present feeling, then you realize, well, I feel like this, I feel like this, or feel like that, because that's what, eh... that is which feeling has arisen.
+
+52
+00:04:17,417 --> 00:04:18,778
+[SPEAKER_01]: It determines how the self feels.
+
+53
+00:04:19,153 --> 00:04:20,034
+[SPEAKER_01]: And that's what the Buddha meant.
+
+54
+00:04:20,374 --> 00:04:21,355
+[SPEAKER_01]: So, which one is it then?
+
+55
+00:04:22,816 --> 00:04:33,964
+[SPEAKER_01]: Like, if... if you say, my sense of self... my... my self feels pleasure, my self... which... my self feels only pleasant feeling, how can that self remain standing when there is unpleasant feeling?
+
+56
+00:04:34,025 --> 00:04:35,626
+[SPEAKER_01]: Or, my self feels all the feelings.
+
+57
+00:04:35,706 --> 00:04:39,489
+[SPEAKER_01]: It's like, yeah, but it's those feelings that arise first, that then your self feels them.
+
+58
+00:04:40,289 --> 00:04:41,811
+[SPEAKER_01]: So, how can you say they're yours?
+
+59
+00:04:41,871 --> 00:04:43,152
+[SPEAKER_01]: How can they say they belong to you?
+
+60
+00:04:43,912 --> 00:04:47,355
+[SPEAKER_01]: So, in terms of the aggregates, the division of, like, five aggregates,
+
+61
+00:04:47,995 --> 00:04:54,523
+[SPEAKER_01]: It's to see that there are five heaps at the foundation of any experience you might be going through.
+
+62
+00:04:54,583 --> 00:05:00,970
+[SPEAKER_01]: By being five, well, five components remain like means five components of a unit.
+
+63
+00:05:01,331 --> 00:05:08,099
+[SPEAKER_01]: But you don't want to be coming from a point of view of unit, because that means you're coming from a point of view of sense of self, which is that unit.
+
+64
+00:05:09,055 --> 00:05:13,359
+[SPEAKER_01]: And that's when people do investigate the five aggregates as components of their sense of self.
+
+65
+00:05:13,739 --> 00:05:19,824
+[SPEAKER_01]: Now, you want to see that these five random heaps are the necessary basis for your sense of self.
+
+66
+00:05:20,564 --> 00:05:28,071
+[SPEAKER_01]: That's how sense of self cannot remain holding on to that assumed, completely gratuitously assumed, self-centralized position.
+
+67
+00:05:28,631 --> 00:05:30,773
+[SPEAKER_01]: As if I am the master of these five
+
+68
+00:05:31,303 --> 00:05:32,144
+[SPEAKER_01]: Five components.
+
+69
+00:05:32,224 --> 00:05:33,164
+[SPEAKER_00]: Oh, my experience.
+
+70
+00:05:33,465 --> 00:05:34,105
+[SPEAKER_00]: This is my experience.
+
+71
+00:05:34,145 --> 00:05:35,286
+[SPEAKER_01]: Yeah, this is my experience.
+
+72
+00:05:35,346 --> 00:05:36,086
+[SPEAKER_01]: But if you look at...
+
+73
+00:05:36,106 --> 00:05:37,107
+[SPEAKER_01]: Okay, my experience.
+
+74
+00:05:37,147 --> 00:05:37,908
+[SPEAKER_01]: You don't deny that.
+
+75
+00:05:38,148 --> 00:05:39,248
+[SPEAKER_01]: This experience is mine.
+
+76
+00:05:39,729 --> 00:05:43,051
+[SPEAKER_01]: Within that, you discern five simultaneously present heaps.
+
+77
+00:05:44,752 --> 00:05:48,175
+[SPEAKER_01]: And you realize, if these five heaps, they cannot be four or three or one.
+
+78
+00:05:49,095 --> 00:05:49,896
+[SPEAKER_01]: It's always five.
+
+79
+00:05:50,376 --> 00:05:52,718
+[SPEAKER_01]: Means none of them can take centralized position.
+
+80
+00:05:53,278 --> 00:05:54,739
+[SPEAKER_01]: I mean, they can in the assumption.
+
+81
+00:05:55,860 --> 00:06:00,463
+[SPEAKER_01]: And that's why assumption is a gratuitous sort of parasite upon the structure of the five.
+
+82
+00:06:02,020 --> 00:06:13,548
+[SPEAKER_01]: But when you realize that even when you assume, you can only assume because five were given beforehand, which means they're independent of your assumption, which means they're independent of the results of your assumption, which is the sense of self.
+
+83
+00:06:14,769 --> 00:06:16,911
+[SPEAKER_01]: So then you realize when the sense of self is not yours.
+
+84
+00:06:18,132 --> 00:06:25,177
+[SPEAKER_01]: This my experience is my, cannot be my, because it's actually rooted in these five random things, that have a reason on their own simultaneously present.
+
+85
+00:06:27,490 --> 00:06:28,610
+[SPEAKER_00]: You want to see there...
+
+86
+00:06:28,810 --> 00:06:33,792
+[SPEAKER_01]: So, you want to see the basis of five within that sense of ownership.
+
+87
+00:06:33,812 --> 00:06:38,453
+[SPEAKER_01]: Not after, as an afterthought, or left right from it.
+
+88
+00:06:38,473 --> 00:06:42,154
+[SPEAKER_01]: Like, when you have a sense of ownership, you don't, like, okay, now I'm going to go and find these five things.
+
+89
+00:06:42,194 --> 00:06:42,374
+[SPEAKER_01]: No.
+
+90
+00:06:42,774 --> 00:06:47,696
+[SPEAKER_01]: When I have the sense of ownership, within that, I'm going to discern these five things.
+
+91
+00:06:47,716 --> 00:06:49,997
+[SPEAKER_01]: Or three things, depending on your... or two things.
+
+92
+00:06:50,497 --> 00:06:54,198
+[SPEAKER_01]: The diet, as the Buddha would describe it.
+
+93
+00:06:55,719 --> 00:07:00,322
+[SPEAKER_01]: You want to see that whatever has arisen, has arisen on its own.
+
+94
+00:07:01,283 --> 00:07:02,224
+[SPEAKER_01]: You are not its creator.
+
+95
+00:07:02,264 --> 00:07:06,887
+[SPEAKER_01]: By not being its creator, your sense of ownership, that's undeniable for Bhutujana.
+
+96
+00:07:07,587 --> 00:07:10,469
+[SPEAKER_01]: You have to see the sense of ownership as second, not as first.
+
+97
+00:07:11,230 --> 00:07:18,415
+[SPEAKER_01]: And that's how you start to undo the ownership, when you see it as redundant, when you see it as not fundamental.
+
+98
+00:07:18,675 --> 00:07:20,997
+[SPEAKER_00]: Because one doesn't see the separateness
+
+99
+00:07:23,281 --> 00:07:26,844
+[SPEAKER_01]: You don't see the separateness of each aggregate on the right basis.
+
+100
+00:07:27,044 --> 00:07:33,269
+[SPEAKER_01]: You see it in abstract theory, which left that sense of ownership excluded from that theory.
+
+101
+00:07:34,210 --> 00:07:34,790
+[SPEAKER_01]: So, that's what I mean.
+
+102
+00:07:34,970 --> 00:07:43,277
+[SPEAKER_01]: You want to be investigating the five aggregates, but not on the terms of your ownership, but within the necessary basis of that ownership.
+
+103
+00:07:45,058 --> 00:07:45,839
+[SPEAKER_01]: And that's also what
+
+104
+00:07:46,867 --> 00:07:52,991
+[SPEAKER_01]: What differentiates abstract thinking from concrete thinking and reflection and contemplation?
+
+105
+00:07:57,273 --> 00:08:01,015
+[SPEAKER_00]: In terms of, like, body, speech and mind, there's three types of actions.
+
+106
+00:08:01,075 --> 00:08:02,076
+[SPEAKER_01]: Yeah, exactly.
+
+107
+00:08:02,316 --> 00:08:08,420
+[SPEAKER_01]: There are three simultaneously present domains, independent of each other, in any living experience as a whole.
+
+108
+00:08:09,720 --> 00:08:13,543
+[SPEAKER_01]: Whether you're smart or dumb, educated or not,
+
+109
+00:08:14,573 --> 00:08:17,235
+[SPEAKER_01]: There are always three different domains.
+
+110
+00:08:17,516 --> 00:08:21,339
+[SPEAKER_01]: Like three different layers, it's what constitutes your sense of self that acts.
+
+111
+00:08:22,720 --> 00:08:25,923
+[SPEAKER_01]: A layer of physical, a layer of verbal, a layer of mental.
+
+112
+00:08:26,644 --> 00:08:33,030
+[SPEAKER_01]: And they don't merge, they don't come into each other, they don't cross from one into the other.
+
+113
+00:08:33,050 --> 00:08:34,351
+[SPEAKER_01]: There is nothing that goes from...
+
+114
+00:08:35,872 --> 00:08:40,497
+[SPEAKER_01]: Mental domain kind of flows into them and becomes part of the verbal domain.
+
+115
+00:08:40,917 --> 00:08:41,938
+[SPEAKER_01]: You have mental thought,
+
+116
+00:08:42,231 --> 00:08:45,693
+[SPEAKER_01]: That then results in breaking of a certain speech in a verbal domain.
+
+117
+00:08:46,753 --> 00:08:49,814
+[SPEAKER_01]: Or results in a breaking of a certain action in a physical domain.
+
+118
+00:08:51,255 --> 00:08:58,858
+[SPEAKER_01]: So, in... like, when people try to... the closest to the correlation you can get is with this, this is.
+
+119
+00:08:59,479 --> 00:09:03,721
+[SPEAKER_01]: With this type of thought, this is the leaning of the physical domain towards that action.
+
+120
+00:09:04,221 --> 00:09:09,763
+[SPEAKER_01]: But there is nothing that bridges them together, except the assumption of the bridge together.
+
+121
+00:09:10,644 --> 00:09:11,604
+[SPEAKER_01]: Except the upādāna.
+
+122
+00:09:13,017 --> 00:09:14,718
+[SPEAKER_01]: And that's the point here.
+
+123
+00:09:14,738 --> 00:09:21,620
+[SPEAKER_01]: To realize that when people try to investigate things, they usually end up looking for correlation.
+
+124
+00:09:23,841 --> 00:09:28,763
+[SPEAKER_01]: And often, try to use the Buddha's description of paticca upādā.
+
+125
+00:09:29,843 --> 00:09:33,205
+[SPEAKER_01]: It's not incidental that then paticca upādā becomes cause and effect.
+
+126
+00:09:34,445 --> 00:09:39,827
+[SPEAKER_01]: So that correlation of these two simultaneously present things becomes their causation, literally.
+
+127
+00:09:41,127 --> 00:09:43,009
+[SPEAKER_01]: Oh, it's when this happens, then this happens.
+
+128
+00:09:44,310 --> 00:09:49,173
+[SPEAKER_01]: Yeah, with this happens, this can happen, or even this could happen.
+
+129
+00:09:49,714 --> 00:09:54,497
+[SPEAKER_01]: But the point is that there is no connection between these two simultaneous to present phenomena.
+
+130
+00:09:54,517 --> 00:10:01,042
+[SPEAKER_01]: That's why, if you start discerning this, you start discerning the principle of simultaneity, which is what Bhatishthana Pada is.
+
+131
+00:10:02,323 --> 00:10:04,605
+[SPEAKER_01]: Because, yeah, with this, this is.
+
+132
+00:10:05,326 --> 00:10:06,206
+[SPEAKER_01]: That is undeniable.
+
+133
+00:10:06,687 --> 00:10:09,769
+[SPEAKER_01]: But that's the closest that that correlation can come.
+
+134
+00:10:10,457 --> 00:10:15,381
+[SPEAKER_01]: But for an ignorant mind, mind that comes from the point of view of assumption, that's invisible.
+
+135
+00:10:15,541 --> 00:10:18,203
+[SPEAKER_01]: So, for them, this becomes this.
+
+136
+00:10:19,064 --> 00:10:31,853
+[SPEAKER_00]: So, I have the intention to sit down, and then there's the intention in the mind, and then electrons or whatever start firing up...
+
+137
+00:10:31,873 --> 00:10:32,234
+[SPEAKER_00]: Exactly.
+
+138
+00:10:32,374 --> 00:10:35,176
+[SPEAKER_01]: All of that, none of that can be object of perception, which means
+
+139
+00:10:36,298 --> 00:10:37,399
+[SPEAKER_01]: What is the basis then?
+
+140
+00:10:37,419 --> 00:10:37,960
+[SPEAKER_01]: You ask yourself.
+
+141
+00:10:37,980 --> 00:10:45,748
+[SPEAKER_01]: What is the basis for me having all these views that, oh, I have this intention and then the the the electrons were firing and that's why my arm is moving and doing this.
+
+142
+00:10:45,828 --> 00:10:46,809
+[SPEAKER_01]: How can you even know that?
+
+143
+00:10:47,009 --> 00:10:54,016
+[SPEAKER_01]: Except in this abstract theory that you use to bridge that gap between this intention, this action.
+
+144
+00:10:54,837 --> 00:10:55,538
+[SPEAKER_00]: That's all you can say.
+
+145
+00:10:55,558 --> 00:10:57,620
+[SPEAKER_00]: I have...
+
+146
+00:10:58,100 --> 00:10:59,502
+[SPEAKER_00]: I'm doing something because there is.
+
+147
+00:11:00,252 --> 00:11:02,314
+[SPEAKER_01]: There is that intention present in my mind.
+
+148
+00:11:02,794 --> 00:11:03,434
+[SPEAKER_01]: And that's what I mean.
+
+149
+00:11:03,935 --> 00:11:08,879
+[SPEAKER_01]: And it, like, it might seem almost like a minor thing, but it's actually, it's actually the most crucial one.
+
+150
+00:11:08,899 --> 00:11:11,701
+[SPEAKER_01]: That's why the Buddha described bodhisattva as the most fundamental principle.
+
+151
+00:11:12,361 --> 00:11:27,213
+[SPEAKER_01]: Because if you discern, if you are able to discern the principle of two simultaneous things present together, without assuming any relationship between the two, means there won't be any conceiving between the two.
+
+152
+00:11:28,100 --> 00:11:32,742
+[SPEAKER_01]: He conceives in, apart, from, both, neither, mine, whatever.
+
+153
+00:11:33,122 --> 00:11:40,325
+[SPEAKER_01]: He assumes relationship with it, which means, ah, you, you get to see them related, which is already a form of connection.
+
+154
+00:11:41,285 --> 00:11:50,889
+[SPEAKER_01]: The slightest form of relationship, even if it's a relationship of denial, I deny this, I deny the existence of this, it's already a form of relationship, but that, as such, means it's already a connection.
+
+155
+00:11:53,770 --> 00:11:57,292
+[SPEAKER_01]: So, in terms of the action, you have, say, you have a thought to eat something.
+
+156
+00:11:59,030 --> 00:12:00,111
+[SPEAKER_01]: And then, you're actually eating it.
+
+157
+00:12:02,053 --> 00:12:10,360
+[SPEAKER_01]: If the mind is affected by ignorance, if the mind has not developed sufficient basis of necessary amount of mindfulness, you will think it is the same thing.
+
+158
+00:12:11,641 --> 00:12:17,046
+[SPEAKER_01]: And that's already a form of assumed identity between the thought and the physical action.
+
+159
+00:12:18,627 --> 00:12:24,853
+[SPEAKER_01]: And whenever there is any shape of assumed identity, means your sense of self is there to that extent.
+
+160
+00:12:27,613 --> 00:12:29,274
+[SPEAKER_01]: To that extent, you're appropriating it.
+
+161
+00:12:29,354 --> 00:12:31,556
+[SPEAKER_01]: Just through the extent of lack of clarity.
+
+162
+00:12:31,716 --> 00:12:35,459
+[SPEAKER_01]: You don't necessarily have to think explicitly.
+
+163
+00:12:35,519 --> 00:12:36,300
+[SPEAKER_01]: This is mine.
+
+164
+00:12:36,700 --> 00:12:37,561
+[SPEAKER_01]: This is my action.
+
+165
+00:12:37,601 --> 00:12:38,441
+[SPEAKER_01]: This is my food.
+
+166
+00:12:38,862 --> 00:12:39,502
+[SPEAKER_01]: I am eating.
+
+167
+00:12:39,602 --> 00:12:40,123
+[SPEAKER_01]: I am eating.
+
+168
+00:12:40,203 --> 00:12:40,343
+[SPEAKER_01]: No.
+
+169
+00:12:40,943 --> 00:12:46,428
+[SPEAKER_01]: It's enough to think that your thought of eating food and physically eating food are the same thing.
+
+170
+00:12:47,508 --> 00:12:51,892
+[SPEAKER_01]: Or then, you start thinking, oh no, these are completely different things, as in two separate identities.
+
+171
+00:12:52,874 --> 00:12:56,056
+[SPEAKER_01]: Either way, you either overshoot or undershoot the mark.
+
+172
+00:12:56,676 --> 00:13:02,799
+[SPEAKER_01]: You are unable to see them, to the extent they are risen, that they are risen.
+
+173
+00:13:02,859 --> 00:13:09,442
+[SPEAKER_01]: You're unable to see them, that with the presently enduring thought of eating food, there is the physical eating of food.
+
+174
+00:13:11,143 --> 00:13:12,544
+[SPEAKER_01]: Two separate domains.
+
+175
+00:13:13,324 --> 00:13:22,529
+[SPEAKER_01]: So, when these things arise, it will be... it will require... develop mindfulness to not give in, rise to that natural,
+
+176
+00:13:23,689 --> 00:13:25,950
+[SPEAKER_01]: There's no confusion and conflating of the two domains.
+
+177
+00:13:26,410 --> 00:13:28,391
+[SPEAKER_01]: As in, thought of food means this food.
+
+178
+00:13:29,171 --> 00:13:35,194
+[SPEAKER_01]: And that's the nature of... that's how people are connected, so to speak, with their sensuality, with sensual cravings.
+
+179
+00:13:35,874 --> 00:13:38,416
+[SPEAKER_01]: Because sensuality can never step outside of the physical domain.
+
+180
+00:13:38,796 --> 00:13:41,977
+[SPEAKER_01]: Yet, it's fully governed by the mental assumption of sensuality.
+
+181
+00:13:42,097 --> 00:13:43,458
+[SPEAKER_01]: Because it's not in physical.
+
+182
+00:13:43,578 --> 00:13:46,319
+[SPEAKER_01]: Sensuality, it's not contained in physical objects of your senses.
+
+183
+00:13:47,520 --> 00:13:51,782
+[SPEAKER_01]: It's contained in you assuming the connection between the two,
+
+184
+00:13:52,929 --> 00:13:59,672
+[SPEAKER_01]: Thought of something pleasurable, engagement with my... of my body with that pleasurable, is that pursuit of that thought.
+
+185
+00:14:00,933 --> 00:14:07,296
+[SPEAKER_01]: So, it's that directional assumption that takes me from I want this, to I want to talk about it, to I want to have it physically.
+
+186
+00:14:08,517 --> 00:14:19,282
+[SPEAKER_01]: Failing to see that wanting it on your mind... in your mind, verbally talking about it on level of speech, physically pursuing it, are three separate domains that can never come together.
+
+187
+00:14:19,502 --> 00:14:21,023
+[SPEAKER_00]: But when you're going for that pleasure,
+
+188
+00:14:21,975 --> 00:14:23,997
+[SPEAKER_01]: When all you see... Well, that's the thing.
+
+189
+00:14:24,057 --> 00:14:28,261
+[SPEAKER_01]: Sensuality assumes that end result, which end result is merging of it all.
+
+190
+00:14:28,621 --> 00:14:31,805
+[SPEAKER_01]: That's why the whole notion of trying to satisfy your desire.
+
+191
+00:14:33,566 --> 00:14:38,351
+[SPEAKER_01]: Like, idea of satisfaction is a hybrid of these three domains.
+
+192
+00:14:38,771 --> 00:14:39,212
+[SPEAKER_01]: It's a view.
+
+193
+00:14:39,512 --> 00:14:40,133
+[SPEAKER_01]: But that's what I mean.
+
+194
+00:14:40,453 --> 00:14:41,114
+[SPEAKER_01]: That's the trash.
+
+195
+00:14:41,134 --> 00:14:42,315
+[SPEAKER_01]: That's where putujana starts with.
+
+196
+00:14:42,415 --> 00:14:43,716
+[SPEAKER_01]: Or somebody who's unfree from sensuality.
+
+197
+00:14:43,756 --> 00:14:44,717
+[SPEAKER_01]: That's where they start with.
+
+198
+00:14:45,448 --> 00:14:47,350
+[SPEAKER_01]: That hybrid is the first point.
+
+199
+00:14:47,370 --> 00:14:48,931
+[SPEAKER_01]: So, it's not about finding the way out of it.
+
+200
+00:14:48,951 --> 00:14:50,012
+[SPEAKER_01]: It's about undoing it.
+
+201
+00:14:50,713 --> 00:15:10,931
+[SPEAKER_01]: And you undo where you see that your hybrid of the view of satisfying your desires, it's actually simultaneously formed, determined by the three independent separate domains that are always simultaneously present.
+
+202
+00:15:12,297 --> 00:15:13,679
+[SPEAKER_01]: And that's why they're so hard to discern.
+
+203
+00:15:13,779 --> 00:15:17,203
+[SPEAKER_01]: It's not like one, then the two comes, then you get to see one fully... No.
+
+204
+00:15:17,464 --> 00:15:19,827
+[SPEAKER_01]: It's always three, and they're always simultaneously present.
+
+205
+00:15:20,988 --> 00:15:22,230
+[SPEAKER_01]: You can attend them differently.
+
+206
+00:15:22,630 --> 00:15:24,092
+[SPEAKER_01]: You can't see them all at once.
+
+207
+00:15:25,334 --> 00:15:25,554
+[SPEAKER_01]: Yeah.
+
+208
+00:15:25,594 --> 00:15:27,857
+[SPEAKER_01]: Domain of body, domain of speech, domain of the mind.
+
+209
+00:15:29,239 --> 00:15:40,366
+[SPEAKER_01]: But the desire is the assumption, the end goal of that whole sort of directional connection of my thought, my speech, my action, my satisfaction.
+
+210
+00:15:40,906 --> 00:15:51,753
+[SPEAKER_01]: But even people who are not free from sensuality, people who are not free from wrong view, even they know that there is a problem with that hybrid, which is sensuality, what sensuality is.
+
+211
+00:15:52,233 --> 00:15:58,337
+[SPEAKER_01]: Because they, like, even the person who is the most bent on sensual pursuits,
+
+212
+00:15:59,357 --> 00:16:02,360
+[SPEAKER_01]: Still knows deep down inside that you can't really satisfy your desires.
+
+213
+00:16:02,900 --> 00:16:04,221
+[SPEAKER_00]: Because your desire is on...
+
+214
+00:16:04,281 --> 00:16:05,663
+[SPEAKER_01]: Your desire is on the mental level.
+
+215
+00:16:05,683 --> 00:16:06,383
+[SPEAKER_01]: Yeah, somewhere else.
+
+216
+00:16:06,443 --> 00:16:11,768
+[SPEAKER_01]: Yet, the only means of comprehending any form of satisfaction would be on a physical level.
+
+217
+00:16:12,128 --> 00:16:19,795
+[SPEAKER_01]: If you give... if you... if you accept desire at a face value on the mental level, then you leave yourself no other option than to try to satisfy it on a physical level.
+
+218
+00:16:20,836 --> 00:16:22,157
+[SPEAKER_01]: But, it's not the same thing.
+
+219
+00:16:22,557 --> 00:16:23,418
+[SPEAKER_01]: It's a completely different thing.
+
+220
+00:16:25,051 --> 00:16:28,073
+[SPEAKER_01]: So, that's why sensuality requires ignorance.
+
+221
+00:16:28,573 --> 00:16:35,097
+[SPEAKER_01]: It requires a blind eye applied to this very nature that, actually, these are two separate things.
+
+222
+00:16:36,658 --> 00:16:50,467
+[SPEAKER_01]: And physically scratching it, and even getting the satisfaction from scratching, requires you to not look closely and see that, yeah, that's one thing, but my mental desire projection towards the endgame of sensuality is a completely different thing, and it's still there.
+
+223
+00:16:51,609 --> 00:16:59,433
+[SPEAKER_01]: So, then, you need that belief of sensuality, whereby, when physically scratching becomes unpleasant, that's when you feel satisfied.
+
+224
+00:16:59,974 --> 00:17:03,156
+[SPEAKER_01]: But the thought of you wanting that satisfaction hasn't changed.
+
+225
+00:17:03,876 --> 00:17:05,797
+[SPEAKER_01]: You only forgot about it at a time.
+
+226
+00:17:07,998 --> 00:17:16,603
+[SPEAKER_01]: So, if your whole point of sensual pursuit, of sensual projection, is to get rid of the pressure of the desire on the mental level, why not address it right there?
+
+227
+00:17:16,803 --> 00:17:19,425
+[SPEAKER_01]: And stop bothering with physical pursuit, which is clearly
+
+228
+00:17:20,212 --> 00:17:23,473
+[SPEAKER_01]: Like a, like a, like a sidestepping, taking you away elsewhere.
+
+229
+00:17:23,513 --> 00:17:27,795
+[SPEAKER_01]: Different domain can have no influence on the mental domain, in that sense.
+
+230
+00:17:27,815 --> 00:17:32,676
+[SPEAKER_00]: This domain is craving, so you go to another domain to try and sort it out.
+
+231
+00:17:32,696 --> 00:17:33,957
+[SPEAKER_01]: To try and sort out the craving.
+
+232
+00:17:34,097 --> 00:17:40,899
+[SPEAKER_01]: But the only reason you can stay engaged in that other domain, is if the craving remains present on the mental domain.
+
+233
+00:17:41,099 --> 00:17:41,739
+[SPEAKER_01]: That's what I mean.
+
+234
+00:17:41,759 --> 00:17:44,300
+[SPEAKER_01]: So, it even contradicts that very attempt.
+
+235
+00:17:45,481 --> 00:17:49,482
+[SPEAKER_01]: Like, in order to go to another domain, you need the presence of craving in the mental domain.
+
+236
+00:17:50,462 --> 00:17:53,584
+[SPEAKER_01]: But you go there to try to get rid of the craving in the mental domain.
+
+237
+00:17:56,507 --> 00:17:59,869
+[SPEAKER_01]: So that's why the physical restraint is not optional, it has to come first, always.
+
+238
+00:18:00,489 --> 00:18:03,352
+[SPEAKER_01]: Because it's a complete misapplication.
+
+239
+00:18:04,462 --> 00:18:09,745
+[SPEAKER_01]: So, you just have to stop doing it in order to see where the problem really is, which is on the mental domain.
+
+240
+00:18:09,825 --> 00:18:12,687
+[SPEAKER_00]: So, you see the desire, you see that, you see those two domains.
+
+241
+00:18:12,767 --> 00:18:12,947
+[SPEAKER_01]: Yeah.
+
+242
+00:18:13,107 --> 00:18:15,809
+[SPEAKER_01]: You see the desire and then you see the pressure.
+
+243
+00:18:16,570 --> 00:18:24,775
+[SPEAKER_01]: But even that pressure towards physical action or verbal action, output, you realize, oh, well, even that pressure, it's still on the mental level.
+
+244
+00:18:25,035 --> 00:18:31,739
+[SPEAKER_01]: The only way that physical or verbal will be manifested is if I act out of it.
+
+245
+00:18:32,890 --> 00:18:34,991
+[SPEAKER_01]: That's the only shape and form that this can manifest.
+
+246
+00:18:35,531 --> 00:18:39,593
+[SPEAKER_01]: In other words, you can have all the desire you want in your mind, pressuring you to do something physically.
+
+247
+00:18:40,473 --> 00:18:48,977
+[SPEAKER_01]: Unless you're actively deciding to do something physically, there is nothing manifested in a physical domain on account of that desire, because you haven't done anything.
+
+248
+00:18:51,038 --> 00:18:55,961
+[SPEAKER_01]: There is nothing manifested in a verbal domain on account of a mental desire to say something, because you haven't said anything.
+
+249
+00:18:57,861 --> 00:19:01,003
+[SPEAKER_01]: And you realize, oh, that's all I have to do in order to protect these two domains.
+
+250
+00:19:02,154 --> 00:19:10,176
+[SPEAKER_01]: And when you do that, then that assumed... well, that pressure that comes out of that assumption... because again, as I said, it's about undoing that hybrid assumption.
+
+251
+00:19:11,057 --> 00:19:18,519
+[SPEAKER_01]: And until that's undone, there's going to be a degree of pressure towards physical or towards verbal domain, coming from your mental craving.
+
+252
+00:19:19,139 --> 00:19:21,700
+[SPEAKER_01]: But the more you undo it, the less pressure there is.
+
+253
+00:19:22,300 --> 00:19:25,461
+[SPEAKER_01]: The less pressure there is, the clearer the nature becomes.
+
+254
+00:19:26,035 --> 00:19:32,338
+[SPEAKER_01]: Oh, there is a thought of this that used to be governed by the promise of pleasure in the physical domain.
+
+255
+00:19:32,798 --> 00:19:34,759
+[SPEAKER_01]: But even that promise of pleasure was fully mental.
+
+256
+00:19:34,779 --> 00:19:37,000
+[SPEAKER_01]: It can never be really the physical pleasure.
+
+257
+00:19:37,340 --> 00:19:40,442
+[SPEAKER_01]: Because the only way to have physical pleasure is to physically have pleasure.
+
+258
+00:19:41,022 --> 00:19:46,184
+[SPEAKER_01]: But when you have a desire, a mental desire towards physical pleasure, that's a physical absence.
+
+259
+00:19:47,605 --> 00:19:51,287
+[SPEAKER_01]: Your mental desire for physical pleasure means there is no actual physical pleasure.
+
+260
+00:19:52,692 --> 00:19:56,475
+[SPEAKER_01]: But we act as if that mental desire, physical pleasure, is on the physical level.
+
+261
+00:19:56,896 --> 00:19:59,999
+[SPEAKER_01]: So, all I need to do is extend my arm and take and touch what I want to have.
+
+262
+00:20:01,520 --> 00:20:15,453
+[SPEAKER_00]: So, it reminds me of this, like, if I get frustrated, if someone does something to me, and there, in my mind, I'm angry, I'm frustrated, and so I don't shout, I restrain myself.
+
+263
+00:20:16,594 --> 00:20:18,435
+[SPEAKER_00]: But then, there's this view,
+
+264
+00:20:19,428 --> 00:20:21,409
+[SPEAKER_00]: I must get out the anger somehow.
+
+265
+00:20:21,449 --> 00:20:26,592
+[SPEAKER_00]: I must get out the frustration, because keeping it in my mind is going to give me cancer.
+
+266
+00:20:26,652 --> 00:20:27,693
+[SPEAKER_00]: It's going to destroy me.
+
+267
+00:20:28,333 --> 00:20:32,735
+[SPEAKER_00]: So, I must get it out somehow, by saying, by ranting, by telling someone else.
+
+268
+00:20:33,015 --> 00:20:33,736
+[SPEAKER_01]: Yeah, that's what I mean.
+
+269
+00:20:33,836 --> 00:20:36,097
+[SPEAKER_00]: But your your anger doesn't come out of your mind.
+
+270
+00:20:36,197 --> 00:20:47,023
+[SPEAKER_01]: I must get out because the pressure... Well, you mistake the pressure that was revealed by your restraint, you mistake it to be caused by your restraint.
+
+271
+00:20:48,450 --> 00:20:58,512
+[SPEAKER_01]: So, a person who restrains their anger, physically and verbally, has revealed the pressure of the mental frustration that wanted to express itself through anger.
+
+272
+00:20:59,412 --> 00:20:59,893
+[SPEAKER_00]: Reveals it.
+
+273
+00:20:59,913 --> 00:21:00,073
+[SPEAKER_01]: Yeah.
+
+274
+00:21:00,353 --> 00:21:00,833
+[SPEAKER_01]: Reveals it.
+
+275
+00:21:00,953 --> 00:21:07,814
+[SPEAKER_01]: But, people would think that, oh, this pressure wasn't there, as in, I wasn't aware of it before, because before, whenever I thought something, I would say something.
+
+276
+00:21:07,854 --> 00:21:10,035
+[SPEAKER_01]: Whenever I thought something, I would do something.
+
+277
+00:21:11,315 --> 00:21:15,496
+[SPEAKER_01]: But now, I stopped doing it, stopped saying it, and now I have all this pressure that I'm not giving in to.
+
+278
+00:21:16,260 --> 00:21:19,505
+[SPEAKER_01]: And then they think that that pressure has been caused by not giving in to it.
+
+279
+00:21:19,686 --> 00:21:21,649
+[SPEAKER_01]: But it hasn't.
+
+280
+00:21:21,769 --> 00:21:28,360
+[SPEAKER_01]: If that pressure were not there, regardless of your restraint or not, you wouldn't have never acted out of anger.
+
+281
+00:21:29,810 --> 00:21:33,955
+[SPEAKER_01]: Mental anger would never make you do something physically, or say something verbally.
+
+282
+00:21:34,635 --> 00:21:36,517
+[SPEAKER_01]: Yet, that's how you used to act.
+
+283
+00:21:36,558 --> 00:21:46,268
+[SPEAKER_01]: So now, when you start restraining that action, you realize that, oh, the pressure that I became aware of it now, has been revealed by my restraint, as something that was always there.
+
+284
+00:21:46,989 --> 00:21:50,273
+[SPEAKER_01]: Not caused by my restraint, as something that wasn't there before.
+
+285
+00:21:51,802 --> 00:21:54,503
+[SPEAKER_01]: And when that view changes, that's when you start valuing the restraint.
+
+286
+00:21:55,164 --> 00:22:00,046
+[SPEAKER_01]: For as long as you don't change that view, you will blame restraint for the pressure that got revealed.
+
+287
+00:22:00,266 --> 00:22:04,548
+[SPEAKER_01]: You'll think, pressure got created, I better release it, because I will implode.
+
+288
+00:22:07,190 --> 00:22:07,730
+[SPEAKER_01]: But that's what I mean.
+
+289
+00:22:07,750 --> 00:22:12,932
+[SPEAKER_01]: You only need to... you don't need to look further than just... just see how were you behaving when you don't need to restrain yourself.
+
+290
+00:22:13,433 --> 00:22:14,853
+[SPEAKER_01]: You realize there's still that pressure there.
+
+291
+00:22:15,233 --> 00:22:18,315
+[SPEAKER_01]: You just don't feel it, because you get to turn a blind eye to it, because you get to act.
+
+292
+00:22:19,389 --> 00:22:21,550
+[SPEAKER_01]: Physically and verbally, because there is no restraint.
+
+293
+00:22:21,710 --> 00:22:22,490
+[SPEAKER_00]: So you see the pressure...
+
+294
+00:22:22,510 --> 00:22:23,090
+[SPEAKER_01]: So you don't...
+
+295
+00:22:23,110 --> 00:22:24,991
+[SPEAKER_01]: There is a pressure build-up, quickly release it.
+
+296
+00:22:25,011 --> 00:22:25,611
+[SPEAKER_00]: Yeah.
+
+297
+00:22:25,931 --> 00:22:28,952
+[SPEAKER_01]: There is a pressure build-up, I won't release it, pressure builds up.
+
+298
+00:22:29,772 --> 00:22:32,613
+[SPEAKER_01]: Because you restrained, you saw the pressure that's been building up.
+
+299
+00:22:33,633 --> 00:22:35,974
+[SPEAKER_01]: But whether you restrain or not, pressure will be building up.
+
+300
+00:22:36,914 --> 00:22:41,416
+[SPEAKER_01]: And if you take pressure to be the problem, you realize restraint is not an option.
+
+301
+00:22:41,656 --> 00:22:42,316
+[SPEAKER_01]: It must be done.
+
+302
+00:22:43,016 --> 00:22:45,717
+[SPEAKER_01]: Because how can I deal with the pressure if I keep releasing it right away?
+
+303
+00:22:46,237 --> 00:22:46,717
+[SPEAKER_01]: Every second.
+
+304
+00:22:46,937 --> 00:22:49,158
+[SPEAKER_01]: As soon as it starts building up, I quickly, quickly open everything.
+
+305
+00:22:50,490 --> 00:22:55,874
+[SPEAKER_01]: But, you're trying to deal with the arising of the pressure.
+
+306
+00:22:57,975 --> 00:23:05,160
+[SPEAKER_01]: So, the only way to deal with the arising of the pressure, is to let the pressure arise, and not leak it out.
+
+307
+00:23:07,741 --> 00:23:08,322
+[SPEAKER_00]: Let it be.
+
+308
+00:23:08,942 --> 00:23:09,522
+[SPEAKER_01]: Exactly.
+
+309
+00:23:09,602 --> 00:23:11,984
+[SPEAKER_01]: Let it be, then you get to see where pressure has come from.
+
+310
+00:23:12,044 --> 00:23:14,045
+[SPEAKER_01]: But, oh, is there... oh, pressure's gone.
+
+311
+00:23:14,185 --> 00:23:16,687
+[SPEAKER_01]: I have to wait for new pressure to come, to see where it's coming from.
+
+312
+00:23:18,617 --> 00:23:23,639
+[SPEAKER_01]: But if you keep letting the pressure out, how can you see where it's being built up from?
+
+313
+00:23:23,659 --> 00:23:28,760
+[SPEAKER_00]: First thing, the pressure builds up, builds up, builds up... And what?
+
+314
+00:23:29,220 --> 00:23:29,500
+[SPEAKER_00]: And then?
+
+315
+00:23:29,640 --> 00:23:29,960
+[SPEAKER_01]: Exactly.
+
+316
+00:23:30,641 --> 00:23:36,583
+[SPEAKER_01]: It cannot... No amount of pressure build up can make you act in a different domain.
+
+317
+00:23:37,643 --> 00:23:39,443
+[SPEAKER_01]: Mental pressure is mental pressure.
+
+318
+00:23:39,503 --> 00:23:45,085
+[SPEAKER_01]: That's why always the responsibility for your action never changes.
+
+319
+00:23:45,165 --> 00:23:47,866
+[SPEAKER_01]: Even if a person is sort of losing their mind, so to speak,
+
+320
+00:23:49,653 --> 00:23:52,955
+[SPEAKER_01]: Fundamentally, if they choose to act physically or verbally, that's on them.
+
+321
+00:23:54,416 --> 00:24:01,680
+[SPEAKER_01]: So, no amount of mental pressure build-up can make your hands, legs, head do things.
+
+322
+00:24:02,620 --> 00:24:05,121
+[SPEAKER_01]: You choose that pressure to be the reason for you acting.
+
+323
+00:24:05,902 --> 00:24:11,185
+[SPEAKER_01]: That's why, inherently, kama, as a form of action, is based on ignorance.
+
+324
+00:24:11,845 --> 00:24:17,168
+[SPEAKER_01]: It's based on that assumption, based on that bridge between the domains that are unbridgeable.
+
+325
+00:24:18,658 --> 00:24:23,741
+[SPEAKER_01]: When you fully discern that these domains can never connect, you realize, oh, there is no pressure now.
+
+326
+00:24:24,561 --> 00:24:36,768
+[SPEAKER_01]: No amount of mental... what used to cause pressure mentally, such as prospect of death, or prospect of some... well, some significant experience.
+
+327
+00:24:38,088 --> 00:24:44,392
+[SPEAKER_01]: You realize even that pressure that were being built up in your mind was because there were traces of assumption of connection.
+
+328
+00:24:45,746 --> 00:24:51,309
+[SPEAKER_01]: Pressure build-up in the mind means there is a possibility of acting out of it on the physical or verbal domain.
+
+329
+00:24:51,809 --> 00:25:02,635
+[SPEAKER_01]: You remove the possibility of acting out of it, as in, you remove the assumption of of the slightest connection between these domains, there is no pressure to arise.
+
+330
+00:25:03,716 --> 00:25:06,337
+[SPEAKER_01]: Even if the highway robbers are chopping you limb by limb.
+
+331
+00:25:06,518 --> 00:25:12,701
+[SPEAKER_00]: So, someone call... calls me name... yeah, calls me something, says something, swears at me or whatever, says I'm an idiot.
+
+332
+00:25:14,940 --> 00:25:19,422
+[SPEAKER_00]: On that level, that domain, but then I get angry in my mind.
+
+333
+00:25:19,722 --> 00:25:19,902
+[SPEAKER_00]: Yeah.
+
+334
+00:25:20,622 --> 00:25:23,303
+[SPEAKER_00]: Because of an external speech.
+
+335
+00:25:24,184 --> 00:25:24,804
+[SPEAKER_01]: Yeah, exactly.
+
+336
+00:25:26,585 --> 00:25:28,806
+[SPEAKER_01]: What's going on?
+
+337
+00:25:29,586 --> 00:25:30,847
+[SPEAKER_01]: It's, it's, it's, it's...
+
+338
+00:25:33,128 --> 00:25:38,530
+[SPEAKER_01]: The anger, the hazarism, remain fully enclosed on a mental level.
+
+339
+00:25:39,390 --> 00:25:43,932
+[SPEAKER_01]: But you didn't know how to deal with it, so then you jumped on a verbal level, or a physical level.
+
+340
+00:25:47,845 --> 00:25:55,191
+[SPEAKER_01]: But if you know how to not be affected by that prospect of arising anger on the mental level, why would you be looking to express it anywhere else?
+
+341
+00:25:55,311 --> 00:25:56,452
+[SPEAKER_01]: There would be nothing to express.
+
+342
+00:25:58,814 --> 00:26:07,640
+[SPEAKER_01]: But for as long as you give in to a form of expressing anger through physical or verbal domains, means to that extent you're maintaining belief that anger is expressible.
+
+343
+00:26:08,441 --> 00:26:10,423
+[SPEAKER_01]: Those domains, which means, how can you then uproot it?
+
+344
+00:26:11,263 --> 00:26:11,924
+[SPEAKER_01]: Where anger is?
+
+345
+00:26:13,071 --> 00:26:14,632
+[SPEAKER_01]: I mean, you might... You keep releasing the pressure.
+
+346
+00:26:14,652 --> 00:26:20,195
+[SPEAKER_01]: You keep believing that releasing the pressure in completely unconnected domains is the way of dealing with pressure.
+
+347
+00:26:20,556 --> 00:26:23,737
+[SPEAKER_00]: So, like revenge, like... or killing someone.
+
+348
+00:26:23,818 --> 00:26:24,618
+[SPEAKER_01]: Yeah, exactly.
+
+349
+00:26:24,638 --> 00:26:29,061
+[SPEAKER_01]: That's the ultimate, sort of, extension of this perverted principle.
+
+350
+00:26:32,603 --> 00:26:41,048
+[SPEAKER_01]: But, again, you realize that if there is a pressure on the level of the mind, yeah, there is an assumption on the level of the mind that results in this pressure.
+
+351
+00:26:41,967 --> 00:26:51,251
+[SPEAKER_01]: Which is uncomfortable, but you realize the only way to really deal with it is to treat it on the level of the mind, to overcome it.
+
+352
+00:26:51,912 --> 00:27:03,697
+[SPEAKER_01]: And that's what Buddha meant when he said, even if a person lives physically withdrawn from sensuality, unless his mind has been withdrawn from assuming the same, he's still wet.
+
+353
+00:27:06,159 --> 00:27:10,901
+[SPEAKER_01]: In the same sense, you take the two sticks out of the water, but you still won't be able to light the fire with them, because they're still wet.
+
+354
+00:27:12,457 --> 00:27:19,241
+[SPEAKER_01]: So, having been withdrawn physically, then now you need to dry out your mind from those same assumptions that kept making you act physically.
+
+355
+00:27:20,501 --> 00:27:29,686
+[SPEAKER_01]: And you can use any form of pressure, any form of that mental discomfort, you can use it as a symptom of some humidity left, so to speak.
+
+356
+00:27:33,088 --> 00:27:35,590
+[SPEAKER_01]: And when there is no pressure, means the sticks are completely dry.
+
+357
+00:27:35,790 --> 00:27:37,370
+[SPEAKER_01]: And then you... it will be self-evident.
+
+358
+00:27:37,671 --> 00:27:41,753
+[SPEAKER_00]: So, okay, so... where there once was
+
+359
+00:27:43,825 --> 00:27:44,205
+[SPEAKER_00]: Pressure.
+
+360
+00:27:46,186 --> 00:27:47,887
+[SPEAKER_00]: So, that's your measurement there.
+
+361
+00:27:48,427 --> 00:27:48,547
+[SPEAKER_01]: Yeah.
+
+362
+00:27:48,727 --> 00:27:51,929
+[SPEAKER_00]: When you're no longer... there's no longer that pressure to act.
+
+363
+00:27:52,829 --> 00:27:53,169
+[SPEAKER_01]: Exactly.
+
+364
+00:27:53,409 --> 00:27:54,230
+[SPEAKER_00]: That is a sign.
+
+365
+00:27:56,190 --> 00:28:01,273
+[SPEAKER_01]: That you are not misconceiving the nature of the three domains.
+
+366
+00:28:02,173 --> 00:28:05,655
+[SPEAKER_01]: So... That is a sign that you are not as deluded as you were before.
+
+367
+00:28:08,276 --> 00:28:12,118
+[SPEAKER_00]: So, you... so, you are... there is anger.
+
+368
+00:28:12,198 --> 00:28:13,198
+[SPEAKER_01]: Well, see, even that, like,
+
+369
+00:28:14,347 --> 00:28:17,348
+[SPEAKER_01]: Anger requires a degree of that pressure on the mental level.
+
+370
+00:28:17,368 --> 00:28:18,569
+[SPEAKER_00]: Oh, yeah, it's discomfort.
+
+371
+00:28:18,809 --> 00:28:25,651
+[SPEAKER_01]: That's why, that's why, like, the right view doesn't automatically jump into freedom from sensuality and anger.
+
+372
+00:28:27,152 --> 00:28:30,433
+[SPEAKER_01]: Like, that's why there is the step of sakadāgāmī in between.
+
+373
+00:28:30,453 --> 00:28:31,593
+[SPEAKER_01]: Weakening of these things.
+
+374
+00:28:33,794 --> 00:28:35,155
+[SPEAKER_01]: Weakening of these assumptions.
+
+375
+00:28:36,635 --> 00:28:37,936
+[SPEAKER_00]: There's not much of a pressure.
+
+376
+00:28:38,456 --> 00:28:38,876
+[SPEAKER_01]: Exactly.
+
+377
+00:28:39,096 --> 00:28:40,536
+[SPEAKER_01]: So, for somebody with the right view,
+
+378
+00:28:43,430 --> 00:28:53,573
+[SPEAKER_01]: He's virtually unable, will be virtually unable to act to the same extent, out of anger or lust, as somebody who doesn't have the right view.
+
+379
+00:28:55,814 --> 00:29:00,336
+[SPEAKER_01]: So, for sakadāgāmī, he will be even less able to act out of these things, but still to some extent.
+
+380
+00:29:00,756 --> 00:29:03,957
+[SPEAKER_01]: And then, only anāgāmī cannot really act or say anything sensual.
+
+381
+00:29:04,697 --> 00:29:05,978
+[SPEAKER_01]: And that's how he uprooted it.
+
+382
+00:29:06,738 --> 00:29:07,278
+[SPEAKER_01]: Sensuality.
+
+383
+00:29:07,678 --> 00:29:13,300
+[SPEAKER_01]: But, on the mental level, there are still traces of certain lacks of clarity,
+
+384
+00:29:13,724 --> 00:29:20,053
+[SPEAKER_01]: In regard to certain much more refined perversions of the natural principles.
+
+385
+00:29:21,796 --> 00:29:25,562
+[SPEAKER_01]: And that's where the Arahantship sort of gets developed, if you approve that.
+
+386
+00:29:28,078 --> 00:29:51,839
+[SPEAKER_01]: So, having an angry thought for Sotāpanna, he might be emotionally even affected, but not to the extent of going and just killing, anarahant, harming people in that in that sense of like a full-on blind rage, which requires the sufficient amount of that belief in connecting these domains of mental and physical output.
+
+387
+00:29:53,637 --> 00:29:54,938
+[SPEAKER_01]: Sakadāgāmī even less.
+
+388
+00:29:55,038 --> 00:30:09,145
+[SPEAKER_01]: Like, maybe on some extremely, extremely careless days, too much, sort of, going on mindfulness lapsed for a long time, he might do things out of sensuality or anger, but obviously that's, like, miniscule in comparison to... And then anāgāmī becomes unable.
+
+389
+00:30:09,606 --> 00:30:17,730
+[SPEAKER_01]: No amount of pressure, no amount of adverse circumstances, no amount of loss of mindfulness can make these domains connect through assumption again.
+
+390
+00:30:18,230 --> 00:30:23,253
+[SPEAKER_01]: Because he dwelt on it long enough, that it became so clear that that's undoable now.
+
+391
+00:30:23,570 --> 00:30:25,772
+[SPEAKER_01]: You can't undo the clarity.
+
+392
+00:30:27,033 --> 00:30:31,336
+[SPEAKER_01]: Because those domains were truly unconnectable to begin with.
+
+393
+00:30:31,376 --> 00:30:36,040
+[SPEAKER_01]: That's why the Buddha said, it's because the mind cannot really be polluted by these things.
+
+394
+00:30:36,340 --> 00:30:39,042
+[SPEAKER_01]: That's why liberation from pollution of these things is possible.
+
+395
+00:30:39,062 --> 00:30:52,293
+[SPEAKER_00]: So, when there's an unpleasant feeling, whatever is happening, say, someone is
+
+396
+00:30:53,411 --> 00:30:55,371
+[SPEAKER_01]: You know, someone just stole something from you.
+
+397
+00:30:55,912 --> 00:30:57,392
+[SPEAKER_00]: You realize this was stolen.
+
+398
+00:30:57,732 --> 00:30:58,972
+[SPEAKER_00]: It's an unpleasant feeling.
+
+399
+00:30:59,753 --> 00:31:02,713
+[SPEAKER_00]: It doesn't result in anger or fear.
+
+400
+00:31:03,113 --> 00:31:03,313
+[SPEAKER_01]: Sure.
+
+401
+00:31:04,474 --> 00:31:05,834
+[SPEAKER_01]: Yeah, it's just a disagreeable feeling.
+
+402
+00:31:06,174 --> 00:31:06,514
+[SPEAKER_01]: That's it.
+
+403
+00:31:06,754 --> 00:31:08,395
+[SPEAKER_00]: And there's, on a physical level, someone stole something.
+
+404
+00:31:08,415 --> 00:31:13,156
+[SPEAKER_01]: All what we spoke about now, about the aggregates of the three types of action, you can say the same for feeling and for perception.
+
+405
+00:31:13,456 --> 00:31:14,256
+[SPEAKER_01]: That's what I was writing there.
+
+406
+00:31:14,296 --> 00:31:15,996
+[SPEAKER_00]: I say feeling feels, perception perceives.
+
+407
+00:31:16,016 --> 00:31:16,777
+[SPEAKER_00]: I perceive this.
+
+408
+00:31:16,877 --> 00:31:18,297
+[SPEAKER_01]: Intention intends, in a way.
+
+409
+00:31:19,657 --> 00:31:22,978
+[SPEAKER_01]: Yeah, so your recent feeling requires an assumption
+
+410
+00:31:23,757 --> 00:31:29,779
+[SPEAKER_01]: For you to be acting towards or against perceptions, because feeling is felt, perception is perceived.
+
+411
+00:31:30,880 --> 00:31:34,681
+[SPEAKER_01]: It's not that you perceive what you feel.
+
+412
+00:31:34,721 --> 00:31:39,723
+[SPEAKER_01]: Like you... what you're perceiving is what you're feeling, so then you're dealing with what you're perceiving, that's how you deal with what you feel.
+
+413
+00:31:39,743 --> 00:31:39,883
+[SPEAKER_01]: No.
+
+414
+00:31:40,083 --> 00:31:41,764
+[SPEAKER_00]: You can't release your feelings into your perception.
+
+415
+00:31:41,784 --> 00:31:45,706
+[SPEAKER_01]: You can't release the feeling out of a domain of feeling into the domain of perception.
+
+416
+00:31:45,826 --> 00:31:47,927
+[SPEAKER_01]: That's what Buddha said when he asked him, what is feeling?
+
+417
+00:31:47,947 --> 00:31:50,067
+[SPEAKER_01]: He said, feeling is that which feels.
+
+418
+00:31:50,087 --> 00:31:50,608
+[SPEAKER_01]: What's perception?
+
+419
+00:31:50,628 --> 00:31:51,508
+[SPEAKER_01]: It's that which perceives.
+
+420
+00:31:53,423 --> 00:31:54,304
+[SPEAKER_01]: Perception perceives.
+
+421
+00:31:54,504 --> 00:31:55,084
+[SPEAKER_01]: Feeling feels.
+
+422
+00:31:55,144 --> 00:31:55,885
+[SPEAKER_01]: Matter matters.
+
+423
+00:31:57,426 --> 00:31:58,627
+[SPEAKER_01]: Consciousness cognizes.
+
+424
+00:31:58,707 --> 00:32:00,149
+[SPEAKER_01]: Intentions intend.
+
+425
+00:32:00,189 --> 00:32:01,169
+[SPEAKER_01]: Whatever you want to translate.
+
+426
+00:32:02,651 --> 00:32:03,331
+[SPEAKER_01]: Five heaps.
+
+427
+00:32:04,812 --> 00:32:05,593
+[SPEAKER_01]: It's five heaps.
+
+428
+00:32:05,693 --> 00:32:07,735
+[SPEAKER_01]: Not like five things that merge into one thing.
+
+429
+00:32:09,056 --> 00:32:14,380
+[SPEAKER_01]: So, no amount of the expanse of the heap, it's still gonna be five heaps.
+
+430
+00:32:15,221 --> 00:32:20,165
+[SPEAKER_01]: So, when there is like five, say, five layers of different things, and then you have
+
+431
+00:32:21,748 --> 00:32:25,229
+[SPEAKER_01]: Another five layers of the same kind of things, just double it up.
+
+432
+00:32:26,349 --> 00:32:34,452
+[SPEAKER_01]: So, you say you have a... you have a towel, you have a stone, you have a bucket, you have a piece of wood and a piece of metal.
+
+433
+00:32:35,252 --> 00:32:42,074
+[SPEAKER_01]: Then, you have another towel, another bucket, another wood, another metal... Then, you have six towels and fifteen buckets and... and heap it, and heap it, and heap it.
+
+434
+00:32:42,174 --> 00:32:45,535
+[SPEAKER_01]: Still, if you go in, you'll see towel, towel, towel, towel, towel, towel.
+
+435
+00:32:45,975 --> 00:32:51,317
+[SPEAKER_01]: No amount of towels, it's still gonna be, oh, these are all heap of towels.
+
+436
+00:32:51,924 --> 00:32:55,226
+[SPEAKER_01]: Or rather, domain of towels within the heap of these different things.
+
+437
+00:32:56,147 --> 00:32:59,229
+[SPEAKER_01]: A domain of pieces of wood, as in domain of wood.
+
+438
+00:32:59,429 --> 00:33:01,691
+[SPEAKER_00]: I don't clean my towel by washing my bucket.
+
+439
+00:33:01,811 --> 00:33:02,551
+[SPEAKER_01]: No, exactly.
+
+440
+00:33:02,952 --> 00:33:14,920
+[SPEAKER_01]: So, no amount of... doesn't matter how expensive the heap might become, it's still gonna be heap of five domains, five natures, five types of things.
+
+441
+00:33:15,721 --> 00:33:19,023
+[SPEAKER_01]: And that's why the Buddha said, doesn't matter what... like the form,
+
+442
+00:33:19,370 --> 00:33:27,495
+[SPEAKER_01]: Doesn't matter if it's a past form, future form, present form, personal, impersonal, internal, external, big or small, far or near, up or down.
+
+443
+00:33:28,036 --> 00:33:29,897
+[SPEAKER_01]: He knows form is there.
+
+444
+00:33:30,858 --> 00:33:36,241
+[SPEAKER_01]: Doesn't matter if it's a blue towel, a red towel, a yellow towel, a big towel, my towel, someone else's towel.
+
+445
+00:33:36,642 --> 00:33:37,642
+[SPEAKER_01]: Towels are there.
+
+446
+00:33:39,083 --> 00:33:47,449
+[SPEAKER_01]: But you don't do this for the sake of some kind of exercise in your perception, because obviously you can do that in the simile I gave, as a heap of things that you can perceive.
+
+447
+00:33:48,162 --> 00:33:55,244
+[SPEAKER_01]: But imagine how hard it becomes when it's your experience, it's heaped like that, where you can only perceive the perceptions.
+
+448
+00:33:57,044 --> 00:34:00,565
+[SPEAKER_01]: You can't go and perceive in the same manner feeling and matter and other things.
+
+449
+00:34:00,865 --> 00:34:02,945
+[SPEAKER_01]: That's why Buddha said that matter matters.
+
+450
+00:34:03,605 --> 00:34:05,146
+[SPEAKER_01]: Feeling feels.
+
+451
+00:34:05,246 --> 00:34:06,326
+[SPEAKER_01]: Perception perceives.
+
+452
+00:34:07,706 --> 00:34:08,106
+[SPEAKER_01]: And so on.
+
+453
+00:34:08,446 --> 00:34:09,527
+[SPEAKER_01]: Consciousness cognizes.
+
+454
+00:34:09,747 --> 00:34:10,067
+[SPEAKER_01]: That's why...
+
+455
+00:34:10,467 --> 00:34:13,428
+[SPEAKER_01]: So consciousness doesn't go and cognize matter.
+
+456
+00:34:14,068 --> 00:34:15,168
+[SPEAKER_01]: Consciousness cognizes.
+
+457
+00:34:15,696 --> 00:34:16,056
+[SPEAKER_01]: That's it.
+
+458
+00:34:16,136 --> 00:34:18,377
+[SPEAKER_01]: That's the extent of its... of its heap.
+
+459
+00:34:19,737 --> 00:34:20,557
+[SPEAKER_01]: So, it's the five heaps.
+
+460
+00:34:20,997 --> 00:34:28,899
+[SPEAKER_01]: And you realize, by having five heaps, completely independent, completely indifferent, completely unaware of each other.
+
+461
+00:34:29,859 --> 00:34:32,360
+[SPEAKER_01]: Heap of towels is unaware of the heap of wood.
+
+462
+00:34:34,040 --> 00:34:37,041
+[SPEAKER_01]: The heap of feelings is unaware of the heap of perceptions.
+
+463
+00:34:37,569 --> 00:34:38,469
+[SPEAKER_01]: It's the five heaps.
+
+464
+00:34:38,689 --> 00:34:39,550
+[SPEAKER_01]: That is the starting.
+
+465
+00:34:39,590 --> 00:34:40,390
+[SPEAKER_01]: That is the necessary basis.
+
+466
+00:34:40,410 --> 00:34:41,250
+[SPEAKER_00]: But we make the connection.
+
+467
+00:34:41,691 --> 00:34:46,312
+[SPEAKER_01]: You assume the connection through the directionality of your ignorance with the grain.
+
+468
+00:34:48,373 --> 00:34:48,493
+[SPEAKER_01]: Oh!
+
+469
+00:34:49,454 --> 00:34:51,414
+[SPEAKER_01]: I have this feeling and I'm perceiving this.
+
+470
+00:34:52,035 --> 00:34:52,135
+[SPEAKER_01]: Ah!
+
+471
+00:34:52,355 --> 00:34:54,235
+[SPEAKER_01]: So I'm feeling this, what I'm perceiving.
+
+472
+00:34:54,656 --> 00:34:55,816
+[SPEAKER_01]: And it becomes one thing.
+
+473
+00:34:55,836 --> 00:34:57,337
+[SPEAKER_01]: It becomes me and everything else.
+
+474
+00:34:58,397 --> 00:35:05,720
+[SPEAKER_01]: But when you see, it doesn't matter if it's me, others, me and others, internal, external, internal and external, past, future, present.
+
+475
+00:35:06,999 --> 00:35:15,805
+[SPEAKER_01]: What matters is, whichever way it is, of those particular things I've just described, that's already within the nature of the five aggregates.
+
+476
+00:35:16,505 --> 00:35:32,136
+[SPEAKER_01]: So, by seeing that no... like, whatever... whatever feels closest to you, whatever feels most personal to you, whatever feels most emotionally significant to you, you realize it's... it could have only arisen
+
+477
+00:35:32,737 --> 00:35:37,200
+[SPEAKER_01]: On the basis of these five random heaps that you have no control over.
+
+478
+00:35:37,220 --> 00:35:53,912
+[SPEAKER_01]: Because if there were no body, if there were no domain of feelings to be felt, if the domain of perception is not working, if the domain of consciousness is not cognizing, if the main intentions cannot intend, how could you be engaged with anything in any shape or form?
+
+479
+00:35:56,814 --> 00:35:58,175
+[SPEAKER_01]: How could you be alive to begin with?
+
+480
+00:36:00,057 --> 00:36:01,758
+[SPEAKER_01]: So then you realize that no matter
+
+481
+00:36:02,288 --> 00:36:09,234
+[SPEAKER_01]: What emotional significance of what experience you might be dealing with, or trying to deal with, you realize it's secondary.
+
+482
+00:36:09,915 --> 00:36:11,956
+[SPEAKER_01]: To the basis of this structure, there is no saying.
+
+483
+00:36:12,817 --> 00:36:14,158
+[SPEAKER_01]: And that's how you lose concern.
+
+484
+00:36:15,319 --> 00:36:24,547
+[SPEAKER_01]: You don't lose concern in your... in your ownership, in things that define you, in... in emotional attitudes by denying them.
+
+485
+00:36:25,027 --> 00:36:30,152
+[SPEAKER_01]: You lose concern by uprooting them, by seeing that they're rooting in something that you cannot even...
+
+486
+00:36:32,029 --> 00:36:38,252
+[SPEAKER_01]: You cannot even slightest... you cannot even have a slightest conceiving of it as... as having a say in it.
+
+487
+00:36:38,372 --> 00:36:40,854
+[SPEAKER_01]: You cannot even control it to a slightest degree.
+
+488
+00:36:42,154 --> 00:36:57,322
+[SPEAKER_01]: And that's why this realization can very, very often be frightening for somebody who is still not letting go of that assumed ownership of the... of the experience as a whole, of me, my world and my environment.
+
+489
+00:36:58,183 --> 00:36:58,623
+[SPEAKER_01]: And that's why
+
+490
+00:36:59,758 --> 00:37:05,362
+[SPEAKER_01]: As I said, it's a mistake, but it's a gratuitous mistake that, as the Buddha said, it has no first point of manifestation.
+
+491
+00:37:05,623 --> 00:37:08,025
+[SPEAKER_01]: It's not like, I wasn't ignorant, then I became ignorant.
+
+492
+00:37:08,065 --> 00:37:09,286
+[SPEAKER_01]: No, that is the starting point.
+
+493
+00:37:10,166 --> 00:37:15,170
+[SPEAKER_01]: And that's why then people would just keep expanding on it, keep proliferating it further.
+
+494
+00:37:15,190 --> 00:37:23,757
+[SPEAKER_01]: So, you already made the same mistake by assuming this experience as a whole to be... you assume that you have a say in it.
+
+495
+00:37:24,838 --> 00:37:28,801
+[SPEAKER_01]: You assume that you have a say in the domain of feeling, the domain of perception, the domain of form.
+
+496
+00:37:29,407 --> 00:37:30,447
+[SPEAKER_01]: The domain of cognizing.
+
+497
+00:37:31,928 --> 00:37:35,509
+[SPEAKER_01]: And because you took that for granted, then you just extend the principle further.
+
+498
+00:37:36,490 --> 00:37:41,512
+[SPEAKER_01]: So now, from this fundamental domain, I also assume I have a domain in...
+
+499
+00:37:41,612 --> 00:37:47,434
+[SPEAKER_01]: I have a say in the domain of things that I perceive to be mine, that I have acquired.
+
+500
+00:37:48,494 --> 00:37:50,955
+[SPEAKER_01]: If you acquired something, it clearly wasn't yours beforehand.
+
+501
+00:37:51,515 --> 00:37:54,656
+[SPEAKER_01]: The only reason you could acquire it is because it wasn't yours beforehand.
+
+502
+00:37:55,337 --> 00:37:58,778
+[SPEAKER_01]: If it were truly yours, if you were truly master, controller, the owner,
+
+503
+00:37:59,962 --> 00:38:01,682
+[SPEAKER_01]: There will be no acquiring necessary.
+
+504
+00:38:02,583 --> 00:38:05,463
+[SPEAKER_01]: So, acquiring is always a gratuitous appropriation.
+
+505
+00:38:06,584 --> 00:38:10,324
+[SPEAKER_01]: When I say acquiring, I don't mean you take this and put it next to you because it's useful.
+
+506
+00:38:10,945 --> 00:38:12,925
+[SPEAKER_01]: No, I mean sense of emotional ownership.
+
+507
+00:38:13,025 --> 00:38:17,586
+[SPEAKER_01]: And you will know whether you have that emotional ownership, whereby, if you just... all you have to do is think about it.
+
+508
+00:38:17,606 --> 00:38:21,367
+[SPEAKER_01]: If something comes and steals it, as the example you gave, will you be emotionally affected by it?
+
+509
+00:38:21,827 --> 00:38:22,087
+[SPEAKER_01]: Why?
+
+510
+00:38:22,187 --> 00:38:22,847
+[SPEAKER_01]: To what extent?
+
+511
+00:38:23,088 --> 00:38:24,008
+[SPEAKER_00]: Or if it changes.
+
+512
+00:38:24,128 --> 00:38:24,648
+[SPEAKER_01]: If it changes.
+
+513
+00:38:24,708 --> 00:38:25,128
+[SPEAKER_01]: If you lose it.
+
+514
+00:38:25,168 --> 00:38:26,128
+[SPEAKER_01]: If it stops functioning.
+
+515
+00:38:26,408 --> 00:38:27,028
+[SPEAKER_00]: I feel great.
+
+516
+00:38:27,189 --> 00:38:27,769
+[SPEAKER_00]: I feel great.
+
+517
+00:38:27,869 --> 00:38:28,189
+[SPEAKER_00]: Exactly.
+
+518
+00:38:28,209 --> 00:38:28,529
+[SPEAKER_00]: I feel great.
+
+519
+00:38:28,549 --> 00:38:28,869
+[SPEAKER_00]: And then...
+
+520
+00:38:29,763 --> 00:38:33,905
+[SPEAKER_01]: So, if you never forget, that means you never really assume the ownership of things.
+
+521
+00:38:34,065 --> 00:38:35,085
+[SPEAKER_01]: And you can use all you want.
+
+522
+00:38:36,286 --> 00:38:37,426
+[SPEAKER_01]: You won't be blinded by it.
+
+523
+00:38:37,586 --> 00:38:38,727
+[SPEAKER_01]: But that takes undoing.
+
+524
+00:38:40,367 --> 00:38:42,228
+[SPEAKER_01]: And, and, like, people can take that even further.
+
+525
+00:38:42,248 --> 00:38:44,789
+[SPEAKER_01]: I mean, there is no end to how far you can proliferate this.
+
+526
+00:38:45,209 --> 00:38:49,171
+[SPEAKER_01]: To the point where somebody said something to somebody else, somewhere else.
+
+527
+00:38:49,971 --> 00:38:52,092
+[SPEAKER_01]: And I'm emotionally affected because of that.
+
+528
+00:38:52,973 --> 00:38:53,773
+[SPEAKER_01]: And that's one thing.
+
+529
+00:38:54,336 --> 00:38:55,337
+[SPEAKER_01]: That I took for granted.
+
+530
+00:38:55,477 --> 00:39:09,567
+[SPEAKER_01]: Now, I want to emotionally act out of it and make sure that that person, who is unaware of my existence, had nothing to do with me, suffers on account of what he said to somebody else, somewhere else, that upset me on a completely different continent.
+
+531
+00:39:11,389 --> 00:39:19,895
+[SPEAKER_01]: And as I said, it's just a proliferation of the same, the most fundamental existential principle of turning a blind eye to the basic truth that your experience as a whole is not your own.
+
+532
+00:39:20,543 --> 00:39:24,966
+[SPEAKER_01]: And that's why you need to keep maintaining your sense of ownership in regard to it, because it isn't yours.
+
+533
+00:39:26,848 --> 00:39:29,590
+[SPEAKER_01]: And that's truly what imper... recognition of impermanence is.
+
+534
+00:39:30,030 --> 00:39:32,612
+[SPEAKER_01]: Means recognition of impossibility to own.
+
+535
+00:39:34,094 --> 00:39:39,097
+[SPEAKER_01]: Because if you were the owner, things would last as long as you would want them to last, not as long they would want to last.
+
+536
+00:39:40,178 --> 00:39:41,539
+[SPEAKER_00]: Always trying to hold things together.
+
+537
+00:39:41,639 --> 00:39:41,840
+[SPEAKER_00]: Yeah.
+
+538
+00:39:41,920 --> 00:39:42,360
+[SPEAKER_00]: Yeah.
+
+539
+00:39:42,660 --> 00:39:43,721
+[SPEAKER_01]: It requires maintenance.
+
+540
+00:39:45,082 --> 00:39:48,785
+[SPEAKER_00]: That's what the... the... eh...
+
+541
+00:39:49,763 --> 00:39:50,844
+[SPEAKER_00]: Upādāna is holding.
+
+542
+00:39:51,184 --> 00:39:54,526
+[SPEAKER_00]: Can also be good, you know, just holding together.
+
+543
+00:39:54,586 --> 00:39:54,986
+[SPEAKER_01]: Holding.
+
+544
+00:39:55,467 --> 00:40:04,192
+[SPEAKER_01]: But I prefer the word assumption for it, because that's... Holding implies you know what you hold, or you might like, oh, I better drop this.
+
+545
+00:40:05,033 --> 00:40:09,676
+[SPEAKER_01]: But assumption is much less intentional, yet it's something you're fully responsible for.
+
+546
+00:40:10,316 --> 00:40:15,219
+[SPEAKER_01]: And assumption literally means to take things for granted, to take things at face value.
+
+547
+00:40:15,980 --> 00:40:19,442
+[SPEAKER_01]: Oh, experience a reason, must be mine, because I'm the only one here.
+
+548
+00:40:20,725 --> 00:40:22,346
+[SPEAKER_01]: So, I am the owner of this experience.
+
+549
+00:40:22,366 --> 00:40:23,707
+[SPEAKER_01]: You just gratuitously assume that.
+
+550
+00:40:25,869 --> 00:40:29,212
+[SPEAKER_01]: And that's why assumption is irreversible if you undo it.
+
+551
+00:40:30,093 --> 00:40:34,156
+[SPEAKER_01]: Like, you can only assume something if you don't know what that thing truly is.
+
+552
+00:40:35,337 --> 00:40:40,541
+[SPEAKER_01]: Because once you do know what that thing truly is, assumption is cancelled.
+
+553
+00:40:42,288 --> 00:40:43,169
+[SPEAKER_01]: It becomes redundant.
+
+554
+00:40:43,649 --> 00:40:59,741
+[SPEAKER_01]: So, if you know that this thing cannot be mine, no amount of you saying to you, this is mine, and trying to rekindle the assumption of this is mine, can take place, because now you fully know that all these attitudes are in response to things not being able to be mine in the first place.
+
+555
+00:40:59,761 --> 00:41:03,764
+[SPEAKER_01]: So, you can only take something for granted until you know what that thing is.
+
+556
+00:41:03,784 --> 00:41:05,925
+[SPEAKER_01]: That's why vijja cancels avijja.
+
+557
+00:41:08,247 --> 00:41:09,468
+[SPEAKER_01]: Vijja is irreversible.
+
+558
+00:41:10,289 --> 00:41:11,950
+[SPEAKER_01]: Once arahant becomes arahant, he cannot
+
+559
+00:41:13,078 --> 00:41:15,680
+[SPEAKER_01]: Undo the state of arahantship and go back to being a patujana.
+
+560
+00:41:16,160 --> 00:41:16,640
+[SPEAKER_01]: Impossible.
+
+561
+00:41:20,563 --> 00:41:27,107
+[SPEAKER_01]: So, even if you were taking things rightly, so to speak, the fact that you were taking them at face value, that's already what assumption is.
+
+562
+00:41:28,587 --> 00:41:35,111
+[SPEAKER_01]: So, you can have right assumptions, sure, but because it's still an assumption, to that extent, it's a wrong thing.
+
+563
+00:41:35,351 --> 00:41:36,132
+[SPEAKER_01]: It's a wrong view.
+
+564
+00:41:42,462 --> 00:41:45,184
+[SPEAKER_01]: To that extent, it's a perversion.
+
+565
+00:41:46,265 --> 00:41:48,766
+[SPEAKER_01]: It's sort of distortion of the right order.
+
+566
+00:41:51,188 --> 00:41:52,269
+[SPEAKER_00]: So, you had the right idea.
+
+567
+00:41:52,789 --> 00:41:53,550
+[SPEAKER_01]: Yeah, yeah.
+
+568
+00:41:53,810 --> 00:41:57,332
+[SPEAKER_01]: That's why you replace the wrong assumptions with right assumptions.
+
+569
+00:41:57,352 --> 00:42:06,859
+[SPEAKER_01]: You replace the wrong views with the right view, in the terms of... you replace the worldly views with the right worldly view, which is still fundamentally the wrong view.
+
+570
+00:42:07,700 --> 00:42:11,022
+[SPEAKER_01]: But then, on account of the right worldly view, you get the right right view.
+
+571
+00:42:12,175 --> 00:42:12,875
+[SPEAKER_00]: Yeah, it becomes clear.
+
+572
+00:42:12,915 --> 00:42:13,356
+[SPEAKER_00]: Yeah.
+
+573
+00:42:13,796 --> 00:42:15,257
+[SPEAKER_01]: So, it's not that our assumptions are bad.
+
+574
+00:42:15,277 --> 00:42:16,137
+[SPEAKER_01]: I must not assume anything.
+
+575
+00:42:16,538 --> 00:42:19,559
+[SPEAKER_01]: Look, that's already within your assumption, what assumptions are.
+
+576
+00:42:20,460 --> 00:42:31,006
+[SPEAKER_01]: So, you have to find the right... Firstly, for Putrajana, it's right to assume that he must restrain himself, physically, verbally, in order to get to deal with problems on the level of mind.
+
+577
+00:42:31,506 --> 00:42:35,068
+[SPEAKER_01]: It's the right thing to assume that liberation is possible.
+
+578
+00:42:36,829 --> 00:42:41,372
+[SPEAKER_01]: Because if it were impossible, you wouldn't even have the slightest notion towards any sense of freedom.
+
+579
+00:42:42,179 --> 00:42:50,163
+[SPEAKER_01]: But the fact that you do have a sense of... like notions of a sense of freedom from desire, sense of freedom from suffering... Yeah, you don't know if it's possible, but you assume that it's possible.
+
+580
+00:42:51,104 --> 00:42:55,506
+[SPEAKER_01]: And to that extent, it's a right assumption that can eventually result in undoing all the assumptions.
+
+581
+00:42:55,526 --> 00:42:58,868
+[SPEAKER_01]: That's why Buddha meant craving is to be undone by the means of craving.
+
+582
+00:42:58,908 --> 00:43:02,050
+[SPEAKER_01]: It's the same principle in regard to the topic of craving.
+
+583
+00:43:05,332 --> 00:43:10,995
+[SPEAKER_01]: But what will never result in undoing craving is if you never start understanding the nature of craving, if you never start
+
+584
+00:43:11,460 --> 00:43:16,301
+[SPEAKER_01]: What will never result in undoing the assumption is if you never start to discern the nature of present assumption.
+
+585
+00:43:16,921 --> 00:43:20,562
+[SPEAKER_01]: If you just divide it into wrong assumptions and right assumptions.
+
+586
+00:43:21,443 --> 00:43:22,923
+[SPEAKER_01]: This is wrong craving, this is right craving.
+
+587
+00:43:22,943 --> 00:43:23,323
+[SPEAKER_01]: And that's it.
+
+588
+00:43:23,343 --> 00:43:24,603
+[SPEAKER_01]: That's as far as your work went.
+
+589
+00:43:26,384 --> 00:43:30,825
+[SPEAKER_01]: Which means, you just replaced bad with good, but you're equally bound by it.
+
+590
+00:43:31,665 --> 00:43:35,186
+[SPEAKER_01]: You're equally bound by kamma, by the distortion of the notion of action.
+
+591
+00:43:36,847 --> 00:43:38,727
+[SPEAKER_01]: By the distortion of the notion that you are acting.
+
+592
+00:43:40,103 --> 00:43:42,465
+[SPEAKER_01]: And for that, you need to go beyond good as well.
+
+593
+00:43:43,206 --> 00:43:45,307
+[SPEAKER_01]: Beyond good cravings, beyond good upādānas.
+
+594
+00:43:46,028 --> 00:43:47,189
+[SPEAKER_01]: Beyond restraint, in a way.
+
+595
+00:43:47,229 --> 00:43:48,850
+[SPEAKER_01]: That's why arahant is beyond training.
+
+596
+00:43:49,731 --> 00:43:53,474
+[SPEAKER_01]: There is nothing for him to train anymore, to say no to, to restrain.
+
+597
+00:43:53,674 --> 00:43:53,794
+[SPEAKER_01]: No.
+
+598
+00:43:54,014 --> 00:43:54,555
+[SPEAKER_01]: He's beyond it.
+
+599
+00:43:54,715 --> 00:43:56,336
+[SPEAKER_01]: It's inconceivable to do even that.
+
+600
+00:43:59,218 --> 00:44:01,820
+[SPEAKER_01]: But because it's irreversible, he can't do anything unwholesome either.
+
+601
+00:44:02,061 --> 00:44:05,003
+[SPEAKER_01]: Because that was abandoned way before he even abandoned good.
+
+602
+00:44:06,102 --> 00:44:10,363
+[SPEAKER_01]: That's why you would say, like, his behavior has been purified beforehand.
+
+603
+00:44:11,363 --> 00:44:20,046
+[SPEAKER_01]: When purified behavior, when right assumptions, when right types of craving become your mode of being, means you have replaced the bad mode of being.
+
+604
+00:44:20,646 --> 00:44:26,368
+[SPEAKER_01]: And now, on account of the right mode of being, you get to discern the further, that nature of that distortion of those
+
+605
+00:44:28,450 --> 00:44:33,272
+[SPEAKER_01]: Fundamental existential assumptions, and by undoing it, then you go beyond good action as well.
+
+606
+00:44:33,312 --> 00:44:36,653
+[SPEAKER_01]: Hence, arahant is beyond karma of any kind, good, bad or neutral.
+
+607
+00:44:38,073 --> 00:44:42,175
+[SPEAKER_01]: Because he's beyond... he has undone all the... any distortion that there was.
+

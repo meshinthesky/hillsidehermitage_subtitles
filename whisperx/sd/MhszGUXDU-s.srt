@@ -1,0 +1,888 @@
+1
+00:00:02,670 --> 00:00:05,251
+[SPEAKER_01]: So, here's a question that people commonly ask.
+
+2
+00:00:07,172 --> 00:00:09,894
+[SPEAKER_01]: Why is stream entry called the right view?
+
+3
+00:00:10,854 --> 00:00:16,177
+[SPEAKER_01]: And why can a change of view be so special that it becomes actually liberating?
+
+4
+00:00:17,638 --> 00:00:24,701
+[SPEAKER_01]: Don't most Buddhists already have a right view, in the sense that their views are in line with the Buddha's teaching?
+
+5
+00:00:30,264 --> 00:00:31,585
+[SPEAKER_00]: Well, the thing is that
+
+6
+00:00:33,921 --> 00:00:40,709
+[SPEAKER_00]: As the suttas said, as the suttas say, there are two factors for the arising of the right view.
+
+7
+00:00:41,230 --> 00:00:47,598
+[SPEAKER_00]: So, on a mundane level, all you need to change your view about a topic is the utterance of another.
+
+8
+00:00:48,379 --> 00:00:51,603
+[SPEAKER_00]: You just need to get information, and then you just change your mind.
+
+9
+00:00:53,285 --> 00:00:54,888
+[SPEAKER_00]: About, I don't know, politics or something.
+
+10
+00:00:55,428 --> 00:01:06,505
+[SPEAKER_00]: But, when it comes to the dhamma, there's that second factor there, that is also essential for that change of view to occur, which is yonisonmasikāra.
+
+11
+00:01:07,905 --> 00:01:25,852
+[SPEAKER_00]: So then, basically, it's not a change of view on that kind of arm's-length level, where I just exchange one bit of information that I agree with for another bit of information, which, as you said, that's pretty much most people's relationship with the Buddhist teaching.
+
+12
+00:01:25,912 --> 00:01:31,434
+[SPEAKER_00]: It's just agreeing with a different information than they had before.
+
+13
+00:01:32,355 --> 00:01:33,355
+[SPEAKER_00]: But this is like
+
+14
+00:01:34,857 --> 00:01:45,800
+[SPEAKER_00]: Yoniso manasikāra being, as some other siddhas describe it, it's inseparable from seeing your own mind, seeing the signs of your own mind.
+
+15
+00:01:46,500 --> 00:02:00,504
+[SPEAKER_00]: So, when you take the Buddhist teaching in its most condensed form, which is suffering, the origin of suffering, the escape from suffering, and the path to the escape from suffering,
+
+16
+00:02:01,284 --> 00:02:10,189
+[SPEAKER_00]: You would realize that, well, if you don't see your own mind, any information that you might have about this, how will it possibly be personal?
+
+17
+00:02:10,409 --> 00:02:15,931
+[SPEAKER_00]: How will it possibly be relevant to you in your own situation?
+
+18
+00:02:16,212 --> 00:02:20,374
+[SPEAKER_00]: As the suttas say, the dhamma has to be realized by the wise for themselves.
+
+19
+00:02:20,654 --> 00:02:29,238
+[SPEAKER_00]: So, if there isn't that kind of ability to even see where this stuff is supposed to apply,
+
+20
+00:02:30,687 --> 00:02:45,142
+[SPEAKER_00]: You can have all the information you want, but your view about where suffering comes from will still be conditioned by the extent of awareness of your own mind that you still have, which for most people is basically zero.
+
+21
+00:02:45,903 --> 00:02:46,143
+[SPEAKER_00]: So,
+
+22
+00:02:47,537 --> 00:02:52,000
+[SPEAKER_00]: You will not be able to clearly see what craving is, for example.
+
+23
+00:02:53,301 --> 00:03:06,510
+[SPEAKER_00]: You might have all sorts of ideas about it, but those ideas will necessarily be wrong if you haven't developed that internal room or space, let's say, to see where the craving actually arises on the right level.
+
+24
+00:03:06,610 --> 00:03:09,332
+[SPEAKER_00]: And what is that space?
+
+25
+00:03:09,372 --> 00:03:09,752
+[SPEAKER_00]: Well, it's
+
+26
+00:03:11,338 --> 00:03:13,879
+[SPEAKER_00]: Again, anything you might say is just going to be more information.
+
+27
+00:03:14,639 --> 00:03:20,762
+[SPEAKER_00]: It's what gets revealed on its own, provided you make the right effort.
+
+28
+00:03:21,602 --> 00:03:22,123
+[SPEAKER_00]: Towards what?
+
+29
+00:03:22,143 --> 00:03:31,187
+[SPEAKER_00]: Towards virtue, sense restraint, not letting yourself spill out towards external objects that will obscure your mind even more.
+
+30
+00:03:31,987 --> 00:03:38,870
+[SPEAKER_00]: So, it's not that these things will inherently reveal your mind, because you can be keeping the precepts and
+
+31
+00:03:39,363 --> 00:03:53,495
+[SPEAKER_00]: Restraining your senses for all sorts of wrong reasons, and many people do that today with no insight coming from it whatsoever, is... but it's a indispensable prerequisite for you to be able to see where your mind actually is.
+
+32
+00:03:53,815 --> 00:03:59,040
+[SPEAKER_00]: So, it's kind of like, you know, you have to remove
+
+33
+00:04:00,529 --> 00:04:07,731
+[SPEAKER_00]: The stuff that's in the way, like, I don't know, there's a whole tree that fell on the way that you have to walk.
+
+34
+00:04:08,312 --> 00:04:16,434
+[SPEAKER_00]: So, it's not that removing the tree in and of itself puts you at your destination, but if the tree is there, you will not be able to walk through.
+
+35
+00:04:17,095 --> 00:04:21,836
+[SPEAKER_00]: So, it's it's... that's why as the Buddha said, virtue is not the dhamma, but there is no dhamma without virtue.
+
+36
+00:04:22,516 --> 00:04:26,678
+[SPEAKER_00]: So, if you develop these prerequisites, what will you start to see?
+
+37
+00:04:26,758 --> 00:04:26,978
+[SPEAKER_00]: Well,
+
+38
+00:04:28,629 --> 00:04:41,817
+[SPEAKER_00]: In the process of even developing them, you will come to see that there is this basically separate dimension, not that it didn't exist before, but that you always overlooked.
+
+39
+00:04:42,718 --> 00:04:53,705
+[SPEAKER_00]: You were always kind of either landing too much on the side of the sense objects and sight, sound, smells, taste, touches, or kind of like
+
+40
+00:04:55,652 --> 00:05:10,268
+[SPEAKER_00]: Semi-mystical, grandiose ideas about how everything works and, you know, explanatory concepts and motions to kind of help yourself deal with the pressure of sight, sound, smell, taste, touches.
+
+41
+00:05:10,588 --> 00:05:10,688
+[SPEAKER_00]: Yeah.
+
+42
+00:05:10,829 --> 00:05:14,012
+[SPEAKER_00]: So, those are the two dimensions that a person would know.
+
+43
+00:05:14,633 --> 00:05:16,635
+[SPEAKER_00]: And then, what's their kind of
+
+44
+00:05:18,245 --> 00:05:22,390
+[SPEAKER_00]: Neither in one nor the other, it's it's the citta.
+
+45
+00:05:23,031 --> 00:05:29,780
+[SPEAKER_00]: It's that attitude of kind of at the root level of your experience that you cannot directly see.
+
+46
+00:05:30,040 --> 00:05:32,884
+[SPEAKER_00]: You can only indirectly know.
+
+47
+00:05:33,845 --> 00:05:35,046
+[SPEAKER_00]: You have this kind of
+
+48
+00:05:37,682 --> 00:05:53,342
+[SPEAKER_00]: agitation, obsession, one day it's there, one day it's not there, the other day it's kind of revolving around this types of thoughts, the other day a different types of different types of thoughts, and so it's that kind of ambiguous
+
+49
+00:05:54,995 --> 00:06:15,484
+[SPEAKER_00]: Indirect nature of the mind, that the only way to reveal it is by ceasing to let yourself spill out into sense objects, and then the other prerequisite, as the Buddha said, is to not delight in company, even if you're keeping the precepts, because then that will do the opposite.
+
+50
+00:06:15,504 --> 00:06:23,507
+[SPEAKER_00]: That will keep spilling you out into the world, into resolving things on the level of getting people to
+
+51
+00:06:23,987 --> 00:06:29,891
+[SPEAKER_00]: I agree with you, do not disapprove of you, to do things as a group.
+
+52
+00:06:30,711 --> 00:06:41,858
+[SPEAKER_00]: And all of that is actually obscuring that internal, fully individual and personal dimension of where your own craving actually arises.
+
+53
+00:06:43,039 --> 00:06:46,841
+[SPEAKER_01]: And then... Because you take external now as a starting point again.
+
+54
+00:06:47,461 --> 00:06:53,225
+[SPEAKER_01]: So, you would be attending to the wrong signs and features, namely, what do other people think of me, how do they look, and so on.
+
+55
+00:06:53,546 --> 00:07:01,091
+[SPEAKER_01]: Whereas, all that actually means nothing compared to the real signs and features, which are... which cannot be seen from the outside.
+
+56
+00:07:01,191 --> 00:07:04,193
+[SPEAKER_01]: It's your own privileged position in relation to your own mind.
+
+57
+00:07:04,273 --> 00:07:08,997
+[SPEAKER_00]: Yeah, and also, it's not that other people inherently make you overlook...
+
+58
+00:07:09,757 --> 00:07:12,900
+[SPEAKER_00]: It's not that other people inherently make you take the external standpoint.
+
+59
+00:07:13,760 --> 00:07:20,242
+[SPEAKER_00]: It's that you already start with the external standpoint, so then other people will just keep reinforcing that.
+
+60
+00:07:21,142 --> 00:07:31,145
+[SPEAKER_00]: If you don't keep it in check, and especially if you keep seeking it out, which is the problem, it's not that you have to avoid other people and run away from them, it's if you delight in company.
+
+61
+00:07:31,425 --> 00:07:38,107
+[SPEAKER_00]: In other words, if you use that as a thing to kind of keep yourself afloat when you're bored or something,
+
+62
+00:07:39,563 --> 00:07:41,164
+[SPEAKER_00]: Well, that's a perfect example.
+
+63
+00:07:41,244 --> 00:07:51,012
+[SPEAKER_00]: Like, if you were not to seek company as a means of enjoyment and pleasure, what would you be forced to encounter and face?
+
+64
+00:07:51,853 --> 00:07:55,115
+[SPEAKER_00]: It's that full extent of your mind's pressure towards this.
+
+65
+00:07:56,336 --> 00:08:04,102
+[SPEAKER_00]: And then, you would be kind of in the position to unravel what's actually happening.
+
+66
+00:08:04,503 --> 00:08:07,725
+[SPEAKER_00]: Why is it that this is painful, not to have this company?
+
+67
+00:08:08,466 --> 00:08:08,686
+[SPEAKER_00]: Why?
+
+68
+00:08:10,106 --> 00:08:13,388
+[SPEAKER_00]: That could manifest as a sense of loneliness, for example.
+
+69
+00:08:13,408 --> 00:08:13,888
+[SPEAKER_00]: Yeah, exactly.
+
+70
+00:08:14,028 --> 00:08:25,132
+[SPEAKER_00]: But then, you know, it doesn't need to come to the point of you having the view that other people is how you resolve your suffering.
+
+71
+00:08:25,792 --> 00:08:27,753
+[SPEAKER_00]: That other people are the escape from suffering.
+
+72
+00:08:28,453 --> 00:08:37,096
+[SPEAKER_00]: Because, again, it's not like the view on the level of external information that you just pick and change at will.
+
+73
+00:08:38,562 --> 00:08:47,352
+[SPEAKER_00]: It's like, if you're not aware of where the craving is, in the right level, in your own experience, whether you like it or not,
+
+74
+00:08:49,179 --> 00:08:52,642
+[SPEAKER_00]: You place the blame for the suffering where it isn't.
+
+75
+00:08:53,322 --> 00:08:54,623
+[SPEAKER_01]: That will be inevitable.
+
+76
+00:08:54,663 --> 00:08:54,863
+[SPEAKER_00]: Yeah.
+
+77
+00:08:55,224 --> 00:09:15,339
+[SPEAKER_00]: So then, it doesn't matter whether you blame the fact that you're lonely, or you blame the fact that I'm not free from ex fetter, which is why this is still here, or, you know, or it's because I was born like this, or my upbringing was like that, or because yesterday I did this unwholesome thing,
+
+78
+00:09:16,500 --> 00:09:20,242
+[SPEAKER_00]: But now, the thing is, as the Buddha said, well, the dhamma is timeless.
+
+79
+00:09:20,983 --> 00:09:22,664
+[SPEAKER_00]: So, it's right here and now.
+
+80
+00:09:23,444 --> 00:09:26,947
+[SPEAKER_00]: It's the attitude that you have towards what has arisen right here and now.
+
+81
+00:09:27,607 --> 00:09:29,408
+[SPEAKER_00]: That's where the problem is.
+
+82
+00:09:29,449 --> 00:09:37,614
+[SPEAKER_00]: And that's what you would become able to see if you have removed all these obstructions of your behavior.
+
+83
+00:09:38,134 --> 00:09:43,058
+[SPEAKER_00]: And then, you're basically, as he would say, delving with the knife to uncover
+
+84
+00:09:44,239 --> 00:09:45,360
+[SPEAKER_00]: Where is that craving?
+
+85
+00:09:46,501 --> 00:09:47,562
+[SPEAKER_00]: Where does it arise?
+
+86
+00:09:48,523 --> 00:09:54,548
+[SPEAKER_00]: And to what extent is this... what level of input do I have in it?
+
+87
+00:09:54,588 --> 00:10:00,453
+[SPEAKER_00]: Because it's not that it's there kind of on its own, that you're fully subjected to it.
+
+88
+00:10:00,473 --> 00:10:01,274
+[SPEAKER_00]: You're maintaining it.
+
+89
+00:10:02,134 --> 00:10:09,040
+[SPEAKER_00]: And you also have to get to understand what it is that maintains it, which is what the Buddha would call the unwholesome actions.
+
+90
+00:10:11,002 --> 00:10:26,731
+[SPEAKER_00]: And so, you know, that's where you would develop that completely universal and incapable of being doubted standard of what is beneficial and what is unbeneficial.
+
+91
+00:10:27,591 --> 00:10:28,572
+[SPEAKER_00]: Because now you have
+
+92
+00:10:30,412 --> 00:10:46,055
+[SPEAKER_00]: dug up that thing with that was there all along but you were because you were so distracted by other things that felt much more natural you didn't see it and you didn't take it as your actual reference point but now that you see it
+
+93
+00:10:47,675 --> 00:10:56,404
+[SPEAKER_00]: It becomes completely obvious that anything else except this cannot be a right guidance for wholesome and unwholesome.
+
+94
+00:10:56,504 --> 00:10:58,066
+[SPEAKER_01]: It's not where your original suffering is.
+
+95
+00:10:58,106 --> 00:10:58,306
+[SPEAKER_00]: No.
+
+96
+00:10:58,906 --> 00:11:07,435
+[SPEAKER_00]: So, any... emphasizing anything else will be hit or miss, will be kind of... depending on the day, depending on the weather, depending on the...
+
+97
+00:11:07,773 --> 00:11:13,759
+[SPEAKER_00]: hour of the day, maybe, it will have an influence of this internal animal, the citta.
+
+98
+00:11:14,460 --> 00:11:15,060
+[SPEAKER_00]: Maybe it won't.
+
+99
+00:11:15,220 --> 00:11:16,161
+[SPEAKER_00]: Maybe it will make it worse.
+
+100
+00:11:16,502 --> 00:11:21,627
+[SPEAKER_00]: And that's what most people's practice of the Buddhist teaching revolves around.
+
+101
+00:11:21,667 --> 00:11:27,212
+[SPEAKER_00]: It's pretty much like, probabilistically, they might be able to escape the suffering or not.
+
+102
+00:11:28,065 --> 00:11:54,499
+[SPEAKER_00]: But, yeah, if you see that on the right level, see the citta, see that indirect attitude, you could call it the root attitude, that's being exhibited towards sights, sounds, smells, tastes, touches, even thoughts, no matter how lofty, how kind of grandiose and important and even thoughts about dhamma, like the most justified things that might come up.
+
+103
+00:11:55,099 --> 00:11:56,740
+[SPEAKER_00]: Well, the attitude behind that,
+
+104
+00:11:58,437 --> 00:11:59,517
+[SPEAKER_00]: That is where the citta is.
+
+105
+00:11:59,757 --> 00:12:05,859
+[SPEAKER_00]: And that, in your view of what is wholesome and unwholesome, would be in relation to that attitude.
+
+106
+00:12:06,939 --> 00:12:08,660
+[SPEAKER_01]: So, the attitude needs purification.
+
+107
+00:12:08,720 --> 00:12:08,880
+[SPEAKER_00]: Yeah.
+
+108
+00:12:09,060 --> 00:12:12,361
+[SPEAKER_00]: So, then, you would realize, in that sense, there is no right object.
+
+109
+00:12:13,241 --> 00:12:20,043
+[SPEAKER_00]: There's no right kind of thing that you can land on without questioning your attitude behind it.
+
+110
+00:12:20,603 --> 00:12:20,763
+[SPEAKER_01]: Yeah.
+
+111
+00:12:20,783 --> 00:12:22,884
+[SPEAKER_01]: Just sensuality is a man's intention.
+
+112
+00:12:23,860 --> 00:12:24,521
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+113
+00:12:24,701 --> 00:12:25,602
+[SPEAKER_01]: That's the same principle.
+
+114
+00:12:25,622 --> 00:12:29,025
+[SPEAKER_00]: Yeah, so greed, aversion and delusion is your intention, completely.
+
+115
+00:12:29,646 --> 00:12:48,404
+[SPEAKER_00]: So then, if you think that you can pick a safe kind of pasture where, you know, you don't have to question your motivation for being there and letting your attention land there, that means you completely
+
+116
+00:12:49,265 --> 00:12:50,707
+[SPEAKER_00]: are not seeing the reference point.
+
+117
+00:12:50,867 --> 00:12:53,450
+[SPEAKER_00]: Because the reference point would be, why?
+
+118
+00:12:54,191 --> 00:13:00,640
+[SPEAKER_00]: Why am I allowing my attention to land on the sight, sound, smell, taste, touch, or even mental image?
+
+119
+00:13:01,441 --> 00:13:05,927
+[SPEAKER_00]: As complex and intricate as it might be, there's always this
+
+120
+00:13:07,590 --> 00:13:28,537
+[SPEAKER_00]: There's a peripheral attitude in regard to that thing, where you would have the passionate obsession, the doubt, the kind of obsessive doubt, the... that just keeps kind of revolving around the thing, even though you kind of already know the answer, but it just wants that emotional gratification out of it.
+
+121
+00:13:29,057 --> 00:13:31,698
+[SPEAKER_00]: You have the... all the five hindrances, basically.
+
+122
+00:13:32,559 --> 00:13:43,391
+[SPEAKER_00]: On that peripheral level, that you absolutely will not see, for as long as you think that the object itself is the measure of wholesome and unwholesome.
+
+123
+00:13:43,691 --> 00:13:52,081
+[SPEAKER_01]: Yeah, and that is why the sense restraint is so important, because you are restraining, dwelling way too much on the external objects, so to speak.
+
+124
+00:13:52,721 --> 00:13:58,266
+[SPEAKER_01]: Which also means that as long as this is not understood, nowhere in the world are you safe.
+
+125
+00:13:58,326 --> 00:13:59,847
+[SPEAKER_01]: You will be basically everywhere.
+
+126
+00:14:00,428 --> 00:14:04,351
+[SPEAKER_01]: Even if you go in a spaceship to another planet, you will still be a prey to suffering there.
+
+127
+00:14:05,012 --> 00:14:09,396
+[SPEAKER_01]: But also, once this is seen, that safety cannot leave you.
+
+128
+00:14:09,456 --> 00:14:17,223
+[SPEAKER_01]: So, wherever you go in the external world, you'll be safe because it is that relationship between you and your own mind that is the determining factor here.
+
+129
+00:14:17,963 --> 00:14:36,335
+[SPEAKER_00]: Yeah, and the kind of... you would see it in the suttas when the Buddha would say, whatever form, whether past, present or future, big or small, inferior or superior, it's in regard to all form that this attitude has to be developed.
+
+130
+00:14:36,615 --> 00:14:39,677
+[SPEAKER_00]: In other words, the attitude of dispassion, the attitude of non-ownership.
+
+131
+00:14:40,517 --> 00:14:44,320
+[SPEAKER_00]: So then, for somebody who doesn't see their own mind clearly,
+
+132
+00:14:45,667 --> 00:14:57,036
+[SPEAKER_00]: Whether they like it or not, they will be maintaining attitudes of passion in regard to some form, some feeling, some perception, some intention, some consciousness.
+
+133
+00:14:58,056 --> 00:15:09,045
+[SPEAKER_00]: So, it's in regard to that kind of... it's the most comprehensive scope, where nothing is left out.
+
+134
+00:15:09,425 --> 00:15:13,628
+[SPEAKER_00]: Even, as that sutta says, like, if you were to perceive nibbāna,
+
+135
+00:15:14,848 --> 00:15:27,334
+[SPEAKER_00]: And then, because of thinking that that itself is the purity, overlooking your attitude in regard to it, for that reason alone, you wouldn't actually realize nibbāna.
+
+136
+00:15:27,974 --> 00:15:33,416
+[SPEAKER_00]: You would be delighting and maintaining your existence, your being, your bhava, through that.
+
+137
+00:15:33,616 --> 00:15:39,399
+[SPEAKER_00]: Because it's not about the objects, not even about the experience and the kind of content of it.
+
+138
+00:15:39,499 --> 00:15:42,260
+[SPEAKER_00]: It's about how is the animal relating to it.
+
+139
+00:15:43,535 --> 00:15:43,675
+[SPEAKER_01]: Yes.
+
+140
+00:15:43,695 --> 00:15:54,882
+[SPEAKER_01]: So, on paper, somebody could come up with a quite accurate description of what nibbāna is, but their background attitude towards it could still be wrong, which means that it's not actually now the nibbāna.
+
+141
+00:15:54,922 --> 00:16:09,492
+[SPEAKER_00]: And even when they have it in their own experience, so to speak, through, you know, the universally correct development of virtue, sense, restraint, renunciation, which without which you will not even get to the to the
+
+142
+00:16:11,413 --> 00:16:17,079
+[SPEAKER_00]: To the point where you could make that mistake, because you will not have realized the phenomenon of dispassion.
+
+143
+00:16:22,482 --> 00:16:47,030
+[SPEAKER_00]: There, in regard to that, let's say, you have a well-established attitude of not inclining towards sensuality, of being dispassionate towards the world, of being recognizing the impermanence of life and the uselessness of clinging to it, as many ascetics in the Buddha's time were able to do, if you read some of those stories.
+
+144
+00:16:47,891 --> 00:16:51,612
+[SPEAKER_00]: But then, in regard to that phenomenon of a
+
+145
+00:16:51,912 --> 00:17:01,218
+[SPEAKER_00]: What they think is a pure mind, which compared to the average person, factually, yeah, well, they don't see their attitude in regard to that.
+
+146
+00:17:01,758 --> 00:17:09,843
+[SPEAKER_00]: They don't see to what extent they are dependent on that, to what extent they are taking that for granted and taking refuge in that.
+
+147
+00:17:10,823 --> 00:17:13,205
+[SPEAKER_00]: And then, for that reason alone,
+
+148
+00:17:14,065 --> 00:17:31,933
+[SPEAKER_00]: What they think is the root problem would be on the level of, well, not having this great development phenomenon of this passion that I have brought about, but that still fails to arrive at the level where, no, no, the problem is, even in regard to this, what is my attitude?
+
+149
+00:17:33,813 --> 00:17:39,836
+[SPEAKER_00]: But, obviously, that doesn't mean that you need to necessarily get to that level and then, kind of,
+
+150
+00:17:41,731 --> 00:17:42,451
+[SPEAKER_00]: Correct, of course.
+
+151
+00:17:42,992 --> 00:17:44,233
+[SPEAKER_00]: No, it's like... it's everywhere.
+
+152
+00:17:44,373 --> 00:17:49,516
+[SPEAKER_00]: It's now, in regard to whatever you're seeing, hearing, tasting, smelling, touching, thinking.
+
+153
+00:17:50,877 --> 00:18:02,644
+[SPEAKER_00]: There is some attitude there, that's kind of like... you could say it's independent of you, but you're certainly responsible for steering it further in certain directions.
+
+154
+00:18:03,785 --> 00:18:10,289
+[SPEAKER_00]: So, it's neither... it's neither fully yours, nor is it completely out of your control.
+
+155
+00:18:12,473 --> 00:18:18,835
+[SPEAKER_01]: And with the right view, where the line is, will be clearly seen and beyond doubt.
+
+156
+00:18:18,915 --> 00:18:19,676
+[SPEAKER_00]: Exactly, yes.
+
+157
+00:18:19,956 --> 00:18:33,040
+[SPEAKER_00]: You will see what is the extent of your input, which is why you would then be free from any wavering and doubt in regard to like what the practice is and, you know,
+
+158
+00:18:35,136 --> 00:18:44,044
+[SPEAKER_00]: All these considerations, like how long is it going to take, and, you know, who came up with this, and where is this going to lead me.
+
+159
+00:18:45,705 --> 00:18:54,453
+[SPEAKER_00]: All of, even if those doubts arise, again, because you see the attitude in regard to whatever arises now, you wouldn't fall for it.
+
+160
+00:18:55,293 --> 00:19:00,578
+[SPEAKER_00]: And that's why the Buddha said, the mind, that with ayonisa manasikāra, there would be
+
+161
+00:19:02,302 --> 00:19:05,112
+[SPEAKER_00]: Inevitably, to some extent, revolving around questions of
+
+162
+00:19:06,862 --> 00:19:07,563
+[SPEAKER_00]: Who was I?
+
+163
+00:19:08,904 --> 00:19:10,965
+[SPEAKER_00]: Where did I come from?
+
+164
+00:19:11,085 --> 00:19:12,206
+[SPEAKER_00]: What am I right now?
+
+165
+00:19:13,127 --> 00:19:14,088
+[SPEAKER_00]: Where will I become later?
+
+166
+00:19:14,108 --> 00:19:18,471
+[SPEAKER_00]: Because you realize, even through the Buddha's teaching, you could be feeding those views.
+
+167
+00:19:19,031 --> 00:19:32,501
+[SPEAKER_00]: Like, you could be using the pronouncements about X or Y that the Buddha made, to revolve around your own doubts of, like, trying to explain things, thinking that somehow figuring things out will resolve your suffering.
+
+168
+00:19:32,622 --> 00:19:35,624
+[SPEAKER_00]: Again, overlooking, well, what is my attitude in regard to all this?
+
+169
+00:19:36,324 --> 00:19:41,127
+[SPEAKER_00]: Yeah, and seeing now the mind, which depends on virtue and also seclusion, you mentioned,
+
+170
+00:19:52,948 --> 00:19:55,149
+[SPEAKER_01]: That doesn't actually now require explanation.
+
+171
+00:19:55,209 --> 00:19:55,850
+[SPEAKER_01]: It's not... No.
+
+172
+00:19:55,950 --> 00:19:56,150
+[SPEAKER_01]: Right?
+
+173
+00:19:56,190 --> 00:20:02,014
+[SPEAKER_01]: There's no causal, like, first this, then that, and so on, and then, at some point, the mind will come along.
+
+174
+00:20:02,174 --> 00:20:02,874
+[SPEAKER_01]: It's not like that.
+
+175
+00:20:03,535 --> 00:20:11,039
+[SPEAKER_01]: So, there is a difference between explaining things, how one thing results in another, and an accurate description
+
+176
+00:20:15,324 --> 00:20:25,900
+[SPEAKER_01]: So, it might be useful for people to also recognize that explanations are one kind of talk, but that's not what we're doing here.
+
+177
+00:20:26,180 --> 00:20:26,741
+[SPEAKER_01]: It is more like
+
+178
+00:20:27,342 --> 00:20:30,923
+[SPEAKER_01]: What is necessary in order to recognize the mind, which is already there.
+
+179
+00:20:31,463 --> 00:20:33,864
+[SPEAKER_01]: And that is not the product of an explanation.
+
+180
+00:20:33,984 --> 00:20:39,425
+[SPEAKER_01]: It's more a quality of, well, the utterance of another being the right description.
+
+181
+00:20:39,905 --> 00:20:42,185
+[SPEAKER_01]: But then it depends... That points you to find it, yeah.
+
+182
+00:20:42,265 --> 00:20:42,486
+[SPEAKER_01]: Yeah.
+
+183
+00:20:42,766 --> 00:20:52,308
+[SPEAKER_01]: And then it depends on the listener how far they take that description inwards, quote-unquote, so that they actually see what is being described.
+
+184
+00:20:52,668 --> 00:20:57,229
+[SPEAKER_00]: The origin, well, the origin, like yoniso, meaning the origin of, like,
+
+185
+00:20:59,371 --> 00:21:11,894
+[SPEAKER_00]: In the sense of it being the womb that kind of hovers over this whole thing, this attitude that hovers over this entire thing, that underlies it, that contains it.
+
+186
+00:21:12,634 --> 00:21:14,214
+[SPEAKER_00]: And then, that's where the mind is.
+
+187
+00:21:14,435 --> 00:21:23,857
+[SPEAKER_00]: And that's where you would be either through your carelessness making it worse, when it's already in an unwholesome state, or
+
+188
+00:21:25,417 --> 00:21:39,427
+[SPEAKER_00]: As wild as it may have gotten, if you understood where it is, you would be able to, first of all, see it as such, not lose perspective in regard to that, as the Satipaṭṭhāna Sutta says, even where your mind is lustful, you know the mind is lustful.
+
+189
+00:21:40,888 --> 00:22:00,794
+[SPEAKER_00]: And then, you would be fully capable of bringing it out of that state, without having to wish and hope on random methods and practices that worked in the past, and having to combine them and mix them and make new ones or something, hoping that it will work again.
+
+190
+00:22:02,511 --> 00:22:12,570
+[SPEAKER_00]: It's like if that's your level of practice, then it's not much better than depending on the weather.
+
+191
+00:22:13,874 --> 00:22:20,898
+[SPEAKER_00]: Like, you should, if you have understood your mind, you should be able to abandon any unwholesome state.
+
+192
+00:22:21,799 --> 00:22:22,239
+[SPEAKER_00]: On the spot.
+
+193
+00:22:22,479 --> 00:22:22,659
+[SPEAKER_00]: Yeah.
+
+194
+00:22:22,859 --> 00:22:29,703
+[SPEAKER_00]: Well, not necessarily on the spot, but be beyond doubt about what has to be done in order to abandon it.
+
+195
+00:22:29,803 --> 00:22:33,265
+[SPEAKER_00]: Because, as the Buddha said, it's a matter of feeding.
+
+196
+00:22:33,585 --> 00:22:36,007
+[SPEAKER_00]: Like, you feed the hindrances, you starve the hindrances.
+
+197
+00:22:36,207 --> 00:22:40,029
+[SPEAKER_01]: Yes, which means that when you see your mind, in a sense,
+
+198
+00:22:40,549 --> 00:22:41,151
+[SPEAKER_01]: That's also it.
+
+199
+00:22:41,853 --> 00:22:42,454
+[SPEAKER_01]: Yeah.
+
+200
+00:22:42,514 --> 00:22:46,223
+[SPEAKER_01]: Because with that will now come the knowledge how it's fed, right?
+
+201
+00:22:47,025 --> 00:22:49,331
+[SPEAKER_00]: Yeah, but even then it wouldn't be like...
+
+202
+00:22:52,167 --> 00:22:54,588
+[SPEAKER_00]: Basically, it's a certainty that you know what to do.
+
+203
+00:22:55,429 --> 00:22:56,169
+[SPEAKER_00]: You still have to do it.
+
+204
+00:22:56,630 --> 00:23:00,212
+[SPEAKER_01]: If you if you if you kind of... Yeah, but the doing is to now not feed.
+
+205
+00:23:00,312 --> 00:23:01,212
+[SPEAKER_00]: Yeah, yeah, yeah.
+
+206
+00:23:01,853 --> 00:23:03,914
+[SPEAKER_00]: So, then, if you if you would need...
+
+207
+00:23:04,754 --> 00:23:11,278
+[SPEAKER_00]: If, like, having seen your mind, you need another step, that's because you don't see your mind.
+
+208
+00:23:11,478 --> 00:23:14,802
+[SPEAKER_01]: Yeah, that's what I meant now by... so there's an immediacy to it.
+
+209
+00:23:14,942 --> 00:23:15,482
+[SPEAKER_01]: Yeah, exactly.
+
+210
+00:23:15,703 --> 00:23:26,634
+[SPEAKER_00]: So, it's that... because, you know, somebody could fall into that view, like, oh, yeah, yeah, I do see my mind, and then I start doing X, Y, Z, and it's like, well, if you feel that that's required,
+
+211
+00:23:28,201 --> 00:23:30,963
+[SPEAKER_00]: You should be cautious about whether you actually see your mind or not.
+
+212
+00:23:31,284 --> 00:23:31,904
+[SPEAKER_00]: Yeah.
+
+213
+00:23:31,924 --> 00:23:34,246
+[SPEAKER_00]: Because it's through the... as the Buddha said, it's through avijjā.
+
+214
+00:23:35,547 --> 00:23:40,631
+[SPEAKER_00]: That's the root cause of the whole... the source of the whole river.
+
+215
+00:23:41,071 --> 00:23:45,915
+[SPEAKER_00]: So, if you have actually undone your avijjā, that should be able to fix the problem in and of itself.
+
+216
+00:23:46,329 --> 00:23:49,911
+[SPEAKER_01]: Yeah, so we can say that ignorance, abhijjā, is in relation to the mind.
+
+217
+00:23:49,991 --> 00:23:53,693
+[SPEAKER_01]: Not knowing or ignoring mind is the problem of all this.
+
+218
+00:23:53,773 --> 00:23:53,953
+[SPEAKER_00]: Yeah.
+
+219
+00:23:54,954 --> 00:23:57,495
+[SPEAKER_00]: Because it's an either-or.
+
+220
+00:23:58,215 --> 00:24:06,000
+[SPEAKER_00]: You can't be ignoring the mind and then going towards the direction of wholesome.
+
+221
+00:24:06,860 --> 00:24:12,983
+[SPEAKER_00]: You can't be seeing the mind and then still acting out of greed, aversion and delusion.
+
+222
+00:24:13,003 --> 00:24:13,624
+[SPEAKER_00]: That's impossible.
+

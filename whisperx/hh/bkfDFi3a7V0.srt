@@ -1,0 +1,1736 @@
+1
+00:00:22,400 --> 00:00:25,261
+[SPEAKER_01]: So, I've got three suttas that I can go through.
+
+2
+00:00:26,902 --> 00:00:27,722
+[SPEAKER_01]: Two different topics.
+
+3
+00:00:31,424 --> 00:00:31,824
+[SPEAKER_01]: So...
+
+4
+00:00:37,186 --> 00:00:42,148
+[SPEAKER_01]: So, this first sutta is from the Anguttara Nikaya, 573.
+
+5
+00:00:44,289 --> 00:00:47,150
+[SPEAKER_01]: And it's called, One Who Lives the Teaching.
+
+6
+00:00:50,823 --> 00:00:55,747
+[SPEAKER_01]: And so, this person is asking the Buddha, Sir, they speak of one who lives the teaching.
+
+7
+00:00:55,927 --> 00:00:57,849
+[SPEAKER_01]: How is one who lives the teaching?
+
+8
+00:00:59,630 --> 00:01:03,073
+[SPEAKER_01]: And the Buddha replies, take a monk who is learning the teaching.
+
+9
+00:01:03,533 --> 00:01:05,075
+[SPEAKER_01]: They spend their days studying.
+
+10
+00:01:06,336 --> 00:01:10,719
+[SPEAKER_01]: They neglect solitude and do not engage in settling the mind.
+
+11
+00:01:11,911 --> 00:01:19,714
+[SPEAKER_01]: That monk is called one who studies a lot, not one who lives the teaching.
+
+12
+00:01:20,054 --> 00:01:24,816
+[SPEAKER_01]: Furthermore, a monk teaches in detail to others what they have heard and studied.
+
+13
+00:01:25,476 --> 00:01:31,898
+[SPEAKER_01]: They spend their days expounding their teaching, but they neglect solitude and do not engage in settling the mind.
+
+14
+00:01:33,119 --> 00:01:36,580
+[SPEAKER_01]: That monk is called one who expounds a lot, not one who lives the teaching.
+
+15
+00:01:37,862 --> 00:01:42,023
+[SPEAKER_01]: Furthermore, a monk recites in detail the teaching that they have heard and learned.
+
+16
+00:01:42,524 --> 00:01:47,905
+[SPEAKER_01]: They spend their days reciting, but they neglect solitude and do not engage in settling the mind.
+
+17
+00:01:49,026 --> 00:01:55,188
+[SPEAKER_01]: Or a monk who intentionally reflects upon, thinks about and considers the teaching he has heard and learned.
+
+18
+00:01:55,988 --> 00:02:01,310
+[SPEAKER_01]: They spend their day reflecting on a teaching, but they neglect solitude and do not engage in settling the mind.
+
+19
+00:02:03,030 --> 00:02:04,991
+[SPEAKER_01]: And then take a monk who is studying the teaching,
+
+20
+00:02:06,012 --> 00:02:07,953
+[SPEAKER_01]: They don't spend their days studying their teaching.
+
+21
+00:02:08,554 --> 00:02:12,276
+[SPEAKER_01]: They don't neglect solitude and they engage in settling the mind.
+
+22
+00:02:13,276 --> 00:02:15,518
+[SPEAKER_01]: That's how a monk is one who lives the teaching.
+
+23
+00:02:21,618 --> 00:02:24,079
+[SPEAKER_01]: So, there's a few questions around this.
+
+24
+00:02:26,100 --> 00:02:50,213
+[SPEAKER_01]: So, a person can go into great detail with their studies, like learning Pali, various historical contexts of the texts, etymological investigations, statistical analysis, comparisons, parallel map-making, memorization, categorization, and becoming a proliferated scholar, accredited by others who have done the same.
+
+25
+00:02:51,600 --> 00:03:04,930
+[SPEAKER_01]: So, doesn't knowledge make you understand the subject you are learning?
+
+26
+00:03:04,950 --> 00:03:10,894
+[SPEAKER_01]: Is such scholarly work really an obstacle, getting all that information?
+
+27
+00:03:11,535 --> 00:03:16,038
+[SPEAKER_03]: Well, yeah, I think that whoever asks the question needs to differentiate knowledge and information.
+
+28
+00:03:17,679 --> 00:03:18,200
+[SPEAKER_03]: You can have a
+
+29
+00:03:18,790 --> 00:03:24,014
+[SPEAKER_03]: vast amount of information collected, that still doesn't mean you understood the subject you're informed about.
+
+30
+00:03:25,155 --> 00:03:32,520
+[SPEAKER_03]: And in this case, that's even more obvious, because the understanding of the subject of the dhamma is measured by sotāpatti or higher.
+
+31
+00:03:32,840 --> 00:03:37,903
+[SPEAKER_03]: So, since that's not the case, then no amount of knowledge is actually knowledge that matters.
+
+32
+00:03:39,204 --> 00:03:47,170
+[SPEAKER_03]: It's just information and references and so on, that can very much create an impression in a conceited mind of being fully
+
+33
+00:03:48,133 --> 00:03:55,014
+[SPEAKER_03]: Kind of being an expert on a topic, because you have learned every facet, every permutation of it, but you haven't understood it.
+
+34
+00:03:57,155 --> 00:03:57,595
+[SPEAKER_03]: And...
+
+35
+00:03:59,175 --> 00:04:08,997
+[SPEAKER_03]: I think if somebody commits to that direction, to that extent of informational studies, yeah, I think it's quite... it's quite risky in a way.
+
+36
+00:04:09,677 --> 00:04:15,058
+[SPEAKER_03]: Basically, if you commit to such level of collecting information without having the right view first,
+
+37
+00:04:16,422 --> 00:04:23,285
+[SPEAKER_03]: You are going there with your conceit, with your greed, with your craving, with your mental habits and proliferations.
+
+38
+00:04:24,085 --> 00:04:31,568
+[SPEAKER_03]: And then, you're going to arrive there thinking now you understood everything, because you turned every stone upside down, you investigated every root of every word, you memorized everything.
+
+39
+00:04:32,228 --> 00:04:34,829
+[SPEAKER_03]: So, there is no more information there to gain in that sense.
+
+40
+00:04:34,969 --> 00:04:40,672
+[SPEAKER_03]: So, you would genuinely feel like you arrive at the complete understanding of the Buddha's teaching while you're still a patujana.
+
+41
+00:04:41,892 --> 00:04:44,293
+[SPEAKER_03]: And that's like one of the most blatant contradictions in terms.
+
+42
+00:04:45,708 --> 00:04:52,751
+[SPEAKER_03]: It's the same like committing to a meditation method or something, or committing to a scholastic study without having developed the right view.
+
+43
+00:04:53,191 --> 00:04:55,172
+[SPEAKER_03]: It's just gonna increase your wrong views.
+
+44
+00:04:55,512 --> 00:04:56,173
+[SPEAKER_03]: As simple as that.
+
+45
+00:04:58,474 --> 00:05:00,154
+[SPEAKER_01]: Yeah, very block your progress.
+
+46
+00:05:00,194 --> 00:05:00,855
+[SPEAKER_03]: Yeah, yeah.
+
+47
+00:05:01,175 --> 00:05:08,298
+[SPEAKER_03]: Because even if you start in the very beginning, before you have gone into wrong directions, you still have a lot of things to undo.
+
+48
+00:05:09,359 --> 00:05:17,244
+[SPEAKER_03]: Internally, misconceived notions, perceptions, and so on, until you can actually even begin to understand the direction where the dhamma applies.
+
+49
+00:05:18,484 --> 00:05:22,066
+[SPEAKER_03]: But in this case, you would have accumulated a lot more than you would also have to undo.
+
+50
+00:05:22,206 --> 00:05:38,536
+[SPEAKER_03]: And, eh... generally, as a kind of unwritten rule, is that if you couldn't undo it when there wasn't so much of the burden on you, you're probably not going to do it 20 years later, when you have accumulated a lot of mountains of convictions and stuff.
+
+51
+00:05:41,178 --> 00:05:50,764
+[SPEAKER_03]: But if a person's honest and they don't forsake the most fundamental reason for the practice, which is freedom from suffering, they won't stray that too far.
+
+52
+00:05:50,824 --> 00:05:56,668
+[SPEAKER_03]: So, somebody might have an inclination to learn more and study etymology, but they will keep this as a reference point.
+
+53
+00:05:58,829 --> 00:06:05,794
+[SPEAKER_03]: That, you know, necessity of understanding the nature of suffering and being free from it as the measure of understanding.
+
+54
+00:06:06,294 --> 00:06:10,757
+[SPEAKER_03]: Not a degree from a household of university on Buddhist studies.
+
+55
+00:06:20,065 --> 00:06:21,666
+[SPEAKER_01]: So, it's like you can read.
+
+56
+00:06:23,867 --> 00:06:24,787
+[SPEAKER_01]: So, we have access.
+
+57
+00:06:24,847 --> 00:06:27,928
+[SPEAKER_01]: Everybody has access to the suttas, to all this information.
+
+58
+00:06:28,549 --> 00:06:34,531
+[SPEAKER_01]: And you've got information about all these different jhānas and states of, you know, higher states of mind.
+
+59
+00:06:36,072 --> 00:06:38,913
+[SPEAKER_01]: All these kind of really complicated topics even.
+
+60
+00:06:40,834 --> 00:06:40,954
+[SPEAKER_01]: And
+
+61
+00:06:42,708 --> 00:06:48,051
+[SPEAKER_01]: So, I think that, yeah, the danger is, if you don't realize, when you're reading these things, that's...
+
+62
+00:06:48,071 --> 00:06:51,774
+[SPEAKER_01]: Okay, so, have I... have I done the first things, you know?
+
+63
+00:06:51,874 --> 00:06:52,915
+[SPEAKER_01]: Do I keep the precepts?
+
+64
+00:06:52,935 --> 00:06:54,035
+[SPEAKER_01]: Do I keep central strength?
+
+65
+00:06:55,196 --> 00:06:55,416
+[SPEAKER_01]: No.
+
+66
+00:06:55,716 --> 00:07:01,820
+[SPEAKER_01]: But then, why am I even thinking about fourth jhāna and the, you know, eighth jhāna?
+
+67
+00:07:01,860 --> 00:07:03,001
+[SPEAKER_01]: Why am I even going that direction?
+
+68
+00:07:03,021 --> 00:07:03,201
+[SPEAKER_01]: Yeah.
+
+69
+00:07:03,261 --> 00:07:04,202
+[SPEAKER_03]: Why do you even think that
+
+70
+00:07:04,810 --> 00:07:06,131
+[SPEAKER_03]: Any of this stuff applies to me.
+
+71
+00:07:06,351 --> 00:07:08,172
+[SPEAKER_03]: That any of this instruction applies to me.
+
+72
+00:07:08,933 --> 00:07:14,776
+[SPEAKER_03]: I haven't met the necessary criteria to even qualify myself for the application of these practices that the Buddha taught to monks.
+
+73
+00:07:15,977 --> 00:07:21,140
+[SPEAKER_03]: As I said many times before, he hasn't never taught meditation to householders.
+
+74
+00:07:21,180 --> 00:07:22,061
+[SPEAKER_03]: It was just not a thing.
+
+75
+00:07:22,141 --> 00:07:23,022
+[SPEAKER_03]: You want a samādhi?
+
+76
+00:07:23,042 --> 00:07:23,842
+[SPEAKER_03]: Calm your mind, yeah?
+
+77
+00:07:24,382 --> 00:07:25,843
+[SPEAKER_03]: Recollect your unbroken virtue.
+
+78
+00:07:26,344 --> 00:07:27,945
+[SPEAKER_03]: Recollect the Buddha, the dhamma, the saṅgha.
+
+79
+00:07:28,445 --> 00:07:29,926
+[SPEAKER_03]: Ponder on it actively.
+
+80
+00:07:30,367 --> 00:07:35,512
+[SPEAKER_03]: On your right view and so on and and you will have pleasant abiding here and now as a result of your composure.
+
+81
+00:07:39,515 --> 00:07:57,911
+[SPEAKER_03]: But that's like, you know, that's the work and then you can do that work as a lay person as well, but having developed a view that the work is on the level of meditation technique or something, you actually neglect the work that you could actually do and benefit from and you do the stuff that's just going to end up being a cover-up to whatever you haven't resolved internally.
+
+82
+00:07:58,572 --> 00:08:02,114
+[SPEAKER_03]: In terms of your state of putu janā, not knowing the escape from suffering and so on.
+
+83
+00:08:06,596 --> 00:08:18,841
+[SPEAKER_00]: There's also an aspect about what is your measure or reference point of understanding even the basic things.
+
+84
+00:08:19,081 --> 00:08:26,804
+[SPEAKER_00]: Like, for example, like you can go into different definitions of the word vedanā, for example.
+
+85
+00:08:27,945 --> 00:08:28,105
+[SPEAKER_00]: Like,
+
+86
+00:08:29,398 --> 00:08:34,384
+[SPEAKER_00]: And look at, you know, how, what it meant, or whatever, in the context of the time, or something.
+
+87
+00:08:35,405 --> 00:08:38,708
+[SPEAKER_00]: But it's kind of obvious, if you think about it.
+
+88
+00:08:39,169 --> 00:08:40,991
+[SPEAKER_00]: So, what's the point of doing this?
+
+89
+00:08:41,972 --> 00:08:50,622
+[SPEAKER_00]: To understand vedanā, like, there's a... what you should spend as much time as possible contemplating
+
+90
+00:08:51,603 --> 00:08:55,125
+[SPEAKER_00]: What it actually refers to, in your own experience.
+
+91
+00:08:55,725 --> 00:08:59,308
+[SPEAKER_00]: Like, to spend as much... You know, in a way, it's kind of, you know, correct.
+
+92
+00:08:59,388 --> 00:09:12,635
+[SPEAKER_00]: Like, I should spend as much time trying to understand the subjects that I'm trying to fully understand, but it's not through looking at a book that I'm going to understand the subjects.
+
+93
+00:09:13,476 --> 00:09:15,377
+[SPEAKER_00]: That's not where that subject is, in a way.
+
+94
+00:09:15,517 --> 00:09:17,058
+[SPEAKER_00]: It's where the description or the...
+
+95
+00:09:18,443 --> 00:09:18,904
+[SPEAKER_00]: Information.
+
+96
+00:09:18,924 --> 00:09:19,724
+[SPEAKER_00]: Information is.
+
+97
+00:09:20,065 --> 00:09:38,742
+[SPEAKER_00]: But then, the point is to turn it into your own experience and try to, like, use your own, your own, your own experience as that reference point for what is right and what is wrong or what is the, what is the meaning of, of the suttas.
+
+98
+00:09:41,544 --> 00:09:41,845
+[SPEAKER_00]: Because
+
+99
+00:09:45,029 --> 00:09:46,250
+[SPEAKER_02]: Otherwise, it's abstract.
+
+100
+00:09:47,450 --> 00:09:49,931
+[SPEAKER_02]: Yeah, like the five precepts and sense restraint.
+
+101
+00:09:51,332 --> 00:09:53,393
+[SPEAKER_02]: That's when it's no longer abstract.
+
+102
+00:09:53,453 --> 00:10:00,236
+[SPEAKER_02]: That's when it's tangible and you're looking at the, like, vedanā in your experience.
+
+103
+00:10:00,636 --> 00:10:05,698
+[SPEAKER_03]: But you still need to make effort to look at the vedanā in your experience, not at the vedanā in dictionary.
+
+104
+00:10:10,123 --> 00:10:25,951
+[SPEAKER_03]: Oh, I'm perfectly restrained, but I still study what other people had to say on vedanā throughout history to learn vedanā, while I actually am experiencing vedanā, even now.
+
+105
+00:10:26,071 --> 00:10:26,912
+[SPEAKER_03]: That's kind of the point.
+
+106
+00:10:27,632 --> 00:10:31,074
+[SPEAKER_03]: But I don't trust that as a reference of learning and insight.
+
+107
+00:10:31,514 --> 00:10:34,536
+[SPEAKER_03]: I trust the comprehensive scholastic consultation.
+
+108
+00:10:35,360 --> 00:10:41,266
+[SPEAKER_03]: Of whatever has been said before, and then drawing kind of the essence of it, and maybe coming up with a few of the ideas of my own.
+
+109
+00:10:42,087 --> 00:10:43,969
+[SPEAKER_03]: And that's, like, completely wrong direction.
+
+110
+00:10:44,209 --> 00:10:46,531
+[SPEAKER_03]: As wrong as watching your nostrils, just in a different way.
+
+111
+00:10:46,751 --> 00:10:47,412
+[SPEAKER_03]: Yeah.
+
+112
+00:10:47,452 --> 00:10:47,752
+[SPEAKER_00]: Okay.
+
+113
+00:10:48,733 --> 00:10:50,235
+[SPEAKER_00]: There's this, um, another sutta.
+
+114
+00:10:50,255 --> 00:10:58,183
+[SPEAKER_00]: It's the second sutta in the Satipaṭṭhāna Samyutta of the Samyutta Niṭkāya, where he's saying,
+
+115
+00:10:59,393 --> 00:11:05,514
+[SPEAKER_00]: And it starts by just saying, those monks who have recently gone forth, are like, are new to this dhamma and discipline.
+
+116
+00:11:06,555 --> 00:11:24,859
+[SPEAKER_00]: I think it it can be interpreted as being, like, those who have not yet the right view, should be encouraged to develop satipaṭṭhāna, as in, to contemplate the phenomenon of the body, in order to... and then it says, so as to
+
+117
+00:11:27,517 --> 00:11:35,839
+[SPEAKER_00]: So as to fully understand vedanā, or so as to fully understand the body, or so as to fully understand the mind.
+
+118
+00:11:36,039 --> 00:11:37,140
+[SPEAKER_00]: Yeah.
+
+119
+00:11:37,300 --> 00:11:55,485
+[SPEAKER_00]: And then it continues how, like, the, then the Sekka, the noble disciple, is encouraged to contemplate the body, but having, having understood it, he is, he is now doing it in order to, like, develop the complete understanding of it, basically.
+
+120
+00:11:56,125 --> 00:11:56,585
+[SPEAKER_00]: So it's like,
+
+121
+00:11:57,059 --> 00:12:20,925
+[SPEAKER_00]: And then, what's interesting is, like, in the translations that you read of this sutta, it kind of makes it sound as though you're just sitting in this state of, like, eh... developing a state of concentration that will magically enable you to... to see... to see... the miracle... the miracle of... rather than it... but it's... it's very obvious, or it's very just kind of clear, if you read the thing.
+
+122
+00:12:20,945 --> 00:12:25,867
+[SPEAKER_00]: It just says, you know, if you want to fully understand something, spend as much of your time being
+
+123
+00:12:26,945 --> 00:12:33,630
+[SPEAKER_00]: You know, composed, being clear-headed, contemplating it, in your own experience, in order to bring it to mind.
+
+124
+00:12:33,650 --> 00:12:39,715
+[SPEAKER_01]: Yeah, it doesn't say look up the etymological basis for these words.
+
+125
+00:12:40,616 --> 00:12:41,757
+[SPEAKER_01]: But it doesn't give any instruction.
+
+126
+00:12:42,097 --> 00:12:43,338
+[SPEAKER_01]: Look at the history of these words.
+
+127
+00:12:43,598 --> 00:12:44,819
+[SPEAKER_01]: It doesn't.
+
+128
+00:12:44,839 --> 00:12:48,142
+[SPEAKER_03]: All of that can be helpful, if you already know where to look.
+
+129
+00:12:48,963 --> 00:12:54,888
+[SPEAKER_03]: But you will not necessarily find out where to look, if the only place you look is the etymologies and history and scholastic study.
+
+130
+00:12:56,267 --> 00:12:57,407
+[SPEAKER_03]: Because I mentioned that before.
+
+131
+00:12:57,427 --> 00:12:59,428
+[SPEAKER_03]: There was that, like, long time ago.
+
+132
+00:13:00,048 --> 00:13:12,832
+[SPEAKER_03]: And, yeah, you just start reading the suttas, and then other Pali, and other things, and translations, and then my own language, and then English language, and then Pali language, and then you're trying to get the idea.
+
+133
+00:13:13,292 --> 00:13:15,892
+[SPEAKER_03]: But then I remember it just dawned on me, like, it was about consciousness, actually.
+
+134
+00:13:15,932 --> 00:13:17,353
+[SPEAKER_03]: I must have said this before many times.
+
+135
+00:13:17,893 --> 00:13:21,974
+[SPEAKER_03]: And it was like, okay, but, okay, let's put aside all these different words.
+
+136
+00:13:22,734 --> 00:13:25,355
+[SPEAKER_03]: Let me just use the words that I know, even in my own language.
+
+137
+00:13:26,004 --> 00:13:29,286
+[SPEAKER_03]: When I say consciousness, what do I refer to?
+
+138
+00:13:29,786 --> 00:13:30,927
+[SPEAKER_03]: What am I referring to?
+
+139
+00:13:31,067 --> 00:13:34,910
+[SPEAKER_03]: There has to be something in this experience that I'm designating by word consciousness.
+
+140
+00:13:35,330 --> 00:13:46,137
+[SPEAKER_03]: So, rather than dwelling on the aspect of how that word came to be and what it means for others and so on, no, just in the most direct way, I'm telling you I am a conscious person.
+
+141
+00:13:46,157 --> 00:13:46,917
+[SPEAKER_03]: What am I referring to?
+
+142
+00:13:47,278 --> 00:13:54,142
+[SPEAKER_03]: What aspect of this experience of me and others am I designating by saying I'm a conscious person, self-aware?
+
+143
+00:13:54,162 --> 00:13:55,063
+[SPEAKER_03]: What part of this
+
+144
+00:13:56,620 --> 00:13:59,423
+[SPEAKER_03]: That's completely unclear.
+
+145
+00:13:59,863 --> 00:14:02,566
+[SPEAKER_03]: Then I thought, well, let me find something easier than a webinar.
+
+146
+00:14:02,726 --> 00:14:03,086
+[SPEAKER_03]: Feeling.
+
+147
+00:14:03,487 --> 00:14:05,649
+[SPEAKER_03]: Oh, what am I referring to now?
+
+148
+00:14:05,949 --> 00:14:06,850
+[SPEAKER_03]: It's still unclear.
+
+149
+00:14:07,430 --> 00:14:09,232
+[SPEAKER_03]: And I realize then, that's the whole point.
+
+150
+00:14:09,693 --> 00:14:10,854
+[SPEAKER_03]: Call them whatever you want.
+
+151
+00:14:11,334 --> 00:14:12,515
+[SPEAKER_03]: They need to be understood.
+
+152
+00:14:12,996 --> 00:14:19,943
+[SPEAKER_03]: Not re-designated and re-branded and re-investigated, as I said, through like a historiological context or something.
+
+153
+00:14:20,865 --> 00:14:36,238
+[SPEAKER_03]: Because the notions in regard to those five things that you start with, form, feeling, perception, intentions, consciousness, you know, the basic stuff, the notions that you carry as a unenlightened person, are the reason why you're unenlightened.
+
+154
+00:14:37,519 --> 00:14:40,521
+[SPEAKER_03]: They obstruct the nature of that which you take to be yours.
+
+155
+00:14:41,562 --> 00:14:44,824
+[SPEAKER_03]: And you take to be yours because you don't see it as as unownable.
+
+156
+00:14:46,079 --> 00:14:51,263
+[SPEAKER_03]: And instead of undoing what you're already kind of holding and assuming, you're just piling up more.
+
+157
+00:14:51,923 --> 00:14:58,468
+[SPEAKER_03]: Just, just... yeah, you learn one language, another one, and another one, you write a paper, and then compare the two, and then you add the third reference, and great, great.
+
+158
+00:14:58,968 --> 00:15:00,689
+[SPEAKER_03]: And it's endless in that way.
+
+159
+00:15:01,230 --> 00:15:04,272
+[SPEAKER_03]: And you still haven't actually cleared up the very starting point.
+
+160
+00:15:04,812 --> 00:15:10,356
+[SPEAKER_03]: When you use the word from any language you pick to designate consciousness, what phenomenon are you referring to?
+
+161
+00:15:10,916 --> 00:15:11,256
+[SPEAKER_03]: What is it?
+
+162
+00:15:11,877 --> 00:15:13,238
+[SPEAKER_03]: Describe it in your own words.
+
+163
+00:15:14,490 --> 00:15:15,490
+[SPEAKER_03]: What are the properties of it?
+
+164
+00:15:15,611 --> 00:15:18,052
+[SPEAKER_03]: What is its nature?
+
+165
+00:15:18,092 --> 00:15:20,833
+[SPEAKER_03]: Feeling, form, intentions, same.
+
+166
+00:15:21,473 --> 00:15:23,134
+[SPEAKER_00]: Okay, I've had done this before.
+
+167
+00:15:23,154 --> 00:15:23,594
+[SPEAKER_00]: Like, I just...
+
+168
+00:15:23,674 --> 00:15:26,376
+[SPEAKER_00]: Okay, what actually is greed, for example?
+
+169
+00:15:26,896 --> 00:15:27,876
+[SPEAKER_01]: What do I mean by greed?
+
+170
+00:15:27,896 --> 00:15:28,717
+[SPEAKER_00]: What is unwholesome?
+
+171
+00:15:28,737 --> 00:15:29,477
+[SPEAKER_00]: So, what is unwholesome?
+
+172
+00:15:29,517 --> 00:15:31,898
+[SPEAKER_00]: And then, you're just, like, thinking about that throughout the day.
+
+173
+00:15:32,058 --> 00:15:38,541
+[SPEAKER_00]: It naturally, kind of, eh... gives you a certain broader perspective or higher perspective.
+
+174
+00:15:38,561 --> 00:15:39,902
+[SPEAKER_00]: Like, when your mind wants to...
+
+175
+00:15:41,255 --> 00:15:43,516
+[SPEAKER_00]: Go in a certain direction, or be kind of greedy.
+
+176
+00:15:43,636 --> 00:15:46,297
+[SPEAKER_00]: It's not like, okay, I must not do this.
+
+177
+00:15:46,857 --> 00:15:47,937
+[SPEAKER_00]: Okay, that's greed.
+
+178
+00:15:48,057 --> 00:15:48,738
+[SPEAKER_00]: Okay, what?
+
+179
+00:15:49,338 --> 00:15:51,879
+[SPEAKER_00]: So, is this greed, or is this what feeling means?
+
+180
+00:15:52,619 --> 00:16:00,221
+[SPEAKER_00]: And now, you kind of are naturally kind of not on the level of just, you know, embodying it, becoming it.
+
+181
+00:16:00,261 --> 00:16:05,443
+[SPEAKER_00]: You're developing some perspective in regard to it, without it being this, like,
+
+182
+00:16:08,184 --> 00:16:16,206
+[SPEAKER_00]: It's easier, in a sense, I think it can be for some people to not become too wound up about not acting out of unwholesome and so on.
+
+183
+00:16:18,186 --> 00:16:22,007
+[SPEAKER_02]: It's like the two types of thoughts we were talking about last week.
+
+184
+00:16:22,047 --> 00:16:23,948
+[SPEAKER_03]: Yeah, exactly, the broad category.
+
+185
+00:16:23,988 --> 00:16:31,169
+[SPEAKER_03]: But you realize, for that to not be an abstract thing, you need to invest effort, actually, in like clarifying.
+
+186
+00:16:31,289 --> 00:16:34,670
+[SPEAKER_03]: Undoing things up to the point where you do clearly see
+
+187
+00:16:35,462 --> 00:16:39,451
+[SPEAKER_03]: Oh, anything that partakes in greed or delusion, category of unwholesome.
+
+188
+00:16:39,711 --> 00:16:41,816
+[SPEAKER_03]: Anything that doesn't partake in it, category of wholesome.
+
+189
+00:16:42,177 --> 00:16:43,199
+[SPEAKER_03]: Factual, as a phenomenon.
+
+190
+00:16:43,239 --> 00:16:45,003
+[SPEAKER_03]: You see, you see that nature of it.
+
+191
+00:16:46,357 --> 00:16:51,158
+[SPEAKER_03]: So, everybody can start that as an idea, and then, out of that external idea, they will try to do it.
+
+192
+00:16:51,218 --> 00:16:54,239
+[SPEAKER_03]: But, yeah, that's fine, if you, you know, you begin like that.
+
+193
+00:16:54,339 --> 00:17:02,581
+[SPEAKER_03]: But the point is not to, like, just stick to it blindly, but to actually stop referring to it as an external idea and develop that internal reference point.
+
+194
+00:17:02,761 --> 00:17:03,021
+[SPEAKER_03]: No, no.
+
+195
+00:17:03,041 --> 00:17:08,182
+[SPEAKER_03]: I need to know why greed, aversion, delusion are wholesome.
+
+196
+00:17:08,322 --> 00:17:14,744
+[SPEAKER_03]: How they're always felt, and as we described in the previous talk, they always have a nature of a trap, nature of pressure,
+
+197
+00:17:15,753 --> 00:17:22,518
+[SPEAKER_03]: Of burden, of debt, and you realize, well, that's factually not good.
+
+198
+00:17:23,359 --> 00:17:27,562
+[SPEAKER_03]: If it were good, it wouldn't need to be set up in such a devious manner.
+
+199
+00:17:28,963 --> 00:17:30,284
+[SPEAKER_03]: So, that's why I don't trust it.
+
+200
+00:17:30,304 --> 00:17:31,165
+[SPEAKER_03]: That's why I won't do it.
+
+201
+00:17:31,846 --> 00:17:33,086
+[SPEAKER_03]: And that's something you can see for yourself.
+
+202
+00:17:33,106 --> 00:17:34,728
+[SPEAKER_03]: That's when the danger becomes apparent.
+
+203
+00:17:34,768 --> 00:17:43,595
+[SPEAKER_03]: When you suddenly recognize the trap that you haven't been seeing before and you've been walking through and getting trapped many times, now you actually saw it.
+
+204
+00:17:44,290 --> 00:17:45,470
+[SPEAKER_03]: And then you learn how to see it.
+
+205
+00:17:46,671 --> 00:17:49,192
+[SPEAKER_03]: And then you avoid it naturally when you see it as a trap.
+
+206
+00:17:52,113 --> 00:18:04,477
+[SPEAKER_03]: But none of that will just magically crystallize in your mind on account of sticking to the precepts and so on, or meditating diligently in the contemporary sense of technique and concentration.
+
+207
+00:18:04,497 --> 00:18:06,618
+[SPEAKER_03]: No, that needs... that's the diligence, that's the work.
+
+208
+00:18:07,178 --> 00:18:12,780
+[SPEAKER_03]: The right type of thinking, abstaining from welcoming the thoughts of unwholesome kind, yeah, picking up dhamma
+
+209
+00:18:14,566 --> 00:18:15,347
+[SPEAKER_03]: Objects, i.e.
+
+210
+00:18:15,868 --> 00:18:20,232
+[SPEAKER_03]: dhamma, themes, that you will actually ponder and clarify for yourself.
+
+211
+00:18:20,292 --> 00:18:23,555
+[SPEAKER_03]: Like, well, the Buddha said, cultivate wholesome, don't cultivate unwholesome.
+
+212
+00:18:24,255 --> 00:18:24,976
+[SPEAKER_03]: What is wholesome?
+
+213
+00:18:26,417 --> 00:18:28,419
+[SPEAKER_03]: Like, now, when I have these thoughts, what are they?
+
+214
+00:18:28,659 --> 00:18:29,800
+[SPEAKER_03]: Are they wholesome or unwholesome?
+
+215
+00:18:30,661 --> 00:18:33,444
+[SPEAKER_03]: Whatever conclusion you come to, okay, now reinvestigate that.
+
+216
+00:18:35,346 --> 00:18:40,070
+[SPEAKER_03]: So, you actually have to actively engage in clarifying what work needs to be done.
+
+217
+00:18:41,890 --> 00:18:54,539
+[SPEAKER_02]: Otherwise, it wouldn't be a trap if if you could kind of, yeah, if you could discern it without that, without that kind of continuous diligence.
+
+218
+00:18:54,559 --> 00:18:56,200
+[SPEAKER_02]: Well, you wouldn't have to go against the grain.
+
+219
+00:18:56,260 --> 00:18:56,660
+[SPEAKER_02]: Exactly.
+
+220
+00:18:56,680 --> 00:18:57,481
+[SPEAKER_02]: Yeah, that's the point.
+
+221
+00:18:57,501 --> 00:19:00,382
+[SPEAKER_02]: Because, because, yeah, the trap, the whole point is that it sort of limits you.
+
+222
+00:19:00,463 --> 00:19:03,264
+[SPEAKER_03]: And people will kind of just accidentally stumble upon enlightenment.
+
+223
+00:19:03,465 --> 00:19:06,347
+[SPEAKER_03]: I just went in this direction and look, nibbāna.
+
+224
+00:19:06,427 --> 00:19:11,490
+[SPEAKER_03]: No, it can't happen by accident, because you have to perpetually swim against the whole grain of your being.
+
+225
+00:19:11,753 --> 00:19:14,434
+[SPEAKER_03]: The entire nature, everything, it points that way.
+
+226
+00:19:14,454 --> 00:19:18,256
+[SPEAKER_03]: Well, for one reason or the other, you are going against it.
+
+227
+00:19:18,416 --> 00:19:19,496
+[SPEAKER_03]: You are swimming upwards.
+
+228
+00:19:20,516 --> 00:19:21,117
+[SPEAKER_03]: For how long?
+
+229
+00:19:21,157 --> 00:19:23,878
+[SPEAKER_03]: Well, out of faith, for as long as it takes.
+
+230
+00:19:24,198 --> 00:19:30,100
+[SPEAKER_03]: And then, when things are verified and seen for yourself, then, of course, you won't need any more convincing.
+
+231
+00:19:31,981 --> 00:19:33,421
+[SPEAKER_01]: This is Angutvig, Nikaya 863.
+
+232
+00:19:33,441 --> 00:19:33,822
+[SPEAKER_01]: And, eh...
+
+233
+00:19:39,792 --> 00:19:40,733
+[SPEAKER_01]: It's called in brief.
+
+234
+00:19:41,494 --> 00:19:56,554
+[SPEAKER_01]: So, then a certain bhikkhu approached the Blessed One, paid homage to him, and said, Bhante, it would be good if the Blessed One would teach me the dhamma in brief, so that having heard the dhamma from the Blessed One, I might dwell alone, withdrawn, heedful, ardent and resolute.
+
+235
+00:19:57,855 --> 00:20:03,699
+[SPEAKER_01]: And then the Buddha replies, it is in just this way that some hollow men here make requests of me.
+
+236
+00:20:04,379 --> 00:20:08,942
+[SPEAKER_01]: But when the dhamma has been explained, they think only of following me around.
+
+237
+00:20:09,603 --> 00:20:12,184
+[SPEAKER_01]: And that, as I was saying, it kind of relates to the last one.
+
+238
+00:20:12,604 --> 00:20:17,147
+[SPEAKER_01]: You're just reading, you know, suttas after suttas after suttas, but not applying any of it.
+
+239
+00:20:17,688 --> 00:20:18,628
+[SPEAKER_03]: You just follow the Buddha around.
+
+240
+00:20:18,768 --> 00:20:24,872
+[SPEAKER_03]: Like you might well be holding a view that reading and getting inspired on account of suttas is the application.
+
+241
+00:20:26,053 --> 00:20:26,233
+[SPEAKER_03]: Yeah.
+
+242
+00:20:26,832 --> 00:20:37,978
+[SPEAKER_03]: But practically, you'll just be following the suttas of the Buddha around, not doing it, because needing a constant access to the source of inspiration of the external kind.
+
+243
+00:20:38,998 --> 00:20:45,942
+[SPEAKER_01]: So, they might not have had the suttas, like all the suttas we have today, but they were still kind of doing the same things.
+
+244
+00:20:45,982 --> 00:20:46,142
+[SPEAKER_01]: Yeah.
+
+245
+00:20:48,807 --> 00:20:52,648
+[SPEAKER_01]: And then the monk says, Bhante, let the best one teach me the dharmain brief.
+
+246
+00:20:53,369 --> 00:20:55,890
+[SPEAKER_01]: Let the fortunate one teach me the dharmain brief.
+
+247
+00:20:55,930 --> 00:20:59,171
+[SPEAKER_01]: Perhaps I might come to understand the meaning of the statements.
+
+248
+00:21:00,772 --> 00:21:04,253
+[SPEAKER_01]: So then, the Buddha says, in that case Bhikkhu, you should train yourself thus.
+
+249
+00:21:05,713 --> 00:21:08,875
+[SPEAKER_01]: My mind will be immovable and settled internally.
+
+250
+00:21:09,695 --> 00:21:12,956
+[SPEAKER_01]: Arisen bad, unwholesome states will not overpower my mind.
+
+251
+00:21:14,037 --> 00:21:14,997
+[SPEAKER_01]: Thus, you should train yourself.
+
+252
+00:21:16,377 --> 00:21:16,738
+[SPEAKER_01]: Do that.
+
+253
+00:21:17,258 --> 00:21:17,658
+[SPEAKER_03]: There you go.
+
+254
+00:21:20,431 --> 00:21:29,814
+[SPEAKER_03]: So, you realize why... like, I mean, you can ask yourself why... if that's not enough instruction for you, why is that not enough?
+
+255
+00:21:31,115 --> 00:21:34,436
+[SPEAKER_03]: Why is that insufficient?
+
+256
+00:21:34,456 --> 00:21:43,139
+[SPEAKER_03]: You realize, well, it's not because the instruction lacks meat or heartwood, it's because too many obstructions in your mind that this is just too abstract.
+
+257
+00:21:44,120 --> 00:21:48,141
+[SPEAKER_03]: So, you better start clearing up the mess, so that you can apply that.
+
+258
+00:21:49,523 --> 00:21:51,304
+[SPEAKER_03]: And everybody starts with some degree of mess.
+
+259
+00:21:51,504 --> 00:21:55,968
+[SPEAKER_03]: So, everybody has to do some clearing.
+
+260
+00:21:56,368 --> 00:21:59,871
+[SPEAKER_03]: But it's... and that should be like a... oh, that can be a reflection.
+
+261
+00:21:59,891 --> 00:22:04,914
+[SPEAKER_03]: Wait, but why is this not enough for my mind to do it, to get inspired?
+
+262
+00:22:04,974 --> 00:22:07,116
+[SPEAKER_03]: Because I don't truly understand what I need to do.
+
+263
+00:22:08,417 --> 00:22:15,962
+[SPEAKER_03]: And I don't truly understand, because I cannot measure the task given to me, because I don't quite see where it applies.
+
+264
+00:22:16,002 --> 00:22:17,964
+[SPEAKER_03]: And I don't see where it applies, because I'm obviously
+
+265
+00:22:20,540 --> 00:22:22,321
+[SPEAKER_03]: Not listening properly, so to speak.
+
+266
+00:22:22,461 --> 00:22:27,443
+[SPEAKER_03]: In other words, I'm listening to these words, but they don't mean the same thing to me as they meant to the Buddha when he instructed it.
+
+267
+00:22:27,503 --> 00:22:33,026
+[SPEAKER_03]: When he refers to those things, mind and overpower and unwholesome, but those things are not understood by me.
+
+268
+00:22:33,906 --> 00:22:41,890
+[SPEAKER_03]: So, I better start understanding that, so that then this instruction can make sense, so that I can measure the task, so that I can actually apply myself and get the results of it.
+
+269
+00:22:44,331 --> 00:22:47,873
+[SPEAKER_01]: But that's unpleasant work, that's... Yeah, of course.
+
+270
+00:22:49,652 --> 00:22:58,534
+[SPEAKER_00]: Even just recognizing properly that, wait, I actually don't even know what that means, is kind of a...
+
+271
+00:22:59,775 --> 00:23:16,239
+[SPEAKER_00]: It can be easy to just kind of take for granted your own, like, first impression of what you think that might mean, and then try and, like, do it, which is obviously gonna result in... That's why the kind of initial that would feel kind of inspiring or something,
+
+272
+00:23:16,660 --> 00:23:22,263
+[SPEAKER_00]: But then it would sort of run out, and it's like, oh, well, I need to get more instruction, because I don't really...
+
+273
+00:23:22,343 --> 00:23:29,587
+[SPEAKER_00]: I've done a bit, but now... yeah, now I think I need more, because you didn't clarify in the beginning the...
+
+274
+00:23:30,074 --> 00:23:33,855
+[SPEAKER_00]: What that initial instruction really meant.
+
+275
+00:23:34,315 --> 00:23:39,677
+[SPEAKER_03]: And you won't clarify it for as long as you think the clarification comes from the outside.
+
+276
+00:23:39,717 --> 00:23:40,117
+[SPEAKER_03]: Exactly.
+
+277
+00:23:40,617 --> 00:23:43,338
+[SPEAKER_03]: Like, sometimes, yeah, maybe you simply don't have enough information.
+
+278
+00:23:43,418 --> 00:23:46,079
+[SPEAKER_03]: But in cases like this, you have... that's enough, that's sufficient.
+
+279
+00:23:46,119 --> 00:23:48,620
+[SPEAKER_03]: Otherwise, they wouldn't have given it as a self-sufficient instruction.
+
+280
+00:23:49,612 --> 00:24:04,735
+[SPEAKER_03]: So, the clarification of that instruction then comes on the level of not further scholastic study, but of actually undoing the basic misconceptions in regard to the phenomenon of mind, consciousness, wholesome, unwholesome,
+
+281
+00:24:05,428 --> 00:24:17,117
+[SPEAKER_01]: Yeah, I mean, doing that, you know, trying to figure out what... my mind will be... should be immovable, settled internally.
+
+282
+00:24:17,137 --> 00:24:20,179
+[SPEAKER_01]: Arisen bad, unwholesome states will not overpower my mind.
+
+283
+00:24:20,799 --> 00:24:30,404
+[SPEAKER_01]: So, if you were actually trying to do that, and doing that, to try and apply that, that instruction will be... you would see deeper meanings to it, and deeper and deeper.
+
+284
+00:24:30,444 --> 00:24:34,447
+[SPEAKER_01]: You wouldn't move on, because there is depth and the ending of the practice.
+
+285
+00:24:34,487 --> 00:24:44,192
+[SPEAKER_03]: But another thing to add, though, is that even as a, let's say, simple instruction is that, as in not very complex, not many moving parts,
+
+286
+00:24:46,089 --> 00:24:54,291
+[SPEAKER_03]: Doesn't matter how much you apply yourself, even if you're doing it what... in the way we were describing it, it won't work unless you have been restrained beforehand.
+
+287
+00:24:55,991 --> 00:24:59,512
+[SPEAKER_03]: Guarding of the sense doors, keeping the precepts, being watchful and wakeful.
+
+288
+00:24:59,872 --> 00:25:01,252
+[SPEAKER_03]: It just won't work.
+
+289
+00:25:01,312 --> 00:25:03,053
+[SPEAKER_03]: And that's why the mind will drift away as well.
+
+290
+00:25:03,273 --> 00:25:05,133
+[SPEAKER_03]: It's because... because you're actually undermining it.
+
+291
+00:25:05,213 --> 00:25:13,435
+[SPEAKER_03]: You are unanchoring it from the right context to your intentional acts towards sensuality, out of ill-will, out of hindrances.
+
+292
+00:25:15,195 --> 00:25:24,660
+[SPEAKER_03]: So, if you actually invest the work there, you won't need much of any external inspiration to keep you inspired on a topic or a theme of practice.
+
+293
+00:25:24,800 --> 00:25:29,843
+[SPEAKER_03]: The mind won't drift too far away from it, because you are not taking it too far away from it with your actions.
+
+294
+00:25:35,308 --> 00:25:45,975
+[SPEAKER_03]: So, that's another thing to consider if, like, instruction like this, but just seems to kind of pass over my head and mind doesn't leap, leap into it and wants to think about it, wants to contemplate it.
+
+295
+00:25:45,995 --> 00:25:51,058
+[SPEAKER_03]: Well, I think you might have to re-review your behavior by body, by speech, by mind.
+
+296
+00:25:51,118 --> 00:25:52,739
+[SPEAKER_03]: How do you spend the rest of your waking day?
+
+297
+00:25:52,759 --> 00:25:56,522
+[SPEAKER_03]: What do you... things you think about, things you're saying, bodily actions.
+
+298
+00:25:57,322 --> 00:25:59,584
+[SPEAKER_03]: Are they restrained thoroughly, withdrawn, dried up?
+
+299
+00:26:00,924 --> 00:26:02,425
+[SPEAKER_03]: If not, well, you got your answer.
+
+300
+00:26:03,386 --> 00:26:04,567
+[SPEAKER_03]: That's when all of this will apply.
+
+301
+00:26:07,180 --> 00:26:16,046
+[SPEAKER_01]: So, yeah, the sutta continues, and it's... this... the Buddha gives extra further meditation exercises, some instructions.
+
+302
+00:26:17,167 --> 00:26:28,695
+[SPEAKER_01]: He says, when a bhikkhu... when bhikkhu, your mind is immovable and settled internally, and arisen bad unwholesome states do not overpower your mind, then you should train yourself thus further.
+
+303
+00:26:29,355 --> 00:26:29,615
+[SPEAKER_01]: So...
+
+304
+00:26:31,497 --> 00:26:32,457
+[SPEAKER_01]: So, you've got to do that first.
+
+305
+00:26:32,477 --> 00:26:34,379
+[SPEAKER_01]: So, have you passed that?
+
+306
+00:26:34,399 --> 00:26:35,459
+[SPEAKER_01]: So, what do you do there first?
+
+307
+00:26:35,820 --> 00:26:36,400
+[SPEAKER_03]: You do the...
+
+308
+00:26:37,692 --> 00:26:38,652
+[SPEAKER_03]: How do you measure?
+
+309
+00:26:39,032 --> 00:26:41,313
+[SPEAKER_03]: How do you know you're not overpowered by the...
+
+310
+00:26:41,553 --> 00:26:43,434
+[SPEAKER_03]: So, arisen unwholesome states.
+
+311
+00:26:43,494 --> 00:26:45,834
+[SPEAKER_03]: Your mind is settled, but wholesome states arose.
+
+312
+00:26:46,834 --> 00:26:49,415
+[SPEAKER_03]: So, that's not up to you, as we say often.
+
+313
+00:26:50,756 --> 00:26:53,756
+[SPEAKER_03]: Okay, so is this overpowering me, or is it not?
+
+314
+00:26:53,776 --> 00:26:54,176
+[SPEAKER_03]: What do I do?
+
+315
+00:26:54,216 --> 00:26:55,537
+[SPEAKER_03]: How do I know?
+
+316
+00:26:55,677 --> 00:26:56,477
+[SPEAKER_03]: Am I still invulnerable?
+
+317
+00:26:56,517 --> 00:26:57,097
+[SPEAKER_03]: Is this moving me?
+
+318
+00:26:57,857 --> 00:27:00,358
+[SPEAKER_03]: So, how do you know whether you're overpowered or not?
+
+319
+00:27:00,718 --> 00:27:02,239
+[SPEAKER_03]: What's the measure of being overpowered?
+
+320
+00:27:03,119 --> 00:27:06,980
+[SPEAKER_03]: Can you just blink, and the next moment is, oh, I'm overpowered.
+
+321
+00:27:09,530 --> 00:27:11,051
+[SPEAKER_02]: Acting out by body, speech or mind.
+
+322
+00:27:11,171 --> 00:27:11,591
+[SPEAKER_03]: Exactly.
+
+323
+00:27:12,411 --> 00:27:14,232
+[SPEAKER_03]: Certainly, by body and speech.
+
+324
+00:27:14,752 --> 00:27:16,133
+[SPEAKER_03]: You're overpowered if you act out.
+
+325
+00:27:16,253 --> 00:27:17,774
+[SPEAKER_03]: If you don't act out, you're not overpowered.
+
+326
+00:27:17,794 --> 00:27:21,735
+[SPEAKER_03]: It doesn't matter the amount of doubt that might try to make you act out or clarify it.
+
+327
+00:27:21,775 --> 00:27:24,237
+[SPEAKER_03]: You realize, well, I'm not acting out.
+
+328
+00:27:24,797 --> 00:27:26,458
+[SPEAKER_03]: Thus, I'm not the one being moved.
+
+329
+00:27:26,998 --> 00:27:30,799
+[SPEAKER_03]: Sure, I'm feeling the pressure of the unwholesome state, but I'm not acting out.
+
+330
+00:27:30,859 --> 00:27:32,140
+[SPEAKER_03]: I'm not doing anything on account of it.
+
+331
+00:27:32,380 --> 00:27:32,800
+[SPEAKER_03]: It's there.
+
+332
+00:27:32,960 --> 00:27:33,701
+[SPEAKER_03]: I'm mindful of it.
+
+333
+00:27:33,881 --> 00:27:34,241
+[SPEAKER_03]: That's it.
+
+334
+00:27:36,233 --> 00:27:38,675
+[SPEAKER_01]: Internally calm, in regards... Yeah.
+
+335
+00:27:38,735 --> 00:27:41,037
+[SPEAKER_03]: Internally calm means, basically, not acting out.
+
+336
+00:27:41,337 --> 00:27:45,741
+[SPEAKER_03]: It doesn't mean, internally, not feeling the pressure of arisen unwholesome states.
+
+337
+00:27:45,801 --> 00:27:49,924
+[SPEAKER_03]: Otherwise, why would you need to practice steadiness and not being overwhelmed by it?
+
+338
+00:27:50,144 --> 00:27:51,505
+[SPEAKER_03]: No, you do feel the weight of it.
+
+339
+00:27:51,545 --> 00:27:52,366
+[SPEAKER_03]: That's kind of the point.
+
+340
+00:27:53,086 --> 00:27:55,328
+[SPEAKER_03]: So, so it's like not, not acting out.
+
+341
+00:27:55,948 --> 00:27:56,889
+[SPEAKER_03]: Not acting out of the body.
+
+342
+00:27:57,370 --> 00:27:58,370
+[SPEAKER_03]: Oh, I acted out by speech.
+
+343
+00:27:58,550 --> 00:27:58,851
+[SPEAKER_03]: Okay.
+
+344
+00:27:58,871 --> 00:28:01,473
+[SPEAKER_03]: Well, to that extent, I was moved, but at least I didn't act by the body.
+
+345
+00:28:02,515 --> 00:28:03,436
+[SPEAKER_03]: I didn't act out by the body.
+
+346
+00:28:03,516 --> 00:28:04,617
+[SPEAKER_03]: I didn't act out by the speech.
+
+347
+00:28:05,138 --> 00:28:08,461
+[SPEAKER_03]: Okay, mentally, I'm still trying to revolve around and get rid of this doubt.
+
+348
+00:28:08,641 --> 00:28:09,822
+[SPEAKER_03]: I'm acting out to that extent.
+
+349
+00:28:10,002 --> 00:28:11,263
+[SPEAKER_03]: Let me stop that now as well.
+
+350
+00:28:11,544 --> 00:28:13,466
+[SPEAKER_03]: At least I didn't act out by speech and by body.
+
+351
+00:28:14,967 --> 00:28:20,032
+[SPEAKER_03]: So, it is a gradual training that then you can perfect to the point there is a pressure of the unwholesome.
+
+352
+00:28:20,212 --> 00:28:21,133
+[SPEAKER_03]: You're internally calm.
+
+353
+00:28:21,593 --> 00:28:26,298
+[SPEAKER_03]: There is the doubt to clarify whether you're internally calm or not and you recognize even that now.
+
+354
+00:28:26,902 --> 00:28:34,626
+[SPEAKER_03]: If you were to clarify, you would be acting out on account of discomfort, and you realize, well, by not clarifying it, I'm clarifying it.
+
+355
+00:28:35,267 --> 00:28:39,829
+[SPEAKER_03]: By not engaging with a clarification of my doubt, I'm staying unmoved.
+
+356
+00:28:40,209 --> 00:28:43,091
+[SPEAKER_03]: And that's kind of the point that even doubt wants me to resolve.
+
+357
+00:28:45,192 --> 00:28:48,214
+[SPEAKER_03]: So you stop using the middleman of hindrances and acting out of them.
+
+358
+00:28:49,875 --> 00:28:50,115
+[SPEAKER_01]: So...
+
+359
+00:28:51,704 --> 00:28:56,187
+[SPEAKER_01]: Once that's done, once you... Yeah.
+
+360
+00:28:56,267 --> 00:28:57,829
+[SPEAKER_03]: Unmoved by these things.
+
+361
+00:28:59,008 --> 00:29:01,731
+[SPEAKER_01]: He says, then you can do these further exercises.
+
+362
+00:29:02,091 --> 00:29:05,274
+[SPEAKER_01]: And one of them is that Brahmaviharas.
+
+363
+00:29:05,474 --> 00:29:16,884
+[SPEAKER_01]: I will develop and cultivate the liberation of mind by friendliness or non-ill will, make it a vehicle, a habit, a basis, carry it out, consolidate it and properly undertake it.
+
+364
+00:29:17,424 --> 00:29:24,050
+[SPEAKER_03]: I would take up a theme that now my mind would listen and pay attention to and adhere to.
+
+365
+00:29:24,411 --> 00:29:24,671
+[SPEAKER_03]: Why?
+
+366
+00:29:24,711 --> 00:29:25,612
+[SPEAKER_03]: Well, because I attained it.
+
+367
+00:29:27,358 --> 00:29:37,864
+[SPEAKER_03]: So, you can see, we always say, like, you know, the jhāna, the whole practice comes as a result of you overcoming the hindrances, understanding the unwholesome, thoroughly withdrawing it.
+
+368
+00:29:37,904 --> 00:29:44,288
+[SPEAKER_03]: I mean, every description of jhāna is thoroughly withdrawn from unwholesome states, from five hindrances.
+
+369
+00:29:44,929 --> 00:29:50,752
+[SPEAKER_03]: On a later occasion, basically, then, he dwells, he enters, he dwells having entered jhāna.
+
+370
+00:29:51,993 --> 00:29:55,015
+[SPEAKER_03]: On a later occasion, after he's thoroughly withdrawn,
+
+371
+00:29:55,405 --> 00:29:56,166
+[SPEAKER_03]: Quite secluded.
+
+372
+00:29:56,206 --> 00:30:06,173
+[SPEAKER_03]: Whichever translation you want to use, it means you've done this work first, thoroughly, without any residue, without any tolerating of the hindrances, and acting out of them.
+
+373
+00:30:06,693 --> 00:30:10,416
+[SPEAKER_03]: And then, the mind will listen, and it will be inwardly calm,
+
+374
+00:30:10,880 --> 00:30:14,682
+[SPEAKER_03]: And then, whether it's jhāna or brahma-vihāra, that's the order of development.
+
+375
+00:30:15,202 --> 00:30:23,987
+[SPEAKER_03]: But not like, oh, I'll practice for jhāna, jhānic ecstatic absorption pleasure, and thus sensuality will fall away as a result of that.
+
+376
+00:30:24,388 --> 00:30:25,208
+[SPEAKER_03]: And this is the same.
+
+377
+00:30:25,248 --> 00:30:30,251
+[SPEAKER_03]: People's like, oh, I'm full of will-will, so I'll practice metta, so that these things will fall away.
+
+378
+00:30:30,311 --> 00:30:30,751
+[SPEAKER_03]: No, no, no.
+
+379
+00:30:31,151 --> 00:30:36,214
+[SPEAKER_03]: You gotta drop those things first, and then the mind can develop metta and so on.
+
+380
+00:30:37,555 --> 00:30:37,775
+[SPEAKER_01]: Yeah.
+
+381
+00:30:37,955 --> 00:30:39,496
+[SPEAKER_01]: You, you, you create that.
+
+382
+00:30:41,288 --> 00:30:42,549
+[SPEAKER_03]: Yeah, yeah, of course, of course.
+
+383
+00:30:42,569 --> 00:30:43,109
+[SPEAKER_01]: It's not that.
+
+384
+00:30:43,629 --> 00:30:52,735
+[SPEAKER_03]: You don't just magically... No, as we said in the previous one, like, I have abandoned, I have relinquished, I've given up the five hindrances, that nandamata sutta.
+
+385
+00:30:54,076 --> 00:30:57,898
+[SPEAKER_03]: Yeah, she... She's given them up, through fully understanding them.
+
+386
+00:30:58,158 --> 00:31:00,220
+[SPEAKER_03]: And that's why now, she has jhānas at will.
+
+387
+00:31:01,230 --> 00:31:02,191
+[SPEAKER_03]: Not other way around.
+
+388
+00:31:03,072 --> 00:31:05,134
+[SPEAKER_01]: Yeah, and likewise with this one.
+
+389
+00:31:05,154 --> 00:31:10,218
+[SPEAKER_01]: It doesn't say he develops brahma viharas and then his mind will be immovable.
+
+390
+00:31:11,179 --> 00:31:12,100
+[SPEAKER_01]: Exactly, yeah.
+
+391
+00:31:12,300 --> 00:31:14,502
+[SPEAKER_03]: Well, here is a technique for brahma vihara.
+
+392
+00:31:15,003 --> 00:31:19,247
+[SPEAKER_03]: Stick to it blindly and you'll become immovable like a rock and no hindrance can enter you and
+
+393
+00:31:20,087 --> 00:31:25,790
+[SPEAKER_03]: And no work of contemplation and enduring the pain or the pressure of unreasoned states that are trying to overwhelm you, you will have to endure.
+
+394
+00:31:26,451 --> 00:31:27,491
+[SPEAKER_03]: Wouldn't that be wonderful?
+
+395
+00:31:28,072 --> 00:31:30,713
+[SPEAKER_03]: Yeah, but that's not the case, you know, until you snap a bit.
+
+396
+00:31:31,133 --> 00:31:33,595
+[SPEAKER_03]: Yeah, yeah, because basically you're just carving things up.
+
+397
+00:31:36,877 --> 00:31:56,722
+[SPEAKER_01]: And, it goes on further, it says, when this samādhi has been developed and cultivated by you in this way, that's a composure of Brahmavihārus, mind of non-ill-will and so on, then you should develop this kind of samādhi with thinking and pondering.
+
+398
+00:31:57,563 --> 00:32:00,025
+[SPEAKER_01]: Without thinking, but only just pondering.
+
+399
+00:32:00,826 --> 00:32:02,667
+[SPEAKER_01]: Develop it without thinking and pondering.
+
+400
+00:32:02,687 --> 00:32:09,413
+[SPEAKER_01]: Develop it with joy, or letting go of joy, accompanied with ease, or accompanied with equanimity.
+
+401
+00:32:09,433 --> 00:32:11,854
+[SPEAKER_01]: So, he's doing jhānas on top.
+
+402
+00:32:12,115 --> 00:32:16,718
+[SPEAKER_01]: You know, he's able to practice jhānas alongside Brahmaviharas.
+
+403
+00:32:20,982 --> 00:32:26,006
+[SPEAKER_01]: And when bhikkhu, this kind of, so now, when you're able to do that, even if it's steadier,
+
+404
+00:32:27,537 --> 00:32:28,958
+[SPEAKER_01]: Well, then you're qualified for satipaṭṭhāna.
+
+405
+00:32:28,998 --> 00:32:29,158
+[SPEAKER_01]: Yeah.
+
+406
+00:32:29,238 --> 00:32:32,201
+[SPEAKER_01]: Mindful having removed longing and concern in regard to the world.
+
+407
+00:32:52,748 --> 00:33:08,315
+[SPEAKER_03]: And while you're doing that, also do... Because by that time, there will be absolutely no obstruction or misconception left, as we started this talk with, in regard to what the body is, what the phenomenon of the body is, what the phenomenon of the feeling is, intentions, mind.
+
+408
+00:33:09,135 --> 00:33:16,078
+[SPEAKER_03]: It would have all been cleared and clarified and endured sufficiently for you to become very familiar with its nature.
+
+409
+00:33:26,553 --> 00:33:27,093
+[SPEAKER_03]: Yeah, exactly.
+
+410
+00:33:27,854 --> 00:33:29,655
+[SPEAKER_01]: Make it your vehicle.
+
+411
+00:33:29,675 --> 00:33:32,616
+[SPEAKER_03]: You travel around with that theme.
+
+412
+00:33:32,836 --> 00:33:40,720
+[SPEAKER_03]: But the thing is, again, it's not just a theme on the level of, oh, yeah, I can understand what the description of what is body, for what it is, its nature.
+
+413
+00:33:40,760 --> 00:33:40,960
+[SPEAKER_03]: No, no.
+
+414
+00:33:41,000 --> 00:33:42,101
+[SPEAKER_03]: It's seeing that.
+
+415
+00:33:42,641 --> 00:33:44,302
+[SPEAKER_03]: It started as an external instruction.
+
+416
+00:33:45,282 --> 00:33:48,344
+[SPEAKER_03]: You know, the unknown ability, what body is subjected to.
+
+417
+00:33:48,364 --> 00:33:50,225
+[SPEAKER_03]: It's like positioning this world.
+
+418
+00:33:50,645 --> 00:33:52,966
+[SPEAKER_03]: Seeing that, when you look at this body, that's what you see.
+
+419
+00:33:55,196 --> 00:34:01,479
+[SPEAKER_03]: So, it's a direct recognition of what you learned from before through the mind development described that precedes it all.
+
+420
+00:34:04,260 --> 00:34:09,182
+[SPEAKER_03]: So, you're not just applying these abstract notions of impermanence and anicca and so on.
+
+421
+00:34:09,202 --> 00:34:14,944
+[SPEAKER_03]: They will somehow permeate these things and dissolve the roots of greed, aversion and delusion.
+
+422
+00:34:15,384 --> 00:34:16,285
+[SPEAKER_03]: No, no, no.
+
+423
+00:34:16,305 --> 00:34:17,145
+[SPEAKER_03]: You need to pull them out.
+
+424
+00:34:17,165 --> 00:34:17,905
+[SPEAKER_03]: You need to find them.
+
+425
+00:34:18,906 --> 00:34:19,526
+[SPEAKER_03]: Cut for them.
+
+426
+00:34:19,646 --> 00:34:20,106
+[SPEAKER_03]: Find them.
+
+427
+00:34:21,227 --> 00:34:22,027
+[SPEAKER_03]: Take them all out.
+
+428
+00:34:24,527 --> 00:34:25,607
+[SPEAKER_03]: One by one, basically.
+
+429
+00:34:27,668 --> 00:34:42,933
+[SPEAKER_03]: Until all the work's done, and then we can rest.
+
+430
+00:34:42,953 --> 00:34:50,156
+[SPEAKER_01]: So, the sutta ends by saying, when bhikkhu, this composure, this samādhi has been developed,
+
+431
+00:34:51,350 --> 00:34:52,192
+[SPEAKER_01]: Well developed by you.
+
+432
+00:34:52,793 --> 00:35:00,765
+[SPEAKER_01]: Then, whenever you walk, you will walk at ease, wherever you stand, sit or lie down, you will lie down at ease.
+
+433
+00:35:04,130 --> 00:35:04,831
+[SPEAKER_01]: No more problems.
+
+434
+00:35:05,052 --> 00:35:05,653
+[SPEAKER_01]: No more problems.
+
