@@ -67,7 +67,7 @@
                       "how one attains the right view" ,
                       "what is feeling" ,
                 ] ,
-    speaker       : "nm",
+    speaker       : "nm" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/5" ,
   } ,
 
@@ -85,7 +85,7 @@
                       "the universal context of death" ,
                       "on the nature of action" ,
                 ] ,
-    speaker       : "nm",
+    speaker       : "nm" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/7" ,
   } ,
 
@@ -106,7 +106,7 @@
                       "resisting the feeling" ,
                       "concrete thinking vs abstract thinking" ,
                 ] ,
-    speaker       : "nm",
+    speaker       : "nm" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/6" ,
   } ,
 
@@ -120,7 +120,7 @@
                       "sense restrain uncover the pain of sensual desires" ,
                       "desire arises from the basis of non satisfaction" ,
                 ] ,
-    speaker       : "nm",
+    speaker       : "nm" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/8" ,
   } ,
 
@@ -139,16 +139,41 @@
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/4" ,
   } ,
 
-  "WNotZXYWV-0"   : {
+  "WNotZXYWV-0"   :  {
     title         : "Why did the Buddha say ＂Sensuality＂ to be an Assumption？ ｜ Hillside Hermitage" ,
     date          : "2019-09-07 06:45:00" ,
+    duration      : "01:00:51" ,
+    tags          : [
+                      "assumption" ,
+                      "assumption preceeds the act of making it mine" ,
+                      "the pain of sensuality is the motivation of sensuality" ,
+                      "the pleasure of sensuality is contained within the pain of sensuality" ,
+                      "the delight of getting rid of the pain of sensuality through engaging with it is what gratification is" ,
+                      "delight in sensuality is a symptom of the assumption" ,
+                      "things always converge in feelings" ,
+                      "undoing assumption by understanding through staying with the pain" ,
+                      "the nature of assuming external in all assumptions" ,
+                ] ,
     speaker       : "nm" ,
-    tags          : [ "TODO"
-    ]
-    issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/12" ,
+    issue         : "TODO" ,
   } ,
 
-  "t6Q94MYr3Qc"   : "TODO" ,
+  "t6Q94MYr3Qc"   :  {
+    title         : "Sense Pleasures Make You An Addict" ,
+    date          : "2020-04-25 08:30:08" ,
+    duration      : "00:23:40" ,
+    tags          : [
+                      "sensuality is the valuing of sense pleasures" ,
+                      "right view can arise only after having universally abandoned sensuality" ,
+                      "sensual pleasures make you an addict" ,
+                      "universally accepting the unadulterated pain of withdrawal, even if it were to last forever, is the first step for abandoning sensuality " ,
+                      "hoping for the pain of the withdrawal to go away is already wrong view" ,
+                      "the extent of gratification is the extent of what is valuable in sensuality for you" ,
+                      "sensuality is racketeering" ,
+                ] ,
+    speaker       : "nm" ,
+    issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/17" ,
+  } ,
 
 
   "1XMDbO8JLvo"   :  {
@@ -161,7 +186,7 @@
                       "thoughts and signs of the mind as symptoms of the underlying problem" ,
                       "developing the right view by undoing the wrong view" ,
                 ] ,
-    speaker       : "nm",
+    speaker       : "nm" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/9" ,
   } ,
 
@@ -182,7 +207,7 @@
                       "the proper ways to communicate with citta" ,
                       "internal and external body" ,
                 ] ,
-    speaker       : "nm",
+    speaker       : "nm" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/10" ,
   } ,
 
@@ -201,14 +226,14 @@
                       "center of stage" ,
                       "guarding the sense doors" ,
                       "māra's hook" ,
-                      "gradual training, from gross to subtle" ,
+                      "gradual training , from gross to subtle" ,
                       "doing the wrong thing vs not doing the wrong thing more right vs not doing the wrong thing less right" ,
                       "the difference between acting out of vs properly enduring at the right level" ,
                       "not so gross wrong views" ,
                       "proper meditating vs following mechanical method" ,
                       "internal and external" ,
                 ] ,
-    speaker       : "nm",
+    speaker       : "nm" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/11" ,
   } ,
 
@@ -228,7 +253,7 @@
                       "being distracted vs spilling too much" ,
                       "it's already there" ,
                 ] ,
-    speaker       : "ng",
+    speaker       : "ng" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/12" ,
   } ,
 
@@ -246,7 +271,7 @@
                       "include that in the context" ,
                       "death contemplation" ,
                 ] ,
-    speaker       : "ng",
+    speaker       : "ng" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/13" ,
   } ,
 
@@ -265,7 +290,7 @@
                       "why unwholesomeness is always a problem" ,
                       "why virtue is not negotiable" ,
                 ] ,
-    speaker       : "ps",
+    speaker       : "ps" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/14" ,
   } ,
 
@@ -285,7 +310,7 @@
                       "there is space for acting under the presence of pressure" ,
                       "mindfulness" ,
                 ] ,
-    speaker       : "ps",
+    speaker       : "ps" ,
     issue         : "https://github.com/meshinthesky/hillsidehermitage_subtitles/issues/15" ,
   } ,
 
